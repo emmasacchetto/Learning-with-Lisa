@@ -1,0 +1,6 @@
+{
+  "name": "Lisa's Quest",
+  "description": "Language learning application",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
