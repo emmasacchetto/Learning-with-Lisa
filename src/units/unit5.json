@@ -1,0 +1,6696 @@
+{
+  "unit": "Unid. 5: Sport",
+  "source": "I Succeed in English 2 Studentsbook and Workbook",
+  "year": "2026",
+  "DIALOGUES": [
+    {
+      "id": "u5_func_sports_club",
+      "category": "Sports club - Meeting someone",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Hi! What's your favourite sport?",
+          "spa": "¡Hola! ¿Cuál es tu deporte favorito?",
+          "emoji": "👋"
+        },
+        {
+          "speaker": "B",
+          "eng": "My favourite sport is basketball.",
+          "spa": "Mi deporte favorito es el básquet.",
+          "emoji": "🏀"
+        },
+        {
+          "speaker": "A",
+          "eng": "Can you play well?",
+          "spa": "¿Juegas bien?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I can. I play twice a week.",
+          "spa": "Sí. Juego dos veces por semana.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Where do you play?",
+          "spa": "¿Dónde juegas?",
+          "emoji": "📍"
+        },
+        {
+          "speaker": "B",
+          "eng": "At the local sports centre.",
+          "spa": "En el centro deportivo local.",
+          "emoji": "🏟️"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_can_ability",
+      "category": "Can for ability",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Can you swim?",
+          "spa": "¿Sabes nadar?",
+          "emoji": "🏊"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I can. I can swim quite fast.",
+          "spa": "Sí. Puedo nadar bastante rápido.",
+          "emoji": "💨"
+        },
+        {
+          "speaker": "A",
+          "eng": "Can your sister swim?",
+          "spa": "¿Tu hermana sabe nadar?",
+          "emoji": "👧"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, she can't, but she can run very well.",
+          "spa": "No, pero puede correr muy bien.",
+          "emoji": "🏃"
+        },
+        {
+          "speaker": "A",
+          "eng": "Can she play tennis?",
+          "spa": "¿Puede jugar al tenis?",
+          "emoji": "🎾"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, she can.",
+          "spa": "Sí.",
+          "emoji": "✅"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_permission",
+      "category": "Can for permission",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Can I use your tennis racket?",
+          "spa": "¿Puedo usar tu raqueta de tenis?",
+          "emoji": "🎾"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, you can.",
+          "spa": "Sí, puedes.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Can I open the sports hall door?",
+          "spa": "¿Puedo abrir la puerta del gimnasio?",
+          "emoji": "🚪"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, you can't. The coach has the key.",
+          "spa": "No. El entrenador tiene la llave.",
+          "emoji": "🔑"
+        },
+        {
+          "speaker": "A",
+          "eng": "Can we play outside?",
+          "spa": "¿Podemos jugar afuera?",
+          "emoji": "🌳"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, of course.",
+          "spa": "Sí, por supuesto.",
+          "emoji": "😊"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_picnic",
+      "category": "Likes and dislikes - Picnic",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "I love having picnics.",
+          "spa": "Me encanta hacer pícnics.",
+          "emoji": "🧺"
+        },
+        {
+          "speaker": "B",
+          "eng": "Me too! Do you like making sandwiches?",
+          "spa": "¡A mí también! ¿Te gusta preparar sándwiches?",
+          "emoji": "🥪"
+        },
+        {
+          "speaker": "A",
+          "eng": "Yes, I do, but I can't stand cutting onions.",
+          "spa": "Sí, pero no soporto cortar cebollas.",
+          "emoji": "🧅"
+        },
+        {
+          "speaker": "B",
+          "eng": "I hate cutting onions, too.",
+          "spa": "Yo también odio cortar cebollas.",
+          "emoji": "😖"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do you like doing after lunch?",
+          "spa": "¿Qué te gusta hacer después de almorzar?",
+          "emoji": "🌳"
+        },
+        {
+          "speaker": "B",
+          "eng": "I like taking photos.",
+          "spa": "Me gusta sacar fotos.",
+          "emoji": "📷"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_opinions",
+      "category": "Asking for and giving opinions",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Do you like skateboarding?",
+          "spa": "¿Te gusta andar en skate?",
+          "emoji": "🛹"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I do. I think it's exciting.",
+          "spa": "Sí. Creo que es emocionante.",
+          "emoji": "🤩"
+        },
+        {
+          "speaker": "A",
+          "eng": "How do you feel about skiing?",
+          "spa": "¿Qué opinas del esquí?",
+          "emoji": "⛷️"
+        },
+        {
+          "speaker": "B",
+          "eng": "To be honest, I think it's a little scary.",
+          "spa": "Para ser sincero/a, creo que da un poco de miedo.",
+          "emoji": "😬"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do you think about tennis?",
+          "spa": "¿Qué piensas del tenis?",
+          "emoji": "🎾"
+        },
+        {
+          "speaker": "B",
+          "eng": "In my opinion, it's fantastic.",
+          "spa": "En mi opinión, es fantástico.",
+          "emoji": "⭐"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_disagree",
+      "category": "Giving opinions - Agreeing and disagreeing",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Football is boring.",
+          "spa": "El fútbol es aburrido.",
+          "emoji": "⚽"
+        },
+        {
+          "speaker": "B",
+          "eng": "I don't think so. I love it!",
+          "spa": "No lo creo. ¡Me encanta!",
+          "emoji": "❤️"
+        },
+        {
+          "speaker": "A",
+          "eng": "Rugby is a very violent sport.",
+          "spa": "El rugby es un deporte muy violento.",
+          "emoji": "🏉"
+        },
+        {
+          "speaker": "B",
+          "eng": "That's not always true.",
+          "spa": "Eso no siempre es cierto.",
+          "emoji": "🤔"
+        },
+        {
+          "speaker": "A",
+          "eng": "What about cycling?",
+          "spa": "¿Y el ciclismo?",
+          "emoji": "🚴"
+        },
+        {
+          "speaker": "B",
+          "eng": "That's great. I think it's fun.",
+          "spa": "Eso está genial. Creo que es divertido.",
+          "emoji": "😊"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_skills_trainer",
+      "category": "Skills trainer - Sports questions",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What's your favourite sport?",
+          "spa": "¿Cuál es tu deporte favorito?",
+          "emoji": "🏅"
+        },
+        {
+          "speaker": "B",
+          "eng": "My favourite sport is swimming.",
+          "spa": "Mi deporte favorito es la natación.",
+          "emoji": "🏊"
+        },
+        {
+          "speaker": "A",
+          "eng": "How often do you swim?",
+          "spa": "¿Con qué frecuencia nadas?",
+          "emoji": "🔁"
+        },
+        {
+          "speaker": "B",
+          "eng": "Three times a week.",
+          "spa": "Tres veces por semana.",
+          "emoji": "3️⃣"
+        },
+        {
+          "speaker": "A",
+          "eng": "Where do you swim?",
+          "spa": "¿Dónde nadas?",
+          "emoji": "📍"
+        },
+        {
+          "speaker": "B",
+          "eng": "At the sports centre.",
+          "spa": "En el centro deportivo.",
+          "emoji": "🏟️"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do your friends like swimming?",
+          "spa": "¿A tus amigos les gusta nadar?",
+          "emoji": "👥"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, they do.",
+          "spa": "Sí.",
+          "emoji": "✅"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_sports_cafe",
+      "category": "Culture and skills - Sports café",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Can we watch the match here?",
+          "spa": "¿Podemos ver el partido aquí?",
+          "emoji": "📺"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes. The sports café shows it at four.",
+          "spa": "Sí. El café deportivo lo transmite a las cuatro.",
+          "emoji": "☕"
+        },
+        {
+          "speaker": "A",
+          "eng": "Great! Is there a table free?",
+          "spa": "¡Genial! ¿Hay una mesa libre?",
+          "emoji": "🪑"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, over there.",
+          "spa": "Sí, allí.",
+          "emoji": "👉"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you think our team can win?",
+          "spa": "¿Crees que nuestro equipo puede ganar?",
+          "emoji": "🏆"
+        },
+        {
+          "speaker": "B",
+          "eng": "I hope so!",
+          "spa": "¡Eso espero!",
+          "emoji": "🤞"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_sporting_hero",
+      "category": "Sporting hero - Fact file",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Who's your sporting hero?",
+          "spa": "¿Quién es tu héroe o heroína deportiva?",
+          "emoji": "🏅"
+        },
+        {
+          "speaker": "B",
+          "eng": "My sporting hero is a young swimmer from my country.",
+          "spa": "Mi heroína deportiva es una joven nadadora de mi país.",
+          "emoji": "🏊"
+        },
+        {
+          "speaker": "A",
+          "eng": "What can she do well?",
+          "spa": "¿Qué sabe hacer bien?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "B",
+          "eng": "She can swim very fast and she can train carefully.",
+          "spa": "Puede nadar muy rápido y entrenar cuidadosamente.",
+          "emoji": "💨"
+        },
+        {
+          "speaker": "A",
+          "eng": "Why do you admire her?",
+          "spa": "¿Por qué la admiras?",
+          "emoji": "⭐"
+        },
+        {
+          "speaker": "B",
+          "eng": "Because she works hard and helps young athletes.",
+          "spa": "Porque trabaja mucho y ayuda a deportistas jóvenes.",
+          "emoji": "🤝"
+        }
+      ]
+    },
+    {
+      "id": "u5_func_unusual_hobby",
+      "category": "Culture and skills - Unusual hobby",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What do you do in your free time?",
+          "spa": "¿Qué haces en tu tiempo libre?",
+          "emoji": "⏰"
+        },
+        {
+          "speaker": "B",
+          "eng": "I make small sculptures from soap.",
+          "spa": "Hago pequeñas esculturas de jabón.",
+          "emoji": "🧼"
+        },
+        {
+          "speaker": "A",
+          "eng": "Can you make them quickly?",
+          "spa": "¿Puedes hacerlas rápidamente?",
+          "emoji": "⚡"
+        },
+        {
+          "speaker": "B",
+          "eng": "No. You need a lot of patience.",
+          "spa": "No. Se necesita mucha paciencia.",
+          "emoji": "🧘"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you enjoy it?",
+          "spa": "¿Lo disfrutas?",
+          "emoji": "😊"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I do. I love making unusual things.",
+          "spa": "Sí. Me encanta hacer cosas poco comunes.",
+          "emoji": "✨"
+        }
+      ]
+    }
+  ],
+  "GRAMMAR_QUIZZES": [
+    {
+      "id": "u5_gq001",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Athletics\"?",
+      "options": [
+        "Atletismo",
+        "Ciclismo",
+        "Karate"
+      ],
+      "correctAnswer": "Atletismo",
+      "emoji": "🏃",
+      "spa": "Atletismo",
+      "optionsLang": "es",
+      "eng": "Athletics",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq002",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Basketball\"?",
+      "options": [
+        "Básquet",
+        "Fútbol",
+        "Rugby"
+      ],
+      "correctAnswer": "Básquet",
+      "emoji": "🏀",
+      "spa": "Básquet",
+      "optionsLang": "es",
+      "eng": "Basketball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq003",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Cricket\"?",
+      "options": [
+        "Críquet",
+        "Gimnasia",
+        "Skate / skateboarding"
+      ],
+      "correctAnswer": "Críquet",
+      "emoji": "🏏",
+      "spa": "Críquet",
+      "optionsLang": "es",
+      "eng": "Cricket",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq004",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Cycling\"?",
+      "options": [
+        "Ciclismo",
+        "Hockey",
+        "Esquí"
+      ],
+      "correctAnswer": "Ciclismo",
+      "emoji": "🚴",
+      "spa": "Ciclismo",
+      "optionsLang": "es",
+      "eng": "Cycling",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq005",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Football\"?",
+      "options": [
+        "Fútbol",
+        "Karate",
+        "Natación"
+      ],
+      "correctAnswer": "Fútbol",
+      "emoji": "⚽",
+      "spa": "Fútbol",
+      "optionsLang": "es",
+      "eng": "Football",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq006",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Gymnastics\"?",
+      "options": [
+        "Gimnasia",
+        "Rugby",
+        "Tenis"
+      ],
+      "correctAnswer": "Gimnasia",
+      "emoji": "🤸",
+      "spa": "Gimnasia",
+      "optionsLang": "es",
+      "eng": "Gymnastics",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq007",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Hockey\"?",
+      "options": [
+        "Hockey",
+        "Skate / skateboarding",
+        "Vóley"
+      ],
+      "correctAnswer": "Hockey",
+      "emoji": "🏑",
+      "spa": "Hockey",
+      "optionsLang": "es",
+      "eng": "Hockey",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq008",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Karate\"?",
+      "options": [
+        "Karate",
+        "Esquí",
+        "Atletismo"
+      ],
+      "correctAnswer": "Karate",
+      "emoji": "🥋",
+      "spa": "Karate",
+      "optionsLang": "es",
+      "eng": "Karate",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq009",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Rugby\"?",
+      "options": [
+        "Rugby",
+        "Natación",
+        "Básquet"
+      ],
+      "correctAnswer": "Rugby",
+      "emoji": "🏉",
+      "spa": "Rugby",
+      "optionsLang": "es",
+      "eng": "Rugby",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq010",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Skateboarding\"?",
+      "options": [
+        "Skate / skateboarding",
+        "Tenis",
+        "Críquet"
+      ],
+      "correctAnswer": "Skate / skateboarding",
+      "emoji": "🛹",
+      "spa": "Skate / skateboarding",
+      "optionsLang": "es",
+      "eng": "Skateboarding",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq011",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Skiing\"?",
+      "options": [
+        "Esquí",
+        "Vóley",
+        "Ciclismo"
+      ],
+      "correctAnswer": "Esquí",
+      "emoji": "⛷️",
+      "spa": "Esquí",
+      "optionsLang": "es",
+      "eng": "Skiing",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq012",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Swimming\"?",
+      "options": [
+        "Natación",
+        "Atletismo",
+        "Fútbol"
+      ],
+      "correctAnswer": "Natación",
+      "emoji": "🏊",
+      "spa": "Natación",
+      "optionsLang": "es",
+      "eng": "Swimming",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq013",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Tennis\"?",
+      "options": [
+        "Tenis",
+        "Básquet",
+        "Gimnasia"
+      ],
+      "correctAnswer": "Tenis",
+      "emoji": "🎾",
+      "spa": "Tenis",
+      "optionsLang": "es",
+      "eng": "Tennis",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq014",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Volleyball\"?",
+      "options": [
+        "Vóley",
+        "Críquet",
+        "Hockey"
+      ],
+      "correctAnswer": "Vóley",
+      "emoji": "🏐",
+      "spa": "Vóley",
+      "optionsLang": "es",
+      "eng": "Volleyball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq015",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Atletismo\" en inglés?",
+      "options": [
+        "Athletics",
+        "Cricket",
+        "Gymnastics"
+      ],
+      "correctAnswer": "Athletics",
+      "emoji": "🏃",
+      "spa": "Atletismo",
+      "optionsLang": "en",
+      "eng": "Athletics",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq016",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Básquet\" en inglés?",
+      "options": [
+        "Basketball",
+        "Cycling",
+        "Hockey"
+      ],
+      "correctAnswer": "Basketball",
+      "emoji": "🏀",
+      "spa": "Básquet",
+      "optionsLang": "en",
+      "eng": "Basketball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq017",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Críquet\" en inglés?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Karate"
+      ],
+      "correctAnswer": "Cricket",
+      "emoji": "🏏",
+      "spa": "Críquet",
+      "optionsLang": "en",
+      "eng": "Cricket",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq018",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Ciclismo\" en inglés?",
+      "options": [
+        "Cycling",
+        "Gymnastics",
+        "Rugby"
+      ],
+      "correctAnswer": "Cycling",
+      "emoji": "🚴",
+      "spa": "Ciclismo",
+      "optionsLang": "en",
+      "eng": "Cycling",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq019",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Fútbol\" en inglés?",
+      "options": [
+        "Football",
+        "Hockey",
+        "Skateboarding"
+      ],
+      "correctAnswer": "Football",
+      "emoji": "⚽",
+      "spa": "Fútbol",
+      "optionsLang": "en",
+      "eng": "Football",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq020",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Gimnasia\" en inglés?",
+      "options": [
+        "Gymnastics",
+        "Karate",
+        "Skiing"
+      ],
+      "correctAnswer": "Gymnastics",
+      "emoji": "🤸",
+      "spa": "Gimnasia",
+      "optionsLang": "en",
+      "eng": "Gymnastics",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq021",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Hockey\" en inglés?",
+      "options": [
+        "Hockey",
+        "Rugby",
+        "Swimming"
+      ],
+      "correctAnswer": "Hockey",
+      "emoji": "🏑",
+      "spa": "Hockey",
+      "optionsLang": "en",
+      "eng": "Hockey",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq022",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Karate\" en inglés?",
+      "options": [
+        "Karate",
+        "Skateboarding",
+        "Tennis"
+      ],
+      "correctAnswer": "Karate",
+      "emoji": "🥋",
+      "spa": "Karate",
+      "optionsLang": "en",
+      "eng": "Karate",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq023",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Rugby\" en inglés?",
+      "options": [
+        "Rugby",
+        "Skiing",
+        "Volleyball"
+      ],
+      "correctAnswer": "Rugby",
+      "emoji": "🏉",
+      "spa": "Rugby",
+      "optionsLang": "en",
+      "eng": "Rugby",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq024",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Skate / skateboarding\" en inglés?",
+      "options": [
+        "Skateboarding",
+        "Swimming",
+        "Athletics"
+      ],
+      "correctAnswer": "Skateboarding",
+      "emoji": "🛹",
+      "spa": "Skate / skateboarding",
+      "optionsLang": "en",
+      "eng": "Skateboarding",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq025",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Esquí\" en inglés?",
+      "options": [
+        "Skiing",
+        "Tennis",
+        "Basketball"
+      ],
+      "correctAnswer": "Skiing",
+      "emoji": "⛷️",
+      "spa": "Esquí",
+      "optionsLang": "en",
+      "eng": "Skiing",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq026",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Natación\" en inglés?",
+      "options": [
+        "Swimming",
+        "Volleyball",
+        "Cricket"
+      ],
+      "correctAnswer": "Swimming",
+      "emoji": "🏊",
+      "spa": "Natación",
+      "optionsLang": "en",
+      "eng": "Swimming",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq027",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Tenis\" en inglés?",
+      "options": [
+        "Tennis",
+        "Athletics",
+        "Cycling"
+      ],
+      "correctAnswer": "Tennis",
+      "emoji": "🎾",
+      "spa": "Tenis",
+      "optionsLang": "en",
+      "eng": "Tennis",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq028",
+      "category": "Sports and Free Time",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Vóley\" en inglés?",
+      "options": [
+        "Volleyball",
+        "Basketball",
+        "Football"
+      ],
+      "correctAnswer": "Volleyball",
+      "emoji": "🏐",
+      "spa": "Vóley",
+      "optionsLang": "en",
+      "eng": "Volleyball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq029",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ basketball.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏅",
+      "spa": "Se dice play basketball.",
+      "optionsLang": "en",
+      "eng": "play basketball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq030",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ cricket.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏅",
+      "spa": "Se dice play cricket.",
+      "optionsLang": "en",
+      "eng": "play cricket",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq031",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ football.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏅",
+      "spa": "Se dice play football.",
+      "optionsLang": "en",
+      "eng": "play football",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq032",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ hockey.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏅",
+      "spa": "Se dice play hockey.",
+      "optionsLang": "en",
+      "eng": "play hockey",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq033",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ rugby.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏅",
+      "spa": "Se dice play rugby.",
+      "optionsLang": "en",
+      "eng": "play rugby",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq034",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ tennis.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏅",
+      "spa": "Se dice play tennis.",
+      "optionsLang": "en",
+      "eng": "play tennis",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq035",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ volleyball.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏅",
+      "spa": "Se dice play volleyball.",
+      "optionsLang": "en",
+      "eng": "play volleyball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq036",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ cycling.",
+      "options": [
+        "go",
+        "play",
+        "do"
+      ],
+      "correctAnswer": "go",
+      "emoji": "🏅",
+      "spa": "Se dice go cycling.",
+      "optionsLang": "en",
+      "eng": "go cycling",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq037",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ skateboarding.",
+      "options": [
+        "go",
+        "play",
+        "do"
+      ],
+      "correctAnswer": "go",
+      "emoji": "🏅",
+      "spa": "Se dice go skateboarding.",
+      "optionsLang": "en",
+      "eng": "go skateboarding",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq038",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ skiing.",
+      "options": [
+        "go",
+        "play",
+        "do"
+      ],
+      "correctAnswer": "go",
+      "emoji": "🏅",
+      "spa": "Se dice go skiing.",
+      "optionsLang": "en",
+      "eng": "go skiing",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq039",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ swimming.",
+      "options": [
+        "go",
+        "play",
+        "do"
+      ],
+      "correctAnswer": "go",
+      "emoji": "🏅",
+      "spa": "Se dice go swimming.",
+      "optionsLang": "en",
+      "eng": "go swimming",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq040",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ athletics.",
+      "options": [
+        "do",
+        "play",
+        "go"
+      ],
+      "correctAnswer": "do",
+      "emoji": "🏅",
+      "spa": "Se dice do athletics.",
+      "optionsLang": "en",
+      "eng": "do athletics",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq041",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ gymnastics.",
+      "options": [
+        "do",
+        "play",
+        "go"
+      ],
+      "correctAnswer": "do",
+      "emoji": "🏅",
+      "spa": "Se dice do gymnastics.",
+      "optionsLang": "en",
+      "eng": "do gymnastics",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq042",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: ___ karate.",
+      "options": [
+        "do",
+        "play",
+        "go"
+      ],
+      "correctAnswer": "do",
+      "emoji": "🏅",
+      "spa": "Se dice do karate.",
+      "optionsLang": "en",
+      "eng": "do karate",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq043",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué regla suele ayudar con deportes de pelota y equipo?",
+      "options": [
+        "Use play",
+        "Use go",
+        "Use do only"
+      ],
+      "correctAnswer": "Use play",
+      "emoji": "⚽",
+      "spa": "Muchos deportes de pelota usan play.",
+      "optionsLang": "en",
+      "eng": "Many ball and team sports use play.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq044",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué regla suele ayudar con deportes terminados en -ing?",
+      "options": [
+        "Use go",
+        "Use play",
+        "Use is"
+      ],
+      "correctAnswer": "Use go",
+      "emoji": "🚴",
+      "spa": "Muchos deportes terminados en -ing usan go.",
+      "optionsLang": "en",
+      "eng": "Many -ing sports use go.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq045",
+      "category": "Sports Collocations",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué verbo suele usarse con athletics y karate?",
+      "options": [
+        "do",
+        "play",
+        "go"
+      ],
+      "correctAnswer": "do",
+      "emoji": "🥋",
+      "spa": "Se usa do con athletics y karate.",
+      "optionsLang": "en",
+      "eng": "Use do with athletics and karate.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq046",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Basketball is usually a ___.",
+      "options": [
+        "team sport",
+        "individual sport",
+        "school subject"
+      ],
+      "correctAnswer": "team sport",
+      "emoji": "🏀",
+      "spa": "El básquet suele ser un deporte de equipo.",
+      "optionsLang": "en",
+      "eng": "Basketball is usually a team sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq047",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Football is usually a ___.",
+      "options": [
+        "team sport",
+        "individual sport",
+        "drink"
+      ],
+      "correctAnswer": "team sport",
+      "emoji": "⚽",
+      "spa": "El fútbol suele ser un deporte de equipo.",
+      "optionsLang": "en",
+      "eng": "Football is usually a team sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq048",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Rugby is a ___.",
+      "options": [
+        "team sport",
+        "individual sport",
+        "musical instrument"
+      ],
+      "correctAnswer": "team sport",
+      "emoji": "🏉",
+      "spa": "El rugby es un deporte de equipo.",
+      "optionsLang": "en",
+      "eng": "Rugby is a team sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq049",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Volleyball is a ___.",
+      "options": [
+        "team sport",
+        "individual sport",
+        "room"
+      ],
+      "correctAnswer": "team sport",
+      "emoji": "🏐",
+      "spa": "El vóley es un deporte de equipo.",
+      "optionsLang": "en",
+      "eng": "Volleyball is a team sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq050",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Athletics can include many ___.",
+      "options": [
+        "individual events",
+        "kitchen activities",
+        "food groups"
+      ],
+      "correctAnswer": "individual events",
+      "emoji": "🏃",
+      "spa": "El atletismo puede incluir pruebas individuales.",
+      "optionsLang": "en",
+      "eng": "Athletics can include individual events.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq051",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Gymnastics is often an ___.",
+      "options": [
+        "individual sport",
+        "team ball sport",
+        "drink"
+      ],
+      "correctAnswer": "individual sport",
+      "emoji": "🤸",
+      "spa": "La gimnasia suele practicarse como deporte individual.",
+      "optionsLang": "en",
+      "eng": "Gymnastics is often an individual sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq052",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Karate is often an ___.",
+      "options": [
+        "individual sport",
+        "team ball sport",
+        "meal"
+      ],
+      "correctAnswer": "individual sport",
+      "emoji": "🥋",
+      "spa": "El karate suele ser individual.",
+      "optionsLang": "en",
+      "eng": "Karate is often an individual sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq053",
+      "category": "Team and Individual Sports",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Cycling can be an ___.",
+      "options": [
+        "individual sport",
+        "school room",
+        "food"
+      ],
+      "correctAnswer": "individual sport",
+      "emoji": "🚴",
+      "spa": "El ciclismo puede ser un deporte individual.",
+      "optionsLang": "en",
+      "eng": "Cycling can be an individual sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq054",
+      "category": "Sports Schedule",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Dan ___ football on Mondays.",
+      "options": [
+        "plays",
+        "does",
+        "goes"
+      ],
+      "correctAnswer": "plays",
+      "emoji": "⚽",
+      "spa": "Dan juega al fútbol los lunes.",
+      "optionsLang": "en",
+      "eng": "Dan plays football on Mondays.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq055",
+      "category": "Sports Schedule",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: On Tuesdays, Dan ___ volleyball.",
+      "options": [
+        "plays",
+        "goes",
+        "does"
+      ],
+      "correctAnswer": "plays",
+      "emoji": "🏐",
+      "spa": "Los martes, Dan juega al vóley.",
+      "optionsLang": "en",
+      "eng": "On Tuesdays, Dan plays volleyball.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq056",
+      "category": "Sports Schedule",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: On Wednesday, Dan ___ rugby.",
+      "options": [
+        "plays",
+        "goes",
+        "does"
+      ],
+      "correctAnswer": "plays",
+      "emoji": "🏉",
+      "spa": "El miércoles, Dan juega al rugby.",
+      "optionsLang": "en",
+      "eng": "On Wednesday, Dan plays rugby.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq057",
+      "category": "Sports Schedule",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: On Thursday, Dan ___ gymnastics.",
+      "options": [
+        "does",
+        "plays",
+        "goes"
+      ],
+      "correctAnswer": "does",
+      "emoji": "🤸",
+      "spa": "El jueves, Dan hace gimnasia.",
+      "optionsLang": "en",
+      "eng": "On Thursday, Dan does gymnastics.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq058",
+      "category": "Sports Schedule",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: On Friday, Dan ___ skiing.",
+      "options": [
+        "goes",
+        "plays",
+        "does"
+      ],
+      "correctAnswer": "goes",
+      "emoji": "⛷️",
+      "spa": "El viernes, Dan esquía.",
+      "optionsLang": "en",
+      "eng": "On Friday, Dan goes skiing.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq059",
+      "category": "Sports Schedule",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: At the weekend, Dan ___ cycling.",
+      "options": [
+        "goes",
+        "plays",
+        "does"
+      ],
+      "correctAnswer": "goes",
+      "emoji": "🚴",
+      "spa": "El fin de semana, Dan practica ciclismo.",
+      "optionsLang": "en",
+      "eng": "At the weekend, Dan goes cycling.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq060",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I ___ play tennis.",
+      "options": [
+        "can",
+        "can to",
+        "cans"
+      ],
+      "correctAnswer": "can",
+      "emoji": "🎾",
+      "spa": "Puedo jugar al tenis.",
+      "optionsLang": "en",
+      "eng": "I can play tennis.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq061",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma negativa: I ___ play tennis.",
+      "options": [
+        "can't",
+        "don't can",
+        "can not to"
+      ],
+      "correctAnswer": "can't",
+      "emoji": "🎾",
+      "spa": "No puedo jugar al tenis.",
+      "optionsLang": "en",
+      "eng": "I can't play tennis.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq062",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: She ___ swim very well.",
+      "options": [
+        "can",
+        "cans",
+        "can to"
+      ],
+      "correctAnswer": "can",
+      "emoji": "🏊",
+      "spa": "Ella sabe nadar muy bien.",
+      "optionsLang": "en",
+      "eng": "She can swim very well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq063",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We ___ fly.",
+      "options": [
+        "can't",
+        "doesn't can",
+        "aren't can"
+      ],
+      "correctAnswer": "can't",
+      "emoji": "🪽",
+      "spa": "No podemos volar.",
+      "optionsLang": "en",
+      "eng": "We can't fly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq064",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ you play rugby?",
+      "options": [
+        "Can",
+        "Do can",
+        "Are can"
+      ],
+      "correctAnswer": "Can",
+      "emoji": "🏉",
+      "spa": "¿Puedes jugar al rugby?",
+      "optionsLang": "en",
+      "eng": "Can you play rugby?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq065",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ he do gymnastics?",
+      "options": [
+        "Can",
+        "Does can",
+        "Is can"
+      ],
+      "correctAnswer": "Can",
+      "emoji": "🤸",
+      "spa": "¿Él puede hacer gimnasia?",
+      "optionsLang": "en",
+      "eng": "Can he do gymnastics?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq066",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ they swim?",
+      "options": [
+        "Can",
+        "Do can",
+        "Are"
+      ],
+      "correctAnswer": "Can",
+      "emoji": "🏊",
+      "spa": "¿Pueden nadar?",
+      "optionsLang": "en",
+      "eng": "Can they swim?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq067",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta: Can you skate?",
+      "options": [
+        "Yes, I can.",
+        "Yes, I do can.",
+        "Yes, I am."
+      ],
+      "correctAnswer": "Yes, I can.",
+      "emoji": "🛹",
+      "spa": "Sí, puedo.",
+      "optionsLang": "en",
+      "eng": "Yes, I can.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq068",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta negativa: Can she ski?",
+      "options": [
+        "No, she can't.",
+        "No, she doesn't.",
+        "No, she isn't."
+      ],
+      "correctAnswer": "No, she can't.",
+      "emoji": "⛷️",
+      "spa": "No, no puede.",
+      "optionsLang": "en",
+      "eng": "No, she can't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq069",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta: Can they run fast?",
+      "options": [
+        "Yes, they can.",
+        "Yes, they are.",
+        "Yes, they do."
+      ],
+      "correctAnswer": "Yes, they can.",
+      "emoji": "🏃",
+      "spa": "Sí, pueden.",
+      "optionsLang": "en",
+      "eng": "Yes, they can.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq070",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Can I open the window? Yes, you ___.",
+      "options": [
+        "can",
+        "do",
+        "are"
+      ],
+      "correctAnswer": "can",
+      "emoji": "🪟",
+      "spa": "¿Puedo abrir la ventana? Sí.",
+      "optionsLang": "en",
+      "eng": "Can I open the window? Yes, you can.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq071",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Can we use the sports hall now? No, you ___.",
+      "options": [
+        "can't",
+        "don't",
+        "aren't"
+      ],
+      "correctAnswer": "can't",
+      "emoji": "🏟️",
+      "spa": "¿Podemos usar el gimnasio ahora? No.",
+      "optionsLang": "en",
+      "eng": "Can we use the sports hall now? No, you can't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq072",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Para pedir permiso, una pregunta correcta es:",
+      "options": [
+        "Can I use this ball?",
+        "I can this ball?",
+        "Do I can use this ball?"
+      ],
+      "correctAnswer": "Can I use this ball?",
+      "emoji": "⚽",
+      "spa": "¿Puedo usar esta pelota?",
+      "optionsLang": "en",
+      "eng": "Can I use this ball?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq073",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Después de can, el verbo va en:",
+      "options": [
+        "base form",
+        "-ing only",
+        "third-person -s"
+      ],
+      "correctAnswer": "base form",
+      "emoji": "📘",
+      "spa": "Después de can se usa la forma base.",
+      "optionsLang": "en",
+      "eng": "After can, use the base form.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq074",
+      "category": "Can for Ability and Permission",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Can cambia con he/she/it:",
+      "options": [
+        "No, it stays can.",
+        "Yes, it becomes cans.",
+        "It becomes does."
+      ],
+      "correctAnswer": "No, it stays can.",
+      "emoji": "📘",
+      "spa": "Can no cambia con he/she/it.",
+      "optionsLang": "en",
+      "eng": "Can does not change with he/she/it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq075",
+      "category": "Can - Story Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Can the robot do gymnastics?",
+      "options": [
+        "Yes, it can.",
+        "No, it can't."
+      ],
+      "correctAnswer": "Yes, it can.",
+      "emoji": "🤸",
+      "spa": "Sí, puede hacer gimnasia.",
+      "optionsLang": "en",
+      "eng": "The robot can do gymnastics.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq076",
+      "category": "Can - Story Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Can the human characters fly?",
+      "options": [
+        "No, they can't.",
+        "Yes, they can."
+      ],
+      "correctAnswer": "No, they can't.",
+      "emoji": "🪽",
+      "spa": "No, no pueden volar.",
+      "optionsLang": "en",
+      "eng": "Humans can't fly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq077",
+      "category": "Can - Story Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Can Ray play tennis?",
+      "options": [
+        "No, he can't.",
+        "Yes, he can."
+      ],
+      "correctAnswer": "No, he can't.",
+      "emoji": "🎾",
+      "spa": "No, Ray no puede jugar al tenis.",
+      "optionsLang": "en",
+      "eng": "Ray can't play tennis.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq078",
+      "category": "Can - Story Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Can the robot skateboard?",
+      "options": [
+        "Yes, it can.",
+        "No, it can't."
+      ],
+      "correctAnswer": "Yes, it can.",
+      "emoji": "🛹",
+      "spa": "Sí, puede andar en skate.",
+      "optionsLang": "en",
+      "eng": "The robot can skateboard.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq079",
+      "category": "Can - Story Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige una frase correcta sobre habilidad.",
+      "options": [
+        "She can do karate.",
+        "She can does karate.",
+        "She cans do karate."
+      ],
+      "correctAnswer": "She can do karate.",
+      "emoji": "🥋",
+      "spa": "Ella puede hacer karate.",
+      "optionsLang": "en",
+      "eng": "She can do karate.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq080",
+      "category": "Adjectives and Adverbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál es el adverbio relacionado con \"bad\"?",
+      "options": [
+        "badly",
+        "bad",
+        "more bad"
+      ],
+      "correctAnswer": "badly",
+      "emoji": "📝",
+      "spa": "bad → badly",
+      "optionsLang": "en",
+      "eng": "bad → badly",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq081",
+      "category": "Adjectives and Adverbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál es el adverbio relacionado con \"careful\"?",
+      "options": [
+        "carefully",
+        "careful",
+        "more careful"
+      ],
+      "correctAnswer": "carefully",
+      "emoji": "📝",
+      "spa": "careful → carefully",
+      "optionsLang": "en",
+      "eng": "careful → carefully",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq082",
+      "category": "Adjectives and Adverbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál es el adverbio relacionado con \"easy\"?",
+      "options": [
+        "easily",
+        "easy",
+        "more easy"
+      ],
+      "correctAnswer": "easily",
+      "emoji": "📝",
+      "spa": "easy → easily",
+      "optionsLang": "en",
+      "eng": "easy → easily",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq083",
+      "category": "Adjectives and Adverbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál es el adverbio relacionado con \"fast\"?",
+      "options": [
+        "fast",
+        "fast",
+        "more fast"
+      ],
+      "correctAnswer": "fast",
+      "emoji": "📝",
+      "spa": "fast → fast",
+      "optionsLang": "en",
+      "eng": "fast → fast",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq084",
+      "category": "Adjectives and Adverbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál es el adverbio relacionado con \"good\"?",
+      "options": [
+        "well",
+        "good",
+        "more good"
+      ],
+      "correctAnswer": "well",
+      "emoji": "📝",
+      "spa": "good → well",
+      "optionsLang": "en",
+      "eng": "good → well",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq085",
+      "category": "Adjectives and Adverbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál es el adverbio relacionado con \"happy\"?",
+      "options": [
+        "happily",
+        "happy",
+        "more happy"
+      ],
+      "correctAnswer": "happily",
+      "emoji": "📝",
+      "spa": "happy → happily",
+      "optionsLang": "en",
+      "eng": "happy → happily",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq086",
+      "category": "Adjectives and Adverbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál es el adverbio relacionado con \"slow\"?",
+      "options": [
+        "slowly",
+        "slow",
+        "more slow"
+      ],
+      "correctAnswer": "slowly",
+      "emoji": "📝",
+      "spa": "slow → slowly",
+      "optionsLang": "en",
+      "eng": "slow → slowly",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq087",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Jamie is a slow runner. Jamie runs ___.",
+      "options": [
+        "slowly",
+        "slow",
+        "slower noun"
+      ],
+      "correctAnswer": "slowly",
+      "emoji": "🏃",
+      "spa": "Jamie corre lentamente.",
+      "optionsLang": "en",
+      "eng": "Jamie runs slowly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq088",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Sally is a good swimmer. Sally swims ___.",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "correctAnswer": "well",
+      "emoji": "🏊",
+      "spa": "Sally nada bien.",
+      "optionsLang": "en",
+      "eng": "Sally swims well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq089",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Ava is a quick runner. Ava runs ___.",
+      "options": [
+        "quickly",
+        "quick",
+        "quickerly"
+      ],
+      "correctAnswer": "quickly",
+      "emoji": "🏃",
+      "spa": "Ava corre rápidamente.",
+      "optionsLang": "en",
+      "eng": "Ava runs quickly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq090",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Erin is a good swimmer. Erin swims ___.",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "correctAnswer": "well",
+      "emoji": "🏊",
+      "spa": "Erin nada bien.",
+      "optionsLang": "en",
+      "eng": "Erin swims well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq091",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Dan draws careful pictures. He draws ___.",
+      "options": [
+        "carefully",
+        "careful",
+        "care"
+      ],
+      "correctAnswer": "carefully",
+      "emoji": "🎨",
+      "spa": "Dibuja cuidadosamente.",
+      "optionsLang": "en",
+      "eng": "He draws carefully.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq092",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Ali can sing ___.",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "correctAnswer": "well",
+      "emoji": "🎤",
+      "spa": "Ali puede cantar bien.",
+      "optionsLang": "en",
+      "eng": "Ali can sing well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq093",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I do athletics ___.",
+      "options": [
+        "badly",
+        "bad",
+        "baddly"
+      ],
+      "correctAnswer": "badly",
+      "emoji": "🏃",
+      "spa": "Hago atletismo mal.",
+      "optionsLang": "en",
+      "eng": "I do athletics badly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq094",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Jack can run ___.",
+      "options": [
+        "fast",
+        "fastly",
+        "good"
+      ],
+      "correctAnswer": "fast",
+      "emoji": "🏃",
+      "spa": "Jack puede correr rápido.",
+      "optionsLang": "en",
+      "eng": "Jack can run fast.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq095",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Lily walks ___.",
+      "options": [
+        "slowly",
+        "slow",
+        "slowlily"
+      ],
+      "correctAnswer": "slowly",
+      "emoji": "🚶",
+      "spa": "Lily camina lentamente.",
+      "optionsLang": "en",
+      "eng": "Lily walks slowly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq096",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Mia often sings ___.",
+      "options": [
+        "happily",
+        "happy",
+        "happys"
+      ],
+      "correctAnswer": "happily",
+      "emoji": "🎤",
+      "spa": "Mia suele cantar felizmente.",
+      "optionsLang": "en",
+      "eng": "Mia often sings happily.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq097",
+      "category": "Adverbs of Manner",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Alfie can play tennis ___.",
+      "options": [
+        "well",
+        "good",
+        "careful"
+      ],
+      "correctAnswer": "well",
+      "emoji": "🎾",
+      "spa": "Alfie puede jugar al tenis bien.",
+      "optionsLang": "en",
+      "eng": "Alfie can play tennis well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq098",
+      "category": "Adverbs of Manner - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Aria can swim slowly.",
+        "Aria slowly swim can.",
+        "Can Aria slowly swimming."
+      ],
+      "correctAnswer": "Aria can swim slowly.",
+      "emoji": "🏊",
+      "spa": "Aria puede nadar lentamente.",
+      "optionsLang": "en",
+      "eng": "Aria can swim slowly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq099",
+      "category": "Adverbs of Manner - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Max can play volleyball well.",
+        "Max well volleyball can play.",
+        "Can Max volleyball plays well."
+      ],
+      "correctAnswer": "Max can play volleyball well.",
+      "emoji": "🏐",
+      "spa": "Max puede jugar al vóley bien.",
+      "optionsLang": "en",
+      "eng": "Max can play volleyball well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq100",
+      "category": "Adverbs of Manner - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Maria can run carefully between the bushes.",
+        "Maria carefully can runs bushes.",
+        "Can Maria careful run."
+      ],
+      "correctAnswer": "Maria can run carefully between the bushes.",
+      "emoji": "🏃",
+      "spa": "Maria puede correr cuidadosamente entre los arbustos.",
+      "optionsLang": "en",
+      "eng": "Maria can run carefully between the bushes.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq101",
+      "category": "Adverbs of Manner - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Ollie can run fast.",
+        "Ollie fast can runs.",
+        "Can Ollie running fastly."
+      ],
+      "correctAnswer": "Ollie can run fast.",
+      "emoji": "🏃",
+      "spa": "Ollie puede correr rápido.",
+      "optionsLang": "en",
+      "eng": "Ollie can run fast.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq102",
+      "category": "Adverbs of Manner - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Her homework is done happily.",
+        "Her happily homework done is.",
+        "Homework her happily is do."
+      ],
+      "correctAnswer": "Her homework is done happily.",
+      "emoji": "📝",
+      "spa": "Su tarea se hace alegremente.",
+      "optionsLang": "en",
+      "eng": "Her homework is done happily.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq103",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I love ___ football.",
+      "options": [
+        "playing",
+        "play",
+        "plays"
+      ],
+      "correctAnswer": "playing",
+      "emoji": "⚽",
+      "spa": "Me encanta jugar al fútbol.",
+      "optionsLang": "en",
+      "eng": "I love playing football.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq104",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I like ___ pizzas.",
+      "options": [
+        "eating",
+        "eat",
+        "eats"
+      ],
+      "correctAnswer": "eating",
+      "emoji": "🍕",
+      "spa": "Me gusta comer pizza.",
+      "optionsLang": "en",
+      "eng": "I like eating pizzas.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq105",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I can't stand ___ tomatoes.",
+      "options": [
+        "eating",
+        "eat",
+        "eats"
+      ],
+      "correctAnswer": "eating",
+      "emoji": "🍅",
+      "spa": "No soporto comer tomates.",
+      "optionsLang": "en",
+      "eng": "I can't stand eating tomatoes.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq106",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I hate ___ in the rain.",
+      "options": [
+        "jogging",
+        "jog",
+        "jogs"
+      ],
+      "correctAnswer": "jogging",
+      "emoji": "🌧️",
+      "spa": "Odio trotar bajo la lluvia.",
+      "optionsLang": "en",
+      "eng": "I hate jogging in the rain.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq107",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: She likes ___.",
+      "options": [
+        "skateboarding",
+        "skateboard",
+        "skateboards after like only"
+      ],
+      "correctAnswer": "skateboarding",
+      "emoji": "🛹",
+      "spa": "A ella le gusta andar en skate.",
+      "optionsLang": "en",
+      "eng": "She likes skateboarding.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq108",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: He can't stand ___ homework.",
+      "options": [
+        "doing",
+        "do",
+        "does"
+      ],
+      "correctAnswer": "doing",
+      "emoji": "📝",
+      "spa": "Él no soporta hacer la tarea.",
+      "optionsLang": "en",
+      "eng": "He can't stand doing homework.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq109",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We love ___ new friends.",
+      "options": [
+        "making",
+        "make",
+        "makes"
+      ],
+      "correctAnswer": "making",
+      "emoji": "🤝",
+      "spa": "Nos encanta hacer nuevos amigos.",
+      "optionsLang": "en",
+      "eng": "We love making new friends.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq110",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: They hate ___ nothing.",
+      "options": [
+        "doing",
+        "do",
+        "does"
+      ],
+      "correctAnswer": "doing",
+      "emoji": "🛋️",
+      "spa": "Odian no hacer nada.",
+      "optionsLang": "en",
+      "eng": "They hate doing nothing.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq111",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Después de love/like/hate/can't stand, para una actividad puede usarse:",
+      "options": [
+        "verb + -ing",
+        "can + infinitive only",
+        "past simple only"
+      ],
+      "correctAnswer": "verb + -ing",
+      "emoji": "📘",
+      "spa": "Se puede usar verbo + -ing.",
+      "optionsLang": "en",
+      "eng": "Use verb + -ing after love/like/hate/can't stand for activities.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq112",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la frase correcta.",
+      "options": [
+        "I like tennis.",
+        "I like tennising.",
+        "I like to tennis ball."
+      ],
+      "correctAnswer": "I like tennis.",
+      "emoji": "🎾",
+      "spa": "Me gusta el tenis.",
+      "optionsLang": "en",
+      "eng": "I like tennis.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq113",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la frase correcta.",
+      "options": [
+        "I love swimming.",
+        "I love swimingg.",
+        "I loves swimming."
+      ],
+      "correctAnswer": "I love swimming.",
+      "emoji": "🏊",
+      "spa": "Me encanta nadar.",
+      "optionsLang": "en",
+      "eng": "I love swimming.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq114",
+      "category": "Likes and Dislikes",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la frase correcta.",
+      "options": [
+        "She hates cycling.",
+        "She hate cycling.",
+        "She hates cycle."
+      ],
+      "correctAnswer": "She hates cycling.",
+      "emoji": "🚴",
+      "spa": "Ella odia andar en bicicleta.",
+      "optionsLang": "en",
+      "eng": "She hates cycling.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq115",
+      "category": "Pronunciation and -ing Forms",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué terminación aparece en 'swimming'?",
+      "options": [
+        "-ing",
+        "-ed",
+        "-s only"
+      ],
+      "correctAnswer": "-ing",
+      "emoji": "🗣️",
+      "spa": "Swimming termina en -ing.",
+      "optionsLang": "en",
+      "eng": "Swimming ends in -ing.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq116",
+      "category": "Pronunciation and -ing Forms",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuál tiene la misma terminación sonora que 'running'?",
+      "options": [
+        "cycling",
+        "run",
+        "sport"
+      ],
+      "correctAnswer": "cycling",
+      "emoji": "🗣️",
+      "spa": "Cycling también termina en -ing.",
+      "optionsLang": "en",
+      "eng": "Cycling also ends in -ing.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq117",
+      "category": "Pronunciation and -ing Forms",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuál es una forma -ing correcta?",
+      "options": [
+        "jogging",
+        "joging",
+        "jogges"
+      ],
+      "correctAnswer": "jogging",
+      "emoji": "🏃",
+      "spa": "Jogging lleva doble g.",
+      "optionsLang": "en",
+      "eng": "jogging",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq118",
+      "category": "Pronunciation and -ing Forms",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuál es una forma -ing correcta?",
+      "options": [
+        "swimming",
+        "swiming",
+        "swimsing"
+      ],
+      "correctAnswer": "swimming",
+      "emoji": "🏊",
+      "spa": "Swimming lleva doble m.",
+      "optionsLang": "en",
+      "eng": "swimming",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq119",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I → ___",
+      "options": [
+        "me",
+        "my",
+        "mine"
+      ],
+      "correctAnswer": "me",
+      "emoji": "👤",
+      "spa": "I corresponde a me como pronombre objeto.",
+      "optionsLang": "en",
+      "eng": "I → me",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq120",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "you → ___",
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "correctAnswer": "you",
+      "emoji": "👤",
+      "spa": "you corresponde a you como pronombre objeto.",
+      "optionsLang": "en",
+      "eng": "you → you",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq121",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "he → ___",
+      "options": [
+        "him",
+        "his",
+        "he"
+      ],
+      "correctAnswer": "him",
+      "emoji": "👦",
+      "spa": "he corresponde a him como pronombre objeto.",
+      "optionsLang": "en",
+      "eng": "he → him",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq122",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "she → ___",
+      "options": [
+        "her",
+        "hers",
+        "she"
+      ],
+      "correctAnswer": "her",
+      "emoji": "👧",
+      "spa": "she corresponde a her como pronombre objeto.",
+      "optionsLang": "en",
+      "eng": "she → her",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq123",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "it → ___",
+      "options": [
+        "it",
+        "its",
+        "itself only"
+      ],
+      "correctAnswer": "it",
+      "emoji": "📦",
+      "spa": "it corresponde a it como pronombre objeto.",
+      "optionsLang": "en",
+      "eng": "it → it",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq124",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "we → ___",
+      "options": [
+        "us",
+        "our",
+        "ours"
+      ],
+      "correctAnswer": "us",
+      "emoji": "👥",
+      "spa": "we corresponde a us como pronombre objeto.",
+      "optionsLang": "en",
+      "eng": "we → us",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq125",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "they → ___",
+      "options": [
+        "them",
+        "their",
+        "theirs"
+      ],
+      "correctAnswer": "them",
+      "emoji": "👥",
+      "spa": "they corresponde a them como pronombre objeto.",
+      "optionsLang": "en",
+      "eng": "they → them",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq126",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Look at ___. (yo)",
+      "options": [
+        "me",
+        "my",
+        "I"
+      ],
+      "correctAnswer": "me",
+      "emoji": "👀",
+      "spa": "Mírame.",
+      "optionsLang": "en",
+      "eng": "Look at me.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq127",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I can't find ___. (él)",
+      "options": [
+        "him",
+        "he",
+        "his"
+      ],
+      "correctAnswer": "him",
+      "emoji": "👦",
+      "spa": "No puedo encontrarlo.",
+      "optionsLang": "en",
+      "eng": "I can't find him.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq128",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Give these tomatoes to ___. (ella)",
+      "options": [
+        "her",
+        "she",
+        "hers"
+      ],
+      "correctAnswer": "her",
+      "emoji": "🍅",
+      "spa": "Dale estos tomates a ella.",
+      "optionsLang": "en",
+      "eng": "Give these tomatoes to her.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq129",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: They play tennis with ___. (nosotros)",
+      "options": [
+        "us",
+        "we",
+        "our"
+      ],
+      "correctAnswer": "us",
+      "emoji": "🎾",
+      "spa": "Juegan al tenis con nosotros.",
+      "optionsLang": "en",
+      "eng": "They play tennis with us.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq130",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I know ___. (ellos)",
+      "options": [
+        "them",
+        "they",
+        "their"
+      ],
+      "correctAnswer": "them",
+      "emoji": "👥",
+      "spa": "Los conozco.",
+      "optionsLang": "en",
+      "eng": "I know them.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq131",
+      "category": "Object Pronouns",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I hate watching ___. (eso)",
+      "options": [
+        "it",
+        "its",
+        "he"
+      ],
+      "correctAnswer": "it",
+      "emoji": "📺",
+      "spa": "Odio verlo.",
+      "optionsLang": "en",
+      "eng": "I hate watching it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq132",
+      "category": "Object Pronouns - Context",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Jack and Harry are my best friends. I see ___ every day.",
+      "options": [
+        "them",
+        "they",
+        "their"
+      ],
+      "correctAnswer": "them",
+      "emoji": "👥",
+      "spa": "Veo a Jack y Harry todos los días.",
+      "optionsLang": "en",
+      "eng": "I see them every day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq133",
+      "category": "Object Pronouns - Context",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Lucas is my maths teacher. I see ___ on Mondays.",
+      "options": [
+        "him",
+        "he",
+        "his"
+      ],
+      "correctAnswer": "him",
+      "emoji": "👨‍🏫",
+      "spa": "Lo veo los lunes.",
+      "optionsLang": "en",
+      "eng": "I see him on Mondays.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq134",
+      "category": "Object Pronouns - Context",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Anna's best friend is a girl. She invites ___ after school.",
+      "options": [
+        "her",
+        "she",
+        "hers"
+      ],
+      "correctAnswer": "her",
+      "emoji": "👧",
+      "spa": "La invita después de la escuela.",
+      "optionsLang": "en",
+      "eng": "She invites her after school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq135",
+      "category": "Object Pronouns - Context",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "My aunt teaches me karate. I really like ___.",
+      "options": [
+        "her",
+        "she",
+        "hers"
+      ],
+      "correctAnswer": "her",
+      "emoji": "🥋",
+      "spa": "Me cae muy bien / me gusta ella.",
+      "optionsLang": "en",
+      "eng": "I really like her.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq136",
+      "category": "Object Pronouns - Context",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Joe, can I see ___ after class?",
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "correctAnswer": "you",
+      "emoji": "👤",
+      "spa": "Joe, ¿puedo verte después de clase?",
+      "optionsLang": "en",
+      "eng": "Joe, can I see you after class?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq137",
+      "category": "Object Pronouns - Context",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pizza is my favourite food. I love ___.",
+      "options": [
+        "it",
+        "its",
+        "them"
+      ],
+      "correctAnswer": "it",
+      "emoji": "🍕",
+      "spa": "Me encanta.",
+      "optionsLang": "en",
+      "eng": "I love it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq138",
+      "category": "Likes and Dislikes - Family",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My family ___ food.",
+      "options": [
+        "likes",
+        "like",
+        "liking only"
+      ],
+      "correctAnswer": "likes",
+      "emoji": "🍽️",
+      "spa": "A mi familia le gusta la comida.",
+      "optionsLang": "en",
+      "eng": "My family likes food.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq139",
+      "category": "Likes and Dislikes - Family",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My mum can't stand ___.",
+      "options": [
+        "cooking",
+        "cook",
+        "cooks"
+      ],
+      "correctAnswer": "cooking",
+      "emoji": "👩‍🍳",
+      "spa": "Mi mamá no soporta cocinar.",
+      "optionsLang": "en",
+      "eng": "My mum can't stand cooking.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq140",
+      "category": "Likes and Dislikes - Family",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My brother loves ___ for him.",
+      "options": [
+        "cooking",
+        "cook",
+        "cooked"
+      ],
+      "correctAnswer": "cooking",
+      "emoji": "🍳",
+      "spa": "A mi hermano le encanta que cocinen para él / cocinar para él, según contexto.",
+      "optionsLang": "en",
+      "eng": "My brother loves cooking.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq141",
+      "category": "Likes and Dislikes - Family",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My aunt loves ___.",
+      "options": [
+        "cooking",
+        "cook",
+        "cooks"
+      ],
+      "correctAnswer": "cooking",
+      "emoji": "👩‍🍳",
+      "spa": "A mi tía le encanta cocinar.",
+      "optionsLang": "en",
+      "eng": "My aunt loves cooking.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq142",
+      "category": "Likes and Dislikes - Family",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige una frase natural.",
+      "options": [
+        "My sister doesn't like washing dishes.",
+        "My sister doesn't likes washing dishes.",
+        "My sister don't like wash dishes."
+      ],
+      "correctAnswer": "My sister doesn't like washing dishes.",
+      "emoji": "🍽️",
+      "spa": "A mi hermana no le gusta lavar los platos.",
+      "optionsLang": "en",
+      "eng": "My sister doesn't like washing dishes.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq143",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta: ___ you like basketball?",
+      "options": [
+        "Do",
+        "Can opinion",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "🏀",
+      "spa": "¿Te gusta el básquet?",
+      "optionsLang": "en",
+      "eng": "Do you like basketball?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq144",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta posible: Do you like basketball?",
+      "options": [
+        "Yes, I do.",
+        "Yes, I can only.",
+        "It is at six."
+      ],
+      "correctAnswer": "Yes, I do.",
+      "emoji": "✅",
+      "spa": "Sí.",
+      "optionsLang": "en",
+      "eng": "Yes, I do.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq145",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta para pedir una opinión:",
+      "options": [
+        "How do you feel about basketball?",
+        "Where is basketball?",
+        "Can basketball room?"
+      ],
+      "correctAnswer": "How do you feel about basketball?",
+      "emoji": "🏀",
+      "spa": "¿Qué opinas del básquet?",
+      "optionsLang": "en",
+      "eng": "How do you feel about basketball?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq146",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Frase para introducir una opinión sincera:",
+      "options": [
+        "To be honest, ...",
+        "Under the table, ...",
+        "How often room..."
+      ],
+      "correctAnswer": "To be honest, ...",
+      "emoji": "💬",
+      "spa": "Para ser sincero/a...",
+      "optionsLang": "en",
+      "eng": "To be honest, ...",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq147",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Frase para dar opinión:",
+      "options": [
+        "I think it's boring.",
+        "I think at Tuesday.",
+        "I think there are."
+      ],
+      "correctAnswer": "I think it's boring.",
+      "emoji": "🥱",
+      "spa": "Creo que es aburrido.",
+      "optionsLang": "en",
+      "eng": "I think it's boring.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq148",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta para pedir una opinión:",
+      "options": [
+        "What do you think about tennis?",
+        "What tennis is room?",
+        "Do tennis can?"
+      ],
+      "correctAnswer": "What do you think about tennis?",
+      "emoji": "🎾",
+      "spa": "¿Qué piensas del tenis?",
+      "optionsLang": "en",
+      "eng": "What do you think about tennis?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq149",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Frase para dar una opinión personal:",
+      "options": [
+        "In my opinion, it's fantastic.",
+        "My opinion in table.",
+        "Opinion can tennis."
+      ],
+      "correctAnswer": "In my opinion, it's fantastic.",
+      "emoji": "🌟",
+      "spa": "En mi opinión, es fantástico.",
+      "optionsLang": "en",
+      "eng": "In my opinion, it's fantastic.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq150",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué significa 'That's so true.'?",
+      "options": [
+        "Es totalmente cierto.",
+        "No lo sé.",
+        "Es una piscina."
+      ],
+      "correctAnswer": "Es totalmente cierto.",
+      "emoji": "✅",
+      "spa": "Es totalmente cierto.",
+      "optionsLang": "en",
+      "eng": "That's so true.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq151",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué significa 'Are you joking?'",
+      "options": [
+        "¿Estás bromeando?",
+        "¿Estás nadando?",
+        "¿Estás en la escuela?"
+      ],
+      "correctAnswer": "¿Estás bromeando?",
+      "emoji": "😮",
+      "spa": "¿Estás bromeando?",
+      "optionsLang": "en",
+      "eng": "Are you joking?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq152",
+      "category": "Asking for and Giving Opinions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué significa 'Of course not!'?",
+      "options": [
+        "¡Por supuesto que no!",
+        "¡Por supuesto que sí!",
+        "A veces."
+      ],
+      "correctAnswer": "¡Por supuesto que no!",
+      "emoji": "🙅",
+      "spa": "¡Por supuesto que no!",
+      "optionsLang": "en",
+      "eng": "Of course not!",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq153",
+      "category": "Opinions - Word Order",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Do you like skateboarding?",
+        "Skateboarding do like you?",
+        "You like do skateboarding?"
+      ],
+      "correctAnswer": "Do you like skateboarding?",
+      "emoji": "🛹",
+      "spa": "¿Te gusta andar en skate?",
+      "optionsLang": "en",
+      "eng": "Do you like skateboarding?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq154",
+      "category": "Opinions - Word Order",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "How do you feel about cricket?",
+        "How cricket feel you do?",
+        "Do about cricket you feel how?"
+      ],
+      "correctAnswer": "How do you feel about cricket?",
+      "emoji": "🏏",
+      "spa": "¿Qué opinas del críquet?",
+      "optionsLang": "en",
+      "eng": "How do you feel about cricket?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq155",
+      "category": "Opinions - Word Order",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Do you like rugby?",
+        "Rugby like do you?",
+        "You rugby do like?"
+      ],
+      "correctAnswer": "Do you like rugby?",
+      "emoji": "🏉",
+      "spa": "¿Te gusta el rugby?",
+      "optionsLang": "en",
+      "eng": "Do you like rugby?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq156",
+      "category": "Opinions - Word Order",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "What do you think about swimming?",
+        "What swimming do you think about?",
+        "Do think swimming what?"
+      ],
+      "correctAnswer": "What do you think about swimming?",
+      "emoji": "🏊",
+      "spa": "¿Qué piensas de la natación?",
+      "optionsLang": "en",
+      "eng": "What do you think about swimming?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq157",
+      "category": "Opinions - Word Order",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "In my opinion, basketball is exciting.",
+        "Basketball in exciting opinion my.",
+        "Opinion basketball my exciting."
+      ],
+      "correctAnswer": "In my opinion, basketball is exciting.",
+      "emoji": "🏀",
+      "spa": "En mi opinión, el básquet es emocionante.",
+      "optionsLang": "en",
+      "eng": "In my opinion, basketball is exciting.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq158",
+      "category": "Opinions - Responses",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Do you like gymnastics?",
+      "options": [
+        "Yes, I do. I love it.",
+        "At half past six.",
+        "Three sandwiches."
+      ],
+      "correctAnswer": "Yes, I do. I love it.",
+      "emoji": "🤸",
+      "spa": "Sí. Me encanta.",
+      "optionsLang": "en",
+      "eng": "Yes, I do. I love it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq159",
+      "category": "Opinions - Responses",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "How do you feel about cycling?",
+      "options": [
+        "To be honest, I don't like riding a bike.",
+        "I am from Spain.",
+        "It's under the table."
+      ],
+      "correctAnswer": "To be honest, I don't like riding a bike.",
+      "emoji": "🚴",
+      "spa": "Para ser sincero/a, no me gusta andar en bicicleta.",
+      "optionsLang": "en",
+      "eng": "To be honest, I don't like riding a bike.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq160",
+      "category": "Opinions - Responses",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "What do you think about swimming?",
+      "options": [
+        "In my opinion, it's fantastic!",
+        "No, I don't swim table.",
+        "There are some."
+      ],
+      "correctAnswer": "In my opinion, it's fantastic!",
+      "emoji": "🏊",
+      "spa": "En mi opinión, ¡es fantástico!",
+      "optionsLang": "en",
+      "eng": "In my opinion, it's fantastic!",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq161",
+      "category": "Opinions - Responses",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Do you like team sports?",
+      "options": [
+        "No, I don't. I can't stand team sports.",
+        "It's on Monday at table.",
+        "I am thirteen."
+      ],
+      "correctAnswer": "No, I don't. I can't stand team sports.",
+      "emoji": "👥",
+      "spa": "No. No soporto los deportes de equipo.",
+      "optionsLang": "en",
+      "eng": "No, I don't. I can't stand team sports.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq162",
+      "category": "Skills Trainer - Sports Questions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta: My favourite sport is tennis. Pregunta:",
+      "options": [
+        "What's your favourite sport?",
+        "Where do you play?",
+        "How old is tennis?"
+      ],
+      "correctAnswer": "What's your favourite sport?",
+      "emoji": "🎾",
+      "spa": "¿Cuál es tu deporte favorito?",
+      "optionsLang": "en",
+      "eng": "What's your favourite sport?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq163",
+      "category": "Skills Trainer - Sports Questions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta: I play tennis twice a week. Pregunta:",
+      "options": [
+        "How often do you play tennis?",
+        "Where is tennis?",
+        "Can tennis talk?"
+      ],
+      "correctAnswer": "How often do you play tennis?",
+      "emoji": "🔁",
+      "spa": "¿Con qué frecuencia juegas al tenis?",
+      "optionsLang": "en",
+      "eng": "How often do you play tennis?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq164",
+      "category": "Skills Trainer - Sports Questions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta: I play it at the park. Pregunta:",
+      "options": [
+        "Where do you play it?",
+        "How often park?",
+        "Who is tennis?"
+      ],
+      "correctAnswer": "Where do you play it?",
+      "emoji": "📍",
+      "spa": "¿Dónde lo juegas?",
+      "optionsLang": "en",
+      "eng": "Where do you play it?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq165",
+      "category": "Skills Trainer - Sports Questions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta: Yes, my friends like playing tennis. Pregunta:",
+      "options": [
+        "Do your friends like playing tennis?",
+        "Can friends are tennis?",
+        "Where friends tennis?"
+      ],
+      "correctAnswer": "Do your friends like playing tennis?",
+      "emoji": "👥",
+      "spa": "¿A tus amigos les gusta jugar al tenis?",
+      "optionsLang": "en",
+      "eng": "Do your friends like playing tennis?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq166",
+      "category": "Skills Trainer - Sports Questions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta adecuada para una nueva amiga en un club:",
+      "options": [
+        "Can you swim?",
+        "Is your fridge blue?",
+        "How many onions?"
+      ],
+      "correctAnswer": "Can you swim?",
+      "emoji": "🏊",
+      "spa": "¿Sabes nadar?",
+      "optionsLang": "en",
+      "eng": "Can you swim?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq167",
+      "category": "Skills Trainer - Sports Questions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta adecuada:",
+      "options": [
+        "Where do you swim?",
+        "Where swim you are?",
+        "Is swim where?"
+      ],
+      "correctAnswer": "Where do you swim?",
+      "emoji": "🏊",
+      "spa": "¿Dónde nadas?",
+      "optionsLang": "en",
+      "eng": "Where do you swim?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq168",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Dónde pueden hacer deportes al aire libre los estudiantes?",
+      "options": [
+        "On playing fields",
+        "Only in kitchens",
+        "Only in bedrooms"
+      ],
+      "correctAnswer": "On playing fields",
+      "emoji": "🏟️",
+      "spa": "Pueden hacer deportes al aire libre en campos de juego.",
+      "optionsLang": "en",
+      "eng": "Students can do outdoor sports on playing fields.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq169",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué lugar se usa para deportes de interior?",
+      "options": [
+        "Sports hall",
+        "Playing field only",
+        "Café kitchen"
+      ],
+      "correctAnswer": "Sports hall",
+      "emoji": "🏟️",
+      "spa": "El gimnasio/pabellón se usa para deportes de interior.",
+      "optionsLang": "en",
+      "eng": "A sports hall is used for indoor sports.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq170",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué palabra significa 'equipo de Educación Física'?",
+      "options": [
+        "PE kit",
+        "picnic",
+        "remote"
+      ],
+      "correctAnswer": "PE kit",
+      "emoji": "🎽",
+      "spa": "Equipo / ropa de Educación Física.",
+      "optionsLang": "en",
+      "eng": "PE kit",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq171",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué deporte aparece como muy popular entre chicos en el texto?",
+      "options": [
+        "football",
+        "soap carving",
+        "cooking"
+      ],
+      "correctAnswer": "football",
+      "emoji": "⚽",
+      "spa": "El fútbol aparece como muy popular.",
+      "optionsLang": "en",
+      "eng": "Football is described as very popular.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq172",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué deporte aparece como muy popular entre chicas en el texto?",
+      "options": [
+        "swimming",
+        "cricket only",
+        "knife skills"
+      ],
+      "correctAnswer": "swimming",
+      "emoji": "🏊",
+      "spa": "La natación aparece como muy popular.",
+      "optionsLang": "en",
+      "eng": "Swimming is described as very popular.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq173",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué idea central plantea la sección 'Sports for all'?",
+      "options": [
+        "Sport should be available to everyone.",
+        "Only adults should do sport.",
+        "Only team sports matter."
+      ],
+      "correctAnswer": "Sport should be available to everyone.",
+      "emoji": "🤝",
+      "spa": "El deporte debería ser accesible para todos.",
+      "optionsLang": "en",
+      "eng": "Sport should be available to everyone.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq174",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué tema de igualdad aparece en la lectura?",
+      "options": [
+        "Differences in opportunities and media attention",
+        "Furniture prices",
+        "Food origins"
+      ],
+      "correctAnswer": "Differences in opportunities and media attention",
+      "emoji": "⚖️",
+      "spa": "Se comparan oportunidades y visibilidad deportiva.",
+      "optionsLang": "en",
+      "eng": "The text discusses differences in opportunities and media attention.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq175",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué es an audience?",
+      "options": [
+        "The people watching an event",
+        "A sports shoe",
+        "A type of ball"
+      ],
+      "correctAnswer": "The people watching an event",
+      "emoji": "👥",
+      "spa": "El público que observa un evento.",
+      "optionsLang": "en",
+      "eng": "An audience is the people watching an event.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq176",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa indoor sports?",
+      "options": [
+        "Deportes de interior",
+        "Deportes acuáticos solamente",
+        "Viajes"
+      ],
+      "correctAnswer": "Deportes de interior",
+      "emoji": "🏟️",
+      "spa": "Deportes de interior",
+      "optionsLang": "en",
+      "eng": "Indoor sports",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq177",
+      "category": "Culture and Skills - Sports for All",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa outdoor sports?",
+      "options": [
+        "Deportes al aire libre",
+        "Deportes de mesa solamente",
+        "Tareas escolares"
+      ],
+      "correctAnswer": "Deportes al aire libre",
+      "emoji": "🌳",
+      "spa": "Deportes al aire libre",
+      "optionsLang": "en",
+      "eng": "Outdoor sports",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq178",
+      "category": "Listening Strategy - Relationships",
+      "type": "quiz",
+      "skill": "Listening",
+      "question": "Dos personas de edad similar hablan de su equipo favorito. Relación probable:",
+      "options": [
+        "two friends",
+        "parent and child",
+        "instructor and adult only"
+      ],
+      "correctAnswer": "two friends",
+      "emoji": "👥",
+      "spa": "Dos amigos.",
+      "optionsLang": "en",
+      "eng": "two friends",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq179",
+      "category": "Listening Strategy - Relationships",
+      "type": "quiz",
+      "skill": "Listening",
+      "question": "Una persona adulta explica a un joven cómo practicar. Relación probable:",
+      "options": [
+        "instructor and learner",
+        "two toddlers",
+        "two kitchen objects"
+      ],
+      "correctAnswer": "instructor and learner",
+      "emoji": "🧑‍🏫",
+      "spa": "Instructor/a y alumno/a.",
+      "optionsLang": "en",
+      "eng": "instructor and learner",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq180",
+      "category": "Listening Strategy - Relationships",
+      "type": "quiz",
+      "skill": "Listening",
+      "question": "Un adulto pregunta a un menor por una actividad escolar. Relación probable:",
+      "options": [
+        "parent and child",
+        "two sports balls",
+        "two tables"
+      ],
+      "correctAnswer": "parent and child",
+      "emoji": "👨‍👧",
+      "spa": "Padre/madre e hijo/a.",
+      "optionsLang": "en",
+      "eng": "parent and child",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq181",
+      "category": "Listening Strategy - Relationships",
+      "type": "quiz",
+      "skill": "Listening",
+      "question": "Pista de escucha: tono informal entre personas de la misma edad suele sugerir:",
+      "options": [
+        "friends",
+        "a formal interview only",
+        "objects"
+      ],
+      "correctAnswer": "friends",
+      "emoji": "🎧",
+      "spa": "Amigos.",
+      "optionsLang": "en",
+      "eng": "friends",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq182",
+      "category": "Writing - Sporting Hero Fact File",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué dato pertenece a un fact file deportivo?",
+      "options": [
+        "sport",
+        "wardrobe colour only",
+        "breakfast room"
+      ],
+      "correctAnswer": "sport",
+      "emoji": "🏅",
+      "spa": "El deporte es un dato pertinente.",
+      "optionsLang": "en",
+      "eng": "sport",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq183",
+      "category": "Writing - Sporting Hero Fact File",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué dato puede aparecer?",
+      "options": [
+        "birthplace",
+        "number of sofas",
+        "type of kitchen"
+      ],
+      "correctAnswer": "birthplace",
+      "emoji": "🌍",
+      "spa": "Lugar de nacimiento.",
+      "optionsLang": "en",
+      "eng": "birthplace",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq184",
+      "category": "Writing - Sporting Hero Fact File",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué dato puede aparecer?",
+      "options": [
+        "medals",
+        "number of cupboards",
+        "favourite sink"
+      ],
+      "correctAnswer": "medals",
+      "emoji": "🥇",
+      "spa": "Medallas.",
+      "optionsLang": "en",
+      "eng": "medals",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq185",
+      "category": "Writing - Sporting Hero Fact File",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué dato puede aparecer?",
+      "options": [
+        "personal best",
+        "Wi-Fi code",
+        "school lunch only"
+      ],
+      "correctAnswer": "personal best",
+      "emoji": "🏆",
+      "spa": "Marca personal.",
+      "optionsLang": "en",
+      "eng": "personal best",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq186",
+      "category": "Writing - Sporting Hero Fact File",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: She can jump very ___.",
+      "options": [
+        "far",
+        "goodly",
+        "careful adjective"
+      ],
+      "correctAnswer": "far",
+      "emoji": "🏃",
+      "spa": "Puede saltar muy lejos.",
+      "optionsLang": "en",
+      "eng": "She can jump very far.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq187",
+      "category": "Writing - Sporting Hero Fact File",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: She is a gold ___.",
+      "options": [
+        "medallist",
+        "audience",
+        "helmet"
+      ],
+      "correctAnswer": "medallist",
+      "emoji": "🥇",
+      "spa": "Es medallista de oro.",
+      "optionsLang": "en",
+      "eng": "She is a gold medallist.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq188",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué material usa una persona para crear pequeñas figuras en la lectura?",
+      "options": [
+        "soap",
+        "football grass",
+        "milk"
+      ],
+      "correctAnswer": "soap",
+      "emoji": "🧼",
+      "spa": "Usa jabón.",
+      "optionsLang": "en",
+      "eng": "The hobby uses soap.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq189",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué herramienta puede necesitar para tallar jabón?",
+      "options": [
+        "a special knife",
+        "a tennis ball",
+        "a swimming pool"
+      ],
+      "correctAnswer": "a special knife",
+      "emoji": "🔪",
+      "spa": "Puede necesitar un cuchillo especial.",
+      "optionsLang": "en",
+      "eng": "A special knife can be used.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq190",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué cualidad necesita este hobby?",
+      "options": [
+        "patience",
+        "speed only",
+        "anger"
+      ],
+      "correctAnswer": "patience",
+      "emoji": "🧘",
+      "spa": "Necesita paciencia.",
+      "optionsLang": "en",
+      "eng": "The hobby needs patience.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq191",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Parkour incluye:",
+      "options": [
+        "running, jumping and climbing",
+        "only sitting",
+        "only swimming"
+      ],
+      "correctAnswer": "running, jumping and climbing",
+      "emoji": "🤸",
+      "spa": "Incluye correr, saltar y trepar.",
+      "optionsLang": "en",
+      "eng": "Parkour includes running, jumping and climbing.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq192",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué es importante para hacer parkour con seguridad?",
+      "options": [
+        "understanding your limits and good physical condition",
+        "ignoring all limits",
+        "no practice"
+      ],
+      "correctAnswer": "understanding your limits and good physical condition",
+      "emoji": "💪",
+      "spa": "Es importante conocer los límites y tener buen estado físico.",
+      "optionsLang": "en",
+      "eng": "It is important to understand your limits and be in good physical condition.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq193",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Una versión electrónica de un instrumento es una:",
+      "options": [
+        "digital version",
+        "physical condition",
+        "sports hall"
+      ],
+      "correctAnswer": "digital version",
+      "emoji": "💻",
+      "spa": "Versión digital.",
+      "optionsLang": "en",
+      "eng": "digital version",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq194",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa acrobatic?",
+      "options": [
+        "Acrobático/a",
+        "Aburrido/a",
+        "Comestible"
+      ],
+      "correctAnswer": "Acrobático/a",
+      "emoji": "🤸",
+      "spa": "Acrobático/a",
+      "optionsLang": "en",
+      "eng": "Acrobatic",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq195",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa physical condition?",
+      "options": [
+        "Estado físico",
+        "Opinión personal",
+        "Material escolar"
+      ],
+      "correctAnswer": "Estado físico",
+      "emoji": "💪",
+      "spa": "Estado físico",
+      "optionsLang": "en",
+      "eng": "Physical condition",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq196",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa limit?",
+      "options": [
+        "Límite",
+        "Piscina",
+        "Medalla"
+      ],
+      "correctAnswer": "Límite",
+      "emoji": "🚧",
+      "spa": "Límite",
+      "optionsLang": "en",
+      "eng": "Limit",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq197",
+      "category": "Culture and Skills - Unusual Free Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa patience?",
+      "options": [
+        "Paciencia",
+        "Velocidad",
+        "Violencia"
+      ],
+      "correctAnswer": "Paciencia",
+      "emoji": "🧘",
+      "spa": "Paciencia",
+      "optionsLang": "en",
+      "eng": "Patience",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq198",
+      "category": "Writing - Friend or Family Member",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: My friend is 13 years ___.",
+      "options": [
+        "old",
+        "good",
+        "time"
+      ],
+      "correctAnswer": "old",
+      "emoji": "🎂",
+      "spa": "Mi amiga tiene 13 años.",
+      "optionsLang": "en",
+      "eng": "My friend is 13 years old.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq199",
+      "category": "Writing - Friend or Family Member",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: In her free ___, she plays the guitar.",
+      "options": [
+        "time",
+        "well",
+        "good"
+      ],
+      "correctAnswer": "time",
+      "emoji": "🎸",
+      "spa": "En su tiempo libre, toca la guitarra.",
+      "optionsLang": "en",
+      "eng": "In her free time, she plays the guitar.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq200",
+      "category": "Writing - Friend or Family Member",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: She ___ the guitar.",
+      "options": [
+        "plays",
+        "play",
+        "playing only"
+      ],
+      "correctAnswer": "plays",
+      "emoji": "🎸",
+      "spa": "Ella toca la guitarra.",
+      "optionsLang": "en",
+      "eng": "She plays the guitar.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq201",
+      "category": "Writing - Friend or Family Member",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: She can play really ___.",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "correctAnswer": "well",
+      "emoji": "🎸",
+      "spa": "Puede tocar muy bien.",
+      "optionsLang": "en",
+      "eng": "She can play really well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq202",
+      "category": "Writing - Friend or Family Member",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: She ___ cook at all.",
+      "options": [
+        "can't",
+        "doesn't can",
+        "can not to"
+      ],
+      "correctAnswer": "can't",
+      "emoji": "👩‍🍳",
+      "spa": "No sabe cocinar en absoluto.",
+      "optionsLang": "en",
+      "eng": "She can't cook at all.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq203",
+      "category": "Writing - Friend or Family Member",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Para describir a una persona puedes incluir:",
+      "options": [
+        "name, age, free-time activities and abilities",
+        "only furniture",
+        "only food prices"
+      ],
+      "correctAnswer": "name, age, free-time activities and abilities",
+      "emoji": "✍️",
+      "spa": "Nombre, edad, actividades y habilidades.",
+      "optionsLang": "en",
+      "eng": "Include name, age, free-time activities and abilities.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq204",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa la palabra: volley___",
+      "options": [
+        "ball",
+        "sport",
+        "ing"
+      ],
+      "correctAnswer": "ball",
+      "emoji": "🏐",
+      "spa": "Volleyball.",
+      "optionsLang": "en",
+      "eng": "volleyball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq205",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa la palabra: basket___",
+      "options": [
+        "ball",
+        "run",
+        "ski"
+      ],
+      "correctAnswer": "ball",
+      "emoji": "🏀",
+      "spa": "Basketball.",
+      "optionsLang": "en",
+      "eng": "basketball",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq206",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el intruso.",
+      "options": [
+        "volleyball",
+        "football",
+        "cycling"
+      ],
+      "correctAnswer": "cycling",
+      "emoji": "🚴",
+      "spa": "Cycling no usa play como los otros dos.",
+      "optionsLang": "en",
+      "eng": "Cycling is the odd one out.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq207",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el intruso.",
+      "options": [
+        "cycling",
+        "skiing",
+        "football"
+      ],
+      "correctAnswer": "football",
+      "emoji": "⚽",
+      "spa": "Football no usa go como cycling y skiing.",
+      "optionsLang": "en",
+      "eng": "Football is the odd one out.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq208",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el intruso.",
+      "options": [
+        "athletics",
+        "karate",
+        "basketball"
+      ],
+      "correctAnswer": "basketball",
+      "emoji": "🏀",
+      "spa": "Basketball usa play, no do.",
+      "optionsLang": "en",
+      "eng": "Basketball is the odd one out.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq209",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friend ___ run fast.",
+      "options": [
+        "can",
+        "cans",
+        "can to"
+      ],
+      "correctAnswer": "can",
+      "emoji": "🏃",
+      "spa": "Mi amigo/a puede correr rápido.",
+      "optionsLang": "en",
+      "eng": "My friend can run fast.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq210",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My parents ___ dance well.",
+      "options": [
+        "can",
+        "cans",
+        "does can"
+      ],
+      "correctAnswer": "can",
+      "emoji": "💃",
+      "spa": "Mis padres pueden bailar bien.",
+      "optionsLang": "en",
+      "eng": "My parents can dance well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq211",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa negativo: My teacher ___ fly.",
+      "options": [
+        "can't",
+        "doesn't can",
+        "isn't can"
+      ],
+      "correctAnswer": "can't",
+      "emoji": "🪽",
+      "spa": "Mi profesor/a no puede volar.",
+      "optionsLang": "en",
+      "eng": "My teacher can't fly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq212",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My teacher can speak ___.",
+      "options": [
+        "clearly",
+        "clear",
+        "clears"
+      ],
+      "correctAnswer": "clearly",
+      "emoji": "🗣️",
+      "spa": "Mi profesor/a puede hablar claramente.",
+      "optionsLang": "en",
+      "eng": "My teacher can speak clearly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq213",
+      "category": "Fast Finishers - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friend can run ___.",
+      "options": [
+        "quickly",
+        "quick",
+        "quicker adjective only"
+      ],
+      "correctAnswer": "quickly",
+      "emoji": "🏃",
+      "spa": "Mi amigo/a puede correr rápidamente.",
+      "optionsLang": "en",
+      "eng": "My friend can run quickly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq214",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Coloca en 'go':",
+      "options": [
+        "cycling",
+        "football",
+        "athletics"
+      ],
+      "correctAnswer": "cycling",
+      "emoji": "🚴",
+      "spa": "Se dice go cycling.",
+      "optionsLang": "en",
+      "eng": "go cycling",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq215",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Coloca en 'play':",
+      "options": [
+        "football",
+        "skiing",
+        "gymnastics"
+      ],
+      "correctAnswer": "football",
+      "emoji": "⚽",
+      "spa": "Se dice play football.",
+      "optionsLang": "en",
+      "eng": "play football",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq216",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Coloca en 'do':",
+      "options": [
+        "gymnastics",
+        "volleyball",
+        "cycling"
+      ],
+      "correctAnswer": "gymnastics",
+      "emoji": "🤸",
+      "spa": "Se dice do gymnastics.",
+      "optionsLang": "en",
+      "eng": "do gymnastics",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq217",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Coloca en 'play':",
+      "options": [
+        "tennis",
+        "athletics",
+        "skiing"
+      ],
+      "correctAnswer": "tennis",
+      "emoji": "🎾",
+      "spa": "Se dice play tennis.",
+      "optionsLang": "en",
+      "eng": "play tennis",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq218",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Coloca en 'go':",
+      "options": [
+        "swimming",
+        "basketball",
+        "karate"
+      ],
+      "correctAnswer": "swimming",
+      "emoji": "🏊",
+      "spa": "Se dice go swimming.",
+      "optionsLang": "en",
+      "eng": "go swimming",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq219",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Coloca en 'do':",
+      "options": [
+        "karate",
+        "cricket",
+        "hockey"
+      ],
+      "correctAnswer": "karate",
+      "emoji": "🥋",
+      "spa": "Se dice do karate.",
+      "optionsLang": "en",
+      "eng": "do karate",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq220",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma una frase posible con can.",
+      "options": [
+        "I can run fast.",
+        "I can fast runs.",
+        "Can I running fast."
+      ],
+      "correctAnswer": "I can run fast.",
+      "emoji": "🏃",
+      "spa": "Puedo correr rápido.",
+      "optionsLang": "en",
+      "eng": "I can run fast.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq221",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma una frase posible.",
+      "options": [
+        "You can cook well.",
+        "You can well cooking.",
+        "You cooks can well."
+      ],
+      "correctAnswer": "You can cook well.",
+      "emoji": "👩‍🍳",
+      "spa": "Puedes cocinar bien.",
+      "optionsLang": "en",
+      "eng": "You can cook well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq222",
+      "category": "Fun Time - Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma una frase posible.",
+      "options": [
+        "I love doing sport.",
+        "I love do sport.",
+        "I loves doing sport."
+      ],
+      "correctAnswer": "I love doing sport.",
+      "emoji": "❤️",
+      "spa": "Me encanta hacer deporte.",
+      "optionsLang": "en",
+      "eng": "I love doing sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq223",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Plural de boy:",
+      "options": [
+        "boys",
+        "men",
+        "people"
+      ],
+      "correctAnswer": "boys",
+      "emoji": "👦",
+      "spa": "Boy → boys.",
+      "optionsLang": "en",
+      "eng": "boy → boys",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq224",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Plural de child:",
+      "options": [
+        "children",
+        "childs",
+        "people"
+      ],
+      "correctAnswer": "children",
+      "emoji": "🧒",
+      "spa": "Child → children.",
+      "optionsLang": "en",
+      "eng": "child → children",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq225",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Plural de girl:",
+      "options": [
+        "girls",
+        "women",
+        "child"
+      ],
+      "correctAnswer": "girls",
+      "emoji": "👧",
+      "spa": "Girl → girls.",
+      "optionsLang": "en",
+      "eng": "girl → girls",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq226",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Plural de human:",
+      "options": [
+        "humans",
+        "humanes",
+        "people only"
+      ],
+      "correctAnswer": "humans",
+      "emoji": "🧑",
+      "spa": "Human → humans.",
+      "optionsLang": "en",
+      "eng": "human → humans",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq227",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Plural de man:",
+      "options": [
+        "men",
+        "mans",
+        "males"
+      ],
+      "correctAnswer": "men",
+      "emoji": "👨",
+      "spa": "Man → men.",
+      "optionsLang": "en",
+      "eng": "man → men",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq228",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Plural de person:",
+      "options": [
+        "people",
+        "persons only in this exercise",
+        "peoples"
+      ],
+      "correctAnswer": "people",
+      "emoji": "👥",
+      "spa": "Person → people.",
+      "optionsLang": "en",
+      "eng": "person → people",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq229",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Plural de woman:",
+      "options": [
+        "women",
+        "womans",
+        "girls"
+      ],
+      "correctAnswer": "women",
+      "emoji": "👩",
+      "spa": "Woman → women.",
+      "optionsLang": "en",
+      "eng": "woman → women",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq230",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué par es irregular?",
+      "options": [
+        "man → men",
+        "boy → boys",
+        "girl → girls"
+      ],
+      "correctAnswer": "man → men",
+      "emoji": "📝",
+      "spa": "Man → men es irregular.",
+      "optionsLang": "en",
+      "eng": "man → men",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq231",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué par es irregular?",
+      "options": [
+        "person → people",
+        "human → humans",
+        "boy → boys"
+      ],
+      "correctAnswer": "person → people",
+      "emoji": "📝",
+      "spa": "Person → people es irregular.",
+      "optionsLang": "en",
+      "eng": "person → people",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq232",
+      "category": "SDG - Gender Equality and Plurals",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué tema conecta esta actividad con la unidad?",
+      "options": [
+        "gender equality",
+        "furniture",
+        "food waste"
+      ],
+      "correctAnswer": "gender equality",
+      "emoji": "⚖️",
+      "spa": "Igualdad de género.",
+      "optionsLang": "en",
+      "eng": "gender equality",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq233",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Harry ___ rugby at school.",
+      "options": [
+        "plays",
+        "does",
+        "goes"
+      ],
+      "correctAnswer": "plays",
+      "emoji": "🏉",
+      "spa": "Harry juega al rugby en la escuela.",
+      "optionsLang": "en",
+      "eng": "Harry plays rugby at school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq234",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Katie ___ skiing on holidays.",
+      "options": [
+        "goes",
+        "plays",
+        "does"
+      ],
+      "correctAnswer": "goes",
+      "emoji": "⛷️",
+      "spa": "Katie esquía en vacaciones.",
+      "optionsLang": "en",
+      "eng": "Katie goes skiing on holidays.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq235",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Danny ___ athletics every weekend.",
+      "options": [
+        "does",
+        "plays",
+        "goes"
+      ],
+      "correctAnswer": "does",
+      "emoji": "🏃",
+      "spa": "Danny hace atletismo cada fin de semana.",
+      "optionsLang": "en",
+      "eng": "Danny does athletics every weekend.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq236",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Sarah ___ gymnastics.",
+      "options": [
+        "does",
+        "plays",
+        "goes"
+      ],
+      "correctAnswer": "does",
+      "emoji": "🤸",
+      "spa": "Sarah hace gimnasia.",
+      "optionsLang": "en",
+      "eng": "Sarah does gymnastics.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq237",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Timothy ___ tennis every day.",
+      "options": [
+        "plays",
+        "goes",
+        "does"
+      ],
+      "correctAnswer": "plays",
+      "emoji": "🎾",
+      "spa": "Timothy juega al tenis todos los días.",
+      "optionsLang": "en",
+      "eng": "Timothy plays tennis every day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq238",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Mia ___ cycling after school.",
+      "options": [
+        "goes",
+        "plays",
+        "does"
+      ],
+      "correctAnswer": "goes",
+      "emoji": "🚴",
+      "spa": "Mia practica ciclismo después de la escuela.",
+      "optionsLang": "en",
+      "eng": "Mia goes cycling after school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq239",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: I don't like ___.",
+      "options": [
+        "going athletics",
+        "doing athletics",
+        "playing athletics"
+      ],
+      "correctAnswer": "doing athletics",
+      "emoji": "🏃",
+      "spa": "No me gusta hacer atletismo.",
+      "optionsLang": "en",
+      "eng": "I don't like doing athletics.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq240",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: We sometimes ___ rugby at school.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏉",
+      "spa": "A veces jugamos al rugby en la escuela.",
+      "optionsLang": "en",
+      "eng": "We sometimes play rugby at school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq241",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: I usually ___ volleyball every day.",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🏐",
+      "spa": "Normalmente juego al vóley todos los días.",
+      "optionsLang": "en",
+      "eng": "I usually play volleyball every day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq242",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: We never ___ skateboarding at school.",
+      "options": [
+        "go",
+        "play",
+        "do"
+      ],
+      "correctAnswer": "go",
+      "emoji": "🛹",
+      "spa": "Nunca andamos en skate en la escuela.",
+      "optionsLang": "en",
+      "eng": "We never go skateboarding at school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq243",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: Where do you ___ tennis?",
+      "options": [
+        "play",
+        "go",
+        "do"
+      ],
+      "correctAnswer": "play",
+      "emoji": "🎾",
+      "spa": "¿Dónde juegas al tenis?",
+      "optionsLang": "en",
+      "eng": "Where do you play tennis?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq244",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: I ___ gymnastics at the sports centre.",
+      "options": [
+        "do",
+        "play",
+        "go"
+      ],
+      "correctAnswer": "do",
+      "emoji": "🤸",
+      "spa": "Hago gimnasia en el centro deportivo.",
+      "optionsLang": "en",
+      "eng": "I do gymnastics at the sports centre.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq245",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friend can do gymnastics ___.",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "correctAnswer": "well",
+      "emoji": "🤸",
+      "spa": "Mi amigo/a puede hacer gimnasia bien.",
+      "optionsLang": "en",
+      "eng": "My friend can do gymnastics well.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq246",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Can your mum play football ___?",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "correctAnswer": "well",
+      "emoji": "⚽",
+      "spa": "¿Tu mamá puede jugar bien al fútbol?",
+      "optionsLang": "en",
+      "eng": "Can your mum play football well?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq247",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Can you and your best friend run ___?",
+      "options": [
+        "fast",
+        "fastly",
+        "good"
+      ],
+      "correctAnswer": "fast",
+      "emoji": "🏃",
+      "spa": "¿Tú y tu mejor amigo/a pueden correr rápido?",
+      "optionsLang": "en",
+      "eng": "Can you and your best friend run fast?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq248",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I can skateboard ___.",
+      "options": [
+        "slowly",
+        "slow",
+        "slows"
+      ],
+      "correctAnswer": "slowly",
+      "emoji": "🛹",
+      "spa": "Puedo andar en skate lentamente.",
+      "optionsLang": "en",
+      "eng": "I can skateboard slowly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq249",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: Eddie loves ___.",
+      "options": [
+        "doing sport",
+        "do sport",
+        "does sport"
+      ],
+      "correctAnswer": "doing sport",
+      "emoji": "🏅",
+      "spa": "A Eddie le encanta hacer deporte.",
+      "optionsLang": "en",
+      "eng": "Eddie loves doing sport.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq250",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I hate watching cricket on TV. I don't like ___.",
+      "options": [
+        "it",
+        "him",
+        "them"
+      ],
+      "correctAnswer": "it",
+      "emoji": "🏏",
+      "spa": "Odio ver críquet por TV. No me gusta.",
+      "optionsLang": "en",
+      "eng": "I don't like it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq251",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friend is nice. I like ___.",
+      "options": [
+        "him",
+        "he",
+        "his"
+      ],
+      "correctAnswer": "him",
+      "emoji": "👦",
+      "spa": "Me cae bien / me gusta él.",
+      "optionsLang": "en",
+      "eng": "I like him.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq252",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friends are funny. I like ___.",
+      "options": [
+        "them",
+        "they",
+        "their"
+      ],
+      "correctAnswer": "them",
+      "emoji": "👥",
+      "spa": "Me gustan ellos / me caen bien.",
+      "optionsLang": "en",
+      "eng": "I like them.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq253",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta: Do you like swimming?",
+      "options": [
+        "Yes, I do.",
+        "Yes, I can only.",
+        "At the pool."
+      ],
+      "correctAnswer": "Yes, I do.",
+      "emoji": "🏊",
+      "spa": "Sí.",
+      "optionsLang": "en",
+      "eng": "Yes, I do.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq254",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta adecuada para 'In my opinion, it's fantastic.'",
+      "options": [
+        "How do you feel about skiing?",
+        "Where is your PE kit?",
+        "Can you cook?"
+      ],
+      "correctAnswer": "How do you feel about skiing?",
+      "emoji": "⛷️",
+      "spa": "¿Qué opinas del esquí?",
+      "optionsLang": "en",
+      "eng": "How do you feel about skiing?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    },
+    {
+      "id": "u5_gq255",
+      "category": "Review Unit 5",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta adecuada: What do you think about football?",
+      "options": [
+        "I think it's great.",
+        "No, I can't swim.",
+        "At six o'clock."
+      ],
+      "correctAnswer": "I think it's great.",
+      "emoji": "⚽",
+      "spa": "Creo que es genial.",
+      "optionsLang": "en",
+      "eng": "I think it's great.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 5 Sport"
+    }
+  ],
+  "READING_COMPREHENSION": [
+    {
+      "category": "Sport - Human Sports Day",
+      "readingText": "At a special sports day, a group of students and a friendly robot try different sports. The students can run and play ball games, but they can't fly. The robot can do gymnastics and karate, and it can skateboard very well. One student can run fast but can't play tennis. Everyone discovers that people have different abilities.",
+      "emoji": "🤖",
+      "questions": [
+        {
+          "q": "Can the students fly?",
+          "a": "No, they can't.",
+          "options": [
+            "Yes, they can.",
+            "No, they can't."
+          ]
+        },
+        {
+          "q": "What sports can the robot do?",
+          "a": "Gymnastics, karate and skateboarding",
+          "options": [
+            "Gymnastics, karate and skateboarding",
+            "Only swimming",
+            "Only football"
+          ]
+        },
+        {
+          "q": "Can one student run fast?",
+          "a": "Yes, he can.",
+          "options": [
+            "Yes, he can.",
+            "No, he can't."
+          ]
+        },
+        {
+          "q": "What does everyone learn?",
+          "a": "People have different abilities",
+          "options": [
+            "People have different abilities",
+            "Only robots can do sport",
+            "Everyone likes the same sport"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sport - Picnic and Preferences",
+      "readingText": "Nina and Theo plan a picnic after a morning at the sports centre. Nina loves making sandwiches, but Theo can't stand cutting tomatoes. Theo likes taking photos and Nina likes cycling in the park. They both hate sitting indoors on sunny days, so they take their food outside and have a picnic.",
+      "emoji": "🧺",
+      "questions": [
+        {
+          "q": "What does Nina love doing?",
+          "a": "Making sandwiches",
+          "options": [
+            "Making sandwiches",
+            "Doing nothing",
+            "Cutting tomatoes"
+          ]
+        },
+        {
+          "q": "What can't Theo stand?",
+          "a": "Cutting tomatoes",
+          "options": [
+            "Cutting tomatoes",
+            "Taking photos",
+            "Cycling"
+          ]
+        },
+        {
+          "q": "What does Theo like doing?",
+          "a": "Taking photos",
+          "options": [
+            "Taking photos",
+            "Swimming",
+            "Cooking soup"
+          ]
+        },
+        {
+          "q": "Why do they go outside?",
+          "a": "It is a sunny day",
+          "options": [
+            "It is a sunny day",
+            "It is midnight",
+            "The sports hall is a kitchen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sport - A New Friend at the Club",
+      "readingText": "Freya meets Jun at a sports club. Freya's favourite sport is basketball, and she can play very well. She plays twice a week at the school sports hall. Jun prefers swimming. He swims on Saturdays at a pool near his school. His brother also likes swimming, so they sometimes practise together.",
+      "emoji": "🏀",
+      "questions": [
+        {
+          "q": "What is Freya's favourite sport?",
+          "a": "Basketball",
+          "options": [
+            "Basketball",
+            "Swimming",
+            "Skiing"
+          ]
+        },
+        {
+          "q": "How often does Freya play?",
+          "a": "Twice a week",
+          "options": [
+            "Twice a week",
+            "Once a year",
+            "Never"
+          ]
+        },
+        {
+          "q": "Where does Jun swim?",
+          "a": "At a pool near his school",
+          "options": [
+            "At a pool near his school",
+            "In a kitchen",
+            "On a football field"
+          ]
+        },
+        {
+          "q": "Who sometimes practises with Jun?",
+          "a": "His brother",
+          "options": [
+            "His brother",
+            "His maths book",
+            "A remote control"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Culture and Skills - Sports for All",
+      "readingText": "Teenagers can do many sports at school. Indoor activities take place in sports halls, while outdoor sports are often played on fields. Different groups of students may prefer different sports, but everyone should have equal opportunities to take part. Sport is also shown in the media, and balanced coverage can help young people see many different sporting heroes.",
+      "emoji": "⚖️",
+      "questions": [
+        {
+          "q": "Where do indoor sports take place?",
+          "a": "In sports halls",
+          "options": [
+            "In sports halls",
+            "In kitchens",
+            "In bedrooms"
+          ]
+        },
+        {
+          "q": "Where are many outdoor sports played?",
+          "a": "On playing fields",
+          "options": [
+            "On playing fields",
+            "In wardrobes",
+            "Under tables"
+          ]
+        },
+        {
+          "q": "What should students have?",
+          "a": "Equal opportunities to take part",
+          "options": [
+            "Equal opportunities to take part",
+            "Only one sport",
+            "No PE"
+          ]
+        },
+        {
+          "q": "Why is balanced media coverage useful?",
+          "a": "It shows many different sporting heroes",
+          "options": [
+            "It shows many different sporting heroes",
+            "It removes all sport",
+            "It teaches cooking"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sport - Sporting Hero Fact File",
+      "readingText": "Camila Torres is a young athlete from South America. Her main event is the long jump. She trains five days a week and can jump very far. She has two national medals and one international medal. Camila also visits schools and talks to students about sport, practice and confidence.",
+      "emoji": "🥇",
+      "questions": [
+        {
+          "q": "What sport does Camila do?",
+          "a": "Athletics",
+          "options": [
+            "Athletics",
+            "Cricket",
+            "Swimming"
+          ]
+        },
+        {
+          "q": "What is her event?",
+          "a": "The long jump",
+          "options": [
+            "The long jump",
+            "Table tennis",
+            "Skiing"
+          ]
+        },
+        {
+          "q": "How often does she train?",
+          "a": "Five days a week",
+          "options": [
+            "Five days a week",
+            "Once a year",
+            "Never"
+          ]
+        },
+        {
+          "q": "What does she do at schools?",
+          "a": "She talks to students about sport and confidence",
+          "options": [
+            "She talks to students about sport and confidence",
+            "She sells furniture",
+            "She cooks every lunch"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Culture and Skills - Unusual Free Time",
+      "readingText": "Three teenagers have unusual hobbies. Alex makes tiny sculptures from soap. The hobby is inexpensive, but he needs a small tool and a lot of patience. Jess practises parkour. She can run, jump and climb very well, but she says people must understand their limits and be in good physical condition. Ben plays a digital version of a traditional musical instrument because it is easier for him to use.",
+      "emoji": "✨",
+      "questions": [
+        {
+          "q": "What does Alex make?",
+          "a": "Small sculptures from soap",
+          "options": [
+            "Small sculptures from soap",
+            "Football boots",
+            "Sandwiches"
+          ]
+        },
+        {
+          "q": "What does parkour include?",
+          "a": "Running, jumping and climbing",
+          "options": [
+            "Running, jumping and climbing",
+            "Only swimming",
+            "Only sitting"
+          ]
+        },
+        {
+          "q": "What does Jess say is important?",
+          "a": "Understanding your limits and being fit",
+          "options": [
+            "Understanding your limits and being fit",
+            "Ignoring safety",
+            "Never practising"
+          ]
+        },
+        {
+          "q": "What does Ben use?",
+          "a": "A digital version of an instrument",
+          "options": [
+            "A digital version of an instrument",
+            "A swimming pool",
+            "A rugby field"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sport - Opinions",
+      "readingText": "Leo and Maya have different opinions about sport. Leo loves football and thinks it is exciting. Maya doesn't agree; she finds football a little boring, but she loves cycling. Leo thinks cycling is difficult, while Maya says it is relaxing and fun. They both like swimming and go to the pool together once a week.",
+      "emoji": "💬",
+      "questions": [
+        {
+          "q": "What sport does Leo love?",
+          "a": "Football",
+          "options": [
+            "Football",
+            "Cycling",
+            "Karate"
+          ]
+        },
+        {
+          "q": "What does Maya think about football?",
+          "a": "It is a little boring",
+          "options": [
+            "It is a little boring",
+            "It is her favourite",
+            "It is a food"
+          ]
+        },
+        {
+          "q": "What does Maya love?",
+          "a": "Cycling",
+          "options": [
+            "Cycling",
+            "Cricket",
+            "Doing nothing"
+          ]
+        },
+        {
+          "q": "What sport do they both like?",
+          "a": "Swimming",
+          "options": [
+            "Swimming",
+            "Rugby",
+            "Skiing"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "SDG - Sport and Equality",
+      "readingText": "A school sports club wants everyone to feel welcome. Boys and girls can join the same training sessions, and students choose sports because they enjoy them, not because a sport is 'for boys' or 'for girls'. The club also puts photos of male and female sporting heroes on its walls. The teachers say respect and equal opportunities make the club stronger.",
+      "emoji": "🤝",
+      "questions": [
+        {
+          "q": "Who can join the training sessions?",
+          "a": "Boys and girls",
+          "options": [
+            "Boys and girls",
+            "Only boys",
+            "Only adults"
+          ]
+        },
+        {
+          "q": "How should students choose sports?",
+          "a": "Because they enjoy them",
+          "options": [
+            "Because they enjoy them",
+            "Because of stereotypes",
+            "Because of furniture"
+          ]
+        },
+        {
+          "q": "What photos are on the walls?",
+          "a": "Male and female sporting heroes",
+          "options": [
+            "Male and female sporting heroes",
+            "Only food",
+            "Only rooms"
+          ]
+        },
+        {
+          "q": "What makes the club stronger?",
+          "a": "Respect and equal opportunities",
+          "options": [
+            "Respect and equal opportunities",
+            "Fewer students",
+            "No practice"
+          ]
+        }
+      ]
+    }
+  ],
+  "SENTENCES": [
+    {
+      "eng": "I play basketball.",
+      "spa": "Juego al básquet.",
+      "category": "Sports Collocations",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "We play football after school.",
+      "spa": "Jugamos al fútbol después de la escuela.",
+      "category": "Sports Collocations",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "They play volleyball on Fridays.",
+      "spa": "Juegan al vóley los viernes.",
+      "category": "Sports Collocations",
+      "emoji": "🏐"
+    },
+    {
+      "eng": "I go cycling at the weekend.",
+      "spa": "Practico ciclismo el fin de semana.",
+      "category": "Sports Collocations",
+      "emoji": "🚴"
+    },
+    {
+      "eng": "She goes skiing in winter.",
+      "spa": "Ella esquía en invierno.",
+      "category": "Sports Collocations",
+      "emoji": "⛷️"
+    },
+    {
+      "eng": "We go swimming twice a week.",
+      "spa": "Vamos a nadar dos veces por semana.",
+      "category": "Sports Collocations",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "He does karate.",
+      "spa": "Él hace karate.",
+      "category": "Sports Collocations",
+      "emoji": "🥋"
+    },
+    {
+      "eng": "I do athletics at school.",
+      "spa": "Hago atletismo en la escuela.",
+      "category": "Sports Collocations",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "She does gymnastics very well.",
+      "spa": "Ella hace gimnasia muy bien.",
+      "category": "Sports Collocations",
+      "emoji": "🤸"
+    },
+    {
+      "eng": "Basketball is a team sport.",
+      "spa": "El básquet es un deporte de equipo.",
+      "category": "Team and Individual Sports",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "Gymnastics is often an individual sport.",
+      "spa": "La gimnasia suele ser un deporte individual.",
+      "category": "Team and Individual Sports",
+      "emoji": "🤸"
+    },
+    {
+      "eng": "Can you play tennis?",
+      "spa": "¿Puedes jugar al tenis?",
+      "category": "Can for Ability",
+      "emoji": "🎾"
+    },
+    {
+      "eng": "Yes, I can.",
+      "spa": "Sí, puedo.",
+      "category": "Can for Ability",
+      "emoji": "✅"
+    },
+    {
+      "eng": "No, I can't.",
+      "spa": "No, no puedo.",
+      "category": "Can for Ability",
+      "emoji": "❌"
+    },
+    {
+      "eng": "She can swim very well.",
+      "spa": "Ella puede nadar muy bien.",
+      "category": "Can for Ability",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "He can't play tennis.",
+      "spa": "Él no puede jugar al tenis.",
+      "category": "Can for Ability",
+      "emoji": "🎾"
+    },
+    {
+      "eng": "Can I use your racket?",
+      "spa": "¿Puedo usar tu raqueta?",
+      "category": "Can for Permission",
+      "emoji": "🎾"
+    },
+    {
+      "eng": "Yes, you can.",
+      "spa": "Sí, puedes.",
+      "category": "Can for Permission",
+      "emoji": "✅"
+    },
+    {
+      "eng": "No, you can't.",
+      "spa": "No, no puedes.",
+      "category": "Can for Permission",
+      "emoji": "❌"
+    },
+    {
+      "eng": "Jamie runs slowly.",
+      "spa": "Jamie corre lentamente.",
+      "category": "Adverbs of Manner",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Sally swims well.",
+      "spa": "Sally nada bien.",
+      "category": "Adverbs of Manner",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "Ava runs quickly.",
+      "spa": "Ava corre rápidamente.",
+      "category": "Adverbs of Manner",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Jack can run fast.",
+      "spa": "Jack puede correr rápido.",
+      "category": "Adverbs of Manner",
+      "emoji": "💨"
+    },
+    {
+      "eng": "Mia sings happily.",
+      "spa": "Mia canta felizmente.",
+      "category": "Adverbs of Manner",
+      "emoji": "🎤"
+    },
+    {
+      "eng": "Please do it carefully.",
+      "spa": "Por favor, hazlo cuidadosamente.",
+      "category": "Adverbs of Manner",
+      "emoji": "⚠️"
+    },
+    {
+      "eng": "I love playing football.",
+      "spa": "Me encanta jugar al fútbol.",
+      "category": "Likes and Dislikes",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "I like skateboarding.",
+      "spa": "Me gusta andar en skate.",
+      "category": "Likes and Dislikes",
+      "emoji": "🛹"
+    },
+    {
+      "eng": "I can't stand eating tomatoes.",
+      "spa": "No soporto comer tomates.",
+      "category": "Likes and Dislikes",
+      "emoji": "🍅"
+    },
+    {
+      "eng": "I hate jogging in the rain.",
+      "spa": "Odio trotar bajo la lluvia.",
+      "category": "Likes and Dislikes",
+      "emoji": "🌧️"
+    },
+    {
+      "eng": "We love making new friends.",
+      "spa": "Nos encanta hacer nuevos amigos.",
+      "category": "Likes and Dislikes",
+      "emoji": "🤝"
+    },
+    {
+      "eng": "They like taking photos.",
+      "spa": "Les gusta sacar fotos.",
+      "category": "Likes and Dislikes",
+      "emoji": "📷"
+    },
+    {
+      "eng": "Look at me.",
+      "spa": "Mírame.",
+      "category": "Object Pronouns",
+      "emoji": "👀"
+    },
+    {
+      "eng": "I can't find him.",
+      "spa": "No puedo encontrarlo.",
+      "category": "Object Pronouns",
+      "emoji": "👦"
+    },
+    {
+      "eng": "Give the ball to her.",
+      "spa": "Dale la pelota a ella.",
+      "category": "Object Pronouns",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "They play with us.",
+      "spa": "Juegan con nosotros.",
+      "category": "Object Pronouns",
+      "emoji": "👥"
+    },
+    {
+      "eng": "I know them.",
+      "spa": "Los conozco.",
+      "category": "Object Pronouns",
+      "emoji": "👥"
+    },
+    {
+      "eng": "I love it.",
+      "spa": "Me encanta.",
+      "category": "Object Pronouns",
+      "emoji": "❤️"
+    },
+    {
+      "eng": "Do you like basketball?",
+      "spa": "¿Te gusta el básquet?",
+      "category": "Opinions",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "How do you feel about basketball?",
+      "spa": "¿Qué opinas del básquet?",
+      "category": "Opinions",
+      "emoji": "💭"
+    },
+    {
+      "eng": "To be honest, I don't like it.",
+      "spa": "Para ser sincero/a, no me gusta.",
+      "category": "Opinions",
+      "emoji": "💬"
+    },
+    {
+      "eng": "I think it's boring.",
+      "spa": "Creo que es aburrido.",
+      "category": "Opinions",
+      "emoji": "🥱"
+    },
+    {
+      "eng": "What do you think about tennis?",
+      "spa": "¿Qué piensas del tenis?",
+      "category": "Opinions",
+      "emoji": "🎾"
+    },
+    {
+      "eng": "In my opinion, it's fantastic.",
+      "spa": "En mi opinión, es fantástico.",
+      "category": "Opinions",
+      "emoji": "🌟"
+    },
+    {
+      "eng": "Are you joking?",
+      "spa": "¿Estás bromeando?",
+      "category": "Opinion Language",
+      "emoji": "😮"
+    },
+    {
+      "eng": "That's so true.",
+      "spa": "Es totalmente cierto.",
+      "category": "Opinion Language",
+      "emoji": "✅"
+    },
+    {
+      "eng": "Of course not!",
+      "spa": "¡Por supuesto que no!",
+      "category": "Opinion Language",
+      "emoji": "🙅"
+    },
+    {
+      "eng": "What's your favourite sport?",
+      "spa": "¿Cuál es tu deporte favorito?",
+      "category": "Skills Trainer",
+      "emoji": "🏅"
+    },
+    {
+      "eng": "How often do you play?",
+      "spa": "¿Con qué frecuencia juegas?",
+      "category": "Skills Trainer",
+      "emoji": "🔁"
+    },
+    {
+      "eng": "Where do you play?",
+      "spa": "¿Dónde juegas?",
+      "category": "Skills Trainer",
+      "emoji": "📍"
+    },
+    {
+      "eng": "Do your friends like playing tennis?",
+      "spa": "¿A tus amigos les gusta jugar al tenis?",
+      "category": "Skills Trainer",
+      "emoji": "🎾"
+    },
+    {
+      "eng": "Indoor sports take place in a sports hall.",
+      "spa": "Los deportes de interior se practican en un gimnasio.",
+      "category": "Culture and Skills",
+      "emoji": "🏟️"
+    },
+    {
+      "eng": "Outdoor sports can take place on a playing field.",
+      "spa": "Los deportes al aire libre pueden practicarse en un campo de juego.",
+      "category": "Culture and Skills",
+      "emoji": "🌳"
+    },
+    {
+      "eng": "Everyone should have equal opportunities in sport.",
+      "spa": "Todos deberían tener las mismas oportunidades en el deporte.",
+      "category": "Culture and Skills",
+      "emoji": "⚖️"
+    },
+    {
+      "eng": "A sporting hero can inspire young people.",
+      "spa": "Un héroe o heroína deportiva puede inspirar a los jóvenes.",
+      "category": "Culture and Skills",
+      "emoji": "🏅"
+    },
+    {
+      "eng": "She is a gold medallist.",
+      "spa": "Ella es medallista de oro.",
+      "category": "Sporting Hero",
+      "emoji": "🥇"
+    },
+    {
+      "eng": "He wears a helmet when he cycles.",
+      "spa": "Él usa casco cuando anda en bicicleta.",
+      "category": "Sports Equipment",
+      "emoji": "⛑️"
+    },
+    {
+      "eng": "The match starts at four o'clock.",
+      "spa": "El partido empieza a las cuatro.",
+      "category": "Sports Places",
+      "emoji": "🏆"
+    },
+    {
+      "eng": "We meet at the sports café.",
+      "spa": "Nos encontramos en el café deportivo.",
+      "category": "Sports Places",
+      "emoji": "☕"
+    },
+    {
+      "eng": "The swimming pool is next to the sports hall.",
+      "spa": "La piscina está al lado del gimnasio.",
+      "category": "Sports Places",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "Parkour is very acrobatic.",
+      "spa": "El parkour es muy acrobático.",
+      "category": "Unusual Free Time",
+      "emoji": "🤸"
+    },
+    {
+      "eng": "You need patience for this hobby.",
+      "spa": "Necesitas paciencia para este pasatiempo.",
+      "category": "Unusual Free Time",
+      "emoji": "🧘"
+    },
+    {
+      "eng": "Good physical condition is important for some activities.",
+      "spa": "Un buen estado físico es importante para algunas actividades.",
+      "category": "Unusual Free Time",
+      "emoji": "💪"
+    },
+    {
+      "eng": "He uses a digital version of the instrument.",
+      "spa": "Él usa una versión digital del instrumento.",
+      "category": "Unusual Free Time",
+      "emoji": "💻"
+    },
+    {
+      "eng": "Boys and girls can enjoy the same sports.",
+      "spa": "Los chicos y las chicas pueden disfrutar de los mismos deportes.",
+      "category": "Gender Equality",
+      "emoji": "⚖️"
+    },
+    {
+      "eng": "Men and women can be sporting heroes.",
+      "spa": "Hombres y mujeres pueden ser héroes deportivos.",
+      "category": "Gender Equality",
+      "emoji": "🏅"
+    },
+    {
+      "eng": "Children can choose the sports they enjoy.",
+      "spa": "Los niños pueden elegir los deportes que disfrutan.",
+      "category": "Gender Equality",
+      "emoji": "🧒"
+    },
+    {
+      "eng": "Sport is for everyone.",
+      "spa": "El deporte es para todos.",
+      "category": "Gender Equality",
+      "emoji": "🤝"
+    }
+  ],
+  "VOCABULARY": [
+    {
+      "eng": "Athletics",
+      "spa": "Atletismo",
+      "category": "Sports and Free Time",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Basketball",
+      "spa": "Básquet",
+      "category": "Sports and Free Time",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "Cricket",
+      "spa": "Críquet",
+      "category": "Sports and Free Time",
+      "emoji": "🏏"
+    },
+    {
+      "eng": "Cycling",
+      "spa": "Ciclismo",
+      "category": "Sports and Free Time",
+      "emoji": "🚴"
+    },
+    {
+      "eng": "Football",
+      "spa": "Fútbol",
+      "category": "Sports and Free Time",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "Gymnastics",
+      "spa": "Gimnasia",
+      "category": "Sports and Free Time",
+      "emoji": "🤸"
+    },
+    {
+      "eng": "Hockey",
+      "spa": "Hockey",
+      "category": "Sports and Free Time",
+      "emoji": "🏑"
+    },
+    {
+      "eng": "Karate",
+      "spa": "Karate",
+      "category": "Sports and Free Time",
+      "emoji": "🥋"
+    },
+    {
+      "eng": "Rugby",
+      "spa": "Rugby",
+      "category": "Sports and Free Time",
+      "emoji": "🏉"
+    },
+    {
+      "eng": "Skateboarding",
+      "spa": "Skate / skateboarding",
+      "category": "Sports and Free Time",
+      "emoji": "🛹"
+    },
+    {
+      "eng": "Skiing",
+      "spa": "Esquí",
+      "category": "Sports and Free Time",
+      "emoji": "⛷️"
+    },
+    {
+      "eng": "Swimming",
+      "spa": "Natación",
+      "category": "Sports and Free Time",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "Tennis",
+      "spa": "Tenis",
+      "category": "Sports and Free Time",
+      "emoji": "🎾"
+    },
+    {
+      "eng": "Volleyball",
+      "spa": "Vóley",
+      "category": "Sports and Free Time",
+      "emoji": "🏐"
+    },
+    {
+      "eng": "Individual sport",
+      "spa": "Deporte individual",
+      "category": "Sports and Free Time",
+      "emoji": "👤"
+    },
+    {
+      "eng": "Team sport",
+      "spa": "Deporte de equipo",
+      "category": "Sports and Free Time",
+      "emoji": "👥"
+    },
+    {
+      "eng": "Female",
+      "spa": "Femenino / mujer",
+      "category": "People in Sport",
+      "emoji": "♀️"
+    },
+    {
+      "eng": "Male",
+      "spa": "Masculino / varón",
+      "category": "People in Sport",
+      "emoji": "♂️"
+    },
+    {
+      "eng": "Sports star",
+      "spa": "Estrella deportiva",
+      "category": "People in Sport",
+      "emoji": "⭐"
+    },
+    {
+      "eng": "Runner",
+      "spa": "Corredor/a",
+      "category": "People in Sport",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Swimmer",
+      "spa": "Nadador/a",
+      "category": "People in Sport",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "Sporting hero",
+      "spa": "Héroe / heroína deportiva",
+      "category": "People in Sport",
+      "emoji": "🏅"
+    },
+    {
+      "eng": "Gold medallist",
+      "spa": "Medallista de oro",
+      "category": "People in Sport",
+      "emoji": "🥇"
+    },
+    {
+      "eng": "Instructor",
+      "spa": "Instructor/a",
+      "category": "People in Sport",
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "eng": "Adult",
+      "spa": "Adulto/a",
+      "category": "People in Sport",
+      "emoji": "🧑"
+    },
+    {
+      "eng": "Audience",
+      "spa": "Audiencia / público",
+      "category": "People in Sport",
+      "emoji": "👥"
+    },
+    {
+      "eng": "Bad",
+      "spa": "Malo/a",
+      "category": "Adjectives and Adverbs",
+      "emoji": "👎"
+    },
+    {
+      "eng": "Badly",
+      "spa": "Mal",
+      "category": "Adjectives and Adverbs",
+      "emoji": "👎"
+    },
+    {
+      "eng": "Careful",
+      "spa": "Cuidadoso/a",
+      "category": "Adjectives and Adverbs",
+      "emoji": "⚠️"
+    },
+    {
+      "eng": "Carefully",
+      "spa": "Cuidadosamente",
+      "category": "Adjectives and Adverbs",
+      "emoji": "🧐"
+    },
+    {
+      "eng": "Easy",
+      "spa": "Fácil",
+      "category": "Adjectives and Adverbs",
+      "emoji": "✅"
+    },
+    {
+      "eng": "Easily",
+      "spa": "Fácilmente",
+      "category": "Adjectives and Adverbs",
+      "emoji": "✨"
+    },
+    {
+      "eng": "Fast",
+      "spa": "Rápido / rápidamente",
+      "category": "Adjectives and Adverbs",
+      "emoji": "💨"
+    },
+    {
+      "eng": "Good",
+      "spa": "Bueno/a",
+      "category": "Adjectives and Adverbs",
+      "emoji": "👍"
+    },
+    {
+      "eng": "Well",
+      "spa": "Bien",
+      "category": "Adjectives and Adverbs",
+      "emoji": "🌟"
+    },
+    {
+      "eng": "Happy",
+      "spa": "Feliz",
+      "category": "Adjectives and Adverbs",
+      "emoji": "😊"
+    },
+    {
+      "eng": "Happily",
+      "spa": "Felizmente",
+      "category": "Adjectives and Adverbs",
+      "emoji": "😄"
+    },
+    {
+      "eng": "Slow",
+      "spa": "Lento/a",
+      "category": "Adjectives and Adverbs",
+      "emoji": "🐢"
+    },
+    {
+      "eng": "Slowly",
+      "spa": "Lentamente",
+      "category": "Adjectives and Adverbs",
+      "emoji": "🐢"
+    },
+    {
+      "eng": "Outside",
+      "spa": "Afuera",
+      "category": "Ability and Activities",
+      "emoji": "🌳"
+    },
+    {
+      "eng": "Run",
+      "spa": "Correr",
+      "category": "Ability and Activities",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Superpower",
+      "spa": "Superpoder",
+      "category": "Ability and Activities",
+      "emoji": "⚡"
+    },
+    {
+      "eng": "Swim",
+      "spa": "Nadar",
+      "category": "Ability and Activities",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "Try",
+      "spa": "Intentar",
+      "category": "Ability and Activities",
+      "emoji": "💪"
+    },
+    {
+      "eng": "Can",
+      "spa": "Poder / saber hacer",
+      "category": "Ability and Activities",
+      "emoji": "✅"
+    },
+    {
+      "eng": "Can't",
+      "spa": "No poder / no saber hacer",
+      "category": "Ability and Activities",
+      "emoji": "❌"
+    },
+    {
+      "eng": "Can't stand",
+      "spa": "No soportar",
+      "category": "Likes and Dislikes",
+      "emoji": "😖"
+    },
+    {
+      "eng": "Disco dancing",
+      "spa": "Bailar música disco",
+      "category": "Likes and Dislikes",
+      "emoji": "🕺"
+    },
+    {
+      "eng": "Do nothing",
+      "spa": "No hacer nada",
+      "category": "Likes and Dislikes",
+      "emoji": "🛋️"
+    },
+    {
+      "eng": "Jogging",
+      "spa": "Trotar",
+      "category": "Likes and Dislikes",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Make a salad",
+      "spa": "Preparar una ensalada",
+      "category": "Likes and Dislikes",
+      "emoji": "🥗"
+    },
+    {
+      "eng": "Make a sandwich",
+      "spa": "Preparar un sándwich",
+      "category": "Likes and Dislikes",
+      "emoji": "🥪"
+    },
+    {
+      "eng": "Make new friends",
+      "spa": "Hacer nuevos amigos",
+      "category": "Likes and Dislikes",
+      "emoji": "🤝"
+    },
+    {
+      "eng": "Picnic",
+      "spa": "Pícnic",
+      "category": "Likes and Dislikes",
+      "emoji": "🧺"
+    },
+    {
+      "eng": "Rain",
+      "spa": "Lluvia",
+      "category": "Likes and Dislikes",
+      "emoji": "🌧️"
+    },
+    {
+      "eng": "Remote",
+      "spa": "Control remoto",
+      "category": "Likes and Dislikes",
+      "emoji": "📺"
+    },
+    {
+      "eng": "Ski",
+      "spa": "Esquiar",
+      "category": "Likes and Dislikes",
+      "emoji": "⛷️"
+    },
+    {
+      "eng": "Take photos",
+      "spa": "Sacar fotos",
+      "category": "Likes and Dislikes",
+      "emoji": "📷"
+    },
+    {
+      "eng": "Love",
+      "spa": "Encantar / amar",
+      "category": "Likes and Dislikes",
+      "emoji": "❤️"
+    },
+    {
+      "eng": "Like",
+      "spa": "Gustar",
+      "category": "Likes and Dislikes",
+      "emoji": "👍"
+    },
+    {
+      "eng": "Hate",
+      "spa": "Odiar",
+      "category": "Likes and Dislikes",
+      "emoji": "😠"
+    },
+    {
+      "eng": "Are you joking?",
+      "spa": "¿Estás bromeando?",
+      "category": "Opinion Language",
+      "emoji": "😮"
+    },
+    {
+      "eng": "Brilliant",
+      "spa": "Brillante / genial",
+      "category": "Opinion Language",
+      "emoji": "✨"
+    },
+    {
+      "eng": "Exciting",
+      "spa": "Emocionante",
+      "category": "Opinion Language",
+      "emoji": "🤩"
+    },
+    {
+      "eng": "Of course not!",
+      "spa": "¡Por supuesto que no!",
+      "category": "Opinion Language",
+      "emoji": "🙅"
+    },
+    {
+      "eng": "Scary",
+      "spa": "Aterrador/a / da miedo",
+      "category": "Opinion Language",
+      "emoji": "😨"
+    },
+    {
+      "eng": "That's so true.",
+      "spa": "Es totalmente cierto.",
+      "category": "Opinion Language",
+      "emoji": "✅"
+    },
+    {
+      "eng": "Violent",
+      "spa": "Violento/a",
+      "category": "Opinion Language",
+      "emoji": "⚠️"
+    },
+    {
+      "eng": "Boring",
+      "spa": "Aburrido/a",
+      "category": "Opinion Language",
+      "emoji": "🥱"
+    },
+    {
+      "eng": "Fantastic",
+      "spa": "Fantástico/a",
+      "category": "Opinion Language",
+      "emoji": "🌟"
+    },
+    {
+      "eng": "In my opinion",
+      "spa": "En mi opinión",
+      "category": "Opinion Language",
+      "emoji": "💭"
+    },
+    {
+      "eng": "To be honest",
+      "spa": "Para ser sincero/a",
+      "category": "Opinion Language",
+      "emoji": "💬"
+    },
+    {
+      "eng": "Badminton",
+      "spa": "Bádminton",
+      "category": "Sports Places and Equipment",
+      "emoji": "🏸"
+    },
+    {
+      "eng": "Table tennis",
+      "spa": "Tenis de mesa",
+      "category": "Sports Places and Equipment",
+      "emoji": "🏓"
+    },
+    {
+      "eng": "Helmet",
+      "spa": "Casco",
+      "category": "Sports Places and Equipment",
+      "emoji": "⛑️"
+    },
+    {
+      "eng": "Indoor sports",
+      "spa": "Deportes de interior",
+      "category": "Sports Places and Equipment",
+      "emoji": "🏟️"
+    },
+    {
+      "eng": "Outdoor sports",
+      "spa": "Deportes al aire libre",
+      "category": "Sports Places and Equipment",
+      "emoji": "🌳"
+    },
+    {
+      "eng": "PE kit",
+      "spa": "Equipo / ropa de Educación Física",
+      "category": "Sports Places and Equipment",
+      "emoji": "🎽"
+    },
+    {
+      "eng": "Playing field",
+      "spa": "Campo de juego",
+      "category": "Sports Places and Equipment",
+      "emoji": "🏟️"
+    },
+    {
+      "eng": "Ride a bike",
+      "spa": "Andar en bicicleta",
+      "category": "Sports Places and Equipment",
+      "emoji": "🚲"
+    },
+    {
+      "eng": "Sports café",
+      "spa": "Café deportivo",
+      "category": "Sports Places and Equipment",
+      "emoji": "☕"
+    },
+    {
+      "eng": "Sports hall",
+      "spa": "Gimnasio / pabellón deportivo",
+      "category": "Sports Places and Equipment",
+      "emoji": "🏟️"
+    },
+    {
+      "eng": "Swimming pool",
+      "spa": "Piscina",
+      "category": "Sports Places and Equipment",
+      "emoji": "🏊"
+    },
+    {
+      "eng": "Match",
+      "spa": "Partido",
+      "category": "Sports Places and Equipment",
+      "emoji": "🏆"
+    },
+    {
+      "eng": "Letter",
+      "spa": "Carta",
+      "category": "Sports Places and Equipment",
+      "emoji": "✉️"
+    },
+    {
+      "eng": "Life skill",
+      "spa": "Habilidad para la vida",
+      "category": "Sports Places and Equipment",
+      "emoji": "🧠"
+    },
+    {
+      "eng": "Acrobatic",
+      "spa": "Acrobático/a",
+      "category": "Unusual Free Time",
+      "emoji": "🤸"
+    },
+    {
+      "eng": "Digital version",
+      "spa": "Versión digital",
+      "category": "Unusual Free Time",
+      "emoji": "💻"
+    },
+    {
+      "eng": "Knife",
+      "spa": "Cuchillo",
+      "category": "Unusual Free Time",
+      "emoji": "🔪"
+    },
+    {
+      "eng": "Limit",
+      "spa": "Límite",
+      "category": "Unusual Free Time",
+      "emoji": "🚧"
+    },
+    {
+      "eng": "Patience",
+      "spa": "Paciencia",
+      "category": "Unusual Free Time",
+      "emoji": "🧘"
+    },
+    {
+      "eng": "Physical condition",
+      "spa": "Estado físico",
+      "category": "Unusual Free Time",
+      "emoji": "💪"
+    },
+    {
+      "eng": "Soap",
+      "spa": "Jabón",
+      "category": "Unusual Free Time",
+      "emoji": "🧼"
+    },
+    {
+      "eng": "Parkour",
+      "spa": "Parkour",
+      "category": "Unusual Free Time",
+      "emoji": "🤸"
+    },
+    {
+      "eng": "Bagpipes",
+      "spa": "Gaita escocesa",
+      "category": "Unusual Free Time",
+      "emoji": "🎶"
+    },
+    {
+      "eng": "Boy",
+      "spa": "Niño / chico",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👦"
+    },
+    {
+      "eng": "Boys",
+      "spa": "Niños / chicos",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👦"
+    },
+    {
+      "eng": "Girl",
+      "spa": "Niña / chica",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👧"
+    },
+    {
+      "eng": "Girls",
+      "spa": "Niñas / chicas",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👧"
+    },
+    {
+      "eng": "Child",
+      "spa": "Niño/a",
+      "category": "Gender Equality and Plurals",
+      "emoji": "🧒"
+    },
+    {
+      "eng": "Children",
+      "spa": "Niños/as",
+      "category": "Gender Equality and Plurals",
+      "emoji": "🧒"
+    },
+    {
+      "eng": "Man",
+      "spa": "Hombre",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👨"
+    },
+    {
+      "eng": "Men",
+      "spa": "Hombres",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👨"
+    },
+    {
+      "eng": "Woman",
+      "spa": "Mujer",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👩"
+    },
+    {
+      "eng": "Women",
+      "spa": "Mujeres",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👩"
+    },
+    {
+      "eng": "Person",
+      "spa": "Persona",
+      "category": "Gender Equality and Plurals",
+      "emoji": "🧑"
+    },
+    {
+      "eng": "People",
+      "spa": "Personas",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👥"
+    },
+    {
+      "eng": "Human",
+      "spa": "Ser humano",
+      "category": "Gender Equality and Plurals",
+      "emoji": "🧑"
+    },
+    {
+      "eng": "Humans",
+      "spa": "Seres humanos",
+      "category": "Gender Equality and Plurals",
+      "emoji": "👥"
+    }
+  ]
+}

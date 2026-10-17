@@ -1,0 +1,2194 @@
+[
+  {
+    "eng": "Rabbit",
+    "spa": "Conejo",
+    "category": "Animals",
+    "emoji": "🐇",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Snake",
+    "spa": "Serpiente",
+    "category": "Animals",
+    "emoji": "🐍",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Fish",
+    "spa": "Pez",
+    "category": "Animals",
+    "emoji": "🐟",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mouse",
+    "spa": "Ratón",
+    "category": "Animals",
+    "emoji": "🐭",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hamster",
+    "spa": "Hámster",
+    "category": "Animals",
+    "emoji": "🐹",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Unicorn",
+    "spa": "Unicornio",
+    "category": "Animals",
+    "emoji": "🦄",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Monster",
+    "spa": "Monstruo",
+    "category": "Animals",
+    "emoji": "🐉",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Laptop",
+    "spa": "Computadora portátil",
+    "category": "School & Tech",
+    "emoji": "💻",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Calculator",
+    "spa": "Calculadora",
+    "category": "School & Tech",
+    "emoji": "🖩",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Rucksack",
+    "spa": "Mochila",
+    "category": "School & Tech",
+    "emoji": "🎒",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Pen",
+    "spa": "Bolígrafo / Lapicera",
+    "category": "School & Tech",
+    "emoji": "🖊️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Games console",
+    "spa": "Consola de juegos",
+    "category": "School & Tech",
+    "emoji": "🎮",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Wi-fi code",
+    "spa": "Contraseña de Wi-Fi",
+    "category": "School & Tech",
+    "emoji": "📶",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Castle",
+    "spa": "Castillo",
+    "category": "Places",
+    "emoji": "🏰",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Volcano",
+    "spa": "Volcán",
+    "category": "Places",
+    "emoji": "🌋",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mountain",
+    "spa": "Montaña",
+    "category": "Places",
+    "emoji": "⛰️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hill",
+    "spa": "Colina",
+    "category": "Places",
+    "emoji": "🏔️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Stadium",
+    "spa": "Estadio",
+    "category": "Places",
+    "emoji": "🏟️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Museum",
+    "spa": "Museo",
+    "category": "Places",
+    "emoji": "🏛️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Gallery",
+    "spa": "Galería",
+    "category": "Places",
+    "emoji": "🖼️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Parliament",
+    "spa": "Parlamento",
+    "category": "Places",
+    "emoji": "🏛️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Port",
+    "spa": "Puerto",
+    "category": "Places",
+    "emoji": "🚢",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Highlands",
+    "spa": "Tierras Altas",
+    "category": "Places",
+    "emoji": "🏞️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Outdoor toilet",
+    "spa": "Baño exterior",
+    "category": "Places",
+    "emoji": "🚻",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cupboard",
+    "spa": "Alacena / Armario de cocina",
+    "category": "Furniture",
+    "emoji": "🗄️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Poster",
+    "spa": "Póster",
+    "category": "Furniture",
+    "emoji": "🖼️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Radio",
+    "spa": "Radio",
+    "category": "Furniture",
+    "emoji": "📻",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Light",
+    "spa": "Luz / Lámpara",
+    "category": "Furniture",
+    "emoji": "💡",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Iron",
+    "spa": "Plancha",
+    "category": "Furniture",
+    "emoji": "🧲",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Flower",
+    "spa": "Flor",
+    "category": "Objects",
+    "emoji": "🌸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cupcake",
+    "spa": "Pastelito / Cupcake",
+    "category": "Objects",
+    "emoji": "🧁",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tree",
+    "spa": "Árbol",
+    "category": "Objects",
+    "emoji": "🌳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Boring",
+    "spa": "Aburrido",
+    "category": "Adjectives",
+    "emoji": "🥱",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Busy",
+    "spa": "Ocupado / Concurrido",
+    "category": "Adjectives",
+    "emoji": "🚶",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Modern",
+    "spa": "Moderno",
+    "category": "Adjectives",
+    "emoji": "✨",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Traditional",
+    "spa": "Tradicional",
+    "category": "Adjectives",
+    "emoji": "🕰️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Silver",
+    "spa": "Plateado",
+    "category": "Adjectives",
+    "emoji": "🥈",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Late",
+    "spa": "Tarde",
+    "category": "Adjectives",
+    "emoji": "⏰",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "England",
+    "spa": "Inglaterra",
+    "category": "Countries",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Scotland",
+    "spa": "Escocia",
+    "category": "Countries",
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Wales",
+    "spa": "Gales",
+    "category": "Countries",
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Ireland",
+    "spa": "Irlanda",
+    "category": "Countries",
+    "emoji": "🇮🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The UK",
+    "spa": "El Reino Unido",
+    "category": "Countries",
+    "emoji": "🇬🇧",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The USA",
+    "spa": "Estados Unidos",
+    "category": "Countries",
+    "emoji": "🇺🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "France",
+    "spa": "Francia",
+    "category": "Countries",
+    "emoji": "🇫🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Germany",
+    "spa": "Alemania",
+    "category": "Countries",
+    "emoji": "🇩🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "China",
+    "spa": "China",
+    "category": "Countries",
+    "emoji": "🇨🇳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mexico",
+    "spa": "México",
+    "category": "Countries",
+    "emoji": "🇲🇽",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Brazil",
+    "spa": "Brasil",
+    "category": "Countries",
+    "emoji": "🇧🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Argentina",
+    "spa": "Argentina",
+    "category": "Countries",
+    "emoji": "🇦🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Spain",
+    "spa": "España",
+    "category": "Countries",
+    "emoji": "🇪🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Turkey",
+    "spa": "Turquía",
+    "category": "Countries",
+    "emoji": "🇹🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Russia",
+    "spa": "Rusia",
+    "category": "Countries",
+    "emoji": "🇷🇺",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Poland",
+    "spa": "Polonia",
+    "category": "Countries",
+    "emoji": "🇵🇱",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Greece",
+    "spa": "Grecia",
+    "category": "Countries",
+    "emoji": "🇬🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Egypt",
+    "spa": "Egipto",
+    "category": "Countries",
+    "emoji": "🇪🇬",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Italy",
+    "spa": "Italia",
+    "category": "Countries",
+    "emoji": "🇮🇹",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Morocco",
+    "spa": "Marruecos",
+    "category": "Countries",
+    "emoji": "🇲🇦",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "English",
+    "spa": "Inglés",
+    "category": "Nationalities",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Scottish",
+    "spa": "Escocés",
+    "category": "Nationalities",
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Welsh",
+    "spa": "Galés",
+    "category": "Nationalities",
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Irish",
+    "spa": "Irlandés",
+    "category": "Nationalities",
+    "emoji": "🇮🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "British",
+    "spa": "Británico",
+    "category": "Nationalities",
+    "emoji": "🇬🇧",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "American",
+    "spa": "Americano",
+    "category": "Nationalities",
+    "emoji": "🇺🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "French",
+    "spa": "Francés",
+    "category": "Nationalities",
+    "emoji": "🇫🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "German",
+    "spa": "Alemán",
+    "category": "Nationalities",
+    "emoji": "🇩🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Chinese",
+    "spa": "Chino",
+    "category": "Nationalities",
+    "emoji": "🇨🇳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mexican",
+    "spa": "Mexicano",
+    "category": "Nationalities",
+    "emoji": "🇲🇽",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Brazilian",
+    "spa": "Brasileño",
+    "category": "Nationalities",
+    "emoji": "🇧🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Argentinian",
+    "spa": "Argentino",
+    "category": "Nationalities",
+    "emoji": "🇦🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Spanish",
+    "spa": "Español",
+    "category": "Nationalities",
+    "emoji": "🇪🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Turkish",
+    "spa": "Turco",
+    "category": "Nationalities",
+    "emoji": "🇹🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Russian",
+    "spa": "Ruso",
+    "category": "Nationalities",
+    "emoji": "🇷🇺",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Polish",
+    "spa": "Polaco",
+    "category": "Nationalities",
+    "emoji": "🇵🇱",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Greek",
+    "spa": "Griego",
+    "category": "Nationalities",
+    "emoji": "🇬🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Egyptian",
+    "spa": "Egipcio",
+    "category": "Nationalities",
+    "emoji": "🇪🇬",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Italian",
+    "spa": "Italiano",
+    "category": "Nationalities",
+    "emoji": "🇮🇹",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Moroccan",
+    "spa": "Marroquí",
+    "category": "Nationalities",
+    "emoji": "🇲🇦",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cool",
+    "spa": "Genial",
+    "category": "Adjectives",
+    "emoji": "😎",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Funny",
+    "spa": "Divertido",
+    "category": "Adjectives",
+    "emoji": "😂",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Strong",
+    "spa": "Fuerte",
+    "category": "Adjectives",
+    "emoji": "💪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Fast",
+    "spa": "Rápido",
+    "category": "Adjectives",
+    "emoji": "⚡",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hungry",
+    "spa": "Hambriento",
+    "category": "Adjectives",
+    "emoji": "🍔",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Angry",
+    "spa": "Enojado",
+    "category": "Adjectives",
+    "emoji": "😠",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Worried",
+    "spa": "Preocupado",
+    "category": "Adjectives",
+    "emoji": "😟",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Awesome",
+    "spa": "Increíble",
+    "category": "Adjectives",
+    "emoji": "🤩",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Easy",
+    "spa": "Fácil",
+    "category": "Adjectives",
+    "emoji": "✅",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Difficult",
+    "spa": "Difícil",
+    "category": "Adjectives",
+    "emoji": "❌",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "New",
+    "spa": "Nuevo",
+    "category": "Adjectives",
+    "emoji": "✨",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Favourite",
+    "spa": "Favorito",
+    "category": "Adjectives",
+    "emoji": "⭐",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Living room",
+    "spa": "Sala de estar",
+    "category": "Rooms",
+    "emoji": "🛋️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Dining room",
+    "spa": "Comedor",
+    "category": "Rooms",
+    "emoji": "🍽️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Kitchen",
+    "spa": "Cocina",
+    "category": "Rooms",
+    "emoji": "🍳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bathroom",
+    "spa": "Baño",
+    "category": "Rooms",
+    "emoji": "🛁",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bedroom",
+    "spa": "Dormitorio",
+    "category": "Rooms",
+    "emoji": "🛏️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hall",
+    "spa": "Pasillo / Recibidor",
+    "category": "Rooms",
+    "emoji": "🚪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Stairs",
+    "spa": "Escaleras",
+    "category": "Rooms",
+    "emoji": "🪜",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Garden",
+    "spa": "Jardín",
+    "category": "Rooms",
+    "emoji": "🌳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Upstairs",
+    "spa": "Arriba (piso superior)",
+    "category": "Rooms",
+    "emoji": "⬆️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Downstairs",
+    "spa": "Abajo (piso inferior)",
+    "category": "Rooms",
+    "emoji": "⬇️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sofa",
+    "spa": "Sofá",
+    "category": "Furniture",
+    "emoji": "🛋️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Armchair",
+    "spa": "Sillón",
+    "category": "Furniture",
+    "emoji": "🪑",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Table",
+    "spa": "Mesa",
+    "category": "Furniture",
+    "emoji": "🪚",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Chair",
+    "spa": "Silla",
+    "category": "Furniture",
+    "emoji": "🪑",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Window",
+    "spa": "Ventana",
+    "category": "Furniture",
+    "emoji": "🪟",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Shower",
+    "spa": "Ducha",
+    "category": "Furniture",
+    "emoji": "🚿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cooker",
+    "spa": "Cocina (electrodoméstico)",
+    "category": "Furniture",
+    "emoji": "🍳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Fridge",
+    "spa": "Refrigerador / Heladera",
+    "category": "Furniture",
+    "emoji": "🧊",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sink",
+    "spa": "Fregadero / Pileta",
+    "category": "Furniture",
+    "emoji": "🚰",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Washbasin",
+    "spa": "Lavamanos",
+    "category": "Furniture",
+    "emoji": "🧼",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mirror",
+    "spa": "Espejo",
+    "category": "Furniture",
+    "emoji": "🪞",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Toilet",
+    "spa": "Inodoro",
+    "category": "Furniture",
+    "emoji": "🚽",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bed",
+    "spa": "Cama",
+    "category": "Furniture",
+    "emoji": "🛏️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Wardrobe",
+    "spa": "Ropero / Armario",
+    "category": "Furniture",
+    "emoji": "🚪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Chest of drawers",
+    "spa": "Cómoda / Cajonera",
+    "category": "Furniture",
+    "emoji": "🗄️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bath",
+    "spa": "Bañera",
+    "category": "Furniture",
+    "emoji": "🛁",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Coffee table",
+    "spa": "Mesa de centro",
+    "category": "Furniture",
+    "emoji": "☕",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bookcase",
+    "spa": "Librero / Estantería",
+    "category": "Furniture",
+    "emoji": "📚",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Kettle",
+    "spa": "Hervidor / Pava eléctrica",
+    "category": "Furniture",
+    "emoji": "🫖",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Shelf",
+    "spa": "Estante",
+    "category": "Furniture",
+    "emoji": "🪵",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "In",
+    "spa": "En / Dentro de",
+    "category": "Prepositions",
+    "emoji": "📦",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "On",
+    "spa": "En / Sobre",
+    "category": "Prepositions",
+    "emoji": "🟢",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Under",
+    "spa": "Debajo de",
+    "category": "Prepositions",
+    "emoji": "⬇️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Next to",
+    "spa": "Al lado de",
+    "category": "Prepositions",
+    "emoji": "➡️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Behind",
+    "spa": "Detrás de",
+    "category": "Prepositions",
+    "emoji": "🔙",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "In front of",
+    "spa": "En frente de",
+    "category": "Prepositions",
+    "emoji": "🔜",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Opposite",
+    "spa": "Opuesto a / Enfrente de",
+    "category": "Prepositions",
+    "emoji": "↔️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Between",
+    "spa": "Entre (dos cosas)",
+    "category": "Prepositions",
+    "emoji": "👐",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Near",
+    "spa": "Cerca de",
+    "category": "Prepositions",
+    "emoji": "📍",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Above",
+    "spa": "Por encima de",
+    "category": "Prepositions",
+    "emoji": "⏫",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "City",
+    "spa": "Ciudad",
+    "category": "Monsters - Nouns",
+    "emoji": "🏙️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Monsters",
+    "spa": "Monstruos",
+    "category": "Monsters - Nouns",
+    "emoji": "👹",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Friend",
+    "spa": "Amigo",
+    "category": "Monsters - Nouns",
+    "emoji": "🤝",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Children",
+    "spa": "Niños",
+    "category": "Monsters - Nouns",
+    "emoji": "🚸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Beds",
+    "spa": "Camas",
+    "category": "Monsters - Nouns",
+    "emoji": "🛏️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Screams",
+    "spa": "Gritos",
+    "category": "Monsters - Nouns",
+    "emoji": "🗣️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Power",
+    "spa": "Energía / Poder",
+    "category": "Monsters - Nouns",
+    "emoji": "⚡",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Face",
+    "spa": "Cara",
+    "category": "Monsters - Nouns",
+    "emoji": "👤",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Eyes",
+    "spa": "Ojos",
+    "category": "Monsters - Nouns",
+    "emoji": "👀",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Door",
+    "spa": "Puerta",
+    "category": "Monsters - Nouns",
+    "emoji": "🚪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Girl",
+    "spa": "Niña",
+    "category": "Monsters - Nouns",
+    "emoji": "👧",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Home",
+    "spa": "Hogar / Casa",
+    "category": "Monsters - Nouns",
+    "emoji": "🏠",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Police",
+    "spa": "Policía",
+    "category": "Monsters - Nouns",
+    "emoji": "👮",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Laughs",
+    "spa": "Risas",
+    "category": "Monsters - Nouns",
+    "emoji": "😂",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Night",
+    "spa": "Noche",
+    "category": "Monsters - Nouns",
+    "emoji": "🌙",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Big",
+    "spa": "Grande",
+    "category": "Monsters - Adjectives",
+    "emoji": "🐘",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Blue",
+    "spa": "Azul",
+    "category": "Monsters - Adjectives",
+    "emoji": "🔵",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Furry",
+    "spa": "Peludo",
+    "category": "Monsters - Adjectives",
+    "emoji": "🧸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Short",
+    "spa": "Bajo / Corto",
+    "category": "Monsters - Adjectives",
+    "emoji": "📏",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Green",
+    "spa": "Verde",
+    "category": "Monsters - Adjectives",
+    "emoji": "🟢",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Number one",
+    "spa": "Número uno",
+    "category": "Monsters - Adjectives",
+    "emoji": "🏆",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Scared",
+    "spa": "Asustado",
+    "category": "Monsters - Adjectives",
+    "emoji": "😨",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Important",
+    "spa": "Importante",
+    "category": "Monsters - Adjectives",
+    "emoji": "👑",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Small",
+    "spa": "Pequeño",
+    "category": "Monsters - Adjectives",
+    "emoji": "🐭",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Nice",
+    "spa": "Agradable / Simpático",
+    "category": "Monsters - Adjectives",
+    "emoji": "✨",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Angry",
+    "spa": "Enojado / Enfadado",
+    "category": "Monsters - Adjectives",
+    "emoji": "😡",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bad",
+    "spa": "Malo",
+    "category": "Monsters - Adjectives",
+    "emoji": "😈",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Happy",
+    "spa": "Feliz",
+    "category": "Monsters - Adjectives",
+    "emoji": "😊",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Funny",
+    "spa": "Divertido / Gracioso",
+    "category": "Monsters - Adjectives",
+    "emoji": "🤡",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Gray",
+    "spa": "Gris",
+    "category": "Monsters - Adjectives",
+    "emoji": "🔘",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Work",
+    "spa": "Trabajar",
+    "category": "Monsters - Verbs",
+    "emoji": "💼",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Send",
+    "spa": "Enviar",
+    "category": "Monsters - Verbs",
+    "emoji": "✉️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Change",
+    "spa": "Cambiar",
+    "category": "Monsters - Verbs",
+    "emoji": "🔄",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Like",
+    "spa": "Gustar / Agradar",
+    "category": "Monsters - Verbs",
+    "emoji": "👍",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Scare",
+    "spa": "Asustar",
+    "category": "Monsters - Verbs",
+    "emoji": "👻",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Roar",
+    "spa": "Rugir",
+    "category": "Monsters - Verbs",
+    "emoji": "🦁",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Scream",
+    "spa": "Gritar",
+    "category": "Monsters - Verbs",
+    "emoji": "🔊",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Make",
+    "spa": "Hacer / Generar",
+    "category": "Monsters - Verbs",
+    "emoji": "🛠️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Open",
+    "spa": "Abrir",
+    "category": "Monsters - Verbs",
+    "emoji": "🔓",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Meet",
+    "spa": "Conocer / Encontrarse",
+    "category": "Monsters - Verbs",
+    "emoji": "👋",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Laugh",
+    "spa": "Reír",
+    "category": "Monsters - Verbs",
+    "emoji": "😆",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Play",
+    "spa": "Jugar",
+    "category": "Monsters - Verbs",
+    "emoji": "🎮",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Want",
+    "spa": "Querer",
+    "category": "Monsters - Verbs",
+    "emoji": "💭",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Help",
+    "spa": "Ayudar",
+    "category": "Monsters - Verbs",
+    "emoji": "🆘",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "See",
+    "spa": "Ver",
+    "category": "Monsters - Verbs",
+    "emoji": "👁️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Catch",
+    "spa": "Atrapar",
+    "category": "Monsters - Verbs",
+    "emoji": "🕸️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Come",
+    "spa": "Venir",
+    "category": "Monsters - Verbs",
+    "emoji": "🚶",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Take",
+    "spa": "Llevar / Tomar",
+    "category": "Monsters - Verbs",
+    "emoji": "🎒",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Throw",
+    "spa": "Arrojar / Tirar",
+    "category": "Monsters - Verbs",
+    "emoji": "☄️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Find",
+    "spa": "Encontrar",
+    "category": "Monsters - Verbs",
+    "emoji": "🔍",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tell",
+    "spa": "Contar / Decir",
+    "category": "Monsters - Verbs",
+    "emoji": "🗣️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Put",
+    "spa": "Poner / Colocar",
+    "category": "Monsters - Verbs",
+    "emoji": "📥",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Colors",
+    "spa": "Colores",
+    "category": "Monsters - Activities",
+    "emoji": "🎨",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Names",
+    "spa": "Nombres",
+    "category": "Monsters - Activities",
+    "emoji": "📛",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Book",
+    "spa": "Libro",
+    "category": "Monsters - Activities",
+    "emoji": "📚",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "True",
+    "spa": "Verdadero",
+    "category": "Monsters - Activities",
+    "emoji": "✅",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "False",
+    "spa": "Falso",
+    "category": "Monsters - Activities",
+    "emoji": "❌",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "England",
+    "spa": "Inglaterra",
+    "category": "Countries",
+    "emoji": "🏴",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Scotland",
+    "spa": "Escocia",
+    "category": "Countries",
+    "emoji": "🏴",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Wales",
+    "spa": "Gales",
+    "category": "Countries",
+    "emoji": "🏴",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Ireland",
+    "spa": "Irlanda",
+    "category": "Countries",
+    "emoji": "🇮🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The UK",
+    "spa": "El Reino Unido",
+    "category": "Countries",
+    "emoji": "🇬🇧",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The USA",
+    "spa": "Estados Unidos",
+    "category": "Countries",
+    "emoji": "🇺🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "France",
+    "spa": "Francia",
+    "category": "Countries",
+    "emoji": "🇫🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Germany",
+    "spa": "Alemania",
+    "category": "Countries",
+    "emoji": "🇩🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "China",
+    "spa": "China",
+    "category": "Countries",
+    "emoji": "🇨🇳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mexico",
+    "spa": "México",
+    "category": "Countries",
+    "emoji": "🇲🇽",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Brazil",
+    "spa": "Brasil",
+    "category": "Countries",
+    "emoji": "🇧🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Argentina",
+    "spa": "Argentina",
+    "category": "Countries",
+    "emoji": "🇦🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Spain",
+    "spa": "España",
+    "category": "Countries",
+    "emoji": "🇪🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Turkey",
+    "spa": "Turquía",
+    "category": "Countries",
+    "emoji": "🇹🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Russia",
+    "spa": "Rusia",
+    "category": "Countries",
+    "emoji": "🇷🇺",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Poland",
+    "spa": "Polonia",
+    "category": "Countries",
+    "emoji": "🇵🇱",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Greece",
+    "spa": "Grecia",
+    "category": "Countries",
+    "emoji": "🇬🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Egypt",
+    "spa": "Egipto",
+    "category": "Countries",
+    "emoji": "🇪🇬",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Italy",
+    "spa": "Italia",
+    "category": "Countries",
+    "emoji": "🇮🇹",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Morocco",
+    "spa": "Marruecos",
+    "category": "Countries",
+    "emoji": "🇲🇦",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "English",
+    "spa": "Inglés",
+    "category": "Nationalities",
+    "emoji": "🏴",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Scottish",
+    "spa": "Escocés",
+    "category": "Nationalities",
+    "emoji": "🏴",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Welsh",
+    "spa": "Galés",
+    "category": "Nationalities",
+    "emoji": "🏴",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Irish",
+    "spa": "Irlandés",
+    "category": "Nationalities",
+    "emoji": "🇮🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "British",
+    "spa": "Británico",
+    "category": "Nationalities",
+    "emoji": "🇬🇧",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "American",
+    "spa": "Americano",
+    "category": "Nationalities",
+    "emoji": "🇺🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "French",
+    "spa": "Francés",
+    "category": "Nationalities",
+    "emoji": "🇫🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "German",
+    "spa": "Alemán",
+    "category": "Nationalities",
+    "emoji": "🇩🇪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Chinese",
+    "spa": "Chino",
+    "category": "Nationalities",
+    "emoji": "🇨🇳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mexican",
+    "spa": "Mexicano",
+    "category": "Nationalities",
+    "emoji": "🇲🇽",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Brazilian",
+    "spa": "Brasileño",
+    "category": "Nationalities",
+    "emoji": "🇧🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Argentinian",
+    "spa": "Argentino",
+    "category": "Nationalities",
+    "emoji": "🇦🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Spanish",
+    "spa": "Español",
+    "category": "Nationalities",
+    "emoji": "🇪🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Turkish",
+    "spa": "Turco",
+    "category": "Nationalities",
+    "emoji": "🇹🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Russian",
+    "spa": "Ruso",
+    "category": "Nationalities",
+    "emoji": "🇷🇺",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Polish",
+    "spa": "Polaco",
+    "category": "Nationalities",
+    "emoji": "🇵🇱",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Greek",
+    "spa": "Griego",
+    "category": "Nationalities",
+    "emoji": "🇬🇷",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Egyptian",
+    "spa": "Egipcio",
+    "category": "Nationalities",
+    "emoji": "🇪🇬",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Italian",
+    "spa": "Italiano",
+    "category": "Nationalities",
+    "emoji": "🇮🇹",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Moroccan",
+    "spa": "Marroquí",
+    "category": "Nationalities",
+    "emoji": "🇲🇦",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Living room",
+    "spa": "Sala de estar",
+    "category": "Rooms",
+    "emoji": "🛋️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Dining room",
+    "spa": "Comedor",
+    "category": "Rooms",
+    "emoji": "🍽️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Kitchen",
+    "spa": "Cocina",
+    "category": "Rooms",
+    "emoji": "🍳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bathroom",
+    "spa": "Baño",
+    "category": "Rooms",
+    "emoji": "🛁",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bedroom",
+    "spa": "Dormitorio",
+    "category": "Rooms",
+    "emoji": "🛏️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hall",
+    "spa": "Pasillo / Recibidor",
+    "category": "Rooms",
+    "emoji": "🚪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Stairs",
+    "spa": "Escaleras",
+    "category": "Rooms",
+    "emoji": "🪜",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Garden",
+    "spa": "Jardín",
+    "category": "Rooms",
+    "emoji": "🌳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Upstairs",
+    "spa": "Arriba (piso superior)",
+    "category": "Rooms",
+    "emoji": "⬆️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Downstairs",
+    "spa": "Abajo (piso inferior)",
+    "category": "Rooms",
+    "emoji": "⬇️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Outdoor toilet",
+    "spa": "Baño exterior",
+    "category": "Rooms",
+    "emoji": "🚻",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sofa",
+    "spa": "Sofá",
+    "category": "Furniture",
+    "emoji": "🛋️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Armchair",
+    "spa": "Sillón",
+    "category": "Furniture",
+    "emoji": "🪑",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Table",
+    "spa": "Mesa",
+    "category": "Furniture",
+    "emoji": "🪚",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Chair",
+    "spa": "Silla",
+    "category": "Furniture",
+    "emoji": "🪑",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Window",
+    "spa": "Ventana",
+    "category": "Furniture",
+    "emoji": "🪟",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Shower",
+    "spa": "Ducha",
+    "category": "Furniture",
+    "emoji": "🚿",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cooker",
+    "spa": "Cocina (electrodoméstico)",
+    "category": "Furniture",
+    "emoji": "🍳",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Fridge",
+    "spa": "Refrigerador / Heladera",
+    "category": "Furniture",
+    "emoji": "🧊",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sink",
+    "spa": "Fregadero / Pileta",
+    "category": "Furniture",
+    "emoji": "🚰",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Washbasin",
+    "spa": "Lavamanos",
+    "category": "Furniture",
+    "emoji": "🧼",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mirror",
+    "spa": "Espejo",
+    "category": "Furniture",
+    "emoji": "🪞",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Toilet",
+    "spa": "Inodoro",
+    "category": "Furniture",
+    "emoji": "🚽",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bed",
+    "spa": "Cama",
+    "category": "Furniture",
+    "emoji": "🛏️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Wardrobe",
+    "spa": "Ropero / Armario",
+    "category": "Furniture",
+    "emoji": "🚪",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Chest of drawers",
+    "spa": "Cómoda / Cajonera",
+    "category": "Furniture",
+    "emoji": "🗄️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bath",
+    "spa": "Bañera",
+    "category": "Furniture",
+    "emoji": "🛁",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Coffee table",
+    "spa": "Mesa de centro",
+    "category": "Furniture",
+    "emoji": "☕",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Bookcase",
+    "spa": "Librero / Estantería",
+    "category": "Furniture",
+    "emoji": "📚",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Kettle",
+    "spa": "Hervidor / Pava eléctrica",
+    "category": "Furniture",
+    "emoji": "🫖",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Shelf",
+    "spa": "Estante",
+    "category": "Furniture",
+    "emoji": "🪵",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cupboard",
+    "spa": "Alacena / Armario de cocina",
+    "category": "Furniture",
+    "emoji": "🗄️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Poster",
+    "spa": "Póster",
+    "category": "Furniture",
+    "emoji": "🖼️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Radio",
+    "spa": "Radio",
+    "category": "Furniture",
+    "emoji": "📻",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Light",
+    "spa": "Luz / Lámpara",
+    "category": "Furniture",
+    "emoji": "💡",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Iron",
+    "spa": "Plancha",
+    "category": "Furniture",
+    "emoji": "🧲",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Flower",
+    "spa": "Flor",
+    "category": "Objects",
+    "emoji": "🌸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "In",
+    "spa": "En / Dentro de",
+    "category": "Prepositions",
+    "emoji": "📦",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "On",
+    "spa": "En / Sobre",
+    "category": "Prepositions",
+    "emoji": "🟢",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Under",
+    "spa": "Debajo de",
+    "category": "Prepositions",
+    "emoji": "⬇️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Next to",
+    "spa": "Al lado de",
+    "category": "Prepositions",
+    "emoji": "➡️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Behind",
+    "spa": "Detrás de",
+    "category": "Prepositions",
+    "emoji": "🔙",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "In front of",
+    "spa": "En frente de",
+    "category": "Prepositions",
+    "emoji": "🔜",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Opposite",
+    "spa": "Opuesto a / Enfrente de",
+    "category": "Prepositions",
+    "emoji": "↔️",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Between",
+    "spa": "Entre (dos cosas)",
+    "category": "Prepositions",
+    "emoji": "👐",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Near",
+    "spa": "Cerca de",
+    "category": "Prepositions",
+    "emoji": "📍",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Above",
+    "spa": "Por encima de",
+    "category": "Prepositions",
+    "emoji": "▲",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  }
+]

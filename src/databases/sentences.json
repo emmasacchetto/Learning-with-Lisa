@@ -1,0 +1,3689 @@
+[
+  {
+    "eng": "Hello! I'm Ben.",
+    "spa": "¡Hola! Soy Ben.",
+    "category": "Introductions",
+    "emoji": "👋",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hi Ben! I'm Lucy.",
+    "spa": "¡Hola Ben! Soy Lucy.",
+    "category": "Introductions",
+    "emoji": "😊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Nice to meet you.",
+    "spa": "Mucho gusto.",
+    "category": "Introductions",
+    "emoji": "🤝",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Where are you from?",
+    "spa": "¿De dónde eres?",
+    "category": "Countries & Nationalities",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is tall.",
+    "spa": "Ella es alta.",
+    "category": "Physical Description",
+    "emoji": "📏",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is short.",
+    "spa": "Él es bajo.",
+    "category": "Physical Description",
+    "emoji": "📏",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The boy is funny.",
+    "spa": "El niño es divertido.",
+    "category": "Physical Description",
+    "emoji": "😂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The girl is happy.",
+    "spa": "La niña está feliz.",
+    "category": "Physical Description",
+    "emoji": "😊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is sad.",
+    "spa": "Él está triste.",
+    "category": "Physical Description",
+    "emoji": "😢",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is angry.",
+    "spa": "Ella está enojada.",
+    "category": "Physical Description",
+    "emoji": "😠",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am tired.",
+    "spa": "Estoy cansado.",
+    "category": "Physical Description",
+    "emoji": "😴",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "This is my school bag.",
+    "spa": "Esta es mi mochila.",
+    "category": "School Objects",
+    "emoji": "🎒",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "That is my notebook.",
+    "spa": "Ese es mi cuaderno.",
+    "category": "School Objects",
+    "emoji": "📓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got a pencil case.",
+    "spa": "Tengo una cartuchera.",
+    "category": "School Objects",
+    "emoji": "✏️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She has got a ruler.",
+    "spa": "Ella tiene una regla.",
+    "category": "School Objects",
+    "emoji": "📏",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He has got two pencils.",
+    "spa": "Él tiene dos lápices.",
+    "category": "School Objects",
+    "emoji": "✏️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Open your book.",
+    "spa": "Abre tu libro.",
+    "category": "School Objects",
+    "emoji": "📖",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I like football.",
+    "spa": "Me gusta el fútbol.",
+    "category": "Hobbies",
+    "emoji": "⚽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She likes dancing.",
+    "spa": "A ella le gusta bailar.",
+    "category": "Hobbies",
+    "emoji": "💃",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He likes swimming.",
+    "spa": "A él le gusta nadar.",
+    "category": "Hobbies",
+    "emoji": "🏊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They like reading books.",
+    "spa": "A ellos les gusta leer libros.",
+    "category": "Hobbies",
+    "emoji": "📚",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We like listening to music.",
+    "spa": "Nos gusta escuchar música.",
+    "category": "Hobbies",
+    "emoji": "🎵",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I play videogames.",
+    "spa": "Juego videojuegos.",
+    "category": "Hobbies",
+    "emoji": "🎮",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I can swim.",
+    "spa": "Yo puedo nadar.",
+    "category": "Abilities",
+    "emoji": "🏊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She can dance.",
+    "spa": "Ella puede bailar.",
+    "category": "Abilities",
+    "emoji": "💃",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He can run fast.",
+    "spa": "Él puede correr rápido.",
+    "category": "Abilities",
+    "emoji": "🏃",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The bird can fly.",
+    "spa": "El pájaro puede volar.",
+    "category": "Abilities",
+    "emoji": "🦅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The snake can't walk.",
+    "spa": "La serpiente no puede caminar.",
+    "category": "Abilities",
+    "emoji": "🐍",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am playing football.",
+    "spa": "Estoy jugando al fútbol.",
+    "category": "Present Continuous",
+    "emoji": "⚽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is reading a book.",
+    "spa": "Ella está leyendo un libro.",
+    "category": "Present Continuous",
+    "emoji": "📖",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is watching TV.",
+    "spa": "Él está mirando televisión.",
+    "category": "Present Continuous",
+    "emoji": "📺",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are dancing.",
+    "spa": "Ellos están bailando.",
+    "category": "Present Continuous",
+    "emoji": "💃",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Today is Monday.",
+    "spa": "Hoy es lunes.",
+    "category": "Days & Time",
+    "emoji": "📅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tomorrow is Tuesday.",
+    "spa": "Mañana es martes.",
+    "category": "Days & Time",
+    "emoji": "📅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My birthday is in May.",
+    "spa": "Mi cumpleaños es en mayo.",
+    "category": "Days & Time",
+    "emoji": "🎂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is sunny today.",
+    "spa": "Hoy está soleado.",
+    "category": "Weather",
+    "emoji": "☀️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is cloudy.",
+    "spa": "Está nublado.",
+    "category": "Weather",
+    "emoji": "☁️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is the weather like?",
+    "spa": "¿Cómo está el clima?",
+    "category": "Weather",
+    "emoji": "🌤️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am from Argentina.",
+    "spa": "Yo soy de Argentina.",
+    "category": "Affirmative",
+    "emoji": "🇦🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "You are from Brazil.",
+    "spa": "Tú eres de Brasil.",
+    "category": "Affirmative",
+    "emoji": "🇧🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is from Mexico.",
+    "spa": "Él es de México.",
+    "category": "Affirmative",
+    "emoji": "🇲🇽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is from Spain.",
+    "spa": "Ella es de España.",
+    "category": "Affirmative",
+    "emoji": "🇪🇸",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We are from France.",
+    "spa": "Nosotros somos de Francia.",
+    "category": "Affirmative",
+    "emoji": "🇫🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are from Germany.",
+    "spa": "Ellos son de Alemania.",
+    "category": "Affirmative",
+    "emoji": "🇩🇪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am Argentinian.",
+    "spa": "Yo soy argentino.",
+    "category": "Affirmative",
+    "emoji": "🇦🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "You are Brazilian.",
+    "spa": "Tú eres brasileño.",
+    "category": "Affirmative",
+    "emoji": "🇧🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is Mexican.",
+    "spa": "Él es mexicano.",
+    "category": "Affirmative",
+    "emoji": "🇲🇽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is Spanish.",
+    "spa": "Ella es española.",
+    "category": "Affirmative",
+    "emoji": "🇪🇸",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We are French.",
+    "spa": "Nosotros somos franceses.",
+    "category": "Affirmative",
+    "emoji": "🇫🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are German.",
+    "spa": "Ellos son alemanes.",
+    "category": "Affirmative",
+    "emoji": "🇩🇪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Lisa is Brazilian.",
+    "spa": "Lisa es brasileña.",
+    "category": "Affirmative",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tom is American.",
+    "spa": "Tom es americano.",
+    "category": "Affirmative",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Emma is Argentinian.",
+    "spa": "Emma es argentina.",
+    "category": "Affirmative",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Martin is Turkish.",
+    "spa": "Martin es turco.",
+    "category": "Affirmative",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Lucy is British.",
+    "spa": "Lucy es británica.",
+    "category": "Affirmative",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Ben is Polish.",
+    "spa": "Ben es polaco.",
+    "category": "Affirmative",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Lisa is from Brazil.",
+    "spa": "Lisa es de Brasil.",
+    "category": "Affirmative",
+    "emoji": "🇧🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tom is from The USA.",
+    "spa": "Tom es de Estados Unidos.",
+    "category": "Affirmative",
+    "emoji": "🇺🇸",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Emma is from Argentina.",
+    "spa": "Emma es de Argentina.",
+    "category": "Affirmative",
+    "emoji": "🇦🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Martin is from Turkey.",
+    "spa": "Martin es de Turquía.",
+    "category": "Affirmative",
+    "emoji": "🇹🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Lucy is from England.",
+    "spa": "Lucy es de Inglaterra.",
+    "category": "Affirmative",
+    "emoji": "🏴",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Ben is from Poland.",
+    "spa": "Ben es de Polonia.",
+    "category": "Affirmative",
+    "emoji": "🇵🇱",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am not Brazilian.",
+    "spa": "Yo no soy brasileño.",
+    "category": "Negative",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "You are not Mexican.",
+    "spa": "Tú no eres mexicano.",
+    "category": "Negative",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is not Spanish.",
+    "spa": "Él no es español.",
+    "category": "Negative",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is not French.",
+    "spa": "Ella no es francesa.",
+    "category": "Negative",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We are not German.",
+    "spa": "Nosotros no somos alemanes.",
+    "category": "Negative",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are not Chinese.",
+    "spa": "Ellos no son chinos.",
+    "category": "Negative",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I'm not Brazilian.",
+    "spa": "Yo no soy brasileño.",
+    "category": "Negative Contractions",
+    "emoji": "🚫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "You aren't Mexican.",
+    "spa": "Tú no eres mexicano.",
+    "category": "Negative Contractions",
+    "emoji": "🚫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He isn't Spanish.",
+    "spa": "Él no es español.",
+    "category": "Negative Contractions",
+    "emoji": "🚫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She isn't French.",
+    "spa": "Ella no es francesa.",
+    "category": "Negative Contractions",
+    "emoji": "🚫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We aren't German.",
+    "spa": "Nosotros no somos alemanes.",
+    "category": "Negative Contractions",
+    "emoji": "🚫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They aren't Chinese.",
+    "spa": "Ellos no son chinos.",
+    "category": "Negative Contractions",
+    "emoji": "🚫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Lisa isn't Mexican.",
+    "spa": "Lisa no es mexicana.",
+    "category": "Negative",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tom isn't Turkish.",
+    "spa": "Tom no es turco.",
+    "category": "Negative",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Emma isn't Russian.",
+    "spa": "Emma no es rusa.",
+    "category": "Negative",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Martin isn't Egyptian.",
+    "spa": "Martin no es egipcio.",
+    "category": "Negative",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Lisa isn't from Mexico.",
+    "spa": "Lisa no es de México.",
+    "category": "Negative",
+    "emoji": "🇲🇽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tom isn't from Turkey.",
+    "spa": "Tom no es de Turquía.",
+    "category": "Negative",
+    "emoji": "🇹🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Emma isn't from Russia.",
+    "spa": "Emma no es de Rusia.",
+    "category": "Negative",
+    "emoji": "🇷🇺",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Martin isn't from Egypt.",
+    "spa": "Martin no es de Egipto.",
+    "category": "Negative",
+    "emoji": "🇪🇬",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are you Argentinian?",
+    "spa": "¿Eres argentino?",
+    "category": "Questions",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are you Brazilian?",
+    "spa": "¿Eres brasileño?",
+    "category": "Questions",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is he Mexican?",
+    "spa": "¿Él es mexicano?",
+    "category": "Questions",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is she Spanish?",
+    "spa": "¿Ella es española?",
+    "category": "Questions",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are they French?",
+    "spa": "¿Ellos son franceses?",
+    "category": "Questions",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are we German?",
+    "spa": "¿Somos alemanes?",
+    "category": "Questions",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are you from Argentina?",
+    "spa": "¿Eres de Argentina?",
+    "category": "Questions",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are you from Brazil?",
+    "spa": "¿Eres de Brasil?",
+    "category": "Questions",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is he from Mexico?",
+    "spa": "¿Él es de México?",
+    "category": "Questions",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is she from Spain?",
+    "spa": "¿Ella es de España?",
+    "category": "Questions",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are they from France?",
+    "spa": "¿Ellos son de Francia?",
+    "category": "Questions",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are we from Germany?",
+    "spa": "¿Somos de Alemania?",
+    "category": "Questions",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Where is he from?",
+    "spa": "¿De dónde es él?",
+    "category": "Questions",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Where is she from?",
+    "spa": "¿De dónde es ella?",
+    "category": "Questions",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Where are they from?",
+    "spa": "¿De dónde son ellos?",
+    "category": "Questions",
+    "emoji": "👥",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, I am.",
+    "spa": "Sí, lo soy.",
+    "category": "Short Answers",
+    "emoji": "✅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "No, I'm not.",
+    "spa": "No, no lo soy.",
+    "category": "Short Answers",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, you are.",
+    "spa": "Sí, lo eres.",
+    "category": "Short Answers",
+    "emoji": "✅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "No, you aren't.",
+    "spa": "No, no lo eres.",
+    "category": "Short Answers",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, he is.",
+    "spa": "Sí, él lo es.",
+    "category": "Short Answers",
+    "emoji": "✅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "No, he isn't.",
+    "spa": "No, él no lo es.",
+    "category": "Short Answers",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, she is.",
+    "spa": "Sí, ella lo es.",
+    "category": "Short Answers",
+    "emoji": "✅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "No, she isn't.",
+    "spa": "No, ella no lo es.",
+    "category": "Short Answers",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, we are.",
+    "spa": "Sí, lo somos.",
+    "category": "Short Answers",
+    "emoji": "✅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "No, we aren't.",
+    "spa": "No, no lo somos.",
+    "category": "Short Answers",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, they are.",
+    "spa": "Sí, ellos lo son.",
+    "category": "Short Answers",
+    "emoji": "✅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "No, they aren't.",
+    "spa": "No, ellos no lo son.",
+    "category": "Short Answers",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "A: Hello!",
+    "spa": "A: ¡Hola!",
+    "category": "Dialogue Line",
+    "emoji": "👋",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "B: Hi!",
+    "spa": "B: ¡Hola!",
+    "category": "Dialogue Line",
+    "emoji": "😊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "A: What is your name?",
+    "spa": "A: ¿Cuál es tu nombre?",
+    "category": "Dialogue Line",
+    "emoji": "📛",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "B: My name is Lisa.",
+    "spa": "B: Mi nombre es Lisa.",
+    "category": "Dialogue Line",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "A: Are you Argentinian?",
+    "spa": "A: ¿Eres argentino?",
+    "category": "Dialogue Line",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "A: Is Tom Brazilian?",
+    "spa": "A: ¿Tom es brasileño?",
+    "category": "Dialogue Line",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "A: Is Emma from Spain?",
+    "spa": "A: ¿Emma es de España?",
+    "category": "Dialogue Line",
+    "emoji": "❓",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hello, how are you?",
+    "spa": "Hola, ¿como estas?",
+    "category": "Personal Info",
+    "emoji": "👋",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am fine.",
+    "spa": "Yo estoy bien.",
+    "category": "Personal Info",
+    "emoji": "👍",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is your name?",
+    "spa": "¿Cual es tu nombre?",
+    "category": "Personal Info",
+    "emoji": "📛",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My name is Lisa.",
+    "spa": "Mi nombre es Lisa.",
+    "category": "Personal Info",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is your surname?",
+    "spa": "¿Cual es tu apellido?",
+    "category": "Personal Info",
+    "emoji": "📝",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My surname is Sacchetto.",
+    "spa": "Mi apellido es Sacchetto.",
+    "category": "Personal Info",
+    "emoji": "📝",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "How old are you?",
+    "spa": "¿Cuantos años tienes?",
+    "category": "Personal Info",
+    "emoji": "🎂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am nine years old.",
+    "spa": "Yo tengo 9 años.",
+    "category": "Personal Info",
+    "emoji": "🎂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "When is your birthday?",
+    "spa": "¿Cuando es tu cumpleaños?",
+    "category": "Personal Info",
+    "emoji": "🎈",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My birthday is in February.",
+    "spa": "Mi cumpleaños es en febrero.",
+    "category": "Personal Info",
+    "emoji": "🎈",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Where are you from?",
+    "spa": "¿De donde eres?",
+    "category": "Personal Info",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am from Cordoba.",
+    "spa": "Yo soy de Cordoba.",
+    "category": "Personal Info",
+    "emoji": "🌎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is your favourite colour?",
+    "spa": "¿Cual es tu color favorito?",
+    "category": "Personal Info",
+    "emoji": "🎨",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My favourite colour is blue.",
+    "spa": "Mi color favorito es azul.",
+    "category": "Personal Info",
+    "emoji": "🔵",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is your favourite food?",
+    "spa": "¿Cual es tu comida favorita?",
+    "category": "Personal Info",
+    "emoji": "🍕",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My favourite food is hamburger.",
+    "spa": "Mi comida favorita es hamburguesa.",
+    "category": "Personal Info",
+    "emoji": "🍔",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is your favourite sport?",
+    "spa": "¿Cual es tu deporte favorito?",
+    "category": "Personal Info",
+    "emoji": "⚽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My favourite sport is gymnastics.",
+    "spa": "Mi deporte favorito es gimnasia.",
+    "category": "Personal Info",
+    "emoji": "🤸‍♀️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is your favourite animal?",
+    "spa": "¿Cual es tu animal favorito?",
+    "category": "Personal Info",
+    "emoji": "🐶",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My favourite animal is a panda.",
+    "spa": "Mi animal favorito es un panda.",
+    "category": "Personal Info",
+    "emoji": "🐼",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Who are your friends?",
+    "spa": "¿Quienes son tus amigas?",
+    "category": "Personal Info",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My friends are Constanza and Paz.",
+    "spa": "Mis amigas son Constanza y Paz.",
+    "category": "Personal Info",
+    "emoji": "👭",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is my mom.",
+    "spa": "Ella es mi mama.",
+    "category": "Family & Body",
+    "emoji": "👩",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my dad.",
+    "spa": "El es mi papa.",
+    "category": "Family & Body",
+    "emoji": "👨",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is my grandma.",
+    "spa": "Ella es mi abuela.",
+    "category": "Family & Body",
+    "emoji": "👵",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my grandpa.",
+    "spa": "El es mi abuelo.",
+    "category": "Family & Body",
+    "emoji": "👴",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is my sister.",
+    "spa": "Ella es mi hermana.",
+    "category": "Family & Body",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my brother.",
+    "spa": "El es mi hermano.",
+    "category": "Family & Body",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my baby brother.",
+    "spa": "El es mi hermanito bebe.",
+    "category": "Family & Body",
+    "emoji": "👶",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is my aunt.",
+    "spa": "Ella es mi tia.",
+    "category": "Family & Body",
+    "emoji": "👱‍♀️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my uncle.",
+    "spa": "El es mi tio.",
+    "category": "Family & Body",
+    "emoji": "👱‍♂️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my cousin.",
+    "spa": "El es mi primo.",
+    "category": "Family & Body",
+    "emoji": "🧒",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is my cousin.",
+    "spa": "Ella es mi prima.",
+    "category": "Family & Body",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got one face.",
+    "spa": "Yo tengo una cara.",
+    "category": "Family & Body",
+    "emoji": "🙂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got one nose.",
+    "spa": "Yo tengo una nariz.",
+    "category": "Family & Body",
+    "emoji": "👃",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got one mouth.",
+    "spa": "Yo tengo una boca.",
+    "category": "Family & Body",
+    "emoji": "👄",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got two eyes.",
+    "spa": "Yo tengo dos ojos.",
+    "category": "Family & Body",
+    "emoji": "👀",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got two ears.",
+    "spa": "Yo tengo dos orejas.",
+    "category": "Family & Body",
+    "emoji": "👂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got two hands.",
+    "spa": "Yo tengo dos manos.",
+    "category": "Family & Body",
+    "emoji": "🖐️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I have got legs to walk.",
+    "spa": "Yo tengo piernas para caminar.",
+    "category": "Family & Body",
+    "emoji": "🦵",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We have got two hands.",
+    "spa": "Nosotros tenemos dos manos.",
+    "category": "Family & Body",
+    "emoji": "👐",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She has got a small nose.",
+    "spa": "Ella tiene una nariz pequeña.",
+    "category": "Family & Body",
+    "emoji": "👃",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He has got a big mouth.",
+    "spa": "El tiene una boca grande.",
+    "category": "Family & Body",
+    "emoji": "👄",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The monster has got three eyes.",
+    "spa": "El monstruo tiene tres ojos.",
+    "category": "Family & Body",
+    "emoji": "👾",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They have got long legs.",
+    "spa": "Ellos tienen piernas largas.",
+    "category": "Family & Body",
+    "emoji": "🦵",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The elephant is big.",
+    "spa": "El elefante es grande.",
+    "category": "Animals & Abilities",
+    "emoji": "🐘",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The elephant can walk.",
+    "spa": "El elefante puede caminar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐘",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The elephant can not jump.",
+    "spa": "El elefante no puede saltar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐘",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The lion can run.",
+    "spa": "El leon puede correr.",
+    "category": "Animals & Abilities",
+    "emoji": "🦁",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The lion can not fly.",
+    "spa": "El leon no puede volar.",
+    "category": "Animals & Abilities",
+    "emoji": "🦁",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The rhino can walk.",
+    "spa": "El rinoceronte puede caminar.",
+    "category": "Animals & Abilities",
+    "emoji": "🦏",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The hippo can swim.",
+    "spa": "El hipopotamo puede nadar.",
+    "category": "Animals & Abilities",
+    "emoji": "🦛",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The leopard can run.",
+    "spa": "El leopardo puede correr.",
+    "category": "Animals & Abilities",
+    "emoji": "🐆",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The monkey can climb.",
+    "spa": "El mono puede trepar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐒",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The monkey can jump.",
+    "spa": "El mono puede saltar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐒",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The tiger can jump.",
+    "spa": "El tigre puede saltar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The panda can climb.",
+    "spa": "El panda puede trepar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐼",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "A snake can not walk.",
+    "spa": "Una serpiente no puede caminar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐍",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The shark can swim.",
+    "spa": "El tiburon puede nadar.",
+    "category": "Animals & Abilities",
+    "emoji": "🦈",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The shark can not walk.",
+    "spa": "El tiburon no puede caminar.",
+    "category": "Animals & Abilities",
+    "emoji": "🦈",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The octopus can swim.",
+    "spa": "El pulpo puede nadar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐙",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The crocodile can swim.",
+    "spa": "El cocodrilo puede nadar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The rabbit can jump.",
+    "spa": "El conejo puede saltar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐇",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The rabbit can run.",
+    "spa": "El conejo puede correr.",
+    "category": "Animals & Abilities",
+    "emoji": "🐇",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The sheep can walk.",
+    "spa": "La oveja puede caminar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐑",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The bird can fly.",
+    "spa": "El pajaro puede volar.",
+    "category": "Animals & Abilities",
+    "emoji": "🦅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The bird can not swim.",
+    "spa": "El pajaro no puede nadar.",
+    "category": "Animals & Abilities",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The dolphin can swim.",
+    "spa": "El delfin puede nadar.",
+    "category": "Animals & Abilities",
+    "emoji": "🐬",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are playing football.",
+    "spa": "Ellos estan jugando al futbol.",
+    "category": "Present Continuous",
+    "emoji": "⚽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are playing.",
+    "spa": "Ellos estan jugando.",
+    "category": "Present Continuous",
+    "emoji": "🕹️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are jumping.",
+    "spa": "Ellos estan saltando.",
+    "category": "Present Continuous",
+    "emoji": "⬆️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is climbing.",
+    "spa": "El esta trepando.",
+    "category": "Present Continuous",
+    "emoji": "🧗",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is running.",
+    "spa": "El esta corriendo.",
+    "category": "Present Continuous",
+    "emoji": "🏃",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is drinking.",
+    "spa": "El esta bebiendo.",
+    "category": "Present Continuous",
+    "emoji": "🥤",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is singing.",
+    "spa": "El esta cantando.",
+    "category": "Present Continuous",
+    "emoji": "🎤",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is reading a book.",
+    "spa": "Ella esta leyendo un libro.",
+    "category": "Present Continuous",
+    "emoji": "📖",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tom is jumping.",
+    "spa": "Tom esta saltando.",
+    "category": "Present Continuous",
+    "emoji": "👦",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My mum is making a cake for me.",
+    "spa": "Mi mama esta haciendo una torta para mi.",
+    "category": "Present Continuous",
+    "emoji": "🎂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Martin is playing the guitar.",
+    "spa": "Martin esta tocando la guitarra.",
+    "category": "Present Continuous",
+    "emoji": "🎸",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The chef is cooking.",
+    "spa": "El chef esta cocinando.",
+    "category": "Present Continuous",
+    "emoji": "👨‍🍳",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are riding a bike in the garden.",
+    "spa": "Ellos estan andando en bicicleta en el jardin.",
+    "category": "Present Continuous",
+    "emoji": "🚴",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The bird is flying.",
+    "spa": "El pajaro esta volando.",
+    "category": "Present Continuous",
+    "emoji": "🦅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am not eating a kiwi.",
+    "spa": "Yo no estoy comiendo un kiwi.",
+    "category": "Present Continuous",
+    "emoji": "🥝",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am drawing a picture.",
+    "spa": "Yo estoy dibujando un cuadro.",
+    "category": "Present Continuous",
+    "emoji": "🖍️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are going to school.",
+    "spa": "Ellos estan yendo a la escuela.",
+    "category": "Present Continuous",
+    "emoji": "🏫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is watching TV.",
+    "spa": "Ella esta mirando la tele.",
+    "category": "Present Continuous",
+    "emoji": "📺",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "I am listening to music.",
+    "spa": "Yo estoy escuchando musica.",
+    "category": "Present Continuous",
+    "emoji": "🎧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are dancing.",
+    "spa": "Ellas estan bailando.",
+    "category": "Present Continuous",
+    "emoji": "💃",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The baby is sleeping.",
+    "spa": "El bebe esta durmiendo.",
+    "category": "Present Continuous",
+    "emoji": "😴",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is swimming in the pool.",
+    "spa": "El esta nadando en la pileta.",
+    "category": "Present Continuous",
+    "emoji": "🏊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is writing a letter.",
+    "spa": "Ella esta escribiendo una carta.",
+    "category": "Present Continuous",
+    "emoji": "✉️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The dog is walking.",
+    "spa": "El perro esta caminando.",
+    "category": "Present Continuous",
+    "emoji": "🐕",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Today is Monday.",
+    "spa": "Hoy es lunes.",
+    "category": "Time & Weather",
+    "emoji": "📅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Tomorrow is Tuesday.",
+    "spa": "Mañana es martes.",
+    "category": "Time & Weather",
+    "emoji": "📅",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is sunny and hot.",
+    "spa": "Esta soleado y caluroso.",
+    "category": "Time & Weather",
+    "emoji": "☀️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is raining and cold.",
+    "spa": "Esta lloviendo y frio.",
+    "category": "Time & Weather",
+    "emoji": "🌧️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is cloudy.",
+    "spa": "Esta nublado.",
+    "category": "Time & Weather",
+    "emoji": "☁️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is windy.",
+    "spa": "Esta ventoso.",
+    "category": "Time & Weather",
+    "emoji": "💨",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is warm.",
+    "spa": "Esta calido.",
+    "category": "Time & Weather",
+    "emoji": "😊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is the weather like?",
+    "spa": "¿Como esta el clima?",
+    "category": "Time & Weather",
+    "emoji": "🌤️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hello, I'm Tilly. I'm a new student.",
+    "spa": "Hola, soy Tilly. Soy una estudiante nueva.",
+    "category": "Introductions",
+    "emoji": "👋",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Nice to meet you, too.",
+    "spa": "Mucho gusto también.",
+    "category": "Introductions",
+    "emoji": "🤝",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "This is Adela. She's my best friend.",
+    "spa": "Esta es Adela. Ella es mi mejor amiga.",
+    "category": "Introductions",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Great to meet you.",
+    "spa": "Genial conocerte.",
+    "category": "Introductions",
+    "emoji": "✨",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We are from planet Zoom.",
+    "spa": "Nosotros somos del planeta Zoom.",
+    "category": "Affirmative",
+    "emoji": "🪐",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my pet rabbit.",
+    "spa": "Él es mi conejo mascota.",
+    "category": "Affirmative",
+    "emoji": "🐇",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is grey with yellow eyes.",
+    "spa": "Él es gris con ojos amarillos.",
+    "category": "Physical Description",
+    "emoji": "👁️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She isn't boring.",
+    "spa": "Ella no es aburrida.",
+    "category": "Negative",
+    "emoji": "😴",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He isn't very big, but he's very strong.",
+    "spa": "Él no es muy grande, pero es muy fuerte.",
+    "category": "Physical Description",
+    "emoji": "💪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We aren't angry. I'm sorry.",
+    "spa": "No estamos enojados. Lo siento.",
+    "category": "Negative",
+    "emoji": "😠",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Maths is my favourite subject.",
+    "spa": "Matemáticas es mi materia favorita.",
+    "category": "Affirmative",
+    "emoji": "📐",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My school is not very big.",
+    "spa": "Mi escuela no es muy grande.",
+    "category": "Negative",
+    "emoji": "🏫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are red books.",
+    "spa": "Ellos son libros rojos.",
+    "category": "Affirmative",
+    "emoji": "📚",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "People from the UK are British.",
+    "spa": "Las personas del Reino Unido son británicas.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇬🇧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "People from the USA are American.",
+    "spa": "Las personas de Estados Unidos son americanas.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇺🇸",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He isn't English. He's Argentinian.",
+    "spa": "Él no es inglés. Él es argentino.",
+    "category": "Negative",
+    "emoji": "🇦🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She isn't Irish, she's Russian.",
+    "spa": "Ella no es irlandesa, es rusa.",
+    "category": "Negative",
+    "emoji": "🇷🇺",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My parents are from Mexico. They're Mexican.",
+    "spa": "Mis padres son de México. Son mexicanos.",
+    "category": "Affirmative",
+    "emoji": "🇲🇽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It's my first basketball practice today.",
+    "spa": "Es mi primera práctica de básquetbol hoy.",
+    "category": "Possessive Adjectives",
+    "emoji": "🏀",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cool laptop. Is it new?",
+    "spa": "Genial computadora portátil. ¿Es nueva?",
+    "category": "Questions",
+    "emoji": "💻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "His team is fantastic!",
+    "spa": "Su equipo (de él) es fantástico.",
+    "category": "Possessive Adjectives",
+    "emoji": "🏆",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Our school is 15 years old.",
+    "spa": "Nuestra escuela tiene 15 años.",
+    "category": "Possessive Adjectives",
+    "emoji": "🏫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "What is her middle name?",
+    "spa": "¿Cuál es su segundo nombre (de ella)?",
+    "category": "Questions",
+    "emoji": "📛",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "This is their house.",
+    "spa": "Esta es su casa (de ellos).",
+    "category": "Possessive Adjectives",
+    "emoji": "🏠",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There is a big bed in the bedroom.",
+    "spa": "Hay una cama grande en el dormitorio.",
+    "category": "There is/are",
+    "emoji": "🛏️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There are some books in the bookcase.",
+    "spa": "Hay algunos libros en el librero.",
+    "category": "There is/are",
+    "emoji": "📚",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There isn't a mouse in my house!",
+    "spa": "¡No hay un ratón en mi casa!",
+    "category": "Negative",
+    "emoji": "🐭",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There aren't any flowers.",
+    "spa": "No hay ningunas flores.",
+    "category": "Negative",
+    "emoji": "🌸",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is there a shower? Yes, there is.",
+    "spa": "¿Hay una ducha? Sí, la hay.",
+    "category": "Questions",
+    "emoji": "🚿",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are there any computers? Yes, there are.",
+    "spa": "¿Hay algunas computadoras? Sí, las hay.",
+    "category": "Questions",
+    "emoji": "💻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Where are the toilets? They are upstairs.",
+    "spa": "¿Dónde están los baños? Están arriba.",
+    "category": "Questions",
+    "emoji": "🚻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The kitchen is downstairs.",
+    "spa": "La cocina está abajo.",
+    "category": "Prepositions",
+    "emoji": "🍳",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The sofa is in front of the window.",
+    "spa": "El sofá está en frente de la ventana.",
+    "category": "Prepositions",
+    "emoji": "🛋️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The cat is under the table.",
+    "spa": "El gato está debajo de la mesa.",
+    "category": "Prepositions",
+    "emoji": "🐈",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There is a chest of drawers next to the bed.",
+    "spa": "Hay una cómoda al lado de la cama.",
+    "category": "There is/are",
+    "emoji": "🗄️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It is big and blue.",
+    "spa": "Es grande y azul.",
+    "category": "Affirmative",
+    "emoji": "🔵",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Her hair is black and yellow, and she can fly!",
+    "spa": "Su cabello es negro y amarillo, ¡y ella puede volar!",
+    "category": "Physical Description",
+    "emoji": "🦸‍♀️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She isn't boring. She's my best friend!",
+    "spa": "Ella no es aburrida. ¡Es mi mejor amiga!",
+    "category": "Negative",
+    "emoji": "👯‍♀️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Look at his arm. It's silver!",
+    "spa": "Mira su brazo. ¡Es plateado!",
+    "category": "Physical Description",
+    "emoji": "🦾",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We aren't angry. I'm sorry.",
+    "spa": "No estamos enojados. Lo siento.",
+    "category": "Negative",
+    "emoji": "🙏",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It isn't easy, it's difficult.",
+    "spa": "No es fácil, es difícil.",
+    "category": "Negative",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, there are five laptops in the games room.",
+    "spa": "Sí, hay cinco laptops en la sala de juegos.",
+    "category": "There is/are",
+    "emoji": "💻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is there an iron in my bedroom?",
+    "spa": "¿Hay una plancha en mi dormitorio?",
+    "category": "There is/are",
+    "emoji": "🧲",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There's a desk under the window in my room.",
+    "spa": "Hay un escritorio debajo de la ventana en mi habitación.",
+    "category": "There is/are",
+    "emoji": "🪟",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The fridge is in the living room.",
+    "spa": "El refrigerador está en la sala de estar.",
+    "category": "Prepositions",
+    "emoji": "🧊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The mouse is opposite the bookcase.",
+    "spa": "El ratón está enfrente del librero.",
+    "category": "Prepositions",
+    "emoji": "🐭",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Leave your shoes in the hall please, under the small table.",
+    "spa": "Deja tus zapatos en el pasillo por favor, debajo de la mesa pequeña.",
+    "category": "Prepositions",
+    "emoji": "👞",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is it your first basketball practice today?",
+    "spa": "¿Es tu primera práctica de básquetbol hoy?",
+    "category": "Questions",
+    "emoji": "🏀",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sheila isn't Turkish or Spanish or French.",
+    "spa": "Sheila no es turca ni española ni francesa.",
+    "category": "Negative",
+    "emoji": "🌍",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sheila is Irish and she's a fish.",
+    "spa": "Sheila es irlandesa y es un pez.",
+    "category": "Affirmative",
+    "emoji": "🐟",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My teacher is Scottish.",
+    "spa": "Mi profesora es escocesa.",
+    "category": "Affirmative",
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The headteacher is German.",
+    "spa": "El director es alemán.",
+    "category": "Affirmative",
+    "emoji": "🇩🇪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Monstropolis is a city of monsters.",
+    "spa": "Monstruópolis es una ciudad de monstruos.",
+    "category": "Monsters - Context",
+    "emoji": "🏙️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The monsters work at Monsters, Inc.",
+    "spa": "Los monstruos trabajan en Monsters, Inc.",
+    "category": "Monsters - Context",
+    "emoji": "🏢",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They send power to the city.",
+    "spa": "Ellos envían energía a la ciudad.",
+    "category": "Monsters - Context",
+    "emoji": "⚡",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley is a big, blue, furry monster.",
+    "spa": "Sulley es un monstruo grande, azul y peludo.",
+    "category": "Monsters - Description",
+    "emoji": "👹",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mike is his friend.",
+    "spa": "Mike es su amigo.",
+    "category": "Monsters - Description",
+    "emoji": "👁️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mike is short and green with one big eye.",
+    "spa": "Mike es bajo y verde con un ojo grande.",
+    "category": "Monsters - Description",
+    "emoji": "🟢",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Randall works at Monsters, Inc.",
+    "spa": "Randall trabaja en Monsters, Inc.",
+    "category": "Monsters - Description",
+    "emoji": "🦎",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He can change color.",
+    "spa": "Él puede cambiar de color.",
+    "category": "Monsters - Abilities",
+    "emoji": "🎨",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He does not like Sulley.",
+    "spa": "A él no le agrada Sulley.",
+    "category": "Monsters - Relationships",
+    "emoji": "😠",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley is the number one monster.",
+    "spa": "Sulley es el monstruo número uno.",
+    "category": "Monsters - Description",
+    "emoji": "🏆",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mr. Waternoose is a big, gray monster.",
+    "spa": "El Sr. Waternoose es un monstruo grande y gris.",
+    "category": "Monsters - Description",
+    "emoji": "🦀",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is very important.",
+    "spa": "Él es muy importante.",
+    "category": "Monsters - Description",
+    "emoji": "👑",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He has five small eyes on his face.",
+    "spa": "Él tiene cinco ojos pequeños en su cara.",
+    "category": "Monsters - Description",
+    "emoji": "👀",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Every night the monsters scare children in their beds.",
+    "spa": "Cada noche los monstruos asustan a los niños en sus camas.",
+    "category": "Monsters - Action",
+    "emoji": "🌙",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "\"Grrrr!\" the monsters roar.",
+    "spa": "\"¡Grrrr!\" rugen los monstruos.",
+    "category": "Monsters - Action",
+    "emoji": "🦁",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The children scream, \"Ahhh!\"",
+    "spa": "Los niños gritan, \"¡Ahhh!\".",
+    "category": "Monsters - Action",
+    "emoji": "😱",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The children scream.",
+    "spa": "Los niños gritan.",
+    "category": "Monsters - Action",
+    "emoji": "🗣️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Their screams make power for the city.",
+    "spa": "Sus gritos generan energía para la ciudad.",
+    "category": "Monsters - Context",
+    "emoji": "⚡",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "But the monsters are scared of the children.",
+    "spa": "Pero los monstruos están asustados de los niños.",
+    "category": "Monsters - Emotions",
+    "emoji": "😨",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "One day, Sulley opens a door.",
+    "spa": "Un día, Sulley abre una puerta.",
+    "category": "Monsters - Action",
+    "emoji": "🚪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He meets a girl, Boo.",
+    "spa": "Él conoce a una niña, Boo.",
+    "category": "Monsters - Action",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She likes Sulley, but he is scared of her.",
+    "spa": "A ella le agrada Sulley, pero él le tiene miedo a ella.",
+    "category": "Monsters - Emotions",
+    "emoji": "🥺",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Now Sulley likes Boo.",
+    "spa": "Ahora a Sulley le agrada Boo.",
+    "category": "Monsters - Emotions",
+    "emoji": "❤️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is not scared.",
+    "spa": "Él no está asustado.",
+    "category": "Monsters - Emotions",
+    "emoji": "💪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He laughs and plays with Boo.",
+    "spa": "Él se ríe y juega con Boo.",
+    "category": "Monsters - Action",
+    "emoji": "🧸",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is nice.",
+    "spa": "Ella es agradable.",
+    "category": "Monsters - Description",
+    "emoji": "✨",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "And Mike likes Boo.",
+    "spa": "Y a Mike le agrada Boo.",
+    "category": "Monsters - Emotions",
+    "emoji": "🍏",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mike and Sulley want to help her.",
+    "spa": "Mike y Sulley quieren ayudarla.",
+    "category": "Monsters - Action",
+    "emoji": "🤝",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They do not want the monsters to see her.",
+    "spa": "Ellos do not want the monsters to see her. (Ellos no quieren que los monstruos la vean).",
+    "category": "Monsters - Action",
+    "emoji": "🙈",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "But Randall is angry.",
+    "spa": "Pero Randall está enojado.",
+    "category": "Monsters - Emotions",
+    "emoji": "😡",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He wants to catch Mike and Sulley with Boo.",
+    "spa": "Él quiere atrapar a Mike y Sulley con Boo.",
+    "category": "Monsters - Action",
+    "emoji": "🕸️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Children cannot come to Monstropolis.",
+    "spa": "Los niños no pueden venir a Monstruópolis.",
+    "category": "Monsters - Rules",
+    "emoji": "🚫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mr. Waternoose sees them.",
+    "spa": "El Sr. Waternoose los ve.",
+    "category": "Monsters - Action",
+    "emoji": "👁️‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍🛡️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He and Randall take Boo.",
+    "spa": "Él y Randall se llevan a Boo.",
+    "category": "Monsters - Action",
+    "emoji": "🎒",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They throw the monsters out of a door.",
+    "spa": "Ellos arrojan a los monstruos fuera de una puerta.",
+    "category": "Monsters - Action",
+    "emoji": "❄️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "\"No!\" Sulley screams.",
+    "spa": "\"¡No!\" grita Sulley.",
+    "category": "Monsters - Action",
+    "emoji": "🔊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley and Mike find their way home.",
+    "spa": "Sulley y Mike encuentran su camino a casa.",
+    "category": "Monsters - Action",
+    "emoji": "🏠",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They find Boo.",
+    "spa": "Ellos encuentran a Boo.",
+    "category": "Monsters - Action",
+    "emoji": "🔍",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They tell the monster police about the two bad monsters.",
+    "spa": "Ellos le cuentan a la policía de monstruos sobre los dos monstruos malos.",
+    "category": "Monsters - Action",
+    "emoji": "👮",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley and Mike take Boo to her home.",
+    "spa": "Sulley y Mike llevan a Boo a su hogar.",
+    "category": "Monsters - Action",
+    "emoji": "🏡",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley puts Boo in her bed.",
+    "spa": "Sulley pone a Boo en su cama.",
+    "category": "Monsters - Action",
+    "emoji": "🛏️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are very happy.",
+    "spa": "Ellos están muy felices.",
+    "category": "Monsters - Emotions",
+    "emoji": "😊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Goodnight, Boo!",
+    "spa": "¡Buenas noches, Boo!",
+    "category": "Monsters - Expressions",
+    "emoji": "👋",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There is a new Monsters, Inc.",
+    "spa": "Hay un nuevo Monsters, Inc.",
+    "category": "Monsters - Context",
+    "emoji": "🌟",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The monsters are funny.",
+    "spa": "Los monstruos son divertidos.",
+    "category": "Monsters - Description",
+    "emoji": "🤡",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The children laugh.",
+    "spa": "Los niños se ríen.",
+    "category": "Monsters - Action",
+    "emoji": "😂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Laughs make power for Monstropolis now.",
+    "spa": "Las risas generan energía para Monstruópolis ahora.",
+    "category": "Monsters - Context",
+    "emoji": "⚡",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Hello, I'm Tilly. I'm a new student.",
+    "spa": "Hola, soy Tilly. Soy una estudiante nueva.",
+    "category": "Verb To Be",
+    "emoji": "👋",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "This is Adela. She's my best friend.",
+    "spa": "Esta es Adela. Ella es mi mejor amiga.",
+    "category": "Verb To Be",
+    "emoji": "👧",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We are from planet Zoom.",
+    "spa": "Nosotros somos del planeta Zoom.",
+    "category": "Verb To Be",
+    "emoji": "🪐",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is my pet rabbit.",
+    "spa": "Él es mi conejo mascota.",
+    "category": "Verb To Be",
+    "emoji": "🐇",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is grey with yellow eyes.",
+    "spa": "Él es gris con ojos amarillos.",
+    "category": "Verb To Be",
+    "emoji": "👁️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She isn't boring. She's my best friend!",
+    "spa": "Ella no es aburrida. ¡Es mi mejor amiga!",
+    "category": "Verb To Be",
+    "emoji": "👯‍♀️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He isn't very big, but he's very strong.",
+    "spa": "Él no es muy grande, pero es muy fuerte.",
+    "category": "Verb To Be",
+    "emoji": "💪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Look at his arm. It's silver!",
+    "spa": "Mira su brazo. ¡Es plateado!",
+    "category": "Verb To Be",
+    "emoji": "🦾",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "We aren't angry. I'm sorry.",
+    "spa": "No estamos enojados. Lo siento.",
+    "category": "Verb To Be",
+    "emoji": "🙏",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Maths is my favourite subject.",
+    "spa": "Matemáticas es mi materia favorita.",
+    "category": "Verb To Be",
+    "emoji": "📐",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My school is not very big.",
+    "spa": "Mi escuela no es muy grande.",
+    "category": "Verb To Be",
+    "emoji": "🏫",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are red books.",
+    "spa": "Ellos son libros rojos.",
+    "category": "Verb To Be",
+    "emoji": "📚",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "It isn't easy, it's difficult.",
+    "spa": "No es fácil, es difícil.",
+    "category": "Verb To Be",
+    "emoji": "❌",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Cool laptop. Is it new?",
+    "spa": "Genial computadora portátil. ¿Es nueva?",
+    "category": "Verb To Be",
+    "emoji": "💻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is it your first basketball practice today?",
+    "spa": "¿Es tu primera práctica de básquetbol hoy?",
+    "category": "Verb To Be",
+    "emoji": "🏀",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are you a new student? Yes, I am.",
+    "spa": "¿Eres un estudiante nuevo? Sí, lo soy.",
+    "category": "Verb To Be",
+    "emoji": "🎒",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is she funny? Yes, she is.",
+    "spa": "¿Es ella divertida? Sí, lo es.",
+    "category": "Verb To Be",
+    "emoji": "😂",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "People from the UK are British.",
+    "spa": "Las personas del Reino Unido son británicas.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇬🇧",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "People from the USA are American.",
+    "spa": "Las personas de Estados Unidos son americanas.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇺🇸",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He isn't English. He's Argentinian.",
+    "spa": "Él no es inglés. Él es argentino.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇦🇷",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She isn't Irish, she's Russian.",
+    "spa": "Ella no es irlandesa, es rusa.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇷🇺",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My parents are from Mexico. They're Mexican.",
+    "spa": "Mis padres son de México. Son mexicanos.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇲🇽",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sheila isn't Turkish or Spanish or French.",
+    "spa": "Sheila no es turca ni española ni francesa.",
+    "category": "Countries & Nationalities",
+    "emoji": "🌍",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sheila is Irish and she's a fish.",
+    "spa": "Sheila es irlandesa y es un pez.",
+    "category": "Countries & Nationalities",
+    "emoji": "🐟",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "My teacher is Scottish.",
+    "spa": "Mi profesora es escocesa.",
+    "category": "Countries & Nationalities",
+    "emoji": "🏴",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The headteacher is German.",
+    "spa": "El director es alemán.",
+    "category": "Countries & Nationalities",
+    "emoji": "🇩🇪",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There is a big bed in the bedroom.",
+    "spa": "Hay una cama grande en el dormitorio.",
+    "category": "There is / There are",
+    "emoji": "🛏️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There's a desk under the window in my room.",
+    "spa": "Hay un escritorio debajo de la ventana en mi habitación.",
+    "category": "There is / There are",
+    "emoji": "🪟",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There is a chest of drawers next to the bed.",
+    "spa": "Hay una cómoda al lado de la cama.",
+    "category": "There is / There are",
+    "emoji": "🗄️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is there a shower? Yes, there is.",
+    "spa": "¿Hay una ducha? Sí, la hay.",
+    "category": "There is / There are",
+    "emoji": "🚿",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Is there an iron in my bedroom?",
+    "spa": "¿Hay una plancha en mi dormitorio?",
+    "category": "There is / There are",
+    "emoji": "🧲",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There isn't a mouse in my house!",
+    "spa": "¡No hay un ratón en mi casa!",
+    "category": "There is / There are",
+    "emoji": "🐭",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There are some books in the bookcase.",
+    "spa": "Hay algunos libros en el librero.",
+    "category": "There is / There are",
+    "emoji": "📚",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Yes, there are five laptops in the games room.",
+    "spa": "Sí, hay cinco laptops en la sala de juegos.",
+    "category": "There is / There are",
+    "emoji": "💻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Are there any computers? Yes, there are.",
+    "spa": "¿Hay algunas computadoras? Sí, las hay.",
+    "category": "There is / There are",
+    "emoji": "💻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There aren't any flowers.",
+    "spa": "No hay ningunas flores.",
+    "category": "There is / There are",
+    "emoji": "🥀",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Where are the toilets? They are upstairs.",
+    "spa": "¿Dónde están los baños? Están arriba.",
+    "category": "Prepositions & Rooms",
+    "emoji": "🚻",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The kitchen is downstairs.",
+    "spa": "La cocina está abajo.",
+    "category": "Prepositions & Rooms",
+    "emoji": "🍳",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The sofa is in front of the window.",
+    "spa": "El sofá está en frente de la ventana.",
+    "category": "Prepositions & Furniture",
+    "emoji": "🛋️",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The cat is under the table.",
+    "spa": "El gato está debajo de la mesa.",
+    "category": "Prepositions & Furniture",
+    "emoji": "🐈",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The fridge is in the living room.",
+    "spa": "El refrigerador está en la sala de estar.",
+    "category": "Prepositions & Furniture",
+    "emoji": "🧊",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The mouse is opposite the bookcase.",
+    "spa": "El ratón está enfrente del librero.",
+    "category": "Prepositions & Furniture",
+    "emoji": "🐭",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Leave your shoes in the hall please, under the small table.",
+    "spa": "Deja tus zapatos en el pasillo por favor, debajo de la mesa pequeña.",
+    "category": "Prepositions & Rooms",
+    "emoji": "👞",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Monstropolis is a city of monsters.",
+    "spa": "Monstruópolis es una ciudad de monstruos.",
+    "category": "Monster Inc - Book",
+    "emoji": "🏙️",
+    "sentenceIndex": 0,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The monsters work at Monsters, Inc.",
+    "spa": "Los monstruos trabajan en Monsters, Inc.",
+    "category": "Monster Inc - Book",
+    "emoji": "🏢",
+    "sentenceIndex": 1,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They send power to the city.",
+    "spa": "Ellos envían energía a la ciudad.",
+    "category": "Monster Inc - Book",
+    "emoji": "⚡",
+    "sentenceIndex": 2,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley is a big, blue, furry monster.",
+    "spa": "Sulley es un monstruo grande, azul y peludo.",
+    "category": "Monster Inc - Book",
+    "emoji": "👹",
+    "sentenceIndex": 3,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mike is his friend.",
+    "spa": "Mike es su amigo.",
+    "category": "Monster Inc - Book",
+    "emoji": "👁️",
+    "sentenceIndex": 4,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mike is short and green with one big eye.",
+    "spa": "Mike es bajo y verde con un ojo grande.",
+    "category": "Monster Inc - Book",
+    "emoji": "🟢",
+    "sentenceIndex": 5,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Randall works at Monsters, Inc.",
+    "spa": "Randall trabaja en Monsters, Inc.",
+    "category": "Monster Inc - Book",
+    "emoji": "🦎",
+    "sentenceIndex": 6,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He can change color.",
+    "spa": "Él puede cambiar de color.",
+    "category": "Monster Inc - Book",
+    "emoji": "🎨",
+    "sentenceIndex": 7,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He does not like Sulley.",
+    "spa": "A él no le agrada Sulley.",
+    "category": "Monster Inc - Book",
+    "emoji": "😠",
+    "sentenceIndex": 8,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley is the number one monster.",
+    "spa": "Sulley es el monstruo número uno.",
+    "category": "Monster Inc - Book",
+    "emoji": "🏆",
+    "sentenceIndex": 9,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mr. Waternoose is a big, gray monster.",
+    "spa": "El Sr. Waternoose es un monstruo grande y gris.",
+    "category": "Monster Inc - Book",
+    "emoji": "🦀",
+    "sentenceIndex": 10,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is very important.",
+    "spa": "Él es muy importante.",
+    "category": "Monster Inc - Book",
+    "emoji": "👑",
+    "sentenceIndex": 11,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He has five small eyes on his face.",
+    "spa": "Él tiene cinco ojos pequeños en su cara.",
+    "category": "Monster Inc - Book",
+    "emoji": "👀",
+    "sentenceIndex": 12,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Every night the monsters scare children in their beds.",
+    "spa": "Cada noche los monstruos asustan a los niños en sus camas.",
+    "category": "Monster Inc - Book",
+    "emoji": "🌙",
+    "sentenceIndex": 13,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "\"Grrrr!\" the monsters roar.",
+    "spa": "\"¡Grrrr!\" rugen los monstruos.",
+    "category": "Monster Inc - Book",
+    "emoji": "🦁",
+    "sentenceIndex": 14,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The children scream, \"Ahhh!\"",
+    "spa": "Los niños gritan, \"¡Ahhh!\".",
+    "category": "Monster Inc - Book",
+    "emoji": "😱",
+    "sentenceIndex": 15,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The children scream.",
+    "spa": "Los niños gritan.",
+    "category": "Monster Inc - Book",
+    "emoji": "🗣️",
+    "sentenceIndex": 16,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Their screams make power for the city.",
+    "spa": "Sus gritos generan energía para la ciudad.",
+    "category": "Monster Inc - Book",
+    "emoji": "⚡",
+    "sentenceIndex": 17,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "But the monsters are scared of the children.",
+    "spa": "Pero los monstruos están asustados de los niños.",
+    "category": "Monster Inc - Book",
+    "emoji": "😨",
+    "sentenceIndex": 18,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "One day, Sulley opens a door.",
+    "spa": "Un día, Sulley abre una puerta.",
+    "category": "Monster Inc - Book",
+    "emoji": "🚪",
+    "sentenceIndex": 19,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He meets a girl, Boo.",
+    "spa": "Él conoce a una niña, Boo.",
+    "category": "Monster Inc - Book",
+    "emoji": "👧",
+    "sentenceIndex": 20,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She likes Sulley, but he is scared of her.",
+    "spa": "A ella le agrada Sulley, pero él le tiene miedo a ella.",
+    "category": "Monster Inc - Book",
+    "emoji": "🥺",
+    "sentenceIndex": 21,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Now Sulley likes Boo.",
+    "spa": "Ahora a Sulley le agrada Boo.",
+    "category": "Monster Inc - Book",
+    "emoji": "❤️",
+    "sentenceIndex": 22,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He is not scared.",
+    "spa": "Él no está asustado.",
+    "category": "Monster Inc - Book",
+    "emoji": "💪",
+    "sentenceIndex": 23,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He laughs and plays with Boo.",
+    "spa": "Él se ríe y juega con Boo.",
+    "category": "Monster Inc - Book",
+    "emoji": "🧸",
+    "sentenceIndex": 24,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "She is nice.",
+    "spa": "Ella es agradable.",
+    "category": "Monster Inc - Book",
+    "emoji": "✨",
+    "sentenceIndex": 25,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "And Mike likes Boo.",
+    "spa": "Y a Mike le agrada Boo.",
+    "category": "Monster Inc - Book",
+    "emoji": "🍏",
+    "sentenceIndex": 26,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mike and Sulley want to help her.",
+    "spa": "Mike y Sulley quieren ayudarla.",
+    "category": "Monster Inc - Book",
+    "emoji": "🤝",
+    "sentenceIndex": 27,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They do not want the monsters to see her.",
+    "spa": "Ellos no quieren que los monstruos la vean.",
+    "category": "Monster Inc - Book",
+    "emoji": "🙈",
+    "sentenceIndex": 28,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "But Randall is angry.",
+    "spa": "Pero Randall está enojado.",
+    "category": "Monster Inc - Book",
+    "emoji": "😡",
+    "sentenceIndex": 29,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He wants to catch Mike and Sulley with Boo.",
+    "spa": "Él quiere atrapar a Mike y Sulley con Boo.",
+    "category": "Monster Inc - Book",
+    "emoji": "🕸️",
+    "sentenceIndex": 30,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Children cannot come to Monstropolis.",
+    "spa": "Los niños no pueden venir a Monstruópolis.",
+    "category": "Monster Inc - Book",
+    "emoji": "🚫",
+    "sentenceIndex": 31,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Mr. Waternoose sees them.",
+    "spa": "El Sr. Waternoose los ve.",
+    "category": "Monster Inc - Book",
+    "emoji": "👁️‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍🛡️",
+    "sentenceIndex": 32,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "He and Randall take Boo.",
+    "spa": "Él y Randall se llevan a Boo.",
+    "category": "Monster Inc - Book",
+    "emoji": "🎒",
+    "sentenceIndex": 33,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They throw the monsters out of a door.",
+    "spa": "Ellos arrojan a los monstruos fuera de una puerta.",
+    "category": "Monster Inc - Book",
+    "emoji": "❄️",
+    "sentenceIndex": 34,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "\"No!\" Sulley screams.",
+    "spa": "\"¡No!\" grita Sulley.",
+    "category": "Monster Inc - Book",
+    "emoji": "🔊",
+    "sentenceIndex": 35,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley and Mike find their way home.",
+    "spa": "Sulley y Mike encuentran su camino a casa.",
+    "category": "Monster Inc - Book",
+    "emoji": "🏠",
+    "sentenceIndex": 36,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They find Boo.",
+    "spa": "Ellos encuentran a Boo.",
+    "category": "Monster Inc - Book",
+    "emoji": "🔍",
+    "sentenceIndex": 37,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They tell the monster police about the two bad monsters.",
+    "spa": "Ellos le cuentan a la policía de monstruos sobre los dos monstruos malos.",
+    "category": "Monster Inc - Book",
+    "emoji": "👮",
+    "sentenceIndex": 38,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley and Mike take Boo to her home.",
+    "spa": "Sulley y Mike llevan a Boo a su hogar.",
+    "category": "Monster Inc - Book",
+    "emoji": "🏡",
+    "sentenceIndex": 39,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Sulley puts Boo in her bed.",
+    "spa": "Sulley pone a Boo en su cama.",
+    "category": "Monster Inc - Book",
+    "emoji": "🛏️",
+    "sentenceIndex": 40,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "They are very happy.",
+    "spa": "Ellos están muy felices.",
+    "category": "Monster Inc - Book",
+    "emoji": "😊",
+    "sentenceIndex": 41,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Goodnight, Boo!",
+    "spa": "¡Buenas noches, Boo!",
+    "category": "Monster Inc - Book",
+    "emoji": "👋",
+    "sentenceIndex": 42,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "There is a new Monsters, Inc.",
+    "spa": "Hay un nuevo Monsters, Inc.",
+    "category": "Monster Inc - Book",
+    "emoji": "🌟",
+    "sentenceIndex": 43,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The monsters are funny.",
+    "spa": "Los monstruos son divertidos.",
+    "category": "Monster Inc - Book",
+    "emoji": "🤡",
+    "sentenceIndex": 44,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "The children laugh.",
+    "spa": "Los niños se ríen.",
+    "category": "Monster Inc - Book",
+    "emoji": "😂",
+    "sentenceIndex": 45,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "eng": "Laughs make power for Monstropolis now.",
+    "spa": "Las risas generan energía para Monstruópolis ahora.",
+    "category": "Monster Inc - Book",
+    "emoji": "⚡",
+    "sentenceIndex": 46,
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "id": "func_intro",
+    "category": "Introductions 1",
+    "vars": [],
+    "lines": [
+      {
+        "speaker": "A",
+        "eng": "Hi, I'm Martin.",
+        "spa": "Hola, soy Martin.",
+        "emoji": "👋"
+      },
+      {
+        "speaker": "B",
+        "eng": "Hello, Martin. I'm Tilly. I'm a new student.",
+        "spa": "Hola, Martin. Soy Tilly. Soy una estudiante nueva.",
+        "emoji": "👧"
+      },
+      {
+        "speaker": "A",
+        "eng": "Nice to meet you, Tilly.",
+        "spa": "Mucho gusto, Tilly.",
+        "emoji": "🤝"
+      },
+      {
+        "speaker": "B",
+        "eng": "Nice to meet you, too.",
+        "spa": "Mucho gusto también.",
+        "emoji": "✨"
+      },
+      {
+        "speaker": "A",
+        "eng": "This is Adela. She's my best friend.",
+        "spa": "Esta es Adela. Ella es mi mejor amiga.",
+        "emoji": "👯‍♀️"
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "func_location",
+    "category": "Asking about location 1",
+    "vars": [],
+    "lines": [
+      {
+        "speaker": "A",
+        "eng": "Welcome to the activity centre.",
+        "spa": "Bienvenido al centro de actividades.",
+        "emoji": "🏕️"
+      },
+      {
+        "speaker": "B",
+        "eng": "Thank you. Where are the toilets?",
+        "spa": "Gracias. ¿Dónde están los baños?",
+        "emoji": "🚻"
+      },
+      {
+        "speaker": "A",
+        "eng": "They are upstairs, next to the bedrooms.",
+        "spa": "Están arriba, al lado de las habitaciones.",
+        "emoji": "⬆️"
+      },
+      {
+        "speaker": "B",
+        "eng": "Is there a wi-fi code?",
+        "spa": "¿Hay contraseña de wi-fi?",
+        "emoji": "📶"
+      },
+      {
+        "speaker": "A",
+        "eng": "Yes, there is. It's on the wall.",
+        "spa": "Sí, la hay. Está en la pared.",
+        "emoji": "✅"
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "func_intro_room",
+    "category": "Introductions 2",
+    "vars": [],
+    "lines": [
+      {
+        "speaker": "A",
+        "eng": "Hi, I'm Agnes.",
+        "spa": "Hola, soy Agnes.",
+        "emoji": "👋"
+      },
+      {
+        "speaker": "B",
+        "eng": "Hello, Agnes. I'm Raul.",
+        "spa": "Hola, Agnes. Soy Raúl.",
+        "emoji": "👦"
+      },
+      {
+        "speaker": "A",
+        "eng": "Is this Room 5b?",
+        "spa": "¿Es esta la Habitación 5b?",
+        "emoji": "🚪"
+      },
+      {
+        "speaker": "B",
+        "eng": "Yes, it is. Are you a new student?",
+        "spa": "Sí, lo es. ¿Eres una estudiante nueva?",
+        "emoji": "🎒"
+      },
+      {
+        "speaker": "A",
+        "eng": "Yes, I am.",
+        "spa": "Sí, lo soy.",
+        "emoji": "✅"
+      },
+      {
+        "speaker": "B",
+        "eng": "Nice to meet you, Agnes. This is Jeremy. He's my best friend.",
+        "spa": "Mucho gusto, Agnes. Este es Jeremy. Él es mi mejor amigo.",
+        "emoji": "🤝"
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "func_personal_info",
+    "category": "Personal Information",
+    "vars": [],
+    "lines": [
+      {
+        "speaker": "A",
+        "eng": "Where are you from, Luca?",
+        "spa": "¿De dónde eres, Luca?",
+        "emoji": "🌍"
+      },
+      {
+        "speaker": "B",
+        "eng": "I'm from Italy. And you? Are you from the USA?",
+        "spa": "Soy de Italia. ¿Y tú? ¿Eres de Estados Unidos?",
+        "emoji": "🇮🇹"
+      },
+      {
+        "speaker": "A",
+        "eng": "Yes, I am. How old is your sister, Luca?",
+        "spa": "Sí, lo soy. ¿Qué edad tiene tu hermana, Luca?",
+        "emoji": "👧"
+      },
+      {
+        "speaker": "B",
+        "eng": "She's 12.",
+        "spa": "Ella tiene 12.",
+        "emoji": "🎂"
+      },
+      {
+        "speaker": "A",
+        "eng": "Is she funny?",
+        "spa": "¿Es ella divertida?",
+        "emoji": "😂"
+      },
+      {
+        "speaker": "B",
+        "eng": "Yes, she is.",
+        "spa": "Sí, lo es.",
+        "emoji": "✅"
+      },
+      {
+        "speaker": "A",
+        "eng": "When is your birthday?",
+        "spa": "¿Cuándo es tu cumpleaños?",
+        "emoji": "🎁"
+      },
+      {
+        "speaker": "B",
+        "eng": "My birthday is today!",
+        "spa": "¡Mi cumpleaños es hoy!",
+        "emoji": "🎉"
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "func_activity_centre",
+    "category": "Asking about location 2",
+    "vars": [],
+    "lines": [
+      {
+        "speaker": "A",
+        "eng": "Welcome to the activity centre.",
+        "spa": "Bienvenido al centro de actividades.",
+        "emoji": "🏕️"
+      },
+      {
+        "speaker": "B",
+        "eng": "Thank you. Is this your first time at our activity centre?",
+        "spa": "Gracias. ¿Es esta tu primera vez en nuestro centro de actividades?",
+        "emoji": "🎒"
+      },
+      {
+        "speaker": "A",
+        "eng": "Yes, it is. Where is the kitchen?",
+        "spa": "Sí, lo es. ¿Dónde está la cocina?",
+        "emoji": "🍳"
+      },
+      {
+        "speaker": "B",
+        "eng": "The kitchen is downstairs. The bedrooms are upstairs.",
+        "spa": "La cocina está abajo. Los dormitorios están arriba.",
+        "emoji": "🏠"
+      },
+      {
+        "speaker": "A",
+        "eng": "Are there any computers?",
+        "spa": "¿Hay algunas computadoras?",
+        "emoji": "💻"
+      },
+      {
+        "speaker": "B",
+        "eng": "Yes, there are. There are five laptops in the games room.",
+        "spa": "Sí, las hay. Hay cinco computadoras portátiles en la sala de juegos.",
+        "emoji": "🎮"
+      },
+      {
+        "speaker": "A",
+        "eng": "Thank you.",
+        "spa": "Gracias.",
+        "emoji": "🙏"
+      },
+      {
+        "speaker": "B",
+        "eng": "No problem. Enjoy your stay.",
+        "spa": "No hay problema. Disfruta tu estadía.",
+        "emoji": "✨"
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  }
+]

@@ -1,0 +1,1609 @@
+{
+  "DIALOGUES": [
+    {
+      "id": "u3_func_school_routine_1",
+      "category": "School Routines 1",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What's your favourite subject?",
+          "spa": "¿Cuál es tu materia favorita?",
+          "emoji": "📚"
+        },
+        {
+          "speaker": "B",
+          "eng": "My favourite subject is English.",
+          "spa": "Mi materia favorita es Inglés.",
+          "emoji": "🇬🇧"
+        },
+        {
+          "speaker": "A",
+          "eng": "What day is English?",
+          "spa": "¿Qué día tienes Inglés?",
+          "emoji": "📅"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's on Tuesday and Thursday.",
+          "spa": "Es los martes y jueves.",
+          "emoji": "🗓️"
+        },
+        {
+          "speaker": "A",
+          "eng": "What time is your English lesson?",
+          "spa": "¿A qué hora es tu clase de Inglés?",
+          "emoji": "🕘"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's at nine o'clock.",
+          "spa": "Es a las nueve.",
+          "emoji": "⏰"
+        }
+      ]
+    },
+    {
+      "id": "u3_func_school_routine_2",
+      "category": "School Routines 2",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Are you often late for school?",
+          "spa": "¿Llegas tarde a la escuela seguido?",
+          "emoji": "🏃"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, I'm usually early.",
+          "spa": "No, normalmente llego temprano.",
+          "emoji": "😊"
+        },
+        {
+          "speaker": "A",
+          "eng": "What time does school start?",
+          "spa": "¿A qué hora empieza la escuela?",
+          "emoji": "🏫"
+        },
+        {
+          "speaker": "B",
+          "eng": "It starts at eight o'clock.",
+          "spa": "Empieza a las ocho.",
+          "emoji": "🕗"
+        },
+        {
+          "speaker": "A",
+          "eng": "That's early!",
+          "spa": "¡Eso es temprano!",
+          "emoji": "😮"
+        }
+      ]
+    },
+    {
+      "id": "u3_func_school_routine_3",
+      "category": "School Routines 3",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What time's lunch at your school?",
+          "spa": "¿A qué hora es el almuerzo en tu escuela?",
+          "emoji": "🥪"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's at half past twelve.",
+          "spa": "Es a las doce y media.",
+          "emoji": "🕧"
+        },
+        {
+          "speaker": "A",
+          "eng": "And when's the last lesson?",
+          "spa": "¿Y cuándo es la última clase?",
+          "emoji": "📚"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's at half past three.",
+          "spa": "Es a las tres y media.",
+          "emoji": "🕞"
+        },
+        {
+          "speaker": "A",
+          "eng": "What subject is it?",
+          "spa": "¿Qué materia es?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's science.",
+          "spa": "Es Ciencias.",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "id": "u3_func_daily_routine_1",
+      "category": "Daily Routines 1",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What time do you get up?",
+          "spa": "¿A qué hora te levantas?",
+          "emoji": "⏰"
+        },
+        {
+          "speaker": "B",
+          "eng": "I get up at seven o'clock.",
+          "spa": "Me levanto a las siete.",
+          "emoji": "🛏️"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you have breakfast before school?",
+          "spa": "¿Desayunas antes de ir a la escuela?",
+          "emoji": "🥣"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I always have breakfast.",
+          "spa": "Sí, siempre desayuno.",
+          "emoji": "🍞"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do you have for breakfast?",
+          "spa": "¿Qué desayunas?",
+          "emoji": "🥛"
+        },
+        {
+          "speaker": "B",
+          "eng": "I usually have cereal and milk.",
+          "spa": "Normalmente desayuno cereales con leche.",
+          "emoji": "🥣"
+        }
+      ]
+    },
+    {
+      "id": "u3_func_daily_routine_2",
+      "category": "Daily Routines 2",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What do you do after school?",
+          "spa": "¿Qué haces después de la escuela?",
+          "emoji": "🏫"
+        },
+        {
+          "speaker": "B",
+          "eng": "I get home at four o'clock.",
+          "spa": "Llego a casa a las cuatro.",
+          "emoji": "🏠"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you do your homework then?",
+          "spa": "¿Haces la tarea en ese momento?",
+          "emoji": "✏️"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes. Then I play computer games.",
+          "spa": "Sí. Después juego a videojuegos.",
+          "emoji": "🎮"
+        },
+        {
+          "speaker": "A",
+          "eng": "What time do you go to bed?",
+          "spa": "¿A qué hora te vas a dormir?",
+          "emoji": "🌙"
+        },
+        {
+          "speaker": "B",
+          "eng": "I go to bed at ten o'clock.",
+          "spa": "Me voy a dormir a las diez.",
+          "emoji": "😴"
+        }
+      ]
+    },
+    {
+      "id": "u3_func_robotics_club",
+      "category": "Habits and Frequency",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Do you go to the robotics club?",
+          "spa": "¿Vas al club de robótica?",
+          "emoji": "🤖"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I do. I go every Wednesday.",
+          "spa": "Sí. Voy todos los miércoles.",
+          "emoji": "📅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Are you usually on time?",
+          "spa": "¿Normalmente llegas a horario?",
+          "emoji": "⏰"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I'm never late.",
+          "spa": "Sí, nunca llego tarde.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you always have fun?",
+          "spa": "¿Siempre te diviertes?",
+          "emoji": "😄"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes! We always have fun.",
+          "spa": "¡Sí! Siempre nos divertimos.",
+          "emoji": "🎉"
+        }
+      ]
+    }
+  ],
+  "GRAMMAR_QUIZZES": [
+    {
+      "id": "u3_gq1",
+      "category": "Daily Routines",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: I ___ up at seven o'clock.",
+      "options": ["get", "have", "do"],
+      "correctAnswer": "get",
+      "emoji": "⏰",
+      "spa": "Me levanto a las siete.",
+      "optionsLang": "en",
+      "eng": "I get up at seven o'clock.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq2",
+      "category": "Daily Routines",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: I ___ a shower in the morning.",
+      "options": ["have", "get", "go"],
+      "correctAnswer": "have",
+      "emoji": "🚿",
+      "spa": "Me ducho por la mañana.",
+      "optionsLang": "en",
+      "eng": "I have a shower in the morning.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq3",
+      "category": "Daily Routines",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: I ___ my teeth after breakfast.",
+      "options": ["brush", "finish", "start"],
+      "correctAnswer": "brush",
+      "emoji": "🪥",
+      "spa": "Me cepillo los dientes después del desayuno.",
+      "optionsLang": "en",
+      "eng": "I brush my teeth after breakfast.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq4",
+      "category": "Daily Routines",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: We ___ to school at eight o'clock.",
+      "options": ["go", "have", "brush"],
+      "correctAnswer": "go",
+      "emoji": "🏫",
+      "spa": "Vamos a la escuela a las ocho.",
+      "optionsLang": "en",
+      "eng": "We go to school at eight o'clock.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq5",
+      "category": "Daily Routines",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: I ___ my homework after school.",
+      "options": ["do", "have", "get"],
+      "correctAnswer": "do",
+      "emoji": "📝",
+      "spa": "Hago la tarea después de la escuela.",
+      "optionsLang": "en",
+      "eng": "I do my homework after school.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq6",
+      "category": "Daily Routines",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"get dressed\"?",
+      "options": ["Vestirse", "Levantarse", "Dormirse"],
+      "correctAnswer": "Vestirse",
+      "emoji": "👕",
+      "spa": "Vestirse",
+      "optionsLang": "es",
+      "eng": "Get dressed",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq7",
+      "category": "Daily Routines",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"get home\"?",
+      "options": ["Llegar a casa", "Salir de casa", "Ordenar la casa"],
+      "correctAnswer": "Llegar a casa",
+      "emoji": "🏠",
+      "spa": "Llegar a casa",
+      "optionsLang": "es",
+      "eng": "Get home",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq8",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My brother ___ school at eight o'clock.",
+      "options": ["starts", "start", "starting"],
+      "correctAnswer": "starts",
+      "emoji": "🏫",
+      "spa": "Mi hermano empieza la escuela a las ocho.",
+      "optionsLang": "en",
+      "eng": "My brother starts school at eight o'clock.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq9",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Mia ___ home at four o'clock.",
+      "options": ["gets", "get", "getes"],
+      "correctAnswer": "gets",
+      "emoji": "🏠",
+      "spa": "Mia llega a casa a las cuatro.",
+      "optionsLang": "en",
+      "eng": "Mia gets home at four o'clock.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq10",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Leo ___ to school by bus.",
+      "options": ["goes", "go", "gos"],
+      "correctAnswer": "goes",
+      "emoji": "🚌",
+      "spa": "Leo va a la escuela en colectivo.",
+      "optionsLang": "en",
+      "eng": "Leo goes to school by bus.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq11",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Sofia ___ English every day.",
+      "options": ["studies", "studys", "study"],
+      "correctAnswer": "studies",
+      "emoji": "📖",
+      "spa": "Sofia estudia Inglés todos los días.",
+      "optionsLang": "en",
+      "eng": "Sofia studies English every day.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq12",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Tom ___ his teeth after breakfast.",
+      "options": ["brushes", "brushs", "brush"],
+      "correctAnswer": "brushes",
+      "emoji": "🪥",
+      "spa": "Tom se cepilla los dientes después del desayuno.",
+      "optionsLang": "en",
+      "eng": "Tom brushes his teeth after breakfast.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq13",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My sister ___ TV in the evening.",
+      "options": ["watches", "watch", "watchs"],
+      "correctAnswer": "watches",
+      "emoji": "📺",
+      "spa": "Mi hermana mira televisión por la noche.",
+      "optionsLang": "en",
+      "eng": "My sister watches TV in the evening.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq14",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la oración correcta.",
+      "options": [
+        "My dad finishes work at six.",
+        "My dad finish work at six.",
+        "My dad finishs work at six."
+      ],
+      "correctAnswer": "My dad finishes work at six.",
+      "emoji": "💼",
+      "spa": "Mi papá termina de trabajar a las seis.",
+      "optionsLang": "en",
+      "eng": "My dad finishes work at six.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq15",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We ___ lunch at school.",
+      "options": ["have", "has", "haves"],
+      "correctAnswer": "have",
+      "emoji": "🥪",
+      "spa": "Almorzamos en la escuela.",
+      "optionsLang": "en",
+      "eng": "We have lunch at school.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq16",
+      "category": "Present Simple",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Emma and Lucas ___ computer games after school.",
+      "options": ["play", "plays", "plaies"],
+      "correctAnswer": "play",
+      "emoji": "🎮",
+      "spa": "Emma y Lucas juegan a videojuegos después de la escuela.",
+      "optionsLang": "en",
+      "eng": "Emma and Lucas play computer games after school.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq17",
+      "category": "Adverbs of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I ___ brush my teeth. I do it every day.",
+      "options": ["always", "never", "rarely"],
+      "correctAnswer": "always",
+      "emoji": "🪥",
+      "spa": "Siempre me cepillo los dientes. Lo hago todos los días.",
+      "optionsLang": "en",
+      "eng": "I always brush my teeth.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq18",
+      "category": "Adverbs of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Eva ___ goes to bed late. It doesn't happen at all.",
+      "options": ["never", "usually", "often"],
+      "correctAnswer": "never",
+      "emoji": "🌙",
+      "spa": "Eva nunca se va a dormir tarde.",
+      "optionsLang": "en",
+      "eng": "Eva never goes to bed late.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq19",
+      "category": "Adverbs of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "I usually have breakfast at home.",
+        "I have usually breakfast at home.",
+        "Usually I have at home breakfast."
+      ],
+      "correctAnswer": "I usually have breakfast at home.",
+      "emoji": "🥣",
+      "spa": "Normalmente desayuno en casa.",
+      "optionsLang": "en",
+      "eng": "I usually have breakfast at home.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq20",
+      "category": "Adverbs of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto con el verbo to be.",
+      "options": [
+        "She is always happy.",
+        "She always is happy.",
+        "She happy is always."
+      ],
+      "correctAnswer": "She is always happy.",
+      "emoji": "😊",
+      "spa": "Ella siempre está feliz.",
+      "optionsLang": "en",
+      "eng": "She is always happy.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq21",
+      "category": "Adverbs of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Qué adverbio significa \"a veces\"?",
+      "options": ["sometimes", "always", "never"],
+      "correctAnswer": "sometimes",
+      "emoji": "🔄",
+      "spa": "A veces",
+      "optionsLang": "en",
+      "eng": "Sometimes",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq22",
+      "category": "Adverbs of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Qué adverbio expresa la menor frecuencia?",
+      "options": ["never", "usually", "always"],
+      "correctAnswer": "never",
+      "emoji": "🚫",
+      "spa": "Nunca",
+      "optionsLang": "en",
+      "eng": "Never",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq23",
+      "category": "Adverbs of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friends ___ play basketball after school. They play three or four days a week.",
+      "options": ["often", "never", "rarely"],
+      "correctAnswer": "often",
+      "emoji": "🏀",
+      "spa": "Mis amigos juegan al básquet seguido después de la escuela.",
+      "optionsLang": "en",
+      "eng": "My friends often play basketball after school.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq24",
+      "category": "Prepositions of Time",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My birthday is ___ April.",
+      "options": ["in", "on", "at"],
+      "correctAnswer": "in",
+      "emoji": "🎂",
+      "spa": "Mi cumpleaños es en abril.",
+      "optionsLang": "en",
+      "eng": "My birthday is in April.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq25",
+      "category": "Prepositions of Time",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We have PE ___ Monday.",
+      "options": ["on", "in", "at"],
+      "correctAnswer": "on",
+      "emoji": "📅",
+      "spa": "Tenemos Educación Física el lunes.",
+      "optionsLang": "en",
+      "eng": "We have PE on Monday.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq26",
+      "category": "Prepositions of Time",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: School starts ___ eight o'clock.",
+      "options": ["at", "on", "in"],
+      "correctAnswer": "at",
+      "emoji": "🕗",
+      "spa": "La escuela empieza a las ocho.",
+      "optionsLang": "en",
+      "eng": "School starts at eight o'clock.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq27",
+      "category": "Prepositions of Time",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I do my homework ___ the afternoon.",
+      "options": ["in", "on", "at"],
+      "correctAnswer": "in",
+      "emoji": "☀️",
+      "spa": "Hago la tarea por la tarde.",
+      "optionsLang": "en",
+      "eng": "I do my homework in the afternoon.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq28",
+      "category": "Prepositions of Time",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I usually sleep ___ night.",
+      "options": ["at", "in", "on"],
+      "correctAnswer": "at",
+      "emoji": "🌙",
+      "spa": "Normalmente duermo por la noche.",
+      "optionsLang": "en",
+      "eng": "I usually sleep at night.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq29",
+      "category": "Prepositions of Time",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We go on holiday ___ summer.",
+      "options": ["in", "at", "on"],
+      "correctAnswer": "in",
+      "emoji": "🏖️",
+      "spa": "Nos vamos de vacaciones en verano.",
+      "optionsLang": "en",
+      "eng": "We go on holiday in summer.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq30",
+      "category": "Prepositions of Time",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: The party is ___ 14 February.",
+      "options": ["on", "in", "at"],
+      "correctAnswer": "on",
+      "emoji": "🎉",
+      "spa": "La fiesta es el 14 de febrero.",
+      "optionsLang": "en",
+      "eng": "The party is on 14 February.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq31",
+      "category": "School Routines",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige la pregunta para esta respuesta: \"It's maths.\"",
+      "options": [
+        "What's your favourite subject?",
+        "What time's lunch?",
+        "When's your birthday?"
+      ],
+      "correctAnswer": "What's your favourite subject?",
+      "emoji": "➗",
+      "spa": "¿Cuál es tu materia favorita? Matemática.",
+      "optionsLang": "en",
+      "eng": "What's your favourite subject? It's maths.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq32",
+      "category": "School Routines",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige la pregunta para esta respuesta: \"It's on Friday.\"",
+      "options": [
+        "What day is PE?",
+        "What time is PE?",
+        "What's PE?"
+      ],
+      "correctAnswer": "What day is PE?",
+      "emoji": "📅",
+      "spa": "¿Qué día tienes Educación Física? Es el viernes.",
+      "optionsLang": "en",
+      "eng": "What day is PE? It's on Friday.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq33",
+      "category": "School Routines",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige la pregunta para esta respuesta: \"It's at twelve thirty.\"",
+      "options": [
+        "What time's lunch?",
+        "What day's lunch?",
+        "What's your lunch?"
+      ],
+      "correctAnswer": "What time's lunch?",
+      "emoji": "🥪",
+      "spa": "¿A qué hora es el almuerzo? Es a las doce y media.",
+      "optionsLang": "en",
+      "eng": "What time's lunch? It's at twelve thirty.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq34",
+      "category": "School Routines",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: ___ you often late for school?",
+      "options": ["Are", "Is", "Do"],
+      "correctAnswer": "Are",
+      "emoji": "🏃",
+      "spa": "¿Llegas tarde a la escuela seguido?",
+      "optionsLang": "en",
+      "eng": "Are you often late for school?",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq35",
+      "category": "School Routines",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: ___ is the last lesson?",
+      "options": ["When", "What time", "Are"],
+      "correctAnswer": "When",
+      "emoji": "🔔",
+      "spa": "¿Cuándo es la última clase?",
+      "optionsLang": "en",
+      "eng": "When is the last lesson?",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq36",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"half past seven\"?",
+      "options": ["7:30", "7:15", "6:30"],
+      "correctAnswer": "7:30",
+      "emoji": "🕢",
+      "spa": "Las siete y media",
+      "optionsLang": "en",
+      "eng": "Half past seven",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq37",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"a quarter past nine\"?",
+      "options": ["9:15", "9:45", "8:45"],
+      "correctAnswer": "9:15",
+      "emoji": "🕘",
+      "spa": "Las nueve y cuarto",
+      "optionsLang": "en",
+      "eng": "A quarter past nine",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq38",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"a quarter to one\"?",
+      "options": ["12:45", "1:15", "12:15"],
+      "correctAnswer": "12:45",
+      "emoji": "🕧",
+      "spa": "La una menos cuarto",
+      "optionsLang": "en",
+      "eng": "A quarter to one",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq39",
+      "category": "Habits",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la oración que describe un buen hábito.",
+      "options": [
+        "I go to bed early.",
+        "I never have breakfast.",
+        "I am always late for school."
+      ],
+      "correctAnswer": "I go to bed early.",
+      "emoji": "🌙",
+      "spa": "Me voy a dormir temprano.",
+      "optionsLang": "en",
+      "eng": "I go to bed early.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "id": "u3_gq40",
+      "category": "Habits",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la mejor transformación: \"I go to bed very late.\"",
+      "options": [
+        "I go to bed early.",
+        "I never brush my teeth.",
+        "I get home late."
+      ],
+      "correctAnswer": "I go to bed early.",
+      "emoji": "😴",
+      "spa": "Me voy a dormir temprano.",
+      "optionsLang": "en",
+      "eng": "I go to bed early.",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    }
+  ],
+  "READING_COMPREHENSION": [
+    {
+      "category": "Daily Routine - Maya's School Day",
+      "readingText": "Maya gets up at half past six every morning. She has a shower and gets dressed before breakfast. She usually has cereal and fruit. At half past seven, she walks to school with her friend Nina. School starts at eight o'clock. Maya has lunch at school and finishes classes at three thirty. She gets home at four o'clock and does her homework before playing computer games.",
+      "emoji": "⏰",
+      "questions": [
+        {
+          "q": "What time does Maya get up?",
+          "a": "At half past six",
+          "options": ["At half past six", "At seven o'clock", "At half past seven"]
+        },
+        {
+          "q": "What does Maya usually have for breakfast?",
+          "a": "Cereal and fruit",
+          "options": ["Cereal and fruit", "Pizza", "Rice and chicken"]
+        },
+        {
+          "q": "How does Maya go to school?",
+          "a": "She walks",
+          "options": ["She walks", "She goes by train", "She goes by car"]
+        },
+        {
+          "q": "What does Maya do before playing computer games?",
+          "a": "She does her homework",
+          "options": ["She does her homework", "She goes to bed", "She has breakfast"]
+        }
+      ]
+    },
+    {
+      "category": "Present Simple - Leo and His Sister",
+      "readingText": "Leo and his sister Clara have very different routines. Leo reads comics after school, but Clara reads adventure books. Leo listens to rock music and Clara listens to pop music. Leo goes to school by bike, but Clara walks. In the evening, Leo plays computer games while Clara studies. They have dinner together with their parents at eight o'clock.",
+      "emoji": "👫",
+      "questions": [
+        {
+          "q": "What does Leo read?",
+          "a": "Comics",
+          "options": ["Comics", "Adventure books", "School magazines"]
+        },
+        {
+          "q": "How does Clara go to school?",
+          "a": "She walks",
+          "options": ["She walks", "She goes by bike", "She goes by bus"]
+        },
+        {
+          "q": "What does Clara do in the evening?",
+          "a": "She studies",
+          "options": ["She studies", "She plays computer games", "She sleeps"]
+        },
+        {
+          "q": "Do Leo and Clara have dinner together?",
+          "a": "Yes, they do.",
+          "options": ["Yes, they do.", "No, they don't."]
+        }
+      ]
+    },
+    {
+      "category": "Adverbs of Frequency - My Busy Week",
+      "readingText": "My name is Ben and my week is very busy. I always get up at seven o'clock on school days. I usually have breakfast with my family. I often play basketball after school, but I sometimes stay home and play video games. I rarely watch TV in the morning and I never go to bed after midnight on school nights.",
+      "emoji": "📅",
+      "questions": [
+        {
+          "q": "Does Ben always get up at seven on school days?",
+          "a": "Yes, he does.",
+          "options": ["Yes, he does.", "No, he doesn't."]
+        },
+        {
+          "q": "What does Ben often do after school?",
+          "a": "He plays basketball",
+          "options": ["He plays basketball", "He goes to bed", "He has breakfast"]
+        },
+        {
+          "q": "Does Ben sometimes play video games?",
+          "a": "Yes, he does.",
+          "options": ["Yes, he does.", "No, he doesn't."]
+        },
+        {
+          "q": "What does Ben never do on school nights?",
+          "a": "Go to bed after midnight",
+          "options": ["Go to bed after midnight", "Have breakfast", "Get up at seven"]
+        }
+      ]
+    },
+    {
+      "category": "School Routines - A Different School Day",
+      "readingText": "Lucy's school day starts at eight thirty. Students have four lessons in the morning and lunch at twelve thirty. Lucy's favourite subject is science because she loves experiments. She has science on Monday and Wednesday. After lunch, there are three more lessons. School finishes at half past three. Lucy usually goes to the art club after school on Thursdays.",
+      "emoji": "🏫",
+      "questions": [
+        {
+          "q": "What time does Lucy's school start?",
+          "a": "At eight thirty",
+          "options": ["At eight thirty", "At nine thirty", "At seven thirty"]
+        },
+        {
+          "q": "What's Lucy's favourite subject?",
+          "a": "Science",
+          "options": ["Science", "Maths", "PE"]
+        },
+        {
+          "q": "What days does Lucy have science?",
+          "a": "Monday and Wednesday",
+          "options": ["Monday and Wednesday", "Tuesday and Friday", "Thursday and Friday"]
+        },
+        {
+          "q": "What does Lucy usually do on Thursdays?",
+          "a": "She goes to the art club",
+          "options": ["She goes to the art club", "She plays football", "She goes home early"]
+        }
+      ]
+    },
+    {
+      "category": "Culture - School Exchange",
+      "readingText": "Valentina is an exchange student from Argentina. For two weeks, she goes to school in Manchester. Her school day starts at nine o'clock. Students have lessons in different classrooms and they wear a school uniform. Lunch is at one o'clock. Valentina likes the school library because it has lots of books and computers. She also likes PE, but she thinks the school day is long because classes finish at four o'clock.",
+      "emoji": "🌍",
+      "questions": [
+        {
+          "q": "Where is Valentina from?",
+          "a": "Argentina",
+          "options": ["Argentina", "England", "Canada"]
+        },
+        {
+          "q": "What time does school start?",
+          "a": "At nine o'clock",
+          "options": ["At nine o'clock", "At eight o'clock", "At ten o'clock"]
+        },
+        {
+          "q": "Why does Valentina like the library?",
+          "a": "It has lots of books and computers",
+          "options": [
+            "It has lots of books and computers",
+            "She has lunch there",
+            "She plays football there"
+          ]
+        },
+        {
+          "q": "Does Valentina think the school day is short?",
+          "a": "No, she doesn't.",
+          "options": ["Yes, she does.", "No, she doesn't."]
+        }
+      ]
+    }
+  ],
+  "SENTENCES": [
+    {
+      "eng": "I get up at seven o'clock.",
+      "spa": "Me levanto a las siete.",
+      "category": "Daily Routines",
+      "emoji": "⏰",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I have a shower every morning.",
+      "spa": "Me ducho todas las mañanas.",
+      "category": "Daily Routines",
+      "emoji": "🚿",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I get dressed before breakfast.",
+      "spa": "Me visto antes del desayuno.",
+      "category": "Daily Routines",
+      "emoji": "👕",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I have breakfast in the kitchen.",
+      "spa": "Desayuno en la cocina.",
+      "category": "Daily Routines",
+      "emoji": "🥣",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I brush my teeth after breakfast.",
+      "spa": "Me cepillo los dientes después del desayuno.",
+      "category": "Daily Routines",
+      "emoji": "🪥",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I go to school at eight o'clock.",
+      "spa": "Voy a la escuela a las ocho.",
+      "category": "Daily Routines",
+      "emoji": "🏫",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I have lunch at school.",
+      "spa": "Almuerzo en la escuela.",
+      "category": "Daily Routines",
+      "emoji": "🥪",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I finish school at half past three.",
+      "spa": "Termino la escuela a las tres y media.",
+      "category": "Daily Routines",
+      "emoji": "🔔",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I get home at four o'clock.",
+      "spa": "Llego a casa a las cuatro.",
+      "category": "Daily Routines",
+      "emoji": "🏠",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I do my homework in the afternoon.",
+      "spa": "Hago la tarea por la tarde.",
+      "category": "Daily Routines",
+      "emoji": "📝",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I go to bed at ten o'clock.",
+      "spa": "Me voy a dormir a las diez.",
+      "category": "Daily Routines",
+      "emoji": "😴",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "She gets up early.",
+      "spa": "Ella se levanta temprano.",
+      "category": "Present Simple",
+      "emoji": "🌅",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "He goes to school by bike.",
+      "spa": "Él va a la escuela en bicicleta.",
+      "category": "Present Simple",
+      "emoji": "🚲",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "She studies English after school.",
+      "spa": "Ella estudia Inglés después de la escuela.",
+      "category": "Present Simple",
+      "emoji": "📖",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "He watches TV in the evening.",
+      "spa": "Él mira televisión por la noche.",
+      "category": "Present Simple",
+      "emoji": "📺",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "She finishes school at four o'clock.",
+      "spa": "Ella termina la escuela a las cuatro.",
+      "category": "Present Simple",
+      "emoji": "🏫",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I always brush my teeth.",
+      "spa": "Siempre me cepillo los dientes.",
+      "category": "Adverbs of Frequency",
+      "emoji": "🪥",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I usually get up early.",
+      "spa": "Normalmente me levanto temprano.",
+      "category": "Adverbs of Frequency",
+      "emoji": "🌅",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "We often play football.",
+      "spa": "Jugamos al fútbol seguido.",
+      "category": "Adverbs of Frequency",
+      "emoji": "⚽",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "They sometimes have lunch at school.",
+      "spa": "A veces almuerzan en la escuela.",
+      "category": "Adverbs of Frequency",
+      "emoji": "🥪",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "She rarely goes to bed late.",
+      "spa": "Ella rara vez se va a dormir tarde.",
+      "category": "Adverbs of Frequency",
+      "emoji": "🌙",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "He never misses breakfast.",
+      "spa": "Él nunca se salta el desayuno.",
+      "category": "Adverbs of Frequency",
+      "emoji": "🥣",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "We are always happy at the robotics club.",
+      "spa": "Siempre estamos felices en el club de robótica.",
+      "category": "Adverbs of Frequency",
+      "emoji": "🤖",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "My birthday is in May.",
+      "spa": "Mi cumpleaños es en mayo.",
+      "category": "Prepositions of Time",
+      "emoji": "🎂",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "We have science on Monday.",
+      "spa": "Tenemos Ciencias el lunes.",
+      "category": "Prepositions of Time",
+      "emoji": "🔬",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "School starts at eight o'clock.",
+      "spa": "La escuela empieza a las ocho.",
+      "category": "Prepositions of Time",
+      "emoji": "🕗",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I do my homework in the evening.",
+      "spa": "Hago la tarea por la tarde-noche.",
+      "category": "Prepositions of Time",
+      "emoji": "🌆",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "We play tennis in summer.",
+      "spa": "Jugamos al tenis en verano.",
+      "category": "Prepositions of Time",
+      "emoji": "🎾",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "What's your favourite subject?",
+      "spa": "¿Cuál es tu materia favorita?",
+      "category": "School Routines",
+      "emoji": "📚",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "My favourite subject is science.",
+      "spa": "Mi materia favorita es Ciencias.",
+      "category": "School Routines",
+      "emoji": "🔬",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "What day is PE?",
+      "spa": "¿Qué día tienes Educación Física?",
+      "category": "School Routines",
+      "emoji": "🏃",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "It's on Wednesday.",
+      "spa": "Es el miércoles.",
+      "category": "School Routines",
+      "emoji": "📅",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "Are you often late?",
+      "spa": "¿Llegas tarde seguido?",
+      "category": "School Routines",
+      "emoji": "⏰",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "I'm never late.",
+      "spa": "Nunca llego tarde.",
+      "category": "School Routines",
+      "emoji": "✅",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "What time's lunch?",
+      "spa": "¿A qué hora es el almuerzo?",
+      "category": "School Routines",
+      "emoji": "🥪",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "It's at half past twelve.",
+      "spa": "Es a las doce y media.",
+      "category": "School Routines",
+      "emoji": "🕧",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "When's the last lesson?",
+      "spa": "¿Cuándo es la última clase?",
+      "category": "School Routines",
+      "emoji": "🔔",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    },
+    {
+      "eng": "The last lesson is at three thirty.",
+      "spa": "La última clase es a las tres y media.",
+      "category": "School Routines",
+      "emoji": "🕞",
+      "year": "2026",
+      "source": "Unit 3 - Habits"
+    }
+  ],
+  "VOCABULARY": [
+    {
+      "eng": "Get up",
+      "spa": "Levantarse",
+      "category": "Daily Routines",
+      "emoji": "⏰"
+    },
+    {
+      "eng": "Have breakfast",
+      "spa": "Desayunar",
+      "category": "Daily Routines",
+      "emoji": "🥣"
+    },
+    {
+      "eng": "Have a shower",
+      "spa": "Ducharse",
+      "category": "Daily Routines",
+      "emoji": "🚿"
+    },
+    {
+      "eng": "Get dressed",
+      "spa": "Vestirse",
+      "category": "Daily Routines",
+      "emoji": "👕"
+    },
+    {
+      "eng": "Brush my teeth",
+      "spa": "Cepillarme los dientes",
+      "category": "Daily Routines",
+      "emoji": "🪥"
+    },
+    {
+      "eng": "Go to school",
+      "spa": "Ir a la escuela",
+      "category": "Daily Routines",
+      "emoji": "🏫"
+    },
+    {
+      "eng": "Start school",
+      "spa": "Empezar la escuela / las clases",
+      "category": "Daily Routines",
+      "emoji": "🔔"
+    },
+    {
+      "eng": "Have lunch",
+      "spa": "Almorzar",
+      "category": "Daily Routines",
+      "emoji": "🥪"
+    },
+    {
+      "eng": "Finish school",
+      "spa": "Terminar la escuela / las clases",
+      "category": "Daily Routines",
+      "emoji": "🎒"
+    },
+    {
+      "eng": "Get home",
+      "spa": "Llegar a casa",
+      "category": "Daily Routines",
+      "emoji": "🏠"
+    },
+    {
+      "eng": "Do my homework",
+      "spa": "Hacer mi tarea",
+      "category": "Daily Routines",
+      "emoji": "📝"
+    },
+    {
+      "eng": "Go to bed",
+      "spa": "Irse a dormir",
+      "category": "Daily Routines",
+      "emoji": "😴"
+    },
+    {
+      "eng": "Play computer games",
+      "spa": "Jugar a videojuegos",
+      "category": "Free Time",
+      "emoji": "🎮"
+    },
+    {
+      "eng": "Watch TV",
+      "spa": "Mirar televisión",
+      "category": "Free Time",
+      "emoji": "📺"
+    },
+    {
+      "eng": "Play football",
+      "spa": "Jugar al fútbol",
+      "category": "Free Time",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "Play tennis",
+      "spa": "Jugar al tenis",
+      "category": "Free Time",
+      "emoji": "🎾"
+    },
+    {
+      "eng": "Always",
+      "spa": "Siempre",
+      "category": "Adverbs of Frequency",
+      "emoji": "💯"
+    },
+    {
+      "eng": "Usually",
+      "spa": "Normalmente",
+      "category": "Adverbs of Frequency",
+      "emoji": "🔁"
+    },
+    {
+      "eng": "Often",
+      "spa": "Seguido / A menudo",
+      "category": "Adverbs of Frequency",
+      "emoji": "🔄"
+    },
+    {
+      "eng": "Sometimes",
+      "spa": "A veces",
+      "category": "Adverbs of Frequency",
+      "emoji": "🎲"
+    },
+    {
+      "eng": "Rarely",
+      "spa": "Rara vez",
+      "category": "Adverbs of Frequency",
+      "emoji": "🌙"
+    },
+    {
+      "eng": "Never",
+      "spa": "Nunca",
+      "category": "Adverbs of Frequency",
+      "emoji": "🚫"
+    },
+    {
+      "eng": "In the morning",
+      "spa": "Por la mañana",
+      "category": "Time Expressions",
+      "emoji": "🌅"
+    },
+    {
+      "eng": "In the afternoon",
+      "spa": "Por la tarde",
+      "category": "Time Expressions",
+      "emoji": "☀️"
+    },
+    {
+      "eng": "In the evening",
+      "spa": "Por la tarde-noche",
+      "category": "Time Expressions",
+      "emoji": "🌆"
+    },
+    {
+      "eng": "At night",
+      "spa": "Por la noche",
+      "category": "Time Expressions",
+      "emoji": "🌙"
+    },
+    {
+      "eng": "At the weekend",
+      "spa": "El fin de semana",
+      "category": "Time Expressions",
+      "emoji": "🎉"
+    },
+    {
+      "eng": "On Monday",
+      "spa": "El lunes",
+      "category": "Time Expressions",
+      "emoji": "📅"
+    },
+    {
+      "eng": "At seven o'clock",
+      "spa": "A las siete",
+      "category": "Telling the Time",
+      "emoji": "🕖"
+    },
+    {
+      "eng": "Half past seven",
+      "spa": "Las siete y media",
+      "category": "Telling the Time",
+      "emoji": "🕢"
+    },
+    {
+      "eng": "A quarter past nine",
+      "spa": "Las nueve y cuarto",
+      "category": "Telling the Time",
+      "emoji": "🕘"
+    },
+    {
+      "eng": "A quarter to one",
+      "spa": "La una menos cuarto",
+      "category": "Telling the Time",
+      "emoji": "🕧"
+    },
+    {
+      "eng": "Favourite subject",
+      "spa": "Materia favorita",
+      "category": "School Routines",
+      "emoji": "📚"
+    },
+    {
+      "eng": "First lesson",
+      "spa": "Primera clase",
+      "category": "School Routines",
+      "emoji": "1️⃣"
+    },
+    {
+      "eng": "Last lesson",
+      "spa": "Última clase",
+      "category": "School Routines",
+      "emoji": "🔚"
+    },
+    {
+      "eng": "School uniform",
+      "spa": "Uniforme escolar",
+      "category": "School",
+      "emoji": "👔"
+    },
+    {
+      "eng": "Classroom",
+      "spa": "Aula",
+      "category": "School",
+      "emoji": "🏫"
+    },
+    {
+      "eng": "School library",
+      "spa": "Biblioteca escolar",
+      "category": "School",
+      "emoji": "📚"
+    },
+    {
+      "eng": "Homework",
+      "spa": "Tarea",
+      "category": "School",
+      "emoji": "📝"
+    },
+    {
+      "eng": "Maths",
+      "spa": "Matemática",
+      "category": "School Subjects",
+      "emoji": "➗"
+    },
+    {
+      "eng": "Science",
+      "spa": "Ciencias",
+      "category": "School Subjects",
+      "emoji": "🔬"
+    },
+    {
+      "eng": "English",
+      "spa": "Inglés",
+      "category": "School Subjects",
+      "emoji": "🇬🇧"
+    },
+    {
+      "eng": "Geography",
+      "spa": "Geografía",
+      "category": "School Subjects",
+      "emoji": "🌍"
+    },
+    {
+      "eng": "PE",
+      "spa": "Educación Física",
+      "category": "School Subjects",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Art",
+      "spa": "Arte",
+      "category": "School Subjects",
+      "emoji": "🎨"
+    }
+  ]
+}

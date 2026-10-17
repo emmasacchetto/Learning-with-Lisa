@@ -1,0 +1,5217 @@
+{
+  "unit": "Unid. 1: One World",
+  "source": "I Succeed in English 2 Studentsbook and Workbook",
+  "year": "2026",
+  "DIALOGUES": [
+    {
+      "id": "u1_func_intro_school",
+      "category": "Introductions - New student",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Hi, I'm Alex. I'm new here.",
+          "spa": "Hola, soy Alex. Soy nuevo aquí.",
+          "emoji": "👋"
+        },
+        {
+          "speaker": "B",
+          "eng": "Hello, Alex. I'm Maya. Nice to meet you.",
+          "spa": "Hola, Alex. Soy Maya. Mucho gusto.",
+          "emoji": "🙂"
+        },
+        {
+          "speaker": "A",
+          "eng": "Nice to meet you, too.",
+          "spa": "Mucho gusto también.",
+          "emoji": "🤝"
+        },
+        {
+          "speaker": "B",
+          "eng": "This is Ben. He's in our class.",
+          "spa": "Este es Ben. Está en nuestra clase.",
+          "emoji": "👦"
+        },
+        {
+          "speaker": "A",
+          "eng": "Hi, Ben. Great to meet you.",
+          "spa": "Hola, Ben. Encantado de conocerte.",
+          "emoji": "✨"
+        },
+        {
+          "speaker": "B",
+          "eng": "Great to meet you, too.",
+          "spa": "Encantado de conocerte también.",
+          "emoji": "😊"
+        }
+      ]
+    },
+    {
+      "id": "u1_func_intro_club",
+      "category": "Introductions - Club",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Hi, I'm Sofia. Is this the photography club?",
+          "spa": "Hola, soy Sofia. ¿Este es el club de fotografía?",
+          "emoji": "📷"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, it is. I'm Leo.",
+          "spa": "Sí. Soy Leo.",
+          "emoji": "🙂"
+        },
+        {
+          "speaker": "A",
+          "eng": "Nice to meet you, Leo.",
+          "spa": "Mucho gusto, Leo.",
+          "emoji": "🤝"
+        },
+        {
+          "speaker": "B",
+          "eng": "Nice to meet you, too. This is Emma, my friend.",
+          "spa": "Mucho gusto también. Esta es Emma, mi amiga.",
+          "emoji": "👧"
+        },
+        {
+          "speaker": "A",
+          "eng": "Hi, Emma. Great to meet you.",
+          "spa": "Hola, Emma. Encantada de conocerte.",
+          "emoji": "✨"
+        }
+      ]
+    },
+    {
+      "id": "u1_func_personal_info",
+      "category": "Personal Information",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Where are you from?",
+          "spa": "¿De dónde eres?",
+          "emoji": "🌍"
+        },
+        {
+          "speaker": "B",
+          "eng": "I'm from Argentina. I'm Argentinian.",
+          "spa": "Soy de Argentina. Soy argentino/a.",
+          "emoji": "🇦🇷"
+        },
+        {
+          "speaker": "A",
+          "eng": "Is your best friend Argentinian, too?",
+          "spa": "¿Tu mejor amigo/a también es argentino/a?",
+          "emoji": "👯"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, she isn't. She's Brazilian.",
+          "spa": "No. Es brasileña.",
+          "emoji": "🇧🇷"
+        },
+        {
+          "speaker": "A",
+          "eng": "What's her favourite subject?",
+          "spa": "¿Cuál es su materia favorita?",
+          "emoji": "📚"
+        },
+        {
+          "speaker": "B",
+          "eng": "Her favourite subject is art.",
+          "spa": "Su materia favorita es Arte.",
+          "emoji": "🎨"
+        }
+      ]
+    },
+    {
+      "id": "u1_func_to_be_questions",
+      "category": "To be - Questions and short answers",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Are you worried about the match?",
+          "spa": "¿Estás preocupado/a por el partido?",
+          "emoji": "😟"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, I'm not. I'm excited!",
+          "spa": "No. ¡Estoy entusiasmado/a!",
+          "emoji": "😄"
+        },
+        {
+          "speaker": "A",
+          "eng": "Is your brother on the team?",
+          "spa": "¿Tu hermano está en el equipo?",
+          "emoji": "🏀"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, he is.",
+          "spa": "Sí.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Are your friends here?",
+          "spa": "¿Tus amigos están aquí?",
+          "emoji": "👥"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, they aren't. They're at school.",
+          "spa": "No. Están en la escuela.",
+          "emoji": "🏫"
+        }
+      ]
+    },
+    {
+      "id": "u1_func_possessives",
+      "category": "Possessive Adjectives",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Is this your laptop?",
+          "spa": "¿Esta es tu computadora portátil?",
+          "emoji": "💻"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, it's my laptop.",
+          "spa": "Sí, es mi computadora portátil.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Whose bag is that?",
+          "spa": "¿De quién es esa mochila?",
+          "emoji": "🎒"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's Sara's bag. Her name is on it.",
+          "spa": "Es la mochila de Sara. Su nombre está escrito.",
+          "emoji": "👧"
+        },
+        {
+          "speaker": "A",
+          "eng": "And are these your books?",
+          "spa": "¿Y estos son sus libros?",
+          "emoji": "📚"
+        },
+        {
+          "speaker": "B",
+          "eng": "No. They're our teacher's books.",
+          "spa": "No. Son los libros de nuestro/a profesor/a.",
+          "emoji": "👩‍🏫"
+        }
+      ]
+    },
+    {
+      "id": "u1_func_favourites",
+      "category": "Asking about favourites",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What's your favourite colour?",
+          "spa": "¿Cuál es tu color favorito?",
+          "emoji": "🎨"
+        },
+        {
+          "speaker": "B",
+          "eng": "My favourite colour is green.",
+          "spa": "Mi color favorito es el verde.",
+          "emoji": "🟢"
+        },
+        {
+          "speaker": "A",
+          "eng": "What's your favourite animal?",
+          "spa": "¿Cuál es tu animal favorito?",
+          "emoji": "🐾"
+        },
+        {
+          "speaker": "B",
+          "eng": "My favourite animal is the rabbit.",
+          "spa": "Mi animal favorito es el conejo.",
+          "emoji": "🐇"
+        },
+        {
+          "speaker": "A",
+          "eng": "What's your favourite day?",
+          "spa": "¿Cuál es tu día favorito?",
+          "emoji": "📅"
+        },
+        {
+          "speaker": "B",
+          "eng": "Friday. It's great!",
+          "spa": "El viernes. ¡Es genial!",
+          "emoji": "🎉"
+        }
+      ]
+    },
+    {
+      "id": "u1_func_city_guess",
+      "category": "Cities and countries",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "It's a city in Scotland. It's the capital.",
+          "spa": "Es una ciudad de Escocia. Es la capital.",
+          "emoji": "🏙️"
+        },
+        {
+          "speaker": "B",
+          "eng": "Is it Edinburgh?",
+          "spa": "¿Es Edimburgo?",
+          "emoji": "🏰"
+        },
+        {
+          "speaker": "A",
+          "eng": "Yes, it is.",
+          "spa": "Sí.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "B",
+          "eng": "Is it a big city?",
+          "spa": "¿Es una ciudad grande?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "A",
+          "eng": "No, it isn't very big, but it's famous for its castle and festivals.",
+          "spa": "No es muy grande, pero es famosa por su castillo y sus festivales.",
+          "emoji": "🎭"
+        }
+      ]
+    },
+    {
+      "id": "u1_func_describe_person",
+      "category": "Describing people",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Which student is Noah?",
+          "spa": "¿Qué estudiante es Noah?",
+          "emoji": "👤"
+        },
+        {
+          "speaker": "B",
+          "eng": "He's the boy with short brown hair and blue eyes.",
+          "spa": "Es el chico de cabello corto y marrón y ojos azules.",
+          "emoji": "👦"
+        },
+        {
+          "speaker": "A",
+          "eng": "Is his backpack red?",
+          "spa": "¿Su mochila es roja?",
+          "emoji": "🎒"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, it isn't. His backpack is blue.",
+          "spa": "No. Su mochila es azul.",
+          "emoji": "🔵"
+        }
+      ]
+    }
+  ],
+  "GRAMMAR_QUIZZES": [
+    {
+      "id": "u1_gq001",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Scotland are ___.",
+      "options": [
+        "Scottish",
+        "Welsh",
+        "Italian"
+      ],
+      "correctAnswer": "Scottish",
+      "emoji": "🏴",
+      "spa": "Las personas de Escocia son escocés/escocesa.",
+      "optionsLang": "en",
+      "eng": "People from Scotland are Scottish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq002",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Scottish is from ___.",
+      "options": [
+        "Scotland",
+        "the UK",
+        "Germany"
+      ],
+      "correctAnswer": "Scotland",
+      "emoji": "🏴",
+      "spa": "Una persona escocés/escocesa es de Escocia.",
+      "optionsLang": "en",
+      "eng": "Someone who is Scottish is from Scotland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq003",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from England are ___.",
+      "options": [
+        "English",
+        "British",
+        "German"
+      ],
+      "correctAnswer": "English",
+      "emoji": "🏴",
+      "spa": "Las personas de Inglaterra son inglés/inglesa.",
+      "optionsLang": "en",
+      "eng": "People from England are English.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq004",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is English is from ___.",
+      "options": [
+        "England",
+        "Spain",
+        "Poland"
+      ],
+      "correctAnswer": "England",
+      "emoji": "🏴",
+      "spa": "Una persona inglés/inglesa es de Inglaterra.",
+      "optionsLang": "en",
+      "eng": "Someone who is English is from England.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq005",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Ireland are ___.",
+      "options": [
+        "Irish",
+        "Spanish",
+        "Polish"
+      ],
+      "correctAnswer": "Irish",
+      "emoji": "🇮🇪",
+      "spa": "Las personas de Irlanda son irlandés/irlandesa.",
+      "optionsLang": "en",
+      "eng": "People from Ireland are Irish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq006",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Irish is from ___.",
+      "options": [
+        "Ireland",
+        "France",
+        "Greece"
+      ],
+      "correctAnswer": "Ireland",
+      "emoji": "🇮🇪",
+      "spa": "Una persona irlandés/irlandesa es de Irlanda.",
+      "optionsLang": "en",
+      "eng": "Someone who is Irish is from Ireland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq007",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Wales are ___.",
+      "options": [
+        "Welsh",
+        "French",
+        "Greek"
+      ],
+      "correctAnswer": "Welsh",
+      "emoji": "🏴",
+      "spa": "Las personas de Gales son galés/galesa.",
+      "optionsLang": "en",
+      "eng": "People from Wales are Welsh.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq008",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Welsh is from ___.",
+      "options": [
+        "Wales",
+        "Italy",
+        "Morocco"
+      ],
+      "correctAnswer": "Wales",
+      "emoji": "🏴",
+      "spa": "Una persona galés/galesa es de Gales.",
+      "optionsLang": "en",
+      "eng": "Someone who is Welsh is from Wales.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq009",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from the UK are ___.",
+      "options": [
+        "British",
+        "Italian",
+        "Moroccan"
+      ],
+      "correctAnswer": "British",
+      "emoji": "🇬🇧",
+      "spa": "Las personas de el Reino Unido son británico/británica.",
+      "optionsLang": "en",
+      "eng": "People from the UK are British.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq010",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is British is from ___.",
+      "options": [
+        "the UK",
+        "Germany",
+        "Egypt"
+      ],
+      "correctAnswer": "the UK",
+      "emoji": "🇬🇧",
+      "spa": "Una persona británico/británica es de el Reino Unido.",
+      "optionsLang": "en",
+      "eng": "Someone who is British is from the UK.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq011",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Spain are ___.",
+      "options": [
+        "Spanish",
+        "German",
+        "Egyptian"
+      ],
+      "correctAnswer": "Spanish",
+      "emoji": "🇪🇸",
+      "spa": "Las personas de España son español/española.",
+      "optionsLang": "en",
+      "eng": "People from Spain are Spanish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq012",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Spanish is from ___.",
+      "options": [
+        "Spain",
+        "Poland",
+        "the USA"
+      ],
+      "correctAnswer": "Spain",
+      "emoji": "🇪🇸",
+      "spa": "Una persona español/española es de España.",
+      "optionsLang": "en",
+      "eng": "Someone who is Spanish is from Spain.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq013",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from France are ___.",
+      "options": [
+        "French",
+        "Polish",
+        "American"
+      ],
+      "correctAnswer": "French",
+      "emoji": "🇫🇷",
+      "spa": "Las personas de Francia son francés/francesa.",
+      "optionsLang": "en",
+      "eng": "People from France are French.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq014",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is French is from ___.",
+      "options": [
+        "France",
+        "Greece",
+        "China"
+      ],
+      "correctAnswer": "France",
+      "emoji": "🇫🇷",
+      "spa": "Una persona francés/francesa es de Francia.",
+      "optionsLang": "en",
+      "eng": "Someone who is French is from France.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq015",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Italy are ___.",
+      "options": [
+        "Italian",
+        "Greek",
+        "Chinese"
+      ],
+      "correctAnswer": "Italian",
+      "emoji": "🇮🇹",
+      "spa": "Las personas de Italia son italiano/italiana.",
+      "optionsLang": "en",
+      "eng": "People from Italy are Italian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq016",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Italian is from ___.",
+      "options": [
+        "Italy",
+        "Morocco",
+        "Argentina"
+      ],
+      "correctAnswer": "Italy",
+      "emoji": "🇮🇹",
+      "spa": "Una persona italiano/italiana es de Italia.",
+      "optionsLang": "en",
+      "eng": "Someone who is Italian is from Italy.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq017",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Germany are ___.",
+      "options": [
+        "German",
+        "Moroccan",
+        "Argentinian"
+      ],
+      "correctAnswer": "German",
+      "emoji": "🇩🇪",
+      "spa": "Las personas de Alemania son alemán/alemana.",
+      "optionsLang": "en",
+      "eng": "People from Germany are German.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq018",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is German is from ___.",
+      "options": [
+        "Germany",
+        "Egypt",
+        "Brazil"
+      ],
+      "correctAnswer": "Germany",
+      "emoji": "🇩🇪",
+      "spa": "Una persona alemán/alemana es de Alemania.",
+      "optionsLang": "en",
+      "eng": "Someone who is German is from Germany.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq019",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Poland are ___.",
+      "options": [
+        "Polish",
+        "Egyptian",
+        "Brazilian"
+      ],
+      "correctAnswer": "Polish",
+      "emoji": "🇵🇱",
+      "spa": "Las personas de Polonia son polaco/polaca.",
+      "optionsLang": "en",
+      "eng": "People from Poland are Polish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq020",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Polish is from ___.",
+      "options": [
+        "Poland",
+        "the USA",
+        "Russia"
+      ],
+      "correctAnswer": "Poland",
+      "emoji": "🇵🇱",
+      "spa": "Una persona polaco/polaca es de Polonia.",
+      "optionsLang": "en",
+      "eng": "Someone who is Polish is from Poland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq021",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Greece are ___.",
+      "options": [
+        "Greek",
+        "American",
+        "Russian"
+      ],
+      "correctAnswer": "Greek",
+      "emoji": "🇬🇷",
+      "spa": "Las personas de Grecia son griego/griega.",
+      "optionsLang": "en",
+      "eng": "People from Greece are Greek.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq022",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Greek is from ___.",
+      "options": [
+        "Greece",
+        "China",
+        "Turkey"
+      ],
+      "correctAnswer": "Greece",
+      "emoji": "🇬🇷",
+      "spa": "Una persona griego/griega es de Grecia.",
+      "optionsLang": "en",
+      "eng": "Someone who is Greek is from Greece.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq023",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Morocco are ___.",
+      "options": [
+        "Moroccan",
+        "Chinese",
+        "Turkish"
+      ],
+      "correctAnswer": "Moroccan",
+      "emoji": "🇲🇦",
+      "spa": "Las personas de Marruecos son marroquí.",
+      "optionsLang": "en",
+      "eng": "People from Morocco are Moroccan.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq024",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Moroccan is from ___.",
+      "options": [
+        "Morocco",
+        "Argentina",
+        "Mexico"
+      ],
+      "correctAnswer": "Morocco",
+      "emoji": "🇲🇦",
+      "spa": "Una persona marroquí es de Marruecos.",
+      "optionsLang": "en",
+      "eng": "Someone who is Moroccan is from Morocco.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq025",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Egypt are ___.",
+      "options": [
+        "Egyptian",
+        "Argentinian",
+        "Mexican"
+      ],
+      "correctAnswer": "Egyptian",
+      "emoji": "🇪🇬",
+      "spa": "Las personas de Egipto son egipcio/egipcia.",
+      "optionsLang": "en",
+      "eng": "People from Egypt are Egyptian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq026",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Egyptian is from ___.",
+      "options": [
+        "Egypt",
+        "Brazil",
+        "Scotland"
+      ],
+      "correctAnswer": "Egypt",
+      "emoji": "🇪🇬",
+      "spa": "Una persona egipcio/egipcia es de Egipto.",
+      "optionsLang": "en",
+      "eng": "Someone who is Egyptian is from Egypt.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq027",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from the USA are ___.",
+      "options": [
+        "American",
+        "Brazilian",
+        "Scottish"
+      ],
+      "correctAnswer": "American",
+      "emoji": "🇺🇸",
+      "spa": "Las personas de Estados Unidos son estadounidense.",
+      "optionsLang": "en",
+      "eng": "People from the USA are American.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq028",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is American is from ___.",
+      "options": [
+        "the USA",
+        "Russia",
+        "England"
+      ],
+      "correctAnswer": "the USA",
+      "emoji": "🇺🇸",
+      "spa": "Una persona estadounidense es de Estados Unidos.",
+      "optionsLang": "en",
+      "eng": "Someone who is American is from the USA.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq029",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from China are ___.",
+      "options": [
+        "Chinese",
+        "Russian",
+        "English"
+      ],
+      "correctAnswer": "Chinese",
+      "emoji": "🇨🇳",
+      "spa": "Las personas de China son chino/china.",
+      "optionsLang": "en",
+      "eng": "People from China are Chinese.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq030",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Chinese is from ___.",
+      "options": [
+        "China",
+        "Turkey",
+        "Ireland"
+      ],
+      "correctAnswer": "China",
+      "emoji": "🇨🇳",
+      "spa": "Una persona chino/china es de China.",
+      "optionsLang": "en",
+      "eng": "Someone who is Chinese is from China.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq031",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Argentina are ___.",
+      "options": [
+        "Argentinian",
+        "Turkish",
+        "Irish"
+      ],
+      "correctAnswer": "Argentinian",
+      "emoji": "🇦🇷",
+      "spa": "Las personas de Argentina son argentino/argentina.",
+      "optionsLang": "en",
+      "eng": "People from Argentina are Argentinian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq032",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Argentinian is from ___.",
+      "options": [
+        "Argentina",
+        "Mexico",
+        "Wales"
+      ],
+      "correctAnswer": "Argentina",
+      "emoji": "🇦🇷",
+      "spa": "Una persona argentino/argentina es de Argentina.",
+      "optionsLang": "en",
+      "eng": "Someone who is Argentinian is from Argentina.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq033",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Brazil are ___.",
+      "options": [
+        "Brazilian",
+        "Mexican",
+        "Welsh"
+      ],
+      "correctAnswer": "Brazilian",
+      "emoji": "🇧🇷",
+      "spa": "Las personas de Brasil son brasileño/brasileña.",
+      "optionsLang": "en",
+      "eng": "People from Brazil are Brazilian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq034",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Brazilian is from ___.",
+      "options": [
+        "Brazil",
+        "Scotland",
+        "the UK"
+      ],
+      "correctAnswer": "Brazil",
+      "emoji": "🇧🇷",
+      "spa": "Una persona brasileño/brasileña es de Brasil.",
+      "optionsLang": "en",
+      "eng": "Someone who is Brazilian is from Brazil.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq035",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Russia are ___.",
+      "options": [
+        "Russian",
+        "Scottish",
+        "British"
+      ],
+      "correctAnswer": "Russian",
+      "emoji": "🇷🇺",
+      "spa": "Las personas de Rusia son ruso/rusa.",
+      "optionsLang": "en",
+      "eng": "People from Russia are Russian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq036",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Russian is from ___.",
+      "options": [
+        "Russia",
+        "England",
+        "Spain"
+      ],
+      "correctAnswer": "Russia",
+      "emoji": "🇷🇺",
+      "spa": "Una persona ruso/rusa es de Rusia.",
+      "optionsLang": "en",
+      "eng": "Someone who is Russian is from Russia.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq037",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Turkey are ___.",
+      "options": [
+        "Turkish",
+        "English",
+        "Spanish"
+      ],
+      "correctAnswer": "Turkish",
+      "emoji": "🇹🇷",
+      "spa": "Las personas de Turquía son turco/turca.",
+      "optionsLang": "en",
+      "eng": "People from Turkey are Turkish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq038",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Turkish is from ___.",
+      "options": [
+        "Turkey",
+        "Ireland",
+        "France"
+      ],
+      "correctAnswer": "Turkey",
+      "emoji": "🇹🇷",
+      "spa": "Una persona turco/turca es de Turquía.",
+      "optionsLang": "en",
+      "eng": "Someone who is Turkish is from Turkey.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq039",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "People from Mexico are ___.",
+      "options": [
+        "Mexican",
+        "Irish",
+        "French"
+      ],
+      "correctAnswer": "Mexican",
+      "emoji": "🇲🇽",
+      "spa": "Las personas de México son mexicano/mexicana.",
+      "optionsLang": "en",
+      "eng": "People from Mexico are Mexican.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq040",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Someone who is Mexican is from ___.",
+      "options": [
+        "Mexico",
+        "Wales",
+        "Italy"
+      ],
+      "correctAnswer": "Mexico",
+      "emoji": "🇲🇽",
+      "spa": "Una persona mexicano/mexicana es de México.",
+      "optionsLang": "en",
+      "eng": "Someone who is Mexican is from Mexico.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq041",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige el país.",
+      "options": [
+        "Italy",
+        "Italian",
+        "British"
+      ],
+      "correctAnswer": "Italy",
+      "emoji": "🇮🇹",
+      "spa": "Italia es un país.",
+      "optionsLang": "en",
+      "eng": "Italy is a country.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq042",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la nacionalidad.",
+      "options": [
+        "Italian",
+        "Italy",
+        "France"
+      ],
+      "correctAnswer": "Italian",
+      "emoji": "🇮🇹",
+      "spa": "Italian es una nacionalidad.",
+      "optionsLang": "en",
+      "eng": "Italian is a nationality.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq043",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: My friend is from Greece. She's ___.",
+      "options": [
+        "Greek",
+        "Greece",
+        "German"
+      ],
+      "correctAnswer": "Greek",
+      "emoji": "🇬🇷",
+      "spa": "Mi amiga es de Grecia. Es griega.",
+      "optionsLang": "en",
+      "eng": "My friend is from Greece. She's Greek.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq044",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: He's Brazilian. He's from ___.",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Spain"
+      ],
+      "correctAnswer": "Brazil",
+      "emoji": "🇧🇷",
+      "spa": "Él es brasileño. Es de Brasil.",
+      "optionsLang": "en",
+      "eng": "He's Brazilian. He's from Brazil.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq045",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: Marta is from Poland. She is ___.",
+      "options": [
+        "Polish",
+        "Poland",
+        "Polandish"
+      ],
+      "correctAnswer": "Polish",
+      "emoji": "🇵🇱",
+      "spa": "Marta es de Polonia. Es polaca.",
+      "optionsLang": "en",
+      "eng": "Marta is from Poland. She is Polish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq046",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: Yusuf is Turkish. He's from ___.",
+      "options": [
+        "Turkey",
+        "Turkish",
+        "Greece"
+      ],
+      "correctAnswer": "Turkey",
+      "emoji": "🇹🇷",
+      "spa": "Yusuf es turco. Es de Turquía.",
+      "optionsLang": "en",
+      "eng": "Yusuf is Turkish. He's from Turkey.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq047",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: Wei is from China. He's ___.",
+      "options": [
+        "Chinese",
+        "China",
+        "Chinian"
+      ],
+      "correctAnswer": "Chinese",
+      "emoji": "🇨🇳",
+      "spa": "Wei es de China. Es chino.",
+      "optionsLang": "en",
+      "eng": "Wei is from China. He's Chinese.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq048",
+      "category": "Countries and Nationalities",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: Emma is Welsh. She's from ___.",
+      "options": [
+        "Wales",
+        "the USA",
+        "Ireland"
+      ],
+      "correctAnswer": "Wales",
+      "emoji": "🏴",
+      "spa": "Emma es galesa. Es de Gales.",
+      "optionsLang": "en",
+      "eng": "Emma is Welsh. She's from Wales.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq049",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué nacionalidad termina en -ish?",
+      "options": [
+        "Polish",
+        "Italian",
+        "Chinese"
+      ],
+      "correctAnswer": "Polish",
+      "emoji": "🇵🇱",
+      "spa": "Polish termina en -ish.",
+      "optionsLang": "en",
+      "eng": "Polish ends in -ish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq050",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué nacionalidad termina en -ese?",
+      "options": [
+        "Chinese",
+        "German",
+        "Mexican"
+      ],
+      "correctAnswer": "Chinese",
+      "emoji": "🇨🇳",
+      "spa": "Chinese termina en -ese.",
+      "optionsLang": "en",
+      "eng": "Chinese ends in -ese.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq051",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué nacionalidad termina en -ian?",
+      "options": [
+        "Brazilian",
+        "French",
+        "Greek"
+      ],
+      "correctAnswer": "Brazilian",
+      "emoji": "🇧🇷",
+      "spa": "Brazilian termina en -ian.",
+      "optionsLang": "en",
+      "eng": "Brazilian ends in -ian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq052",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué nacionalidad termina en -an?",
+      "options": [
+        "American",
+        "British",
+        "Chinese"
+      ],
+      "correctAnswer": "American",
+      "emoji": "🇺🇸",
+      "spa": "American termina en -an.",
+      "optionsLang": "en",
+      "eng": "American ends in -an.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq053",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál pertenece al grupo irregular 'other'?",
+      "options": [
+        "French",
+        "Italian",
+        "Brazilian"
+      ],
+      "correctAnswer": "French",
+      "emoji": "🇫🇷",
+      "spa": "French no sigue -ish, -ian, -an o -ese.",
+      "optionsLang": "en",
+      "eng": "French is in the irregular group.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq054",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál pertenece al grupo -ish?",
+      "options": [
+        "Scottish",
+        "Russian",
+        "Mexican"
+      ],
+      "correctAnswer": "Scottish",
+      "emoji": "🏴",
+      "spa": "Scottish termina en -ish.",
+      "optionsLang": "en",
+      "eng": "Scottish ends in -ish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq055",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál pertenece al grupo -ian?",
+      "options": [
+        "Argentinian",
+        "Spanish",
+        "Turkish"
+      ],
+      "correctAnswer": "Argentinian",
+      "emoji": "🇦🇷",
+      "spa": "Argentinian termina en -ian.",
+      "optionsLang": "en",
+      "eng": "Argentinian ends in -ian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq056",
+      "category": "Nationality Word Formation",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál pertenece al grupo -an?",
+      "options": [
+        "Mexican",
+        "Polish",
+        "Chinese"
+      ],
+      "correctAnswer": "Mexican",
+      "emoji": "🇲🇽",
+      "spa": "Mexican termina en -an.",
+      "optionsLang": "en",
+      "eng": "Mexican ends in -an.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq057",
+      "category": "Pronunciation /ʃ/",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿En cuál palabra aparece el sonido /ʃ/?",
+      "options": [
+        "Scottish",
+        "German",
+        "Italian"
+      ],
+      "correctAnswer": "Scottish",
+      "emoji": "🗣️",
+      "spa": "Scottish contiene el sonido /ʃ/.",
+      "optionsLang": "en",
+      "eng": "Scottish contains the /ʃ/ sound.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq058",
+      "category": "Pronunciation /ʃ/",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿En cuál palabra aparece el sonido /ʃ/?",
+      "options": [
+        "Spanish",
+        "Greek",
+        "Brazilian"
+      ],
+      "correctAnswer": "Spanish",
+      "emoji": "🗣️",
+      "spa": "Spanish contiene el sonido /ʃ/.",
+      "optionsLang": "en",
+      "eng": "Spanish contains the /ʃ/ sound.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq059",
+      "category": "Pronunciation /ʃ/",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿En cuál palabra aparece el sonido /ʃ/?",
+      "options": [
+        "Russian",
+        "Mexican",
+        "Irish"
+      ],
+      "correctAnswer": "Russian",
+      "emoji": "🗣️",
+      "spa": "Russian contiene el sonido /ʃ/.",
+      "optionsLang": "en",
+      "eng": "Russian contains the /ʃ/ sound.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq060",
+      "category": "Pronunciation /ʃ/",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuál de estas palabras NO suele llevar el sonido /ʃ/?",
+      "options": [
+        "German",
+        "British",
+        "Polish"
+      ],
+      "correctAnswer": "German",
+      "emoji": "🗣️",
+      "spa": "German no usa el sonido /ʃ/ de esas opciones.",
+      "optionsLang": "en",
+      "eng": "German does not contain the target /ʃ/ sound.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq061",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: He has got short ___ hair.",
+      "options": [
+        "red",
+        "tall",
+        "young"
+      ],
+      "correctAnswer": "red",
+      "emoji": "👨‍🦰",
+      "spa": "Él tiene el cabello corto y pelirrojo.",
+      "optionsLang": "en",
+      "eng": "He has got short red hair.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq062",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: She has got ___ eyes.",
+      "options": [
+        "green",
+        "long",
+        "old"
+      ],
+      "correctAnswer": "green",
+      "emoji": "👁️",
+      "spa": "Ella tiene ojos verdes.",
+      "optionsLang": "en",
+      "eng": "She has got green eyes.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq063",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la descripción correcta.",
+      "options": [
+        "a boy with blonde hair",
+        "a boy with blue hair",
+        "a girl with blonde hair"
+      ],
+      "correctAnswer": "a boy with blonde hair",
+      "emoji": "👦",
+      "spa": "un chico de cabello rubio",
+      "optionsLang": "en",
+      "eng": "a boy with blonde hair",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq064",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: His bag ___ blue.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "🎒",
+      "spa": "Su mochila es azul.",
+      "optionsLang": "en",
+      "eng": "His bag is blue.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq065",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Her eyes ___ brown.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "👁️",
+      "spa": "Sus ojos son marrones.",
+      "optionsLang": "en",
+      "eng": "Her eyes are brown.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq066",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Qué frase sirve para identificar a una persona?",
+      "options": [
+        "He's the boy with short black hair.",
+        "He's from Tuesday.",
+        "His nationality is a bag."
+      ],
+      "correctAnswer": "He's the boy with short black hair.",
+      "emoji": "👤",
+      "spa": "Es el chico de cabello corto y negro.",
+      "optionsLang": "en",
+      "eng": "He's the boy with short black hair.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq067",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: The girl with long hair ___ my classmate.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "👧",
+      "spa": "La chica de cabello largo es mi compañera de clase.",
+      "optionsLang": "en",
+      "eng": "The girl with long hair is my classmate.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq068",
+      "category": "Describing People",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: They ___ all different.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "👥",
+      "spa": "Todos son diferentes.",
+      "optionsLang": "en",
+      "eng": "They are all different.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq069",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I ___ 13 years old.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correctAnswer": "am",
+      "emoji": "🎂",
+      "spa": "Tengo 13 años.",
+      "optionsLang": "en",
+      "eng": "I am 13 years old.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq070",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: You ___ my friend.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "🤝",
+      "spa": "Eres mi amigo/a.",
+      "optionsLang": "en",
+      "eng": "You are my friend.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq071",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: She ___ 12.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "🎂",
+      "spa": "Ella tiene 12 años.",
+      "optionsLang": "en",
+      "eng": "She is 12.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq072",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We ___ in the same class.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "🏫",
+      "spa": "Estamos en la misma clase.",
+      "optionsLang": "en",
+      "eng": "We are in the same class.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq073",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: They ___ from planet Nova.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "🪐",
+      "spa": "Ellos son del planeta Nova.",
+      "optionsLang": "en",
+      "eng": "They are from planet Nova.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq074",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma negativa: I ___ Irish.",
+      "options": [
+        "am not",
+        "isn't",
+        "aren't"
+      ],
+      "correctAnswer": "am not",
+      "emoji": "🇮🇪",
+      "spa": "No soy irlandés/irlandesa.",
+      "optionsLang": "en",
+      "eng": "I am not Irish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq075",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma negativa: He ___ hungry.",
+      "options": [
+        "isn't",
+        "aren't",
+        "am not"
+      ],
+      "correctAnswer": "isn't",
+      "emoji": "🍽️",
+      "spa": "Él no tiene hambre.",
+      "optionsLang": "en",
+      "eng": "He isn't hungry.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq076",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma negativa: We ___ angry.",
+      "options": [
+        "aren't",
+        "isn't",
+        "am not"
+      ],
+      "correctAnswer": "aren't",
+      "emoji": "😠",
+      "spa": "No estamos enojados.",
+      "optionsLang": "en",
+      "eng": "We aren't angry.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq077",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma negativa: The school ___ very big.",
+      "options": [
+        "isn't",
+        "aren't",
+        "am not"
+      ],
+      "correctAnswer": "isn't",
+      "emoji": "🏫",
+      "spa": "La escuela no es muy grande.",
+      "optionsLang": "en",
+      "eng": "The school isn't very big.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq078",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friends ___ funny.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "😂",
+      "spa": "Mis amigos son divertidos.",
+      "optionsLang": "en",
+      "eng": "My friends are funny.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq079",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Maths ___ easy for me.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "➗",
+      "spa": "Matemática es fácil para mí.",
+      "optionsLang": "en",
+      "eng": "Maths is easy for me.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq080",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma negativa: Maths ___ my favourite subject.",
+      "options": [
+        "isn't",
+        "aren't",
+        "am not"
+      ],
+      "correctAnswer": "isn't",
+      "emoji": "📚",
+      "spa": "Matemática no es mi materia favorita.",
+      "optionsLang": "en",
+      "eng": "Maths isn't my favourite subject.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq081",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la contracción de 'I am'.",
+      "options": [
+        "I'm",
+        "I're",
+        "I's"
+      ],
+      "correctAnswer": "I'm",
+      "emoji": "✍️",
+      "spa": "La contracción de I am es I'm.",
+      "optionsLang": "en",
+      "eng": "I am = I'm.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq082",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la contracción de 'she is'.",
+      "options": [
+        "she's",
+        "she're",
+        "she'm"
+      ],
+      "correctAnswer": "she's",
+      "emoji": "✍️",
+      "spa": "La contracción de she is es she's.",
+      "optionsLang": "en",
+      "eng": "she is = she's.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq083",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la contracción de 'we are'.",
+      "options": [
+        "we're",
+        "we's",
+        "we'm"
+      ],
+      "correctAnswer": "we're",
+      "emoji": "✍️",
+      "spa": "La contracción de we are es we're.",
+      "optionsLang": "en",
+      "eng": "we are = we're.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq084",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la contracción negativa de 'is not'.",
+      "options": [
+        "isn't",
+        "aren't",
+        "amn't"
+      ],
+      "correctAnswer": "isn't",
+      "emoji": "✍️",
+      "spa": "La contracción de is not es isn't.",
+      "optionsLang": "en",
+      "eng": "is not = isn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq085",
+      "category": "Verb To Be - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la contracción negativa de 'are not'.",
+      "options": [
+        "aren't",
+        "isn't",
+        "amn't"
+      ],
+      "correctAnswer": "aren't",
+      "emoji": "✍️",
+      "spa": "La contracción de are not es aren't.",
+      "optionsLang": "en",
+      "eng": "are not = aren't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq086",
+      "category": "Verb To Be - Correcting Sentences",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Mia es argentina. Corrige: 'Mia is English.'",
+      "options": [
+        "Mia isn't English. She's Argentinian.",
+        "Mia aren't English.",
+        "Mia is English."
+      ],
+      "correctAnswer": "Mia isn't English. She's Argentinian.",
+      "emoji": "🇦🇷",
+      "spa": "Mia no es inglesa. Es argentina.",
+      "optionsLang": "en",
+      "eng": "Mia isn't English. She's Argentinian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq087",
+      "category": "Verb To Be - Correcting Sentences",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Los libros son verdes. Corrige: 'They're red books.'",
+      "options": [
+        "They aren't red. They're green.",
+        "They isn't red.",
+        "They're red."
+      ],
+      "correctAnswer": "They aren't red. They're green.",
+      "emoji": "📚",
+      "spa": "No son rojos. Son verdes.",
+      "optionsLang": "en",
+      "eng": "They aren't red. They're green.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq088",
+      "category": "Verb To Be - Correcting Sentences",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Los estudiantes están en EE. UU. Corrige: 'We're in France.'",
+      "options": [
+        "We aren't in France. We're in the USA.",
+        "We isn't in France.",
+        "We're in France."
+      ],
+      "correctAnswer": "We aren't in France. We're in the USA.",
+      "emoji": "🇺🇸",
+      "spa": "No estamos en Francia. Estamos en Estados Unidos.",
+      "optionsLang": "en",
+      "eng": "We aren't in France. We're in the USA.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq089",
+      "category": "Verb To Be - Correcting Sentences",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Es verano. Corrige: 'It's winter.'",
+      "options": [
+        "It isn't winter. It's summer.",
+        "It aren't winter.",
+        "It's winter."
+      ],
+      "correctAnswer": "It isn't winter. It's summer.",
+      "emoji": "☀️",
+      "spa": "No es invierno. Es verano.",
+      "optionsLang": "en",
+      "eng": "It isn't winter. It's summer.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq090",
+      "category": "Verb To Be - Correcting Sentences",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Son chinos. Corrige: 'They're Spanish.'",
+      "options": [
+        "They aren't Spanish. They're Chinese.",
+        "They isn't Spanish.",
+        "They're Spanish."
+      ],
+      "correctAnswer": "They aren't Spanish. They're Chinese.",
+      "emoji": "🇨🇳",
+      "spa": "No son españoles. Son chinos.",
+      "optionsLang": "en",
+      "eng": "They aren't Spanish. They're Chinese.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq091",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ you worried?",
+      "options": [
+        "Are",
+        "Is",
+        "Am"
+      ],
+      "correctAnswer": "Are",
+      "emoji": "😟",
+      "spa": "¿Estás preocupado/a?",
+      "optionsLang": "en",
+      "eng": "Are you worried?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq092",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ she good at basketball?",
+      "options": [
+        "Is",
+        "Are",
+        "Am"
+      ],
+      "correctAnswer": "Is",
+      "emoji": "🏀",
+      "spa": "¿Ella es buena jugando al básquet?",
+      "optionsLang": "en",
+      "eng": "Is she good at basketball?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq093",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ they basketball fans?",
+      "options": [
+        "Are",
+        "Is",
+        "Am"
+      ],
+      "correctAnswer": "Are",
+      "emoji": "🏀",
+      "spa": "¿Son fanáticos del básquet?",
+      "optionsLang": "en",
+      "eng": "Are they basketball fans?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq094",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ his laptop new?",
+      "options": [
+        "Is",
+        "Are",
+        "Am"
+      ],
+      "correctAnswer": "Is",
+      "emoji": "💻",
+      "spa": "¿Su computadora portátil es nueva?",
+      "optionsLang": "en",
+      "eng": "Is his laptop new?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq095",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ we in the same school?",
+      "options": [
+        "Are",
+        "Is",
+        "Am"
+      ],
+      "correctAnswer": "Are",
+      "emoji": "🏫",
+      "spa": "¿Estamos en la misma escuela?",
+      "optionsLang": "en",
+      "eng": "Are we in the same school?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq096",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta: 'Are you OK?'",
+      "options": [
+        "Yes, I am.",
+        "Yes, I is.",
+        "Yes, I are."
+      ],
+      "correctAnswer": "Yes, I am.",
+      "emoji": "✅",
+      "spa": "Sí, estoy bien.",
+      "optionsLang": "en",
+      "eng": "Yes, I am.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq097",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta negativa: 'Is he American?'",
+      "options": [
+        "No, he isn't.",
+        "No, he aren't.",
+        "No, he am not."
+      ],
+      "correctAnswer": "No, he isn't.",
+      "emoji": "🇺🇸",
+      "spa": "No, no lo es.",
+      "optionsLang": "en",
+      "eng": "No, he isn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq098",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta: 'Are they friends?'",
+      "options": [
+        "Yes, they are.",
+        "Yes, they is.",
+        "Yes, they am."
+      ],
+      "correctAnswer": "Yes, they are.",
+      "emoji": "👥",
+      "spa": "Sí, lo son.",
+      "optionsLang": "en",
+      "eng": "Yes, they are.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq099",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta negativa: 'Are we late?'",
+      "options": [
+        "No, we aren't.",
+        "No, we isn't.",
+        "No, we am not."
+      ],
+      "correctAnswer": "No, we aren't.",
+      "emoji": "⏰",
+      "spa": "No, no llegamos tarde.",
+      "optionsLang": "en",
+      "eng": "No, we aren't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq100",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Where ___ he from?",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "🌍",
+      "spa": "¿De dónde es él?",
+      "optionsLang": "en",
+      "eng": "Where is he from?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq101",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Who ___ these people?",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "👥",
+      "spa": "¿Quiénes son estas personas?",
+      "optionsLang": "en",
+      "eng": "Who are these people?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq102",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta: 'your hair / purple?'",
+      "options": [
+        "Is your hair purple?",
+        "Are your hair purple?",
+        "Your hair is purple?"
+      ],
+      "correctAnswer": "Is your hair purple?",
+      "emoji": "💇",
+      "spa": "¿Tu cabello es violeta?",
+      "optionsLang": "en",
+      "eng": "Is your hair purple?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq103",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta: 'your friends / Mexican?'",
+      "options": [
+        "Are your friends Mexican?",
+        "Is your friends Mexican?",
+        "Your friends are Mexican?"
+      ],
+      "correctAnswer": "Are your friends Mexican?",
+      "emoji": "🇲🇽",
+      "spa": "¿Tus amigos son mexicanos?",
+      "optionsLang": "en",
+      "eng": "Are your friends Mexican?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq104",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta: 'you / a good student?'",
+      "options": [
+        "Are you a good student?",
+        "Is you a good student?",
+        "You are a good student?"
+      ],
+      "correctAnswer": "Are you a good student?",
+      "emoji": "🎓",
+      "spa": "¿Eres un/a buen/a estudiante?",
+      "optionsLang": "en",
+      "eng": "Are you a good student?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq105",
+      "category": "Verb To Be - Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta: 'your classmates / happy?'",
+      "options": [
+        "Are your classmates happy?",
+        "Is your classmates happy?",
+        "Your classmates are happy?"
+      ],
+      "correctAnswer": "Are your classmates happy?",
+      "emoji": "😊",
+      "spa": "¿Tus compañeros están felices?",
+      "optionsLang": "en",
+      "eng": "Are your classmates happy?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq106",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I → ___",
+      "options": [
+        "my",
+        "your",
+        "his"
+      ],
+      "correctAnswer": "my",
+      "emoji": "👤",
+      "spa": "I corresponde a my.",
+      "optionsLang": "en",
+      "eng": "I → my",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq107",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "you → ___",
+      "options": [
+        "your",
+        "my",
+        "her"
+      ],
+      "correctAnswer": "your",
+      "emoji": "👤",
+      "spa": "You corresponde a your.",
+      "optionsLang": "en",
+      "eng": "you → your",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq108",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "he → ___",
+      "options": [
+        "his",
+        "her",
+        "our"
+      ],
+      "correctAnswer": "his",
+      "emoji": "👦",
+      "spa": "He corresponde a his.",
+      "optionsLang": "en",
+      "eng": "he → his",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq109",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "she → ___",
+      "options": [
+        "her",
+        "his",
+        "their"
+      ],
+      "correctAnswer": "her",
+      "emoji": "👧",
+      "spa": "She corresponde a her.",
+      "optionsLang": "en",
+      "eng": "she → her",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq110",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "it → ___",
+      "options": [
+        "its",
+        "his",
+        "our"
+      ],
+      "correctAnswer": "its",
+      "emoji": "🐾",
+      "spa": "It corresponde a its.",
+      "optionsLang": "en",
+      "eng": "it → its",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq111",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "we → ___",
+      "options": [
+        "our",
+        "your",
+        "their"
+      ],
+      "correctAnswer": "our",
+      "emoji": "👥",
+      "spa": "We corresponde a our.",
+      "optionsLang": "en",
+      "eng": "we → our",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq112",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "they → ___",
+      "options": [
+        "their",
+        "our",
+        "his"
+      ],
+      "correctAnswer": "their",
+      "emoji": "👥",
+      "spa": "They corresponde a their.",
+      "optionsLang": "en",
+      "eng": "they → their",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq113",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: This is ___ new laptop. (yo)",
+      "options": [
+        "my",
+        "his",
+        "their"
+      ],
+      "correctAnswer": "my",
+      "emoji": "💻",
+      "spa": "Esta es mi computadora portátil nueva.",
+      "optionsLang": "en",
+      "eng": "This is my new laptop.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq114",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ practice is today. (tú)",
+      "options": [
+        "Your",
+        "My",
+        "Her"
+      ],
+      "correctAnswer": "Your",
+      "emoji": "🏀",
+      "spa": "Tu entrenamiento es hoy.",
+      "optionsLang": "en",
+      "eng": "Your practice is today.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq115",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ team is fantastic. (él)",
+      "options": [
+        "His",
+        "Her",
+        "Our"
+      ],
+      "correctAnswer": "His",
+      "emoji": "🏀",
+      "spa": "Su equipo es fantástico.",
+      "optionsLang": "en",
+      "eng": "His team is fantastic.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq116",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Sara is in my class. ___ favourite sport is football.",
+      "options": [
+        "Her",
+        "His",
+        "Their"
+      ],
+      "correctAnswer": "Her",
+      "emoji": "⚽",
+      "spa": "Sara está en mi clase. Su deporte favorito es el fútbol.",
+      "optionsLang": "en",
+      "eng": "Sara is in my class. Her favourite sport is football.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq117",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Luke and Ben are brothers. This is ___ house.",
+      "options": [
+        "their",
+        "our",
+        "his"
+      ],
+      "correctAnswer": "their",
+      "emoji": "🏠",
+      "spa": "Luke y Ben son hermanos. Esta es su casa.",
+      "optionsLang": "en",
+      "eng": "Luke and Ben are brothers. This is their house.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq118",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We are students. ___ teacher is Ms Clark.",
+      "options": [
+        "Our",
+        "Their",
+        "His"
+      ],
+      "correctAnswer": "Our",
+      "emoji": "👩‍🏫",
+      "spa": "Somos estudiantes. Nuestra profesora es la Sra. Clark.",
+      "optionsLang": "en",
+      "eng": "We are students. Our teacher is Ms Clark.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq119",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: The dog is black. ___ eyes are brown.",
+      "options": [
+        "Its",
+        "His",
+        "Her"
+      ],
+      "correctAnswer": "Its",
+      "emoji": "🐕",
+      "spa": "El perro es negro. Sus ojos son marrones.",
+      "optionsLang": "en",
+      "eng": "The dog is black. Its eyes are brown.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq120",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: My friend Nina is Italian, but ___ mum is Irish.",
+      "options": [
+        "her",
+        "she",
+        "our"
+      ],
+      "correctAnswer": "her",
+      "emoji": "👩",
+      "spa": "Mi amiga Nina es italiana, pero su mamá es irlandesa.",
+      "optionsLang": "en",
+      "eng": "My friend Nina is Italian, but her mum is Irish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq121",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: Mr Brown is American. ___ is from Boston.",
+      "options": [
+        "He",
+        "His",
+        "Her"
+      ],
+      "correctAnswer": "He",
+      "emoji": "🇺🇸",
+      "spa": "El Sr. Brown es estadounidense. Él es de Boston.",
+      "optionsLang": "en",
+      "eng": "Mr Brown is American. He is from Boston.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq122",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: Mia and I are in the same class. ___ teacher is cool.",
+      "options": [
+        "Our",
+        "We",
+        "Their"
+      ],
+      "correctAnswer": "Our",
+      "emoji": "🏫",
+      "spa": "Mia y yo estamos en la misma clase. Nuestro profesor es genial.",
+      "optionsLang": "en",
+      "eng": "Mia and I are in the same class. Our teacher is cool.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq123",
+      "category": "Possessive Adjectives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige: My grandparents are French. ___ house is in Lyon.",
+      "options": [
+        "Their",
+        "They",
+        "Our"
+      ],
+      "correctAnswer": "Their",
+      "emoji": "🏠",
+      "spa": "Mis abuelos son franceses. Su casa está en Lyon.",
+      "optionsLang": "en",
+      "eng": "My grandparents are French. Their house is in Lyon.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq124",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué pregunta sirve para conocer la edad de una escuela?",
+      "options": [
+        "How old is your school?",
+        "Where is your school?",
+        "What is your school?"
+      ],
+      "correctAnswer": "How old is your school?",
+      "emoji": "🏫",
+      "spa": "¿Cuántos años tiene tu escuela?",
+      "optionsLang": "en",
+      "eng": "How old is your school?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq125",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué pregunta sirve para saber el color favorito?",
+      "options": [
+        "What's your favourite colour?",
+        "Where's your colour?",
+        "Are you colour?"
+      ],
+      "correctAnswer": "What's your favourite colour?",
+      "emoji": "🎨",
+      "spa": "¿Cuál es tu color favorito?",
+      "optionsLang": "en",
+      "eng": "What's your favourite colour?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq126",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué pregunta sirve para saber el animal favorito?",
+      "options": [
+        "What's your favourite animal?",
+        "Is your animal old?",
+        "Where is your animal?"
+      ],
+      "correctAnswer": "What's your favourite animal?",
+      "emoji": "🐾",
+      "spa": "¿Cuál es tu animal favorito?",
+      "optionsLang": "en",
+      "eng": "What's your favourite animal?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq127",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué pregunta sirve para saber quién es el mejor amigo?",
+      "options": [
+        "Who is your best friend?",
+        "Where is your best friend?",
+        "Is your best friend blue?"
+      ],
+      "correctAnswer": "Who is your best friend?",
+      "emoji": "👯",
+      "spa": "¿Quién es tu mejor amigo/a?",
+      "optionsLang": "en",
+      "eng": "Who is your best friend?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq128",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué pregunta sirve para preguntar por pasatiempos?",
+      "options": [
+        "What are her hobbies?",
+        "Where is her hobby?",
+        "Is hobbies her?"
+      ],
+      "correctAnswer": "What are her hobbies?",
+      "emoji": "🎮",
+      "spa": "¿Cuáles son sus pasatiempos?",
+      "optionsLang": "en",
+      "eng": "What are her hobbies?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq129",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: What's ___ favourite subject?",
+      "options": [
+        "your",
+        "you",
+        "yours"
+      ],
+      "correctAnswer": "your",
+      "emoji": "📚",
+      "spa": "¿Cuál es tu materia favorita?",
+      "optionsLang": "en",
+      "eng": "What's your favourite subject?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq130",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: Who is ___ best friend? (ella)",
+      "options": [
+        "her",
+        "she",
+        "his"
+      ],
+      "correctAnswer": "her",
+      "emoji": "👧",
+      "spa": "¿Quién es su mejor amiga/o?",
+      "optionsLang": "en",
+      "eng": "Who is her best friend?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq131",
+      "category": "Personal Information",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: What are ___ hobbies? (él)",
+      "options": [
+        "his",
+        "he",
+        "her"
+      ],
+      "correctAnswer": "his",
+      "emoji": "🎮",
+      "spa": "¿Cuáles son sus pasatiempos?",
+      "optionsLang": "en",
+      "eng": "What are his hobbies?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq132",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Elige el saludo apropiado.",
+      "options": [
+        "Hi, I'm Mia.",
+        "Goodbye, I'm Mia.",
+        "Where Mia?"
+      ],
+      "correctAnswer": "Hi, I'm Mia.",
+      "emoji": "👋",
+      "spa": "Hola, soy Mia.",
+      "optionsLang": "en",
+      "eng": "Hi, I'm Mia.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq133",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta a 'Nice to meet you.'",
+      "options": [
+        "Nice to meet you, too.",
+        "I'm from Monday.",
+        "No, I aren't."
+      ],
+      "correctAnswer": "Nice to meet you, too.",
+      "emoji": "🤝",
+      "spa": "Mucho gusto también.",
+      "optionsLang": "en",
+      "eng": "Nice to meet you, too.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq134",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: ___, Ben. I'm Alex.",
+      "options": [
+        "Hello",
+        "Where",
+        "Who"
+      ],
+      "correctAnswer": "Hello",
+      "emoji": "👋",
+      "spa": "Hola, Ben. Soy Alex.",
+      "optionsLang": "en",
+      "eng": "Hello, Ben. I'm Alex.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq135",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: This ___ Sara. She's my best friend.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "👧",
+      "spa": "Esta es Sara. Es mi mejor amiga.",
+      "optionsLang": "en",
+      "eng": "This is Sara. She's my best friend.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq136",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: Leo, ___ Maya.",
+      "options": [
+        "meet",
+        "is meet",
+        "meeting"
+      ],
+      "correctAnswer": "meet",
+      "emoji": "🤝",
+      "spa": "Leo, te presento a Maya.",
+      "optionsLang": "en",
+      "eng": "Leo, meet Maya.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq137",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta a 'Great to meet you.'",
+      "options": [
+        "Great to meet you, too.",
+        "My name are Sam.",
+        "It's at lunchtime."
+      ],
+      "correctAnswer": "Great to meet you, too.",
+      "emoji": "✨",
+      "spa": "Encantado/a de conocerte también.",
+      "optionsLang": "en",
+      "eng": "Great to meet you, too.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq138",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué frase va primero al conocer a alguien?",
+      "options": [
+        "Hi, I'm Clara.",
+        "Nice to meet you, too.",
+        "Great to meet you, too."
+      ],
+      "correctAnswer": "Hi, I'm Clara.",
+      "emoji": "👋",
+      "spa": "Hola, soy Clara.",
+      "optionsLang": "en",
+      "eng": "Hi, I'm Clara.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq139",
+      "category": "Introductions",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "¿Qué frase puede usarse para presentar a otra persona?",
+      "options": [
+        "This is my friend, Leo.",
+        "Are you hungry?",
+        "It's a big city."
+      ],
+      "correctAnswer": "This is my friend, Leo.",
+      "emoji": "👥",
+      "spa": "Este es mi amigo Leo.",
+      "optionsLang": "en",
+      "eng": "This is my friend, Leo.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq140",
+      "category": "Story Comprehension",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "True or False: Ava's first basketball practice is today.",
+      "options": [
+        "True (T)",
+        "False (F)"
+      ],
+      "correctAnswer": "True (T)",
+      "emoji": "🏀",
+      "spa": "Verdadero: hoy es su primer entrenamiento de básquet.",
+      "optionsLang": "en",
+      "eng": "Ava's first basketball practice is today.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq141",
+      "category": "Story Comprehension",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "True or False: The practice is after school.",
+      "options": [
+        "True (T)",
+        "False (F)"
+      ],
+      "correctAnswer": "False (F)",
+      "emoji": "🕛",
+      "spa": "Falso: el entrenamiento es a la hora del almuerzo.",
+      "optionsLang": "en",
+      "eng": "The practice is at lunchtime, not after school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq142",
+      "category": "Story Comprehension",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "True or False: Noah's laptop is new.",
+      "options": [
+        "True (T)",
+        "False (F)"
+      ],
+      "correctAnswer": "True (T)",
+      "emoji": "💻",
+      "spa": "Verdadero: la computadora portátil de Noah es nueva.",
+      "optionsLang": "en",
+      "eng": "Noah's laptop is new.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq143",
+      "category": "Story Comprehension",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: The basketball player is ___.",
+      "options": [
+        "American",
+        "a laptop",
+        "a city"
+      ],
+      "correctAnswer": "American",
+      "emoji": "🇺🇸",
+      "spa": "El jugador de básquet es estadounidense.",
+      "optionsLang": "en",
+      "eng": "The basketball player is American.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq144",
+      "category": "Story Comprehension",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: The team ___ fantastic.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "🏀",
+      "spa": "El equipo es fantástico.",
+      "optionsLang": "en",
+      "eng": "The team is fantastic.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq145",
+      "category": "Story Comprehension",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: The practice ___ tomorrow.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "📅",
+      "spa": "El entrenamiento es mañana.",
+      "optionsLang": "en",
+      "eng": "The practice is tomorrow.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq146",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuál es la capital de Escocia?",
+      "options": [
+        "Edinburgh",
+        "Glasgow",
+        "Inverness"
+      ],
+      "correctAnswer": "Edinburgh",
+      "emoji": "🏰",
+      "spa": "Edimburgo es la capital de Escocia.",
+      "optionsLang": "en",
+      "eng": "Edinburgh is the capital city of Scotland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq147",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Según el texto de la unidad, la población de Escocia es aproximadamente:",
+      "options": [
+        "5.5 million",
+        "500",
+        "70 million"
+      ],
+      "correctAnswer": "5.5 million",
+      "emoji": "👥",
+      "spa": "La población indicada es de 5,5 millones.",
+      "optionsLang": "en",
+      "eng": "The population of Scotland is 5.5 million.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq148",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuántos idiomas oficiales se mencionan para Escocia?",
+      "options": [
+        "3",
+        "1",
+        "7"
+      ],
+      "correctAnswer": "3",
+      "emoji": "🗣️",
+      "spa": "Se mencionan tres idiomas oficiales.",
+      "optionsLang": "en",
+      "eng": "There are three official languages in Scotland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq149",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué ciudad tiene el Parlamento escocés?",
+      "options": [
+        "Edinburgh",
+        "Glasgow",
+        "Inverness"
+      ],
+      "correctAnswer": "Edinburgh",
+      "emoji": "🏛️",
+      "spa": "El Parlamento escocés está en Edimburgo.",
+      "optionsLang": "en",
+      "eng": "The Scottish parliament is in Edinburgh.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq150",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué ciudad se describe como un gran puerto?",
+      "options": [
+        "Glasgow",
+        "Edinburgh",
+        "Inverness"
+      ],
+      "correctAnswer": "Glasgow",
+      "emoji": "⚓",
+      "spa": "Glasgow se describe como una ciudad portuaria.",
+      "optionsLang": "en",
+      "eng": "Glasgow is a port city.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq151",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué ciudad está en las Highlands?",
+      "options": [
+        "Inverness",
+        "Glasgow",
+        "Edinburgh"
+      ],
+      "correctAnswer": "Inverness",
+      "emoji": "⛰️",
+      "spa": "Inverness está en las Highlands escocesas.",
+      "optionsLang": "en",
+      "eng": "Inverness is in the Scottish Highlands.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq152",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué evento se asocia con Inverness?",
+      "options": [
+        "Highland Games",
+        "Sydney Festival",
+        "Venice Carnival"
+      ],
+      "correctAnswer": "Highland Games",
+      "emoji": "🎉",
+      "spa": "Los Highland Games se asocian con Inverness.",
+      "optionsLang": "en",
+      "eng": "The Highland Games are associated with Inverness.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq153",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuál es el animal nacional que menciona el fact box?",
+      "options": [
+        "unicorn",
+        "lion",
+        "eagle"
+      ],
+      "correctAnswer": "unicorn",
+      "emoji": "🦄",
+      "spa": "El animal nacional indicado es el unicornio.",
+      "optionsLang": "en",
+      "eng": "The national animal is the unicorn.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq154",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué ciudad es famosa por Celtic y Rangers?",
+      "options": [
+        "Glasgow",
+        "Inverness",
+        "Edinburgh"
+      ],
+      "correctAnswer": "Glasgow",
+      "emoji": "⚽",
+      "spa": "Glasgow es famosa por Celtic y Rangers.",
+      "optionsLang": "en",
+      "eng": "Glasgow is famous for Celtic and Rangers.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq155",
+      "category": "Scottish Cities - Reading",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué edificio famoso se encuentra en Edimburgo?",
+      "options": [
+        "Edinburgh Castle",
+        "Sydney Opera House",
+        "Buckingham Palace"
+      ],
+      "correctAnswer": "Edinburgh Castle",
+      "emoji": "🏰",
+      "spa": "El Castillo de Edimburgo está en Edimburgo.",
+      "optionsLang": "en",
+      "eng": "Edinburgh Castle is in Edinburgh.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq156",
+      "category": "Reading Strategy - Scanning",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Relaciona 5.5 million con el dato correcto.",
+      "options": [
+        "population of Scotland",
+        "number of official languages",
+        "age of a castle"
+      ],
+      "correctAnswer": "population of Scotland",
+      "emoji": "🔎",
+      "spa": "5,5 millones corresponde a la población de Escocia.",
+      "optionsLang": "en",
+      "eng": "5.5 million = the population of Scotland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq157",
+      "category": "Reading Strategy - Scanning",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Relaciona 3 con el dato correcto.",
+      "options": [
+        "official languages of Scotland",
+        "visitors to the Highland Games",
+        "population of Glasgow"
+      ],
+      "correctAnswer": "official languages of Scotland",
+      "emoji": "🔎",
+      "spa": "3 corresponde a los idiomas oficiales.",
+      "optionsLang": "en",
+      "eng": "3 = official languages of Scotland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq158",
+      "category": "Reading Strategy - Scanning",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Relaciona 7,000 con el dato correcto.",
+      "options": [
+        "visitors to the Highland Games",
+        "population of Edinburgh",
+        "number of islands"
+      ],
+      "correctAnswer": "visitors to the Highland Games",
+      "emoji": "🔎",
+      "spa": "7.000 corresponde a visitantes de los Highland Games.",
+      "optionsLang": "en",
+      "eng": "7,000 = visitors to the Highland Games.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq159",
+      "category": "Reading Strategy - Scanning",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Según el texto, Edinburgh Castle tiene alrededor de:",
+      "options": [
+        "900 years",
+        "90 years",
+        "9 years"
+      ],
+      "correctAnswer": "900 years",
+      "emoji": "🏰",
+      "spa": "El castillo tiene alrededor de 900 años.",
+      "optionsLang": "en",
+      "eng": "Edinburgh Castle is around 900 years old.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq160",
+      "category": "Reading Strategy - Scanning",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "La población de Inverness es aproximadamente:",
+      "options": [
+        "70,000",
+        "700",
+        "7 million"
+      ],
+      "correctAnswer": "70,000",
+      "emoji": "👥",
+      "spa": "La población indicada es de unas 70.000 personas.",
+      "optionsLang": "en",
+      "eng": "The population of Inverness is about 70,000.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq161",
+      "category": "Scottish Culture",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es un instrumento musical?",
+      "options": [
+        "bagpipes",
+        "kilt",
+        "thistle"
+      ],
+      "correctAnswer": "bagpipes",
+      "emoji": "🎶",
+      "spa": "La gaita escocesa es un instrumento musical.",
+      "optionsLang": "en",
+      "eng": "Bagpipes are a musical instrument.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq162",
+      "category": "Scottish Culture",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es una planta violeta y verde?",
+      "options": [
+        "thistle",
+        "kilt",
+        "bagpipes"
+      ],
+      "correctAnswer": "thistle",
+      "emoji": "🌸",
+      "spa": "El cardo es una planta violeta y verde.",
+      "optionsLang": "en",
+      "eng": "A thistle is a purple and green plant.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq163",
+      "category": "Scottish Culture",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál tiene diferentes colores para distintas familias?",
+      "options": [
+        "kilt",
+        "thistle",
+        "bagpipes"
+      ],
+      "correctAnswer": "kilt",
+      "emoji": "🏴",
+      "spa": "Los kilts pueden tener distintos diseños y colores familiares.",
+      "optionsLang": "en",
+      "eng": "Kilts can have different family colours.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq164",
+      "category": "Scottish Culture",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es un símbolo de Escocia?",
+      "options": [
+        "thistle",
+        "laptop",
+        "basketball"
+      ],
+      "correctAnswer": "thistle",
+      "emoji": "🏴",
+      "spa": "El cardo es un símbolo de Escocia.",
+      "optionsLang": "en",
+      "eng": "The thistle is a symbol of Scotland.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq165",
+      "category": "Scottish Culture",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál se relaciona con las Highlands?",
+      "options": [
+        "bagpipes",
+        "calculator",
+        "rucksack"
+      ],
+      "correctAnswer": "bagpipes",
+      "emoji": "⛰️",
+      "spa": "La gaita se asocia con las Highlands.",
+      "optionsLang": "en",
+      "eng": "Bagpipes are associated with the Highlands.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq166",
+      "category": "Writing Model - City Description",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: Sydney is in the southeast of ___.",
+      "options": [
+        "Australia",
+        "Scotland",
+        "Brazil"
+      ],
+      "correctAnswer": "Australia",
+      "emoji": "🇦🇺",
+      "spa": "Sídney está en el sudeste de Australia.",
+      "optionsLang": "en",
+      "eng": "Sydney is in the southeast of Australia.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq167",
+      "category": "Writing Model - City Description",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: Sydney is a ___ city.",
+      "options": [
+        "big",
+        "nationality",
+        "purple"
+      ],
+      "correctAnswer": "big",
+      "emoji": "🏙️",
+      "spa": "Sídney es una ciudad grande.",
+      "optionsLang": "en",
+      "eng": "Sydney is a big city.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq168",
+      "category": "Writing Model - City Description",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Según el ejercicio modelo, la población de Sydney es 5.3 ___.",
+      "options": [
+        "million",
+        "January",
+        "visitors"
+      ],
+      "correctAnswer": "million",
+      "emoji": "👥",
+      "spa": "La población se expresa en millones.",
+      "optionsLang": "en",
+      "eng": "The population is 5.3 million.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq169",
+      "category": "Writing Model - City Description",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: There is a big festival in ___.",
+      "options": [
+        "January",
+        "million",
+        "Australia city"
+      ],
+      "correctAnswer": "January",
+      "emoji": "📅",
+      "spa": "Hay un gran festival en enero.",
+      "optionsLang": "en",
+      "eng": "There is a big festival in January.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq170",
+      "category": "Writing Model - City Description",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: There is art, ___ and drama.",
+      "options": [
+        "music",
+        "population",
+        "country"
+      ],
+      "correctAnswer": "music",
+      "emoji": "🎵",
+      "spa": "Hay arte, música y teatro.",
+      "optionsLang": "en",
+      "eng": "There is art, music and drama.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq171",
+      "category": "Writing Model - City Description",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: About 500,000 ___ come to the festival.",
+      "options": [
+        "visitors",
+        "countries",
+        "teachers"
+      ],
+      "correctAnswer": "visitors",
+      "emoji": "🧳",
+      "spa": "Alrededor de 500.000 visitantes van al festival.",
+      "optionsLang": "en",
+      "eng": "About 500,000 visitors come to the festival.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq172",
+      "category": "Countries and Nationalities - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: This croissant is from France. It's ___.",
+      "options": [
+        "French",
+        "France",
+        "British"
+      ],
+      "correctAnswer": "French",
+      "emoji": "🥐",
+      "spa": "Este croissant es de Francia. Es francés.",
+      "optionsLang": "en",
+      "eng": "It's French.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq173",
+      "category": "Countries and Nationalities - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: This tea is from the UK. It's ___.",
+      "options": [
+        "British",
+        "Britain",
+        "Brazilian"
+      ],
+      "correctAnswer": "British",
+      "emoji": "🫖",
+      "spa": "Este té es del Reino Unido. Es británico.",
+      "optionsLang": "en",
+      "eng": "It's British.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq174",
+      "category": "Countries and Nationalities - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: This shamrock is from Ireland. It's ___.",
+      "options": [
+        "Irish",
+        "Ireland",
+        "Italian"
+      ],
+      "correctAnswer": "Irish",
+      "emoji": "☘️",
+      "spa": "Este trébol es de Irlanda. Es irlandés.",
+      "optionsLang": "en",
+      "eng": "It's Irish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq175",
+      "category": "Countries and Nationalities - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: This drink is from Turkey. It's ___.",
+      "options": [
+        "Turkish",
+        "Turkey",
+        "Greek"
+      ],
+      "correctAnswer": "Turkish",
+      "emoji": "🥤",
+      "spa": "Esta bebida es de Turquía. Es turca.",
+      "optionsLang": "en",
+      "eng": "It's Turkish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq176",
+      "category": "Countries and Nationalities - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: This dish is from Italy. It's ___.",
+      "options": [
+        "Italian",
+        "Italy",
+        "Spanish"
+      ],
+      "correctAnswer": "Italian",
+      "emoji": "🍝",
+      "spa": "Este plato es de Italia. Es italiano.",
+      "optionsLang": "en",
+      "eng": "It's Italian.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq177",
+      "category": "Countries and Nationalities - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: This building is in Greece. It's ___.",
+      "options": [
+        "Greek",
+        "Greece",
+        "German"
+      ],
+      "correctAnswer": "Greek",
+      "emoji": "🏛️",
+      "spa": "Este edificio está en Grecia. Es griego.",
+      "optionsLang": "en",
+      "eng": "It's Greek.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq178",
+      "category": "Countries and Nationalities - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: This food is from the USA. It's ___.",
+      "options": [
+        "American",
+        "America",
+        "Mexican"
+      ],
+      "correctAnswer": "American",
+      "emoji": "🍩",
+      "spa": "Esta comida es de Estados Unidos. Es estadounidense.",
+      "optionsLang": "en",
+      "eng": "It's American.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq179",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Une la pregunta con la respuesta: 'Am I late?'",
+      "options": [
+        "Yes, you are.",
+        "Yes, I am.",
+        "No, she isn't."
+      ],
+      "correctAnswer": "Yes, you are.",
+      "emoji": "⏰",
+      "spa": "¿Llego tarde? Sí.",
+      "optionsLang": "en",
+      "eng": "Am I late? Yes, you are.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq180",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Une: 'Are his parents tall?'",
+      "options": [
+        "No, they aren't.",
+        "No, she isn't.",
+        "Yes, it is."
+      ],
+      "correctAnswer": "No, they aren't.",
+      "emoji": "👨‍👩‍👦",
+      "spa": "¿Sus padres son altos? No.",
+      "optionsLang": "en",
+      "eng": "Are his parents tall? No, they aren't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq181",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Une: 'Is this your cat?'",
+      "options": [
+        "Yes, it is.",
+        "Yes, they are.",
+        "No, you aren't."
+      ],
+      "correctAnswer": "Yes, it is.",
+      "emoji": "🐈",
+      "spa": "¿Este es tu gato? Sí.",
+      "optionsLang": "en",
+      "eng": "Is this your cat? Yes, it is.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq182",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Une: 'Are you and Luka friends?'",
+      "options": [
+        "Yes, we are.",
+        "Yes, you are.",
+        "No, she isn't."
+      ],
+      "correctAnswer": "Yes, we are.",
+      "emoji": "🤝",
+      "spa": "¿Luka y tú son amigos? Sí.",
+      "optionsLang": "en",
+      "eng": "Are you and Luka friends? Yes, we are.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq183",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Une: 'Is your dad very old?'",
+      "options": [
+        "No, he isn't.",
+        "No, they aren't.",
+        "Yes, we are."
+      ],
+      "correctAnswer": "No, he isn't.",
+      "emoji": "👨",
+      "spa": "¿Tu papá es muy mayor? No.",
+      "optionsLang": "en",
+      "eng": "Is your dad very old? No, he isn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq184",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta para 'Rio de Janeiro'.",
+      "options": [
+        "Where is Rio de Janeiro?",
+        "Who is Rio de Janeiro?",
+        "Is Rio de Janeiro old?"
+      ],
+      "correctAnswer": "Where is Rio de Janeiro?",
+      "emoji": "🌎",
+      "spa": "¿Dónde está Río de Janeiro?",
+      "optionsLang": "en",
+      "eng": "Where is Rio de Janeiro?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq185",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta para 'Brad Pitt is an American actor.'",
+      "options": [
+        "Who is an American actor?",
+        "Where is American?",
+        "Are Brad Pitt actor?"
+      ],
+      "correctAnswer": "Who is an American actor?",
+      "emoji": "🎬",
+      "spa": "¿Quién es un actor estadounidense?",
+      "optionsLang": "en",
+      "eng": "Who is an American actor?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq186",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta para 'Romie is 2,800 years old.'",
+      "options": [
+        "How old is Rome?",
+        "Where old is Rome?",
+        "Who is Rome old?"
+      ],
+      "correctAnswer": "How old is Rome?",
+      "emoji": "🏛️",
+      "spa": "¿Cuántos años tiene Roma?",
+      "optionsLang": "en",
+      "eng": "How old is Rome?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq187",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta para 'The capital of Greece is Athens.'",
+      "options": [
+        "What is the capital of Greece?",
+        "Who Greece is capital?",
+        "Are Athens Greek?"
+      ],
+      "correctAnswer": "What is the capital of Greece?",
+      "emoji": "🇬🇷",
+      "spa": "¿Cuál es la capital de Grecia?",
+      "optionsLang": "en",
+      "eng": "What is the capital of Greece?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq188",
+      "category": "Question Words and To Be",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma la pregunta para 'Venice Carnival is in February.'",
+      "options": [
+        "When is Venice Carnival?",
+        "Where is February?",
+        "Who is Carnival?"
+      ],
+      "correctAnswer": "When is Venice Carnival?",
+      "emoji": "🎭",
+      "spa": "¿Cuándo es el Carnaval de Venecia?",
+      "optionsLang": "en",
+      "eng": "When is Venice Carnival?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq189",
+      "category": "Introductions - Dialogue Completion",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: Hello, ___ Martin.",
+      "options": [
+        "I'm",
+        "is",
+        "are"
+      ],
+      "correctAnswer": "I'm",
+      "emoji": "👋",
+      "spa": "Hola, soy Martin.",
+      "optionsLang": "en",
+      "eng": "Hello, I'm Martin.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq190",
+      "category": "Introductions - Dialogue Completion",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: Nice to ___ you.",
+      "options": [
+        "meet",
+        "meeting",
+        "meets"
+      ],
+      "correctAnswer": "meet",
+      "emoji": "🤝",
+      "spa": "Mucho gusto.",
+      "optionsLang": "en",
+      "eng": "Nice to meet you.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq191",
+      "category": "Introductions - Dialogue Completion",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: Great to meet you, ___.",
+      "options": [
+        "too",
+        "to",
+        "two"
+      ],
+      "correctAnswer": "too",
+      "emoji": "✨",
+      "spa": "Encantado/a de conocerte también.",
+      "optionsLang": "en",
+      "eng": "Great to meet you, too.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq192",
+      "category": "Introductions - Dialogue Completion",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: ___ is my friend, Sara.",
+      "options": [
+        "This",
+        "These",
+        "Those"
+      ],
+      "correctAnswer": "This",
+      "emoji": "👧",
+      "spa": "Esta es mi amiga Sara.",
+      "optionsLang": "en",
+      "eng": "This is my friend, Sara.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq193",
+      "category": "Introductions - Dialogue Completion",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: ___, Jack. He's in the football team.",
+      "options": [
+        "This is",
+        "Are",
+        "Where"
+      ],
+      "correctAnswer": "This is",
+      "emoji": "⚽",
+      "spa": "Este es Jack. Está en el equipo de fútbol.",
+      "optionsLang": "en",
+      "eng": "This is Jack.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq194",
+      "category": "Introductions - Dialogue Completion",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Completa: Hi, Gavin. ___ meet you.",
+      "options": [
+        "Nice to",
+        "Nice is",
+        "Are to"
+      ],
+      "correctAnswer": "Nice to",
+      "emoji": "🤝",
+      "spa": "Hola, Gavin. Mucho gusto.",
+      "optionsLang": "en",
+      "eng": "Nice to meet you.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq195",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: How ___ you?",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "📧",
+      "spa": "¿Cómo estás?",
+      "optionsLang": "en",
+      "eng": "How are you?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq196",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ your new school nice?",
+      "options": [
+        "Is",
+        "Are",
+        "Am"
+      ],
+      "correctAnswer": "Is",
+      "emoji": "🏫",
+      "spa": "¿Tu nueva escuela es linda?",
+      "optionsLang": "en",
+      "eng": "Is your new school nice?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq197",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ you on the football team?",
+      "options": [
+        "Are",
+        "Is",
+        "Am"
+      ],
+      "correctAnswer": "Are",
+      "emoji": "⚽",
+      "spa": "¿Estás en el equipo de fútbol?",
+      "optionsLang": "en",
+      "eng": "Are you on the football team?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq198",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I ___ in England.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correctAnswer": "am",
+      "emoji": "🏴",
+      "spa": "Estoy en Inglaterra.",
+      "optionsLang": "en",
+      "eng": "I am in England.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq199",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ parents and I are really happy.",
+      "options": [
+        "My",
+        "I",
+        "Me"
+      ],
+      "correctAnswer": "My",
+      "emoji": "👨‍👩‍👧",
+      "spa": "Mis padres y yo estamos muy felices.",
+      "optionsLang": "en",
+      "eng": "My parents and I are really happy.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq200",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ new house is fantastic.",
+      "options": [
+        "Our",
+        "We",
+        "Us"
+      ],
+      "correctAnswer": "Our",
+      "emoji": "🏠",
+      "spa": "Nuestra casa nueva es fantástica.",
+      "optionsLang": "en",
+      "eng": "Our new house is fantastic.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq201",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My new classmates ___ friendly.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "correctAnswer": "are",
+      "emoji": "😊",
+      "spa": "Mis nuevos compañeros son amistosos.",
+      "optionsLang": "en",
+      "eng": "My new classmates are friendly.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq202",
+      "category": "Review Unit 1",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Our teacher ___ fun.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "👩‍🏫",
+      "spa": "Nuestro/a profesor/a es divertido/a.",
+      "optionsLang": "en",
+      "eng": "Our teacher is fun.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq203",
+      "category": "Global Citizenship - Diversity",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige la idea que mejor refleja la unidad.",
+      "options": [
+        "People from the same country can look very different.",
+        "Everyone from one country looks the same.",
+        "Nationality decides someone's hair colour."
+      ],
+      "correctAnswer": "People from the same country can look very different.",
+      "emoji": "🌍",
+      "spa": "Las personas de un mismo país pueden tener apariencias muy diferentes.",
+      "optionsLang": "en",
+      "eng": "People from the same country can look very different.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    },
+    {
+      "id": "u1_gq204",
+      "category": "Global Citizenship - Diversity",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: There ___ one 'typical' appearance for a nationality.",
+      "options": [
+        "isn't",
+        "aren't",
+        "am not"
+      ],
+      "correctAnswer": "isn't",
+      "emoji": "🤝",
+      "spa": "No existe una única apariencia 'típica' para una nacionalidad.",
+      "optionsLang": "en",
+      "eng": "There isn't one typical appearance for a nationality.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 1 One world"
+    }
+  ],
+  "READING_COMPREHENSION": [
+    {
+      "category": "One World - Friends from Planet Nova",
+      "readingText": "Kai is thirteen and his favourite colour is blue. His pet rabbit, Pip, is grey with yellow eyes. Kai's best friend is Zara. She is twelve, her hair is black and yellow, and she can fly. Their friend Max is thirteen. He is not very tall, but he is very strong. The three friends are from Planet Nova and they are all very different.",
+      "emoji": "🪐",
+      "questions": [
+        {
+          "q": "How old is Kai?",
+          "a": "Thirteen",
+          "options": [
+            "Thirteen",
+            "Twelve",
+            "Ten"
+          ]
+        },
+        {
+          "q": "What colour is Pip?",
+          "a": "Grey",
+          "options": [
+            "Grey",
+            "Blue",
+            "Black"
+          ]
+        },
+        {
+          "q": "Who can fly?",
+          "a": "Zara",
+          "options": [
+            "Zara",
+            "Kai",
+            "Max"
+          ]
+        },
+        {
+          "q": "Is Max very tall?",
+          "a": "No, he isn't.",
+          "options": [
+            "Yes, he is.",
+            "No, he isn't."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "One World - Basketball Practice",
+      "readingText": "Ella meets her friends before school. It is her first basketball practice, so she is a little worried. The practice is at lunchtime, not after school. Later they meet Sam, who has a new laptop. Sam shows them a photo of his favourite basketball player. The player is American and his team is very successful. At the end, Ella discovers that today's practice is cancelled and the next practice is tomorrow.",
+      "emoji": "🏀",
+      "questions": [
+        {
+          "q": "Is it Ella's first basketball practice?",
+          "a": "Yes, it is.",
+          "options": [
+            "Yes, it is.",
+            "No, it isn't."
+          ]
+        },
+        {
+          "q": "When is the practice?",
+          "a": "At lunchtime",
+          "options": [
+            "At lunchtime",
+            "After school",
+            "At night"
+          ]
+        },
+        {
+          "q": "What does Sam have?",
+          "a": "A new laptop",
+          "options": [
+            "A new laptop",
+            "A new bike",
+            "A new camera"
+          ]
+        },
+        {
+          "q": "Where is the basketball player from?",
+          "a": "The USA",
+          "options": [
+            "The USA",
+            "France",
+            "China"
+          ]
+        },
+        {
+          "q": "When is the next practice?",
+          "a": "Tomorrow",
+          "options": [
+            "Tomorrow",
+            "Today",
+            "Next month"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "One World - Scottish Cities",
+      "readingText": "Scotland is part of the United Kingdom. English, Scots and Scottish Gaelic are official languages, and English is the main language. Edinburgh is the capital and is famous for its castle and festivals. Glasgow is much bigger and is well known for football, art and its port. Inverness is a smaller city in the Highlands. A famous traditional sports event takes place there every year.",
+      "emoji": "🏴",
+      "questions": [
+        {
+          "q": "What is the capital of Scotland?",
+          "a": "Edinburgh",
+          "options": [
+            "Edinburgh",
+            "Glasgow",
+            "Inverness"
+          ]
+        },
+        {
+          "q": "How many official languages are mentioned?",
+          "a": "Three",
+          "options": [
+            "Three",
+            "One",
+            "Five"
+          ]
+        },
+        {
+          "q": "Which city is famous for football and its port?",
+          "a": "Glasgow",
+          "options": [
+            "Glasgow",
+            "Edinburgh",
+            "Inverness"
+          ]
+        },
+        {
+          "q": "Where is Inverness?",
+          "a": "In the Highlands",
+          "options": [
+            "In the Highlands",
+            "In England",
+            "In the USA"
+          ]
+        },
+        {
+          "q": "What kind of event is connected with Inverness?",
+          "a": "A traditional sports event",
+          "options": [
+            "A traditional sports event",
+            "A film festival",
+            "A science fair"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "One World - City Profile",
+      "readingText": "Harbour City is in the southeast of Australia. It is a large city with more than five million people. There is a famous opera house and a big bridge near the harbour. Every January there is an arts festival with music, theatre and many visitors. The city is busy, colourful and popular with tourists.",
+      "emoji": "🌉",
+      "questions": [
+        {
+          "q": "Where is Harbour City?",
+          "a": "In the southeast of Australia",
+          "options": [
+            "In the southeast of Australia",
+            "In Scotland",
+            "In South America"
+          ]
+        },
+        {
+          "q": "Is it a small city?",
+          "a": "No, it isn't.",
+          "options": [
+            "Yes, it is.",
+            "No, it isn't."
+          ]
+        },
+        {
+          "q": "When is the arts festival?",
+          "a": "In January",
+          "options": [
+            "In January",
+            "In June",
+            "In December"
+          ]
+        },
+        {
+          "q": "What can visitors enjoy at the festival?",
+          "a": "Music and theatre",
+          "options": [
+            "Music and theatre",
+            "Only football",
+            "Only science"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "One World - New School Email",
+      "readingText": "Hi, Mia! How are you? My new school is really nice. I'm in class 2B and I'm on the volleyball team. My parents and I are in our new house now. Our neighbours are friendly and my classmates are fun. My favourite subject is science, but our teacher's favourite subject is history! Write soon, Alex.",
+      "emoji": "📧",
+      "questions": [
+        {
+          "q": "What class is Alex in?",
+          "a": "Class 2B",
+          "options": [
+            "Class 2B",
+            "Class 3A",
+            "Class 1C"
+          ]
+        },
+        {
+          "q": "Is Alex on a sports team?",
+          "a": "Yes, he is.",
+          "options": [
+            "Yes, he is.",
+            "No, he isn't."
+          ]
+        },
+        {
+          "q": "What are the neighbours like?",
+          "a": "Friendly",
+          "options": [
+            "Friendly",
+            "Angry",
+            "Boring"
+          ]
+        },
+        {
+          "q": "What is Alex's favourite subject?",
+          "a": "Science",
+          "options": [
+            "Science",
+            "History",
+            "Art"
+          ]
+        }
+      ]
+    }
+  ],
+  "SENTENCES": [
+    {
+      "eng": "I'm from Argentina.",
+      "spa": "Soy de Argentina.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇦🇷"
+    },
+    {
+      "eng": "I'm Argentinian.",
+      "spa": "Soy argentino/a.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇦🇷"
+    },
+    {
+      "eng": "She's from Scotland.",
+      "spa": "Ella es de Escocia.",
+      "category": "Countries and Nationalities",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "She's Scottish.",
+      "spa": "Ella es escocesa.",
+      "category": "Countries and Nationalities",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "He's from the USA.",
+      "spa": "Él es de Estados Unidos.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇺🇸"
+    },
+    {
+      "eng": "He's American.",
+      "spa": "Él es estadounidense.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇺🇸"
+    },
+    {
+      "eng": "They're from China.",
+      "spa": "Ellos son de China.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇨🇳"
+    },
+    {
+      "eng": "They're Chinese.",
+      "spa": "Ellos son chinos.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇨🇳"
+    },
+    {
+      "eng": "My friend is Polish.",
+      "spa": "Mi amigo/a es polaco/a.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇵🇱"
+    },
+    {
+      "eng": "Her mum is Irish.",
+      "spa": "Su mamá es irlandesa.",
+      "category": "Countries and Nationalities",
+      "emoji": "🇮🇪"
+    },
+    {
+      "eng": "He has got short red hair.",
+      "spa": "Él tiene el cabello corto y pelirrojo.",
+      "category": "Describing People",
+      "emoji": "👨‍🦰"
+    },
+    {
+      "eng": "She has got green eyes.",
+      "spa": "Ella tiene ojos verdes.",
+      "category": "Describing People",
+      "emoji": "👁️"
+    },
+    {
+      "eng": "It's a boy with blonde hair.",
+      "spa": "Es un chico de cabello rubio.",
+      "category": "Describing People",
+      "emoji": "👦"
+    },
+    {
+      "eng": "His bag is blue.",
+      "spa": "Su mochila es azul.",
+      "category": "Describing People",
+      "emoji": "🎒"
+    },
+    {
+      "eng": "They are all different.",
+      "spa": "Todos son diferentes.",
+      "category": "Describing People",
+      "emoji": "👥"
+    },
+    {
+      "eng": "I'm thirteen.",
+      "spa": "Tengo trece años.",
+      "category": "Verb To Be",
+      "emoji": "🎂"
+    },
+    {
+      "eng": "My school is in Cork.",
+      "spa": "Mi escuela está en Cork.",
+      "category": "Verb To Be",
+      "emoji": "🏫"
+    },
+    {
+      "eng": "It isn't very big.",
+      "spa": "No es muy grande.",
+      "category": "Verb To Be",
+      "emoji": "🏫"
+    },
+    {
+      "eng": "My friends are in the same class.",
+      "spa": "Mis amigos están en la misma clase.",
+      "category": "Verb To Be",
+      "emoji": "👥"
+    },
+    {
+      "eng": "Maths isn't easy for me.",
+      "spa": "Matemática no es fácil para mí.",
+      "category": "Verb To Be",
+      "emoji": "➗"
+    },
+    {
+      "eng": "Are you worried?",
+      "spa": "¿Estás preocupado/a?",
+      "category": "Verb To Be Questions",
+      "emoji": "😟"
+    },
+    {
+      "eng": "No, I'm not.",
+      "spa": "No.",
+      "category": "Verb To Be Questions",
+      "emoji": "❌"
+    },
+    {
+      "eng": "Is she good at basketball?",
+      "spa": "¿Ella es buena jugando al básquet?",
+      "category": "Verb To Be Questions",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "Yes, she is.",
+      "spa": "Sí.",
+      "category": "Verb To Be Questions",
+      "emoji": "✅"
+    },
+    {
+      "eng": "Are they basketball fans?",
+      "spa": "¿Son fanáticos del básquet?",
+      "category": "Verb To Be Questions",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "No, they aren't.",
+      "spa": "No.",
+      "category": "Verb To Be Questions",
+      "emoji": "❌"
+    },
+    {
+      "eng": "Where is he from?",
+      "spa": "¿De dónde es él?",
+      "category": "Verb To Be Questions",
+      "emoji": "🌍"
+    },
+    {
+      "eng": "Who are these people?",
+      "spa": "¿Quiénes son estas personas?",
+      "category": "Verb To Be Questions",
+      "emoji": "👥"
+    },
+    {
+      "eng": "It's my new laptop.",
+      "spa": "Es mi computadora portátil nueva.",
+      "category": "Possessive Adjectives",
+      "emoji": "💻"
+    },
+    {
+      "eng": "Your practice is today.",
+      "spa": "Tu entrenamiento es hoy.",
+      "category": "Possessive Adjectives",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "His team is fantastic.",
+      "spa": "Su equipo es fantástico.",
+      "category": "Possessive Adjectives",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "Her favourite sport is football.",
+      "spa": "Su deporte favorito es el fútbol.",
+      "category": "Possessive Adjectives",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "Our teacher is friendly.",
+      "spa": "Nuestro/a profesor/a es amable.",
+      "category": "Possessive Adjectives",
+      "emoji": "👩‍🏫"
+    },
+    {
+      "eng": "Their house is in Paris.",
+      "spa": "Su casa está en París.",
+      "category": "Possessive Adjectives",
+      "emoji": "🏠"
+    },
+    {
+      "eng": "The dog is black. Its eyes are brown.",
+      "spa": "El perro es negro. Sus ojos son marrones.",
+      "category": "Possessive Adjectives",
+      "emoji": "🐕"
+    },
+    {
+      "eng": "Hi, I'm Alex.",
+      "spa": "Hola, soy Alex.",
+      "category": "Introductions",
+      "emoji": "👋"
+    },
+    {
+      "eng": "Nice to meet you.",
+      "spa": "Mucho gusto.",
+      "category": "Introductions",
+      "emoji": "🤝"
+    },
+    {
+      "eng": "Nice to meet you, too.",
+      "spa": "Mucho gusto también.",
+      "category": "Introductions",
+      "emoji": "✨"
+    },
+    {
+      "eng": "This is my friend, Maya.",
+      "spa": "Esta es mi amiga Maya.",
+      "category": "Introductions",
+      "emoji": "👧"
+    },
+    {
+      "eng": "Great to meet you.",
+      "spa": "Encantado/a de conocerte.",
+      "category": "Introductions",
+      "emoji": "😊"
+    },
+    {
+      "eng": "What's your favourite colour?",
+      "spa": "¿Cuál es tu color favorito?",
+      "category": "Personal Information",
+      "emoji": "🎨"
+    },
+    {
+      "eng": "What's your favourite animal?",
+      "spa": "¿Cuál es tu animal favorito?",
+      "category": "Personal Information",
+      "emoji": "🐾"
+    },
+    {
+      "eng": "Who is your best friend?",
+      "spa": "¿Quién es tu mejor amigo/a?",
+      "category": "Personal Information",
+      "emoji": "👯"
+    },
+    {
+      "eng": "What are his hobbies?",
+      "spa": "¿Cuáles son sus pasatiempos?",
+      "category": "Personal Information",
+      "emoji": "🎮"
+    },
+    {
+      "eng": "Edinburgh is the capital of Scotland.",
+      "spa": "Edimburgo es la capital de Escocia.",
+      "category": "Scottish Cities",
+      "emoji": "🏰"
+    },
+    {
+      "eng": "Glasgow is a big city and a port.",
+      "spa": "Glasgow es una ciudad grande y un puerto.",
+      "category": "Scottish Cities",
+      "emoji": "⚓"
+    },
+    {
+      "eng": "Inverness is in the Scottish Highlands.",
+      "spa": "Inverness está en las Highlands escocesas.",
+      "category": "Scottish Cities",
+      "emoji": "⛰️"
+    },
+    {
+      "eng": "There are three official languages in Scotland.",
+      "spa": "Hay tres idiomas oficiales en Escocia.",
+      "category": "Scottish Cities",
+      "emoji": "🗣️"
+    },
+    {
+      "eng": "The thistle is a symbol of Scotland.",
+      "spa": "El cardo es un símbolo de Escocia.",
+      "category": "Scottish Culture",
+      "emoji": "🌸"
+    },
+    {
+      "eng": "Bagpipes are a musical instrument.",
+      "spa": "La gaita escocesa es un instrumento musical.",
+      "category": "Scottish Culture",
+      "emoji": "🎶"
+    },
+    {
+      "eng": "A kilt can have different family colours.",
+      "spa": "Un kilt puede tener distintos colores familiares.",
+      "category": "Scottish Culture",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "Sydney is in the southeast of Australia.",
+      "spa": "Sídney está en el sudeste de Australia.",
+      "category": "City Description",
+      "emoji": "🇦🇺"
+    },
+    {
+      "eng": "It's a big city.",
+      "spa": "Es una ciudad grande.",
+      "category": "City Description",
+      "emoji": "🏙️"
+    },
+    {
+      "eng": "The population is over five million.",
+      "spa": "La población supera los cinco millones.",
+      "category": "City Description",
+      "emoji": "👥"
+    },
+    {
+      "eng": "There is a festival in January.",
+      "spa": "Hay un festival en enero.",
+      "category": "City Description",
+      "emoji": "🎭"
+    },
+    {
+      "eng": "Many visitors come to the festival.",
+      "spa": "Muchos visitantes vienen al festival.",
+      "category": "City Description",
+      "emoji": "🧳"
+    },
+    {
+      "eng": "People from the same country can look different.",
+      "spa": "Las personas de un mismo país pueden tener apariencias diferentes.",
+      "category": "Global Citizenship",
+      "emoji": "🌍"
+    }
+  ],
+  "VOCABULARY": [
+    {
+      "eng": "Scotland",
+      "spa": "Escocia",
+      "category": "Countries",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "England",
+      "spa": "Inglaterra",
+      "category": "Countries",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "Ireland",
+      "spa": "Irlanda",
+      "category": "Countries",
+      "emoji": "🇮🇪"
+    },
+    {
+      "eng": "Wales",
+      "spa": "Gales",
+      "category": "Countries",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "the UK",
+      "spa": "el Reino Unido",
+      "category": "Countries",
+      "emoji": "🇬🇧"
+    },
+    {
+      "eng": "Spain",
+      "spa": "España",
+      "category": "Countries",
+      "emoji": "🇪🇸"
+    },
+    {
+      "eng": "France",
+      "spa": "Francia",
+      "category": "Countries",
+      "emoji": "🇫🇷"
+    },
+    {
+      "eng": "Italy",
+      "spa": "Italia",
+      "category": "Countries",
+      "emoji": "🇮🇹"
+    },
+    {
+      "eng": "Germany",
+      "spa": "Alemania",
+      "category": "Countries",
+      "emoji": "🇩🇪"
+    },
+    {
+      "eng": "Poland",
+      "spa": "Polonia",
+      "category": "Countries",
+      "emoji": "🇵🇱"
+    },
+    {
+      "eng": "Greece",
+      "spa": "Grecia",
+      "category": "Countries",
+      "emoji": "🇬🇷"
+    },
+    {
+      "eng": "Morocco",
+      "spa": "Marruecos",
+      "category": "Countries",
+      "emoji": "🇲🇦"
+    },
+    {
+      "eng": "Egypt",
+      "spa": "Egipto",
+      "category": "Countries",
+      "emoji": "🇪🇬"
+    },
+    {
+      "eng": "the USA",
+      "spa": "Estados Unidos",
+      "category": "Countries",
+      "emoji": "🇺🇸"
+    },
+    {
+      "eng": "China",
+      "spa": "China",
+      "category": "Countries",
+      "emoji": "🇨🇳"
+    },
+    {
+      "eng": "Argentina",
+      "spa": "Argentina",
+      "category": "Countries",
+      "emoji": "🇦🇷"
+    },
+    {
+      "eng": "Brazil",
+      "spa": "Brasil",
+      "category": "Countries",
+      "emoji": "🇧🇷"
+    },
+    {
+      "eng": "Russia",
+      "spa": "Rusia",
+      "category": "Countries",
+      "emoji": "🇷🇺"
+    },
+    {
+      "eng": "Turkey",
+      "spa": "Turquía",
+      "category": "Countries",
+      "emoji": "🇹🇷"
+    },
+    {
+      "eng": "Mexico",
+      "spa": "México",
+      "category": "Countries",
+      "emoji": "🇲🇽"
+    },
+    {
+      "eng": "Scottish",
+      "spa": "escocés/escocesa",
+      "category": "Nationalities",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "English",
+      "spa": "inglés/inglesa",
+      "category": "Nationalities",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "Irish",
+      "spa": "irlandés/irlandesa",
+      "category": "Nationalities",
+      "emoji": "🇮🇪"
+    },
+    {
+      "eng": "Welsh",
+      "spa": "galés/galesa",
+      "category": "Nationalities",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "British",
+      "spa": "británico/británica",
+      "category": "Nationalities",
+      "emoji": "🇬🇧"
+    },
+    {
+      "eng": "Spanish",
+      "spa": "español/española",
+      "category": "Nationalities",
+      "emoji": "🇪🇸"
+    },
+    {
+      "eng": "French",
+      "spa": "francés/francesa",
+      "category": "Nationalities",
+      "emoji": "🇫🇷"
+    },
+    {
+      "eng": "Italian",
+      "spa": "italiano/italiana",
+      "category": "Nationalities",
+      "emoji": "🇮🇹"
+    },
+    {
+      "eng": "German",
+      "spa": "alemán/alemana",
+      "category": "Nationalities",
+      "emoji": "🇩🇪"
+    },
+    {
+      "eng": "Polish",
+      "spa": "polaco/polaca",
+      "category": "Nationalities",
+      "emoji": "🇵🇱"
+    },
+    {
+      "eng": "Greek",
+      "spa": "griego/griega",
+      "category": "Nationalities",
+      "emoji": "🇬🇷"
+    },
+    {
+      "eng": "Moroccan",
+      "spa": "marroquí",
+      "category": "Nationalities",
+      "emoji": "🇲🇦"
+    },
+    {
+      "eng": "Egyptian",
+      "spa": "egipcio/egipcia",
+      "category": "Nationalities",
+      "emoji": "🇪🇬"
+    },
+    {
+      "eng": "American",
+      "spa": "estadounidense",
+      "category": "Nationalities",
+      "emoji": "🇺🇸"
+    },
+    {
+      "eng": "Chinese",
+      "spa": "chino/china",
+      "category": "Nationalities",
+      "emoji": "🇨🇳"
+    },
+    {
+      "eng": "Argentinian",
+      "spa": "argentino/argentina",
+      "category": "Nationalities",
+      "emoji": "🇦🇷"
+    },
+    {
+      "eng": "Brazilian",
+      "spa": "brasileño/brasileña",
+      "category": "Nationalities",
+      "emoji": "🇧🇷"
+    },
+    {
+      "eng": "Russian",
+      "spa": "ruso/rusa",
+      "category": "Nationalities",
+      "emoji": "🇷🇺"
+    },
+    {
+      "eng": "Turkish",
+      "spa": "turco/turca",
+      "category": "Nationalities",
+      "emoji": "🇹🇷"
+    },
+    {
+      "eng": "Mexican",
+      "spa": "mexicano/mexicana",
+      "category": "Nationalities",
+      "emoji": "🇲🇽"
+    },
+    {
+      "eng": "Capital city",
+      "spa": "Capital",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🏙️"
+    },
+    {
+      "eng": "Population",
+      "spa": "Población",
+      "category": "Scottish Cities and Culture",
+      "emoji": "👥"
+    },
+    {
+      "eng": "Parliament",
+      "spa": "Parlamento",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🏛️"
+    },
+    {
+      "eng": "Castle",
+      "spa": "Castillo",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🏰"
+    },
+    {
+      "eng": "Cultural festival",
+      "spa": "Festival cultural",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🎭"
+    },
+    {
+      "eng": "Visitor",
+      "spa": "Visitante",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🧳"
+    },
+    {
+      "eng": "Port",
+      "spa": "Puerto",
+      "category": "Scottish Cities and Culture",
+      "emoji": "⚓"
+    },
+    {
+      "eng": "Football team",
+      "spa": "Equipo de fútbol",
+      "category": "Scottish Cities and Culture",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "Football stadium",
+      "spa": "Estadio de fútbol",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🏟️"
+    },
+    {
+      "eng": "Museum",
+      "spa": "Museo",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🏛️"
+    },
+    {
+      "eng": "Gallery",
+      "spa": "Galería",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🖼️"
+    },
+    {
+      "eng": "Highlands",
+      "spa": "Tierras Altas",
+      "category": "Scottish Cities and Culture",
+      "emoji": "⛰️"
+    },
+    {
+      "eng": "Official language",
+      "spa": "Idioma oficial",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🗣️"
+    },
+    {
+      "eng": "Main language",
+      "spa": "Idioma principal",
+      "category": "Scottish Cities and Culture",
+      "emoji": "💬"
+    },
+    {
+      "eng": "Law",
+      "spa": "Ley",
+      "category": "Scottish Cities and Culture",
+      "emoji": "⚖️"
+    },
+    {
+      "eng": "Banknote",
+      "spa": "Billete",
+      "category": "Scottish Cities and Culture",
+      "emoji": "💷"
+    },
+    {
+      "eng": "Celebration",
+      "spa": "Celebración",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🎉"
+    },
+    {
+      "eng": "Show",
+      "spa": "Espectáculo",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🎪"
+    },
+    {
+      "eng": "Object",
+      "spa": "Objeto",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🧩"
+    },
+    {
+      "eng": "Thistle",
+      "spa": "Cardo",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🌸"
+    },
+    {
+      "eng": "Kilt",
+      "spa": "Kilt / falda escocesa",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🏴"
+    },
+    {
+      "eng": "Bagpipes",
+      "spa": "Gaita escocesa",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🎶"
+    },
+    {
+      "eng": "Unicorn",
+      "spa": "Unicornio",
+      "category": "Scottish Cities and Culture",
+      "emoji": "🦄"
+    },
+    {
+      "eng": "Best friend",
+      "spa": "Mejor amigo/a",
+      "category": "People and Personal Information",
+      "emoji": "👯"
+    },
+    {
+      "eng": "Classmate",
+      "spa": "Compañero/a de clase",
+      "category": "People and Personal Information",
+      "emoji": "🎒"
+    },
+    {
+      "eng": "Team",
+      "spa": "Equipo",
+      "category": "People and Personal Information",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "Player",
+      "spa": "Jugador/a",
+      "category": "People and Personal Information",
+      "emoji": "⛹️"
+    },
+    {
+      "eng": "Practice",
+      "spa": "Entrenamiento / práctica",
+      "category": "People and Personal Information",
+      "emoji": "🏀"
+    },
+    {
+      "eng": "Worried",
+      "spa": "Preocupado/a",
+      "category": "People and Personal Information",
+      "emoji": "😟"
+    },
+    {
+      "eng": "Strong",
+      "spa": "Fuerte",
+      "category": "People and Personal Information",
+      "emoji": "💪"
+    },
+    {
+      "eng": "Funny",
+      "spa": "Divertido/a",
+      "category": "People and Personal Information",
+      "emoji": "😂"
+    },
+    {
+      "eng": "Difficult",
+      "spa": "Difícil",
+      "category": "People and Personal Information",
+      "emoji": "🧠"
+    },
+    {
+      "eng": "Easy",
+      "spa": "Fácil",
+      "category": "People and Personal Information",
+      "emoji": "✅"
+    }
+  ]
+}

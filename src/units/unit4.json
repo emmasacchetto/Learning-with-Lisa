@@ -1,0 +1,5635 @@
+{
+  "unit": "Unid. 4: Our Food",
+  "source": "I Succeed in English 2 Studentsbook and Workbook",
+  "year": "2026",
+  "DIALOGUES": [
+    {
+      "id": "u4_func_lunch_habits_1",
+      "category": "Asking about habits - Lunch",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What have you got for lunch?",
+          "spa": "¿Qué tienes para almorzar?",
+          "emoji": "🥪"
+        },
+        {
+          "speaker": "B",
+          "eng": "I've got a chicken sandwich and an apple.",
+          "spa": "Tengo un sándwich de pollo y una manzana.",
+          "emoji": "🍎"
+        },
+        {
+          "speaker": "A",
+          "eng": "How often do you have a sandwich for lunch?",
+          "spa": "¿Con qué frecuencia comes un sándwich en el almuerzo?",
+          "emoji": "🔁"
+        },
+        {
+          "speaker": "B",
+          "eng": "Twice a week.",
+          "spa": "Dos veces por semana.",
+          "emoji": "2️⃣"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do you usually drink?",
+          "spa": "¿Qué bebes normalmente?",
+          "emoji": "🥤"
+        },
+        {
+          "speaker": "B",
+          "eng": "I usually drink water.",
+          "spa": "Normalmente tomo agua.",
+          "emoji": "💧"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_lunch_habits_2",
+      "category": "Asking about habits - Packed lunch",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "When do you make your packed lunch?",
+          "spa": "¿Cuándo preparas tu almuerzo para llevar?",
+          "emoji": "🍱"
+        },
+        {
+          "speaker": "B",
+          "eng": "In the morning, before school.",
+          "spa": "Por la mañana, antes de ir a la escuela.",
+          "emoji": "🌅"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do you usually put in it?",
+          "spa": "¿Qué le pones normalmente?",
+          "emoji": "🥪"
+        },
+        {
+          "speaker": "B",
+          "eng": "A sandwich, some fruit and a bottle of water.",
+          "spa": "Un sándwich, fruta y una botella de agua.",
+          "emoji": "🍎"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you ever take junk food?",
+          "spa": "¿Alguna vez llevas comida chatarra?",
+          "emoji": "🍟"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, I don't.",
+          "spa": "No.",
+          "emoji": "❌"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_breakfast",
+      "category": "Asking about habits - Breakfast",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What do you usually eat for breakfast?",
+          "spa": "¿Qué comes normalmente en el desayuno?",
+          "emoji": "🥣"
+        },
+        {
+          "speaker": "B",
+          "eng": "I usually have toast and fruit.",
+          "spa": "Normalmente como tostadas y fruta.",
+          "emoji": "🍞"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do you drink?",
+          "spa": "¿Qué bebes?",
+          "emoji": "🥛"
+        },
+        {
+          "speaker": "B",
+          "eng": "I drink milk.",
+          "spa": "Tomo leche.",
+          "emoji": "🥛"
+        },
+        {
+          "speaker": "A",
+          "eng": "How often do you have eggs?",
+          "spa": "¿Con qué frecuencia comes huevos?",
+          "emoji": "🥚"
+        },
+        {
+          "speaker": "B",
+          "eng": "Once a week.",
+          "spa": "Una vez por semana.",
+          "emoji": "1️⃣"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_dinner",
+      "category": "Asking about habits - Dinner",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What do you usually have for dinner?",
+          "spa": "¿Qué cenas normalmente?",
+          "emoji": "🍽️"
+        },
+        {
+          "speaker": "B",
+          "eng": "We usually have rice, vegetables and chicken.",
+          "spa": "Normalmente comemos arroz, verduras y pollo.",
+          "emoji": "🍚"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you cook dinner?",
+          "spa": "¿Cocinas la cena?",
+          "emoji": "👩‍🍳"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, I don't. My dad usually cooks.",
+          "spa": "No. Mi papá cocina normalmente.",
+          "emoji": "👨‍🍳"
+        },
+        {
+          "speaker": "A",
+          "eng": "Does he cook every day?",
+          "spa": "¿Cocina todos los días?",
+          "emoji": "📅"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, he does.",
+          "spa": "Sí.",
+          "emoji": "✅"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_school_cook_interview",
+      "category": "Present simple questions - Interview",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Do you cook at school?",
+          "spa": "¿Cocinas en la escuela?",
+          "emoji": "👨‍🍳"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I do. I'm the school cook.",
+          "spa": "Sí. Soy el cocinero de la escuela.",
+          "emoji": "🏫"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you read cookbooks?",
+          "spa": "¿Lees libros de cocina?",
+          "emoji": "📖"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I do. I read them for ideas.",
+          "spa": "Sí. Los leo para buscar ideas.",
+          "emoji": "💡"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do you cook most often?",
+          "spa": "¿Qué cocinas con más frecuencia?",
+          "emoji": "🍝"
+        },
+        {
+          "speaker": "B",
+          "eng": "I often cook pasta and vegetables.",
+          "spa": "A menudo cocino pasta y verduras.",
+          "emoji": "🍝"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_takeaway",
+      "category": "Culture - Takeaway food",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What's your favourite takeaway food?",
+          "spa": "¿Cuál es tu comida para llevar favorita?",
+          "emoji": "🥡"
+        },
+        {
+          "speaker": "B",
+          "eng": "I love vegetable curry.",
+          "spa": "Me encanta el curry de verduras.",
+          "emoji": "🍛"
+        },
+        {
+          "speaker": "A",
+          "eng": "How often do you have it?",
+          "spa": "¿Con qué frecuencia lo comes?",
+          "emoji": "🔁"
+        },
+        {
+          "speaker": "B",
+          "eng": "About once a month.",
+          "spa": "Aproximadamente una vez al mes.",
+          "emoji": "1️⃣"
+        },
+        {
+          "speaker": "A",
+          "eng": "Where do you get it from?",
+          "spa": "¿Dónde lo compras?",
+          "emoji": "🏪"
+        },
+        {
+          "speaker": "B",
+          "eng": "From a small restaurant near my house.",
+          "spa": "En un restaurante pequeño cerca de mi casa.",
+          "emoji": "🍽️"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_food_origin",
+      "category": "Food origins",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Where is pasta from?",
+          "spa": "¿De dónde es la pasta?",
+          "emoji": "🍝"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's from Italy.",
+          "spa": "Es de Italia.",
+          "emoji": "🇮🇹"
+        },
+        {
+          "speaker": "A",
+          "eng": "What about fish and chips?",
+          "spa": "¿Y el fish and chips?",
+          "emoji": "🐟"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's a famous British dish.",
+          "spa": "Es un plato británico famoso.",
+          "emoji": "🇬🇧"
+        },
+        {
+          "speaker": "A",
+          "eng": "Are French fries from France?",
+          "spa": "¿Las papas fritas son de Francia?",
+          "emoji": "🍟"
+        },
+        {
+          "speaker": "B",
+          "eng": "Not originally. Food names can be surprising!",
+          "spa": "No originalmente. ¡Los nombres de comidas pueden sorprender!",
+          "emoji": "😮"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_food_waste",
+      "category": "Sustainable food habits",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What do you do with leftover food?",
+          "spa": "¿Qué haces con la comida que sobra?",
+          "emoji": "♻️"
+        },
+        {
+          "speaker": "B",
+          "eng": "We keep it in the fridge and eat it the next day.",
+          "spa": "La guardamos en la heladera y la comemos al día siguiente.",
+          "emoji": "🧊"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you throw food away?",
+          "spa": "¿Tiras comida?",
+          "emoji": "🗑️"
+        },
+        {
+          "speaker": "B",
+          "eng": "Only when we can't use it safely.",
+          "spa": "Solo cuando no podemos usarla de forma segura.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "How can we reduce food waste?",
+          "spa": "¿Cómo podemos reducir el desperdicio de alimentos?",
+          "emoji": "🌱"
+        },
+        {
+          "speaker": "B",
+          "eng": "We can buy only what we need and use leftovers.",
+          "spa": "Podemos comprar solo lo que necesitamos y aprovechar las sobras.",
+          "emoji": "♻️"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_sea_animals",
+      "category": "CLIL Biology - Animal habits",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Do dolphins live alone?",
+          "spa": "¿Los delfines viven solos?",
+          "emoji": "🐬"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, they don't. They live in groups called pods.",
+          "spa": "No. Viven en grupos llamados manadas o pods.",
+          "emoji": "👥"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do sharks sleep like humans?",
+          "spa": "¿Los tiburones duermen como los humanos?",
+          "emoji": "🦈"
+        },
+        {
+          "speaker": "B",
+          "eng": "Not exactly. Some sharks rest while they keep moving.",
+          "spa": "No exactamente. Algunos tiburones descansan mientras siguen moviéndose.",
+          "emoji": "🌊"
+        },
+        {
+          "speaker": "A",
+          "eng": "What do blue whales eat?",
+          "spa": "¿Qué comen las ballenas azules?",
+          "emoji": "🐋"
+        },
+        {
+          "speaker": "B",
+          "eng": "They eat huge amounts of small sea animals.",
+          "spa": "Comen enormes cantidades de pequeños animales marinos.",
+          "emoji": "🦐"
+        }
+      ]
+    },
+    {
+      "id": "u4_func_menu",
+      "category": "Food and drink - Menu",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What would you like in your sandwich?",
+          "spa": "¿Qué te gustaría en tu sándwich?",
+          "emoji": "🥪"
+        },
+        {
+          "speaker": "B",
+          "eng": "Chicken, lettuce and tomato, please.",
+          "spa": "Pollo, lechuga y tomate, por favor.",
+          "emoji": "🍅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Would you like a drink?",
+          "spa": "¿Te gustaría algo para beber?",
+          "emoji": "🥤"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, a fruit juice, please.",
+          "spa": "Sí, un jugo de frutas, por favor.",
+          "emoji": "🧃"
+        },
+        {
+          "speaker": "A",
+          "eng": "Anything else?",
+          "spa": "¿Algo más?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, thank you.",
+          "spa": "No, gracias.",
+          "emoji": "😊"
+        }
+      ]
+    }
+  ],
+  "GRAMMAR_QUIZZES": [
+    {
+      "id": "u4_gq001",
+      "category": "Food Origins",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Pasta is traditionally associated with ___.",
+      "options": [
+        "Italy",
+        "Egypt",
+        "Canada"
+      ],
+      "correctAnswer": "Italy",
+      "emoji": "🍝",
+      "spa": "La pasta se asocia tradicionalmente con Italia.",
+      "optionsLang": "en",
+      "eng": "Pasta is traditionally associated with Italy.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq002",
+      "category": "Food Origins",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Fish and chips is a famous dish from ___.",
+      "options": [
+        "Britain",
+        "Brazil",
+        "Japan"
+      ],
+      "correctAnswer": "Britain",
+      "emoji": "🐟",
+      "spa": "Fish and chips es un plato británico famoso.",
+      "optionsLang": "en",
+      "eng": "Fish and chips is a famous British dish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq003",
+      "category": "Food Origins",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Croissants are strongly associated with ___.",
+      "options": [
+        "France",
+        "Mexico",
+        "China"
+      ],
+      "correctAnswer": "France",
+      "emoji": "🥐",
+      "spa": "Los croissants se asocian con Francia.",
+      "optionsLang": "en",
+      "eng": "Croissants are associated with France.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq004",
+      "category": "Food Origins",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Doughnuts are very popular in ___.",
+      "options": [
+        "the USA",
+        "Greece",
+        "Morocco"
+      ],
+      "correctAnswer": "the USA",
+      "emoji": "🍩",
+      "spa": "Las donas son muy populares en Estados Unidos.",
+      "optionsLang": "en",
+      "eng": "Doughnuts are very popular in the USA.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq005",
+      "category": "Food Origins",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Sandwiches take their name from a place/person connected with ___.",
+      "options": [
+        "England",
+        "Australia",
+        "India"
+      ],
+      "correctAnswer": "England",
+      "emoji": "🥪",
+      "spa": "El término sandwich tiene origen británico.",
+      "optionsLang": "en",
+      "eng": "The word sandwich has a British origin.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq006",
+      "category": "Food Origins",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "French fries are called 'French', but their exact origin is ___.",
+      "options": [
+        "more complicated than the name suggests",
+        "always France only",
+        "definitely Argentina"
+      ],
+      "correctAnswer": "more complicated than the name suggests",
+      "emoji": "🍟",
+      "spa": "El origen de las papas fritas es más complejo de lo que su nombre sugiere.",
+      "optionsLang": "en",
+      "eng": "The origin of French fries is more complicated than the name suggests.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq007",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Apple\"?",
+      "options": [
+        "Manzana",
+        "Huevo",
+        "Aceite"
+      ],
+      "correctAnswer": "Manzana",
+      "emoji": "🍎",
+      "spa": "Manzana",
+      "optionsLang": "es",
+      "eng": "Apple",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq008",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Beef\"?",
+      "options": [
+        "Carne de vaca",
+        "Uvas",
+        "Cebolla"
+      ],
+      "correctAnswer": "Carne de vaca",
+      "emoji": "🥩",
+      "spa": "Carne de vaca",
+      "optionsLang": "es",
+      "eng": "Beef",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq009",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Cheese\"?",
+      "options": [
+        "Queso",
+        "Lechuga",
+        "Naranja"
+      ],
+      "correctAnswer": "Queso",
+      "emoji": "🧀",
+      "spa": "Queso",
+      "optionsLang": "es",
+      "eng": "Cheese",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq010",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Chicken\"?",
+      "options": [
+        "Pollo",
+        "Hongo / champiñón",
+        "Pasta"
+      ],
+      "correctAnswer": "Pollo",
+      "emoji": "🍗",
+      "spa": "Pollo",
+      "optionsLang": "es",
+      "eng": "Chicken",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq011",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Egg\"?",
+      "options": [
+        "Huevo",
+        "Aceite",
+        "Arvejas / guisantes"
+      ],
+      "correctAnswer": "Huevo",
+      "emoji": "🥚",
+      "spa": "Huevo",
+      "optionsLang": "es",
+      "eng": "Egg",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq012",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Grapes\"?",
+      "options": [
+        "Uvas",
+        "Cebolla",
+        "Papa"
+      ],
+      "correctAnswer": "Uvas",
+      "emoji": "🍇",
+      "spa": "Uvas",
+      "optionsLang": "es",
+      "eng": "Grapes",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq013",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Lettuce\"?",
+      "options": [
+        "Lechuga",
+        "Naranja",
+        "Arroz"
+      ],
+      "correctAnswer": "Lechuga",
+      "emoji": "🥬",
+      "spa": "Lechuga",
+      "optionsLang": "es",
+      "eng": "Lettuce",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq014",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Mushroom\"?",
+      "options": [
+        "Hongo / champiñón",
+        "Pasta",
+        "Salmón"
+      ],
+      "correctAnswer": "Hongo / champiñón",
+      "emoji": "🍄",
+      "spa": "Hongo / champiñón",
+      "optionsLang": "es",
+      "eng": "Mushroom",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq015",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Oil\"?",
+      "options": [
+        "Aceite",
+        "Arvejas / guisantes",
+        "Sal y pimienta"
+      ],
+      "correctAnswer": "Aceite",
+      "emoji": "🫒",
+      "spa": "Aceite",
+      "optionsLang": "es",
+      "eng": "Oil",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq016",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Onion\"?",
+      "options": [
+        "Cebolla",
+        "Papa",
+        "Frutilla / fresa"
+      ],
+      "correctAnswer": "Cebolla",
+      "emoji": "🧅",
+      "spa": "Cebolla",
+      "optionsLang": "es",
+      "eng": "Onion",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq017",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Orange\"?",
+      "options": [
+        "Naranja",
+        "Arroz",
+        "Tomate"
+      ],
+      "correctAnswer": "Naranja",
+      "emoji": "🍊",
+      "spa": "Naranja",
+      "optionsLang": "es",
+      "eng": "Orange",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq018",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Pasta\"?",
+      "options": [
+        "Pasta",
+        "Salmón",
+        "Atún"
+      ],
+      "correctAnswer": "Pasta",
+      "emoji": "🍝",
+      "spa": "Pasta",
+      "optionsLang": "es",
+      "eng": "Pasta",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq019",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Peas\"?",
+      "options": [
+        "Arvejas / guisantes",
+        "Sal y pimienta",
+        "Manzana"
+      ],
+      "correctAnswer": "Arvejas / guisantes",
+      "emoji": "🫛",
+      "spa": "Arvejas / guisantes",
+      "optionsLang": "es",
+      "eng": "Peas",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq020",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Potato\"?",
+      "options": [
+        "Papa",
+        "Frutilla / fresa",
+        "Carne de vaca"
+      ],
+      "correctAnswer": "Papa",
+      "emoji": "🥔",
+      "spa": "Papa",
+      "optionsLang": "es",
+      "eng": "Potato",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq021",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Rice\"?",
+      "options": [
+        "Arroz",
+        "Tomate",
+        "Queso"
+      ],
+      "correctAnswer": "Arroz",
+      "emoji": "🍚",
+      "spa": "Arroz",
+      "optionsLang": "es",
+      "eng": "Rice",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq022",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Salmon\"?",
+      "options": [
+        "Salmón",
+        "Atún",
+        "Pollo"
+      ],
+      "correctAnswer": "Salmón",
+      "emoji": "🐟",
+      "spa": "Salmón",
+      "optionsLang": "es",
+      "eng": "Salmon",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq023",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Salt and pepper\"?",
+      "options": [
+        "Sal y pimienta",
+        "Manzana",
+        "Huevo"
+      ],
+      "correctAnswer": "Sal y pimienta",
+      "emoji": "🧂",
+      "spa": "Sal y pimienta",
+      "optionsLang": "es",
+      "eng": "Salt and pepper",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq024",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Strawberry\"?",
+      "options": [
+        "Frutilla / fresa",
+        "Carne de vaca",
+        "Uvas"
+      ],
+      "correctAnswer": "Frutilla / fresa",
+      "emoji": "🍓",
+      "spa": "Frutilla / fresa",
+      "optionsLang": "es",
+      "eng": "Strawberry",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq025",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Tomato\"?",
+      "options": [
+        "Tomate",
+        "Queso",
+        "Lechuga"
+      ],
+      "correctAnswer": "Tomate",
+      "emoji": "🍅",
+      "spa": "Tomate",
+      "optionsLang": "es",
+      "eng": "Tomato",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq026",
+      "category": "Food",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Tuna\"?",
+      "options": [
+        "Atún",
+        "Pollo",
+        "Hongo / champiñón"
+      ],
+      "correctAnswer": "Atún",
+      "emoji": "🐟",
+      "spa": "Atún",
+      "optionsLang": "es",
+      "eng": "Tuna",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq027",
+      "category": "Drink",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Fruit juice\"?",
+      "options": [
+        "Jugo de frutas",
+        "Leche",
+        "Batido / licuado"
+      ],
+      "correctAnswer": "Jugo de frutas",
+      "emoji": "🧃",
+      "spa": "Jugo de frutas",
+      "optionsLang": "es",
+      "eng": "Fruit juice",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq028",
+      "category": "Drink",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Milk\"?",
+      "options": [
+        "Leche",
+        "Batido / licuado",
+        "Agua"
+      ],
+      "correctAnswer": "Leche",
+      "emoji": "🥛",
+      "spa": "Leche",
+      "optionsLang": "es",
+      "eng": "Milk",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq029",
+      "category": "Drink",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Milk shake\"?",
+      "options": [
+        "Batido / licuado",
+        "Agua",
+        "Jugo de frutas"
+      ],
+      "correctAnswer": "Batido / licuado",
+      "emoji": "🥤",
+      "spa": "Batido / licuado",
+      "optionsLang": "es",
+      "eng": "Milk shake",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq030",
+      "category": "Drink",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Water\"?",
+      "options": [
+        "Agua",
+        "Jugo de frutas",
+        "Leche"
+      ],
+      "correctAnswer": "Agua",
+      "emoji": "💧",
+      "spa": "Agua",
+      "optionsLang": "es",
+      "eng": "Water",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq031",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es un tipo de queso?",
+      "options": [
+        "Cheddar",
+        "Peas",
+        "Tuna"
+      ],
+      "correctAnswer": "Cheddar",
+      "emoji": "🧀",
+      "spa": "Cheddar es un tipo de queso.",
+      "optionsLang": "en",
+      "eng": "Cheddar is a type of cheese.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq032",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es otro tipo de queso?",
+      "options": [
+        "Mozzarella",
+        "Rice",
+        "Lettuce"
+      ],
+      "correctAnswer": "Mozzarella",
+      "emoji": "🧀",
+      "spa": "Mozzarella es un tipo de queso.",
+      "optionsLang": "en",
+      "eng": "Mozzarella is a type of cheese.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq033",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es una fruta cítrica?",
+      "options": [
+        "Orange",
+        "Potato",
+        "Mushroom"
+      ],
+      "correctAnswer": "Orange",
+      "emoji": "🍊",
+      "spa": "La naranja es una fruta cítrica.",
+      "optionsLang": "en",
+      "eng": "An orange is a citrus fruit.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq034",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es una fruta roja?",
+      "options": [
+        "Strawberry",
+        "Peas",
+        "Onion"
+      ],
+      "correctAnswer": "Strawberry",
+      "emoji": "🍓",
+      "spa": "La frutilla/fresa es una fruta roja.",
+      "optionsLang": "en",
+      "eng": "A strawberry is a red fruit.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq035",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es un pescado?",
+      "options": [
+        "Salmon",
+        "Beef",
+        "Chicken"
+      ],
+      "correctAnswer": "Salmon",
+      "emoji": "🐟",
+      "spa": "El salmón es un pescado.",
+      "optionsLang": "en",
+      "eng": "Salmon is a fish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq036",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es otro pescado?",
+      "options": [
+        "Tuna",
+        "Cheese",
+        "Oil"
+      ],
+      "correctAnswer": "Tuna",
+      "emoji": "🐟",
+      "spa": "El atún es un pescado.",
+      "optionsLang": "en",
+      "eng": "Tuna is a fish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq037",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál suele clasificarse como verdura aunque botánicamente sea un fruto?",
+      "options": [
+        "Tomato",
+        "Rice",
+        "Beef"
+      ],
+      "correctAnswer": "Tomato",
+      "emoji": "🍅",
+      "spa": "El tomate suele considerarse una verdura en cocina.",
+      "optionsLang": "en",
+      "eng": "Tomato is often treated as a vegetable in cooking.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq038",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál pertenece a los lácteos?",
+      "options": [
+        "Milk",
+        "Tuna",
+        "Potato"
+      ],
+      "correctAnswer": "Milk",
+      "emoji": "🥛",
+      "spa": "La leche es un producto lácteo.",
+      "optionsLang": "en",
+      "eng": "Milk is a dairy product.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq039",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál contiene principalmente carbohidratos?",
+      "options": [
+        "Pasta",
+        "Salmon",
+        "Lettuce"
+      ],
+      "correctAnswer": "Pasta",
+      "emoji": "🍝",
+      "spa": "La pasta es un alimento rico en carbohidratos.",
+      "optionsLang": "en",
+      "eng": "Pasta is rich in carbohydrates.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq040",
+      "category": "Food Categories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es un condimento?",
+      "options": [
+        "Salt and pepper",
+        "Chicken",
+        "Apple"
+      ],
+      "correctAnswer": "Salt and pepper",
+      "emoji": "🧂",
+      "spa": "La sal y la pimienta son condimentos.",
+      "optionsLang": "en",
+      "eng": "Salt and pepper are condiments.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq041",
+      "category": "Food Wheel",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿En qué grupo colocarías pasta?",
+      "options": [
+        "Carbohydrates",
+        "Dairy",
+        "Fruit"
+      ],
+      "correctAnswer": "Carbohydrates",
+      "emoji": "🍝",
+      "spa": "La pasta pertenece al grupo de carbohidratos.",
+      "optionsLang": "en",
+      "eng": "Pasta belongs to carbohydrates.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq042",
+      "category": "Food Wheel",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿En qué grupo colocarías milk?",
+      "options": [
+        "Dairy",
+        "Vegetables",
+        "Meat and fish"
+      ],
+      "correctAnswer": "Dairy",
+      "emoji": "🥛",
+      "spa": "La leche pertenece a los lácteos.",
+      "optionsLang": "en",
+      "eng": "Milk belongs to dairy.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq043",
+      "category": "Food Wheel",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿En qué grupo colocarías lettuce?",
+      "options": [
+        "Vegetables",
+        "Drinks",
+        "Dairy"
+      ],
+      "correctAnswer": "Vegetables",
+      "emoji": "🥬",
+      "spa": "La lechuga pertenece a las verduras.",
+      "optionsLang": "en",
+      "eng": "Lettuce belongs to vegetables.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq044",
+      "category": "Food Wheel",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿En qué grupo colocarías orange?",
+      "options": [
+        "Fruit",
+        "Meat and fish",
+        "Condiments"
+      ],
+      "correctAnswer": "Fruit",
+      "emoji": "🍊",
+      "spa": "La naranja pertenece a las frutas.",
+      "optionsLang": "en",
+      "eng": "Orange belongs to fruit.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq045",
+      "category": "Food Wheel",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿En qué grupo colocarías salmon?",
+      "options": [
+        "Meat and fish",
+        "Dairy",
+        "Carbohydrates"
+      ],
+      "correctAnswer": "Meat and fish",
+      "emoji": "🐟",
+      "spa": "El salmón pertenece a carnes y pescados.",
+      "optionsLang": "en",
+      "eng": "Salmon belongs to meat and fish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq046",
+      "category": "Food Wheel",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿En qué grupo colocarías oil?",
+      "options": [
+        "Condiments",
+        "Fruit",
+        "Dairy"
+      ],
+      "correctAnswer": "Condiments",
+      "emoji": "🫒",
+      "spa": "El aceite puede clasificarse como condimento.",
+      "optionsLang": "en",
+      "eng": "Oil can be used as a condiment.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq047",
+      "category": "Food Wheel",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿En qué grupo colocarías water?",
+      "options": [
+        "Drinks",
+        "Carbohydrates",
+        "Meat and fish"
+      ],
+      "correctAnswer": "Drinks",
+      "emoji": "💧",
+      "spa": "El agua pertenece a las bebidas.",
+      "optionsLang": "en",
+      "eng": "Water belongs to drinks.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq048",
+      "category": "Menu Combinations",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige una combinación natural para un sandwich.",
+      "options": [
+        "chicken and tomato",
+        "milk and water",
+        "rice and juice"
+      ],
+      "correctAnswer": "chicken and tomato",
+      "emoji": "🥪",
+      "spa": "Pollo y tomate es una combinación natural para un sándwich.",
+      "optionsLang": "en",
+      "eng": "Chicken and tomato is a natural sandwich combination.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq049",
+      "category": "Menu Combinations",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige una combinación natural para una pizza.",
+      "options": [
+        "cheese and mushroom",
+        "water and milk",
+        "apple and juice only"
+      ],
+      "correctAnswer": "cheese and mushroom",
+      "emoji": "🍕",
+      "spa": "Queso y champiñón es una combinación natural para una pizza.",
+      "optionsLang": "en",
+      "eng": "Cheese and mushroom is a natural pizza combination.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq050",
+      "category": "Menu Combinations",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige una combinación natural para pasta.",
+      "options": [
+        "tomato and cheese",
+        "fruit juice and milk",
+        "egg and water only"
+      ],
+      "correctAnswer": "tomato and cheese",
+      "emoji": "🍝",
+      "spa": "Tomate y queso es una combinación natural para pasta.",
+      "optionsLang": "en",
+      "eng": "Tomato and cheese is a natural pasta combination.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq051",
+      "category": "Menu Combinations",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige una combinación natural para una salad.",
+      "options": [
+        "lettuce and tomato",
+        "milk and cheese only",
+        "rice and water"
+      ],
+      "correctAnswer": "lettuce and tomato",
+      "emoji": "🥗",
+      "spa": "Lechuga y tomate es una combinación natural para una ensalada.",
+      "optionsLang": "en",
+      "eng": "Lettuce and tomato is a natural salad combination.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq052",
+      "category": "Pronunciation - Food Words",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué palabra tiene un sonido vocálico parecido a /æ/ en inglés británico?",
+      "options": [
+        "sandwich",
+        "water",
+        "cheese"
+      ],
+      "correctAnswer": "sandwich",
+      "emoji": "🗣️",
+      "spa": "Sandwich contiene el sonido objetivo de la práctica.",
+      "optionsLang": "en",
+      "eng": "Sandwich contains the target vowel sound.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq053",
+      "category": "Pronunciation - Food Words",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué palabra suele tener el sonido /ʌ/ en inglés británico?",
+      "options": [
+        "mushroom",
+        "cheese",
+        "peas"
+      ],
+      "correctAnswer": "mushroom",
+      "emoji": "🗣️",
+      "spa": "Mushroom contiene el sonido /ʌ/ en su primera sílaba.",
+      "optionsLang": "en",
+      "eng": "Mushroom contains /ʌ/ in its first syllable.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq054",
+      "category": "Pronunciation - Food Words",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué palabra comienza con un sonido consonántico /tʃ/?",
+      "options": [
+        "chicken",
+        "salmon",
+        "rice"
+      ],
+      "correctAnswer": "chicken",
+      "emoji": "🗣️",
+      "spa": "Chicken comienza con /tʃ/.",
+      "optionsLang": "en",
+      "eng": "Chicken begins with /tʃ/.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq055",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I ___ cook.",
+      "options": [
+        "don't",
+        "doesn't",
+        "not"
+      ],
+      "correctAnswer": "don't",
+      "emoji": "👩‍🍳",
+      "spa": "No cocino.",
+      "optionsLang": "en",
+      "eng": "I don't cook.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq056",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: You ___ eat fish.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "correctAnswer": "don't",
+      "emoji": "🐟",
+      "spa": "No comes pescado.",
+      "optionsLang": "en",
+      "eng": "You don't eat fish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq057",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: He ___ cook.",
+      "options": [
+        "doesn't",
+        "don't",
+        "isn't"
+      ],
+      "correctAnswer": "doesn't",
+      "emoji": "👨‍🍳",
+      "spa": "Él no cocina.",
+      "optionsLang": "en",
+      "eng": "He doesn't cook.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq058",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: She ___ like mushrooms.",
+      "options": [
+        "doesn't",
+        "don't",
+        "aren't"
+      ],
+      "correctAnswer": "doesn't",
+      "emoji": "🍄",
+      "spa": "A ella no le gustan los hongos.",
+      "optionsLang": "en",
+      "eng": "She doesn't like mushrooms.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq059",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: We ___ eat meat.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "correctAnswer": "don't",
+      "emoji": "🥩",
+      "spa": "No comemos carne.",
+      "optionsLang": "en",
+      "eng": "We don't eat meat.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq060",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: They ___ drink milk.",
+      "options": [
+        "don't",
+        "doesn't",
+        "aren't"
+      ],
+      "correctAnswer": "don't",
+      "emoji": "🥛",
+      "spa": "No toman leche.",
+      "optionsLang": "en",
+      "eng": "They don't drink milk.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq061",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My brother ___ like tuna.",
+      "options": [
+        "doesn't",
+        "don't",
+        "isn't"
+      ],
+      "correctAnswer": "doesn't",
+      "emoji": "🐟",
+      "spa": "A mi hermano no le gusta el atún.",
+      "optionsLang": "en",
+      "eng": "My brother doesn't like tuna.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq062",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My parents ___ eat junk food.",
+      "options": [
+        "don't",
+        "doesn't",
+        "aren't"
+      ],
+      "correctAnswer": "don't",
+      "emoji": "🍟",
+      "spa": "Mis padres no comen comida chatarra.",
+      "optionsLang": "en",
+      "eng": "My parents don't eat junk food.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq063",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: The school cook ___ make pizza every day.",
+      "options": [
+        "doesn't",
+        "don't",
+        "isn't"
+      ],
+      "correctAnswer": "doesn't",
+      "emoji": "🍕",
+      "spa": "El cocinero escolar no prepara pizza todos los días.",
+      "optionsLang": "en",
+      "eng": "The school cook doesn't make pizza every day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq064",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la estructura correcta.",
+      "options": [
+        "She doesn't eat fish.",
+        "She don't eat fish.",
+        "She doesn't eats fish."
+      ],
+      "correctAnswer": "She doesn't eat fish.",
+      "emoji": "🐟",
+      "spa": "Ella no come pescado.",
+      "optionsLang": "en",
+      "eng": "She doesn't eat fish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq065",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la estructura correcta.",
+      "options": [
+        "They don't drink coffee.",
+        "They doesn't drink coffee.",
+        "They don't drinks coffee."
+      ],
+      "correctAnswer": "They don't drink coffee.",
+      "emoji": "☕",
+      "spa": "Ellos no toman café.",
+      "optionsLang": "en",
+      "eng": "They don't drink coffee.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq066",
+      "category": "Present Simple Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Después de doesn't, el verbo va en:",
+      "options": [
+        "base form",
+        "third person -s",
+        "past tense"
+      ],
+      "correctAnswer": "base form",
+      "emoji": "📘",
+      "spa": "Después de doesn't se usa la forma base del verbo.",
+      "optionsLang": "en",
+      "eng": "After doesn't, use the base form of the verb.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq067",
+      "category": "Present Simple Negative - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "I don't have breakfast in the hall.",
+        "I have don't breakfast in the hall.",
+        "Don't I breakfast have in the hall."
+      ],
+      "correctAnswer": "I don't have breakfast in the hall.",
+      "emoji": "🥣",
+      "spa": "No desayuno en el pasillo.",
+      "optionsLang": "en",
+      "eng": "I don't have breakfast in the hall.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq068",
+      "category": "Present Simple Negative - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "My aunt and uncle don't eat beef.",
+        "My aunt and uncle doesn't beef eat.",
+        "Don't my aunt beef and uncle eat."
+      ],
+      "correctAnswer": "My aunt and uncle don't eat beef.",
+      "emoji": "🥩",
+      "spa": "Mi tía y mi tío no comen carne de vaca.",
+      "optionsLang": "en",
+      "eng": "My aunt and uncle don't eat beef.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq069",
+      "category": "Present Simple Negative - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "Cats don't drink fruit juice.",
+        "Cats doesn't fruit juice drink.",
+        "Don't cats fruit juice."
+      ],
+      "correctAnswer": "Cats don't drink fruit juice.",
+      "emoji": "🐈",
+      "spa": "Los gatos no toman jugo de frutas.",
+      "optionsLang": "en",
+      "eng": "Cats don't drink fruit juice.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq070",
+      "category": "Present Simple Negative - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "This café doesn't open on Sundays.",
+        "This café don't opens on Sundays.",
+        "Doesn't this café on Sundays open."
+      ],
+      "correctAnswer": "This café doesn't open on Sundays.",
+      "emoji": "☕",
+      "spa": "Este café no abre los domingos.",
+      "optionsLang": "en",
+      "eng": "This café doesn't open on Sundays.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq071",
+      "category": "Present Simple Negative - Workbook Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa con la forma negativa de 'like': Maria ___ peas.",
+      "options": [
+        "doesn't like",
+        "don't like",
+        "doesn't likes"
+      ],
+      "correctAnswer": "doesn't like",
+      "emoji": "🫛",
+      "spa": "A Maria no le gustan las arvejas.",
+      "optionsLang": "en",
+      "eng": "Maria doesn't like peas.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq072",
+      "category": "Present Simple Negative - Workbook Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa con la forma negativa de 'get up': My parents ___ early.",
+      "options": [
+        "don't get up",
+        "doesn't get up",
+        "don't gets up"
+      ],
+      "correctAnswer": "don't get up",
+      "emoji": "🌅",
+      "spa": "Mis padres no se levantan temprano.",
+      "optionsLang": "en",
+      "eng": "My parents don't get up early.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq073",
+      "category": "Present Simple Negative - Workbook Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa con la forma negativa de 'want': We ___ to go shopping.",
+      "options": [
+        "don't want",
+        "doesn't want",
+        "aren't want"
+      ],
+      "correctAnswer": "don't want",
+      "emoji": "🛒",
+      "spa": "No queremos ir de compras.",
+      "optionsLang": "en",
+      "eng": "We don't want to go shopping.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq074",
+      "category": "Present Simple Negative - Workbook Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa con la forma negativa de 'cook': Alice ___.",
+      "options": [
+        "doesn't cook",
+        "don't cook",
+        "doesn't cooks"
+      ],
+      "correctAnswer": "doesn't cook",
+      "emoji": "👩‍🍳",
+      "spa": "Alice no cocina.",
+      "optionsLang": "en",
+      "eng": "Alice doesn't cook.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq075",
+      "category": "Present Simple Negative - Workbook Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa con la forma negativa de 'eat': You ___ onions.",
+      "options": [
+        "don't eat",
+        "doesn't eat",
+        "don't eats"
+      ],
+      "correctAnswer": "don't eat",
+      "emoji": "🧅",
+      "spa": "No comes cebollas.",
+      "optionsLang": "en",
+      "eng": "You don't eat onions.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq076",
+      "category": "Present Simple Negative - Workbook Practice",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa con la forma negativa de 'play': Harry ___ computer games.",
+      "options": [
+        "doesn't play",
+        "don't play",
+        "doesn't plays"
+      ],
+      "correctAnswer": "doesn't play",
+      "emoji": "🎮",
+      "spa": "Harry no juega videojuegos.",
+      "optionsLang": "en",
+      "eng": "Harry doesn't play computer games.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq077",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ I cook?",
+      "options": [
+        "Do",
+        "Does",
+        "Am"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "👩‍🍳",
+      "spa": "¿Cocino?",
+      "optionsLang": "en",
+      "eng": "Do I cook?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq078",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ you eat meat?",
+      "options": [
+        "Do",
+        "Does",
+        "Is"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "🥩",
+      "spa": "¿Comes carne?",
+      "optionsLang": "en",
+      "eng": "Do you eat meat?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq079",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ he cook?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "correctAnswer": "Does",
+      "emoji": "👨‍🍳",
+      "spa": "¿Él cocina?",
+      "optionsLang": "en",
+      "eng": "Does he cook?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq080",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ she like fish?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "correctAnswer": "Does",
+      "emoji": "🐟",
+      "spa": "¿A ella le gusta el pescado?",
+      "optionsLang": "en",
+      "eng": "Does she like fish?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq081",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ we cook?",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "🍳",
+      "spa": "¿Cocinamos?",
+      "optionsLang": "en",
+      "eng": "Do we cook?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq082",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ they cook?",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "👩‍🍳",
+      "spa": "¿Ellos cocinan?",
+      "optionsLang": "en",
+      "eng": "Do they cook?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq083",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta: Do you cook?",
+      "options": [
+        "Yes, I do.",
+        "Yes, I does.",
+        "Yes, I am."
+      ],
+      "correctAnswer": "Yes, I do.",
+      "emoji": "✅",
+      "spa": "Sí.",
+      "optionsLang": "en",
+      "eng": "Yes, I do.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq084",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta negativa: Do you eat fish?",
+      "options": [
+        "No, I don't.",
+        "No, I doesn't.",
+        "No, I am not."
+      ],
+      "correctAnswer": "No, I don't.",
+      "emoji": "❌",
+      "spa": "No.",
+      "optionsLang": "en",
+      "eng": "No, I don't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq085",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta: Does he cook?",
+      "options": [
+        "Yes, he does.",
+        "Yes, he do.",
+        "Yes, he is."
+      ],
+      "correctAnswer": "Yes, he does.",
+      "emoji": "✅",
+      "spa": "Sí.",
+      "optionsLang": "en",
+      "eng": "Yes, he does.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq086",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta negativa: Does she like onions?",
+      "options": [
+        "No, she doesn't.",
+        "No, she don't.",
+        "No, she isn't."
+      ],
+      "correctAnswer": "No, she doesn't.",
+      "emoji": "🧅",
+      "spa": "No.",
+      "optionsLang": "en",
+      "eng": "No, she doesn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq087",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta: Do they cook?",
+      "options": [
+        "Yes, they do.",
+        "Yes, they does.",
+        "Yes, they are."
+      ],
+      "correctAnswer": "Yes, they do.",
+      "emoji": "✅",
+      "spa": "Sí.",
+      "optionsLang": "en",
+      "eng": "Yes, they do.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq088",
+      "category": "Present Simple Questions and Short Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Después de Does he..., el verbo principal va en:",
+      "options": [
+        "base form",
+        "-s form",
+        "past tense"
+      ],
+      "correctAnswer": "base form",
+      "emoji": "📘",
+      "spa": "Después de does se usa el verbo en forma base.",
+      "optionsLang": "en",
+      "eng": "After does, use the base form.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq089",
+      "category": "Do or Does",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ your mum eat meat?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "correctAnswer": "Does",
+      "emoji": "👩",
+      "spa": "¿Tu mamá come carne?",
+      "optionsLang": "en",
+      "eng": "Does your mum eat meat?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq090",
+      "category": "Do or Does",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ you eat fish at school every day?",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "🐟",
+      "spa": "¿Comes pescado en la escuela todos los días?",
+      "optionsLang": "en",
+      "eng": "Do you eat fish at school every day?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq091",
+      "category": "Do or Does",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ Alex drink milk in the morning?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "correctAnswer": "Does",
+      "emoji": "🥛",
+      "spa": "¿Alex toma leche por la mañana?",
+      "optionsLang": "en",
+      "eng": "Does Alex drink milk in the morning?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq092",
+      "category": "Do or Does",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ your friends like school lunch?",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "🍱",
+      "spa": "¿A tus amigos les gusta el almuerzo escolar?",
+      "optionsLang": "en",
+      "eng": "Do your friends like school lunch?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq093",
+      "category": "Do or Does",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ Emma have a shower in the morning?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "correctAnswer": "Does",
+      "emoji": "🚿",
+      "spa": "¿Emma se ducha por la mañana?",
+      "optionsLang": "en",
+      "eng": "Does Emma have a shower in the morning?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq094",
+      "category": "Present Simple - Picture Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Question: Does he eat pasta? Picture clue: ✗",
+      "options": [
+        "No, he doesn't.",
+        "Yes, he does."
+      ],
+      "correctAnswer": "No, he doesn't.",
+      "emoji": "🍝",
+      "spa": "No, no come pasta.",
+      "optionsLang": "en",
+      "eng": "Does he eat pasta? No, he doesn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq095",
+      "category": "Present Simple - Picture Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Question: Do they play computer games? Picture clue: ✗",
+      "options": [
+        "No, they don't.",
+        "Yes, they do."
+      ],
+      "correctAnswer": "No, they don't.",
+      "emoji": "🎮",
+      "spa": "No, no juegan videojuegos.",
+      "optionsLang": "en",
+      "eng": "Do they play computer games? No, they don't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq096",
+      "category": "Present Simple - Picture Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Question: Do they have eggs for breakfast? Picture clue: ✓",
+      "options": [
+        "Yes, they do.",
+        "No, they don't."
+      ],
+      "correctAnswer": "Yes, they do.",
+      "emoji": "🥚",
+      "spa": "Sí, comen huevos en el desayuno.",
+      "optionsLang": "en",
+      "eng": "Do they have eggs for breakfast? Yes, they do.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq097",
+      "category": "Present Simple - Picture Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Question: Does he leave home at nine o'clock? Picture clue: ✓",
+      "options": [
+        "Yes, he does.",
+        "No, he doesn't."
+      ],
+      "correctAnswer": "Yes, he does.",
+      "emoji": "🏠",
+      "spa": "Sí, sale de casa a las nueve.",
+      "optionsLang": "en",
+      "eng": "Does he leave home at nine o'clock? Yes, he does.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq098",
+      "category": "Present Simple Questions - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la pregunta correcta.",
+      "options": [
+        "What do you do at the weekend?",
+        "What you do at weekend do?",
+        "Do what weekend you?"
+      ],
+      "correctAnswer": "What do you do at the weekend?",
+      "emoji": "📅",
+      "spa": "¿Qué haces el fin de semana?",
+      "optionsLang": "en",
+      "eng": "What do you do at the weekend?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq099",
+      "category": "Present Simple Questions - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la pregunta correcta.",
+      "options": [
+        "When do you play football?",
+        "When you do football play?",
+        "Do when football you play?"
+      ],
+      "correctAnswer": "When do you play football?",
+      "emoji": "⚽",
+      "spa": "¿Cuándo juegas al fútbol?",
+      "optionsLang": "en",
+      "eng": "When do you play football?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq100",
+      "category": "Present Simple Questions - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la pregunta correcta.",
+      "options": [
+        "Where do you go to school?",
+        "Where you do school go?",
+        "Do where school you?"
+      ],
+      "correctAnswer": "Where do you go to school?",
+      "emoji": "🏫",
+      "spa": "¿Dónde vas a la escuela?",
+      "optionsLang": "en",
+      "eng": "Where do you go to school?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq101",
+      "category": "Present Simple Questions - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la pregunta correcta.",
+      "options": [
+        "When does your mum get home?",
+        "When do your mum gets home?",
+        "When your mum does home get?"
+      ],
+      "correctAnswer": "When does your mum get home?",
+      "emoji": "🏠",
+      "spa": "¿Cuándo llega tu mamá a casa?",
+      "optionsLang": "en",
+      "eng": "When does your mum get home?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq102",
+      "category": "Present Simple Questions - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la pregunta correcta.",
+      "options": [
+        "What does your horse eat?",
+        "What do your horse eats?",
+        "Does what horse your eat?"
+      ],
+      "correctAnswer": "What does your horse eat?",
+      "emoji": "🐎",
+      "spa": "¿Qué come tu caballo?",
+      "optionsLang": "en",
+      "eng": "What does your horse eat?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq103",
+      "category": "Present Simple Questions - Word Order",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige la pregunta correcta.",
+      "options": [
+        "Why do we drink water?",
+        "Why we do water drink?",
+        "Do why water we?"
+      ],
+      "correctAnswer": "Why do we drink water?",
+      "emoji": "💧",
+      "spa": "¿Por qué tomamos agua?",
+      "optionsLang": "en",
+      "eng": "Why do we drink water?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq104",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "How often do you cook? ___",
+      "options": [
+        "Every day.",
+        "In the kitchen.",
+        "At six o'clock."
+      ],
+      "correctAnswer": "Every day.",
+      "emoji": "📅",
+      "spa": "¿Con qué frecuencia cocinas? Todos los días.",
+      "optionsLang": "en",
+      "eng": "How often do you cook? Every day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq105",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "How often do you eat takeaway food? ___",
+      "options": [
+        "Once a month.",
+        "At home.",
+        "A pizza."
+      ],
+      "correctAnswer": "Once a month.",
+      "emoji": "1️⃣",
+      "spa": "¿Con qué frecuencia comes comida para llevar? Una vez al mes.",
+      "optionsLang": "en",
+      "eng": "How often do you eat takeaway food? Once a month.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq106",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "How often do you play football? ___",
+      "options": [
+        "Three times a week.",
+        "On the table.",
+        "Rice."
+      ],
+      "correctAnswer": "Three times a week.",
+      "emoji": "3️⃣",
+      "spa": "¿Con qué frecuencia juegas al fútbol? Tres veces por semana.",
+      "optionsLang": "en",
+      "eng": "How often do you play football? Three times a week.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq107",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "How often do you travel abroad? ___",
+      "options": [
+        "Twice a year.",
+        "A salad.",
+        "In the morning."
+      ],
+      "correctAnswer": "Twice a year.",
+      "emoji": "2️⃣",
+      "spa": "¿Con qué frecuencia viajas al extranjero? Dos veces al año.",
+      "optionsLang": "en",
+      "eng": "How often do you travel abroad? Twice a year.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq108",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Qué pregunta pide frecuencia?",
+      "options": [
+        "How often...?",
+        "Where...?",
+        "Who...?"
+      ],
+      "correctAnswer": "How often...?",
+      "emoji": "🔁",
+      "spa": "How often pregunta con qué frecuencia.",
+      "optionsLang": "en",
+      "eng": "How often asks about frequency.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq109",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Qué significa 'once a month'?",
+      "options": [
+        "Una vez al mes",
+        "Dos veces por semana",
+        "Todos los días"
+      ],
+      "correctAnswer": "Una vez al mes",
+      "emoji": "1️⃣",
+      "spa": "Una vez al mes",
+      "optionsLang": "en",
+      "eng": "Once a month",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq110",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Qué significa 'three times a week'?",
+      "options": [
+        "Tres veces por semana",
+        "Tres veces al mes",
+        "Una vez por año"
+      ],
+      "correctAnswer": "Tres veces por semana",
+      "emoji": "3️⃣",
+      "spa": "Tres veces por semana",
+      "optionsLang": "en",
+      "eng": "Three times a week",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq111",
+      "category": "Expressions of Frequency",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Qué significa 'twice a year'?",
+      "options": [
+        "Dos veces al año",
+        "Dos veces por día",
+        "Una vez por semana"
+      ],
+      "correctAnswer": "Dos veces al año",
+      "emoji": "2️⃣",
+      "spa": "Dos veces al año",
+      "optionsLang": "en",
+      "eng": "Twice a year",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq112",
+      "category": "Question Words and Frequency",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Luke eats pizza every day. ¿Qué pregunta corresponde?",
+      "options": [
+        "How often does Luke eat pizza?",
+        "Where does Luke eat pizza?",
+        "Who is pizza?"
+      ],
+      "correctAnswer": "How often does Luke eat pizza?",
+      "emoji": "🍕",
+      "spa": "¿Con qué frecuencia Luke come pizza?",
+      "optionsLang": "en",
+      "eng": "How often does Luke eat pizza?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq113",
+      "category": "Question Words and Frequency",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Joe and Sam do their homework in the bedroom. ¿Qué pregunta corresponde?",
+      "options": [
+        "Where do Joe and Sam do their homework?",
+        "How often do they eat?",
+        "Who is homework?"
+      ],
+      "correctAnswer": "Where do Joe and Sam do their homework?",
+      "emoji": "📝",
+      "spa": "¿Dónde hacen la tarea Joe y Sam?",
+      "optionsLang": "en",
+      "eng": "Where do Joe and Sam do their homework?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq114",
+      "category": "Question Words and Frequency",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Sarah and Eliza go for a bike ride at the weekend. ¿Qué pregunta corresponde?",
+      "options": [
+        "When do Sarah and Eliza go for a bike ride?",
+        "What food do they eat?",
+        "How many tomatoes?"
+      ],
+      "correctAnswer": "When do Sarah and Eliza go for a bike ride?",
+      "emoji": "🚲",
+      "spa": "¿Cuándo salen en bicicleta Sarah y Eliza?",
+      "optionsLang": "en",
+      "eng": "When do Sarah and Eliza go for a bike ride?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq115",
+      "category": "Question Words and Frequency",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "I have bread and orange juice for breakfast. ¿Qué pregunta corresponde?",
+      "options": [
+        "What do you have for breakfast?",
+        "Where is your school?",
+        "How old is bread?"
+      ],
+      "correctAnswer": "What do you have for breakfast?",
+      "emoji": "🍞",
+      "spa": "¿Qué desayunas?",
+      "optionsLang": "en",
+      "eng": "What do you have for breakfast?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq116",
+      "category": "Asking about Habits",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta para saber qué come alguien en el almuerzo.",
+      "options": [
+        "What do you usually eat for lunch?",
+        "Where is lunch?",
+        "How old is your lunch?"
+      ],
+      "correctAnswer": "What do you usually eat for lunch?",
+      "emoji": "🍱",
+      "spa": "¿Qué comes normalmente en el almuerzo?",
+      "optionsLang": "en",
+      "eng": "What do you usually eat for lunch?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq117",
+      "category": "Asking about Habits",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta para saber cuándo prepara el almuerzo.",
+      "options": [
+        "When do you make your packed lunch?",
+        "What lunch is your?",
+        "Do packed when lunch?"
+      ],
+      "correctAnswer": "When do you make your packed lunch?",
+      "emoji": "🍱",
+      "spa": "¿Cuándo preparas tu almuerzo para llevar?",
+      "optionsLang": "en",
+      "eng": "When do you make your packed lunch?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq118",
+      "category": "Asking about Habits",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Pregunta para saber la hora de levantarse.",
+      "options": [
+        "What time do you get up?",
+        "How often is time?",
+        "Where time do?"
+      ],
+      "correctAnswer": "What time do you get up?",
+      "emoji": "⏰",
+      "spa": "¿A qué hora te levantas?",
+      "optionsLang": "en",
+      "eng": "What time do you get up?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq119",
+      "category": "Asking about Habits",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta natural: What do you usually eat for lunch?",
+      "options": [
+        "A salad.",
+        "Twice a week.",
+        "At six o'clock."
+      ],
+      "correctAnswer": "A salad.",
+      "emoji": "🥗",
+      "spa": "Una ensalada.",
+      "optionsLang": "en",
+      "eng": "A salad.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq120",
+      "category": "Asking about Habits",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta natural: When do you make your packed lunch?",
+      "options": [
+        "In the morning.",
+        "A burger.",
+        "Three times a week."
+      ],
+      "correctAnswer": "In the morning.",
+      "emoji": "🌅",
+      "spa": "Por la mañana.",
+      "optionsLang": "en",
+      "eng": "In the morning.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq121",
+      "category": "Asking about Habits",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta natural: What time do you get up?",
+      "options": [
+        "At 6.00.",
+        "A sandwich.",
+        "Every day food."
+      ],
+      "correctAnswer": "At 6.00.",
+      "emoji": "🕕",
+      "spa": "A las seis.",
+      "optionsLang": "en",
+      "eng": "At 6.00.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq122",
+      "category": "Asking about Habits",
+      "type": "quiz",
+      "skill": "Functions",
+      "question": "Respuesta natural: How often do you have a burger for lunch?",
+      "options": [
+        "Twice a week.",
+        "A burger.",
+        "In my bag."
+      ],
+      "correctAnswer": "Twice a week.",
+      "emoji": "🍔",
+      "spa": "Dos veces por semana.",
+      "optionsLang": "en",
+      "eng": "Twice a week.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq123",
+      "category": "Food and Drink - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: A sandwich ___ cheese and tomato.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "correctAnswer": "has",
+      "emoji": "🥪",
+      "spa": "Un sándwich tiene queso y tomate.",
+      "optionsLang": "en",
+      "eng": "A sandwich has cheese and tomato.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq124",
+      "category": "Food and Drink - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: French fries need ___ and pepper.",
+      "options": [
+        "salt",
+        "milk",
+        "grapes"
+      ],
+      "correctAnswer": "salt",
+      "emoji": "🍟",
+      "spa": "Las papas fritas llevan sal y pimienta.",
+      "optionsLang": "en",
+      "eng": "French fries need salt and pepper.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq125",
+      "category": "Food and Drink - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: A milk shake can have milk and ___.",
+      "options": [
+        "strawberry",
+        "onion",
+        "tuna"
+      ],
+      "correctAnswer": "strawberry",
+      "emoji": "🥤",
+      "spa": "Un batido puede tener leche y frutilla.",
+      "optionsLang": "en",
+      "eng": "A milk shake can have milk and strawberry.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq126",
+      "category": "Food and Drink - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es una bebida?",
+      "options": [
+        "Fruit juice",
+        "Lettuce",
+        "Mushroom"
+      ],
+      "correctAnswer": "Fruit juice",
+      "emoji": "🧃",
+      "spa": "El jugo de frutas es una bebida.",
+      "optionsLang": "en",
+      "eng": "Fruit juice is a drink.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq127",
+      "category": "Food and Drink - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es un alimento?",
+      "options": [
+        "Cheese",
+        "Water",
+        "Fruit juice"
+      ],
+      "correctAnswer": "Cheese",
+      "emoji": "🧀",
+      "spa": "El queso es un alimento.",
+      "optionsLang": "en",
+      "eng": "Cheese is food.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq128",
+      "category": "Food and Drink - Workbook Practice",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Completa: People usually ___ breakfast in the morning.",
+      "options": [
+        "have",
+        "has",
+        "having"
+      ],
+      "correctAnswer": "have",
+      "emoji": "🥣",
+      "spa": "La gente normalmente desayuna por la mañana.",
+      "optionsLang": "en",
+      "eng": "People usually have breakfast in the morning.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq129",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Según el texto cultural, el takeaway food en Gran Bretaña es:",
+      "options": [
+        "popular",
+        "unknown",
+        "illegal"
+      ],
+      "correctAnswer": "popular",
+      "emoji": "🥡",
+      "spa": "La comida para llevar es popular.",
+      "optionsLang": "en",
+      "eng": "Takeaway food is popular in Britain.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq130",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué tipo de restaurantes se mencionan como comunes?",
+      "options": [
+        "Indian, Chinese and Italian",
+        "only British",
+        "only Mexican"
+      ],
+      "correctAnswer": "Indian, Chinese and Italian",
+      "emoji": "🌍",
+      "spa": "Se mencionan restaurantes indios, chinos e italianos.",
+      "optionsLang": "en",
+      "eng": "Indian, Chinese and Italian restaurants are common.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq131",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué idea corrige el texto sobre chop suey?",
+      "options": [
+        "It isn't originally Chinese in the way many people think.",
+        "It is always a traditional Beijing dish.",
+        "It is a British dessert."
+      ],
+      "correctAnswer": "It isn't originally Chinese in the way many people think.",
+      "emoji": "🥡",
+      "spa": "El texto cuestiona la idea de que el chop suey sea un plato chino tradicional.",
+      "optionsLang": "en",
+      "eng": "The text questions the idea that chop suey is a traditional Chinese dish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq132",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué idea corrige el texto sobre spaghetti bolognese?",
+      "options": [
+        "It is not a typical dish from Bologna in the form popular in Britain.",
+        "It is the national dish of Scotland.",
+        "It is a drink."
+      ],
+      "correctAnswer": "It is not a typical dish from Bologna in the form popular in Britain.",
+      "emoji": "🍝",
+      "spa": "El texto explica que el spaghetti bolognese británico no coincide con un plato típico boloñés.",
+      "optionsLang": "en",
+      "eng": "British spaghetti bolognese is not a typical Bologna dish in that form.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq133",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué explica el texto sobre curry?",
+      "options": [
+        "Curry is a broad British term for many dishes with sauce.",
+        "Curry is one exact Indian recipe only.",
+        "Curry means bread."
+      ],
+      "correctAnswer": "Curry is a broad British term for many dishes with sauce.",
+      "emoji": "🍛",
+      "spa": "El texto explica que curry es un término amplio para distintos platos con salsa.",
+      "optionsLang": "en",
+      "eng": "Curry is a broad term for different dishes with sauce.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq134",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuál es una comida takeaway?",
+      "options": [
+        "A meal you buy and eat away from the restaurant",
+        "A school subject",
+        "A bedroom"
+      ],
+      "correctAnswer": "A meal you buy and eat away from the restaurant",
+      "emoji": "🥡",
+      "spa": "Una comida que compras para llevar.",
+      "optionsLang": "en",
+      "eng": "Takeaway food is food you buy to eat elsewhere.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq135",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa leftovers?",
+      "options": [
+        "Food that remains after a meal",
+        "A type of animal",
+        "A drink"
+      ],
+      "correctAnswer": "Food that remains after a meal",
+      "emoji": "♻️",
+      "spa": "Comida que sobra después de una comida.",
+      "optionsLang": "en",
+      "eng": "Leftovers are food that remains after a meal.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq136",
+      "category": "Culture and Skills - Britain's Favourite Food",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa ingredient?",
+      "options": [
+        "One item used to make a dish",
+        "A restaurant customer",
+        "A school bag"
+      ],
+      "correctAnswer": "One item used to make a dish",
+      "emoji": "🥕",
+      "spa": "Un ingrediente es un elemento usado para preparar un plato.",
+      "optionsLang": "en",
+      "eng": "An ingredient is one item used to make a dish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq137",
+      "category": "Writing - Favourite Dish",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Para describir un plato, ¿qué información es útil?",
+      "options": [
+        "name, ingredients, origin and opinion",
+        "only your age",
+        "only the time"
+      ],
+      "correctAnswer": "name, ingredients, origin and opinion",
+      "emoji": "✍️",
+      "spa": "Nombre, ingredientes, origen y opinión.",
+      "optionsLang": "en",
+      "eng": "A food description can include name, ingredients, origin and opinion.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq138",
+      "category": "Writing - Favourite Dish",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: It's a dish ___ flour, eggs and milk.",
+      "options": [
+        "with",
+        "at",
+        "under"
+      ],
+      "correctAnswer": "with",
+      "emoji": "🥞",
+      "spa": "Es un plato con harina, huevos y leche.",
+      "optionsLang": "en",
+      "eng": "It's a dish with flour, eggs and milk.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq139",
+      "category": "Writing - Favourite Dish",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: It's ___ Argentina.",
+      "options": [
+        "from",
+        "under",
+        "between"
+      ],
+      "correctAnswer": "from",
+      "emoji": "🇦🇷",
+      "spa": "Es de Argentina.",
+      "optionsLang": "en",
+      "eng": "It's from Argentina.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq140",
+      "category": "Writing - Favourite Dish",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Completa: It ___ really delicious.",
+      "options": [
+        "is",
+        "are",
+        "do"
+      ],
+      "correctAnswer": "is",
+      "emoji": "😋",
+      "spa": "Es realmente delicioso.",
+      "optionsLang": "en",
+      "eng": "It is really delicious.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq141",
+      "category": "Writing - Favourite Dish",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige una opinión adecuada para comida.",
+      "options": [
+        "I love it.",
+        "It's in the wardrobe.",
+        "It is twelve o'clock."
+      ],
+      "correctAnswer": "I love it.",
+      "emoji": "❤️",
+      "spa": "Me encanta.",
+      "optionsLang": "en",
+      "eng": "I love it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq142",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué tipo de animal es un delfín?",
+      "options": [
+        "mammal",
+        "reptile",
+        "plant"
+      ],
+      "correctAnswer": "mammal",
+      "emoji": "🐬",
+      "spa": "El delfín es un mamífero.",
+      "optionsLang": "en",
+      "eng": "A dolphin is a mammal.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq143",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué tipo de animal es un cocodrilo?",
+      "options": [
+        "reptile",
+        "mammal",
+        "fish school"
+      ],
+      "correctAnswer": "reptile",
+      "emoji": "🐊",
+      "spa": "El cocodrilo es un reptil.",
+      "optionsLang": "en",
+      "eng": "A crocodile is a reptile.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq144",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué animal es gigantesco?",
+      "options": [
+        "blue whale",
+        "mouse",
+        "hamster"
+      ],
+      "correctAnswer": "blue whale",
+      "emoji": "🐋",
+      "spa": "La ballena azul es gigantesca.",
+      "optionsLang": "en",
+      "eng": "A blue whale is gigantic.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq145",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cómo se llama un grupo de delfines?",
+      "options": [
+        "pod",
+        "school of desks",
+        "pack lunch"
+      ],
+      "correctAnswer": "pod",
+      "emoji": "🐬",
+      "spa": "Un grupo de delfines puede llamarse pod.",
+      "optionsLang": "en",
+      "eng": "A group of dolphins is called a pod.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq146",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cómo se llama un grupo de peces?",
+      "options": [
+        "school of fish",
+        "pod of tables",
+        "team of fruit"
+      ],
+      "correctAnswer": "school of fish",
+      "emoji": "🐟",
+      "spa": "Un grupo de peces es un cardumen.",
+      "optionsLang": "en",
+      "eng": "A group of fish is a school of fish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq147",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué es un predator?",
+      "options": [
+        "An animal that hunts other animals",
+        "An animal's breakfast table",
+        "A type of drink"
+      ],
+      "correctAnswer": "An animal that hunts other animals",
+      "emoji": "🦈",
+      "spa": "Un depredador caza otros animales.",
+      "optionsLang": "en",
+      "eng": "A predator hunts other animals.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq148",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué es prey?",
+      "options": [
+        "An animal hunted by another animal",
+        "A reusable bag",
+        "A food shop"
+      ],
+      "correctAnswer": "An animal hunted by another animal",
+      "emoji": "🐟",
+      "spa": "Una presa es un animal cazado por otro.",
+      "optionsLang": "en",
+      "eng": "Prey is an animal hunted by another animal.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq149",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa in danger?",
+      "options": [
+        "At risk",
+        "At breakfast",
+        "At school"
+      ],
+      "correctAnswer": "At risk",
+      "emoji": "⚠️",
+      "spa": "En riesgo / en peligro.",
+      "optionsLang": "en",
+      "eng": "In danger means at risk.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq150",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué problema ambiental menciona la unidad?",
+      "options": [
+        "plastic pollution",
+        "too many books",
+        "school uniforms"
+      ],
+      "correctAnswer": "plastic pollution",
+      "emoji": "🧴",
+      "spa": "Contaminación plástica.",
+      "optionsLang": "en",
+      "eng": "Plastic pollution.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq151",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué acción ayuda a reducir plástico?",
+      "options": [
+        "Use a reusable bag",
+        "Use more disposable bags",
+        "Throw plastic into the sea"
+      ],
+      "correctAnswer": "Use a reusable bag",
+      "emoji": "🛍️",
+      "spa": "Usar una bolsa reutilizable.",
+      "optionsLang": "en",
+      "eng": "Use a reusable bag.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq152",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Por qué algunos peces viven en grupos?",
+      "options": [
+        "For protection",
+        "To use laptops",
+        "To cook dinner"
+      ],
+      "correctAnswer": "For protection",
+      "emoji": "🐟",
+      "spa": "Vivir en grupos puede dar protección.",
+      "optionsLang": "en",
+      "eng": "Fish can live in groups for protection.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq153",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hacen algunos tiburones en vez de dormir como humanos?",
+      "options": [
+        "They rest while moving or keeping alert.",
+        "They cook dinner.",
+        "They live in classrooms."
+      ],
+      "correctAnswer": "They rest while moving or keeping alert.",
+      "emoji": "🦈",
+      "spa": "Algunos tiburones descansan manteniéndose activos o alertas.",
+      "optionsLang": "en",
+      "eng": "Some sharks rest while staying active or alert.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq154",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué usan los delfines para comunicarse?",
+      "options": [
+        "Sounds",
+        "Cookbooks",
+        "Furniture"
+      ],
+      "correctAnswer": "Sounds",
+      "emoji": "🐬",
+      "spa": "Los delfines se comunican mediante sonidos.",
+      "optionsLang": "en",
+      "eng": "Dolphins communicate with sounds.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq155",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa keep eyes open?",
+      "options": [
+        "Mantener los ojos abiertos",
+        "Cerrar los ojos",
+        "Comer rápido"
+      ],
+      "correctAnswer": "Mantener los ojos abiertos",
+      "emoji": "👀",
+      "spa": "Mantener los ojos abiertos",
+      "optionsLang": "en",
+      "eng": "Keep eyes open",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq156",
+      "category": "CLIL Biology - Animal Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué significa tear food apart?",
+      "options": [
+        "Desgarrar la comida",
+        "Cocinar arroz",
+        "Beber agua"
+      ],
+      "correctAnswer": "Desgarrar la comida",
+      "emoji": "🦷",
+      "spa": "Desgarrar la comida",
+      "optionsLang": "en",
+      "eng": "Tear food apart",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq157",
+      "category": "Sustainable Development - Food Waste",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué acción ayuda a evitar desperdicio?",
+      "options": [
+        "Freeze food you can't eat now",
+        "Throw good food away immediately",
+        "Buy much more than you need"
+      ],
+      "correctAnswer": "Freeze food you can't eat now",
+      "emoji": "❄️",
+      "spa": "Congelar comida que no puedes comer ahora ayuda a evitar desperdicio.",
+      "optionsLang": "en",
+      "eng": "Freeze food you can't eat now.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq158",
+      "category": "Sustainable Development - Food Waste",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué acción ayuda a evitar desperdicio?",
+      "options": [
+        "Give extra food to someone who can use it",
+        "Throw it away while fresh",
+        "Ignore leftovers"
+      ],
+      "correctAnswer": "Give extra food to someone who can use it",
+      "emoji": "🤝",
+      "spa": "Dar comida extra a quien pueda usarla ayuda a evitar desperdicio.",
+      "optionsLang": "en",
+      "eng": "Give extra food to someone who can use it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq159",
+      "category": "Sustainable Development - Food Waste",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué acción ayuda a evitar desperdicio?",
+      "options": [
+        "Try food before rejecting it",
+        "Throw away unopened food",
+        "Never check what you have"
+      ],
+      "correctAnswer": "Try food before rejecting it",
+      "emoji": "🍽️",
+      "spa": "Probar la comida antes de descartarla puede reducir desperdicio.",
+      "optionsLang": "en",
+      "eng": "Try food before rejecting it.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq160",
+      "category": "Sustainable Development - Food Waste",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué acción ayuda a evitar desperdicio?",
+      "options": [
+        "Use recipes for leftovers",
+        "Always cook too much",
+        "Throw leftovers away"
+      ],
+      "correctAnswer": "Use recipes for leftovers",
+      "emoji": "♻️",
+      "spa": "Usar recetas para aprovechar sobras reduce desperdicio.",
+      "optionsLang": "en",
+      "eng": "Use recipes for leftovers.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq161",
+      "category": "Sustainable Development - Food Waste",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué acción ayuda en un restaurante?",
+      "options": [
+        "Ask for a box for leftovers",
+        "Leave all extra food",
+        "Order too much on purpose"
+      ],
+      "correctAnswer": "Ask for a box for leftovers",
+      "emoji": "🥡",
+      "spa": "Pedir un recipiente para llevar las sobras puede evitar desperdicio.",
+      "optionsLang": "en",
+      "eng": "Ask for a box for leftovers.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq162",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Shopping list: lettuce belongs to ___.",
+      "options": [
+        "vegetables",
+        "drinks",
+        "dairy"
+      ],
+      "correctAnswer": "vegetables",
+      "emoji": "🥬",
+      "spa": "La lechuga es una verdura.",
+      "optionsLang": "en",
+      "eng": "Lettuce is a vegetable.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq163",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Shopping list: onion belongs to ___.",
+      "options": [
+        "vegetables",
+        "drinks",
+        "dairy"
+      ],
+      "correctAnswer": "vegetables",
+      "emoji": "🧅",
+      "spa": "La cebolla es una verdura.",
+      "optionsLang": "en",
+      "eng": "Onion is a vegetable.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq164",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Shopping list: milk belongs to ___.",
+      "options": [
+        "dairy",
+        "meat",
+        "fruit"
+      ],
+      "correctAnswer": "dairy",
+      "emoji": "🥛",
+      "spa": "La leche pertenece a los lácteos.",
+      "optionsLang": "en",
+      "eng": "Milk is dairy.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq165",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Shopping list: apple belongs to ___.",
+      "options": [
+        "fruit",
+        "meat",
+        "dairy"
+      ],
+      "correctAnswer": "fruit",
+      "emoji": "🍎",
+      "spa": "La manzana es una fruta.",
+      "optionsLang": "en",
+      "eng": "Apple is fruit.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq166",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Mr Barr ___ to school.",
+      "options": [
+        "goes",
+        "go",
+        "don't go"
+      ],
+      "correctAnswer": "goes",
+      "emoji": "🏫",
+      "spa": "El Sr. Barr va a la escuela.",
+      "optionsLang": "en",
+      "eng": "Mr Barr goes to school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq167",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa negativo: Mr Barr ___ TV.",
+      "options": [
+        "doesn't watch",
+        "don't watches",
+        "doesn't watches"
+      ],
+      "correctAnswer": "doesn't watch",
+      "emoji": "📺",
+      "spa": "El Sr. Barr no mira televisión.",
+      "optionsLang": "en",
+      "eng": "Mr Barr doesn't watch TV.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq168",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Pip ___ a bike.",
+      "options": [
+        "rides",
+        "ride",
+        "does ride not"
+      ],
+      "correctAnswer": "rides",
+      "emoji": "🚲",
+      "spa": "Pip anda en bicicleta.",
+      "optionsLang": "en",
+      "eng": "Pip rides a bike.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq169",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: Pip ___ a shower.",
+      "options": [
+        "has",
+        "have",
+        "don't have"
+      ],
+      "correctAnswer": "has",
+      "emoji": "🚿",
+      "spa": "Pip se ducha.",
+      "optionsLang": "en",
+      "eng": "Pip has a shower.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq170",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Entrevista: How often ___ your blog?",
+      "options": [
+        "do you write",
+        "does you write",
+        "you write do"
+      ],
+      "correctAnswer": "do you write",
+      "emoji": "💻",
+      "spa": "¿Con qué frecuencia escribes en tu blog?",
+      "optionsLang": "en",
+      "eng": "How often do you write your blog?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq171",
+      "category": "Fast Finishers - Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Entrevista: What ___ your husband ___ social media?",
+      "options": [
+        "does / use",
+        "do / uses",
+        "does / uses"
+      ],
+      "correctAnswer": "does / use",
+      "emoji": "📱",
+      "spa": "¿Qué redes sociales usa tu esposo?",
+      "optionsLang": "en",
+      "eng": "What social media does your husband use?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq172",
+      "category": "Fun Time - Healthy Lifestyle",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Healthy habit: How often do you eat junk food?",
+      "options": [
+        "Not very often",
+        "Every meal",
+        "All the time"
+      ],
+      "correctAnswer": "Not very often",
+      "emoji": "🍟",
+      "spa": "No muy seguido.",
+      "optionsLang": "en",
+      "eng": "Not very often.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq173",
+      "category": "Fun Time - Healthy Lifestyle",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Healthy habit: How often do you walk to school?",
+      "options": [
+        "Sometimes or often",
+        "Never if possible",
+        "Only once a year"
+      ],
+      "correctAnswer": "Sometimes or often",
+      "emoji": "🚶",
+      "spa": "Caminar con cierta frecuencia es una opción saludable.",
+      "optionsLang": "en",
+      "eng": "Walking regularly is a healthy habit.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq174",
+      "category": "Fun Time - Healthy Lifestyle",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Healthy habit: Do you like vegetables?",
+      "options": [
+        "Yes, I do.",
+        "No, never.",
+        "Only as decoration."
+      ],
+      "correctAnswer": "Yes, I do.",
+      "emoji": "🥕",
+      "spa": "Sí, me gustan las verduras.",
+      "optionsLang": "en",
+      "eng": "Yes, I do.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq175",
+      "category": "Fun Time - Healthy Lifestyle",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Healthy habit: Do you play any sport?",
+      "options": [
+        "Yes, I do.",
+        "No, I never move.",
+        "Only once every ten years."
+      ],
+      "correctAnswer": "Yes, I do.",
+      "emoji": "⚽",
+      "spa": "Sí, practico algún deporte.",
+      "optionsLang": "en",
+      "eng": "Yes, I do.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq176",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Encuentra el intruso.",
+      "options": [
+        "apple",
+        "orange",
+        "strawberry",
+        "egg"
+      ],
+      "correctAnswer": "egg",
+      "emoji": "🥚",
+      "spa": "Egg no es una fruta.",
+      "optionsLang": "en",
+      "eng": "Egg is not a fruit.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq177",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Encuentra el intruso.",
+      "options": [
+        "tuna",
+        "beef",
+        "rice",
+        "chicken"
+      ],
+      "correctAnswer": "rice",
+      "emoji": "🍚",
+      "spa": "Rice no es carne ni pescado.",
+      "optionsLang": "en",
+      "eng": "Rice is not meat or fish.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq178",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Encuentra el intruso.",
+      "options": [
+        "onion",
+        "salt",
+        "lettuce",
+        "peas"
+      ],
+      "correctAnswer": "salt",
+      "emoji": "🧂",
+      "spa": "Salt no es una verdura.",
+      "optionsLang": "en",
+      "eng": "Salt is not a vegetable.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq179",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Encuentra el intruso.",
+      "options": [
+        "cheese",
+        "tomato",
+        "grapes",
+        "apple"
+      ],
+      "correctAnswer": "cheese",
+      "emoji": "🧀",
+      "spa": "Cheese no es fruta ni verdura.",
+      "optionsLang": "en",
+      "eng": "Cheese is not fruit or vegetables.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq180",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Encuentra el intruso.",
+      "options": [
+        "milk",
+        "pasta",
+        "water",
+        "fruit juice"
+      ],
+      "correctAnswer": "pasta",
+      "emoji": "🍝",
+      "spa": "Pasta no es una bebida.",
+      "optionsLang": "en",
+      "eng": "Pasta is not a drink.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq181",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: For breakfast, Tom ___ an egg and fruit juice.",
+      "options": [
+        "has",
+        "have",
+        "having"
+      ],
+      "correctAnswer": "has",
+      "emoji": "🥚",
+      "spa": "Tom desayuna un huevo y jugo de frutas.",
+      "optionsLang": "en",
+      "eng": "For breakfast, Tom has an egg and fruit juice.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq182",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: For lunch, Tom ___ a sandwich.",
+      "options": [
+        "has",
+        "have",
+        "does"
+      ],
+      "correctAnswer": "has",
+      "emoji": "🥪",
+      "spa": "Tom come un sándwich en el almuerzo.",
+      "optionsLang": "en",
+      "eng": "For lunch, Tom has a sandwich.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq183",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: For dinner, he ___ rice with chicken.",
+      "options": [
+        "has",
+        "have",
+        "do"
+      ],
+      "correctAnswer": "has",
+      "emoji": "🍚",
+      "spa": "Para cenar, come arroz con pollo.",
+      "optionsLang": "en",
+      "eng": "For dinner, he has rice with chicken.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq184",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Reescribe en negativo: I work in a school.",
+      "options": [
+        "I don't work in a school.",
+        "I doesn't work in a school.",
+        "I not work school."
+      ],
+      "correctAnswer": "I don't work in a school.",
+      "emoji": "🏫",
+      "spa": "No trabajo en una escuela.",
+      "optionsLang": "en",
+      "eng": "I don't work in a school.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq185",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Reescribe en negativo: My sister has a shower once a month.",
+      "options": [
+        "My sister doesn't have a shower once a month.",
+        "My sister don't has a shower.",
+        "My sister doesn't has a shower."
+      ],
+      "correctAnswer": "My sister doesn't have a shower once a month.",
+      "emoji": "🚿",
+      "spa": "Mi hermana no se ducha una vez al mes.",
+      "optionsLang": "en",
+      "eng": "My sister doesn't have a shower once a month.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq186",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Reescribe en negativo: I run to school twice a day.",
+      "options": [
+        "I don't run to school twice a day.",
+        "I doesn't run to school.",
+        "I don't runs school."
+      ],
+      "correctAnswer": "I don't run to school twice a day.",
+      "emoji": "🏃",
+      "spa": "No corro a la escuela dos veces al día.",
+      "optionsLang": "en",
+      "eng": "I don't run to school twice a day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq187",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ you phone your friends?",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "📱",
+      "spa": "¿Llamas a tus amigos?",
+      "optionsLang": "en",
+      "eng": "Do you phone your friends?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq188",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ your parents work at the weekend?",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "💼",
+      "spa": "¿Tus padres trabajan el fin de semana?",
+      "optionsLang": "en",
+      "eng": "Do your parents work at the weekend?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq189",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ your teacher speak English at home?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "correctAnswer": "Does",
+      "emoji": "🗣️",
+      "spa": "¿Tu profesor/a habla inglés en casa?",
+      "optionsLang": "en",
+      "eng": "Does your teacher speak English at home?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq190",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ your friends have lunch at school?",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correctAnswer": "Do",
+      "emoji": "🍱",
+      "spa": "¿Tus amigos almuerzan en la escuela?",
+      "optionsLang": "en",
+      "eng": "Do your friends have lunch at school?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq191",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta: ___ your best friend text you?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "correctAnswer": "Does",
+      "emoji": "📱",
+      "spa": "¿Tu mejor amigo/a te manda mensajes?",
+      "optionsLang": "en",
+      "eng": "Does your best friend text you?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq192",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa el diálogo: How often do you eat sandwiches for lunch? ___",
+      "options": [
+        "Every morning.",
+        "A sandwich.",
+        "At school building."
+      ],
+      "correctAnswer": "Every morning.",
+      "emoji": "🥪",
+      "spa": "Todas las mañanas.",
+      "optionsLang": "en",
+      "eng": "How often do you eat sandwiches for lunch? Every morning.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq193",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ do you make your packed lunch?",
+      "options": [
+        "When",
+        "How often only",
+        "Who food"
+      ],
+      "correctAnswer": "When",
+      "emoji": "🍱",
+      "spa": "¿Cuándo preparas tu almuerzo para llevar?",
+      "optionsLang": "en",
+      "eng": "When do you make your packed lunch?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq194",
+      "category": "Review Unit 4",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: What time do you get up? ___",
+      "options": [
+        "At half past six.",
+        "A salad.",
+        "Twice a week food."
+      ],
+      "correctAnswer": "At half past six.",
+      "emoji": "⏰",
+      "spa": "A las seis y media.",
+      "optionsLang": "en",
+      "eng": "At half past six.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq195",
+      "category": "Mini Real-life Task - Study Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué consejo ayuda a concentrarte?",
+      "options": [
+        "Start your homework when you're not hungry.",
+        "Skip all meals.",
+        "Never take breaks."
+      ],
+      "correctAnswer": "Start your homework when you're not hungry.",
+      "emoji": "🧠",
+      "spa": "Empezar la tarea sin hambre puede ayudar a concentrarse.",
+      "optionsLang": "en",
+      "eng": "Start your homework when you're not hungry.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq196",
+      "category": "Mini Real-life Task - Study Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hábito puede ayudar durante el estudio?",
+      "options": [
+        "Have water nearby.",
+        "Drink nothing all day.",
+        "Eat only junk food."
+      ],
+      "correctAnswer": "Have water nearby.",
+      "emoji": "💧",
+      "spa": "Tener agua cerca puede ser útil.",
+      "optionsLang": "en",
+      "eng": "Have water nearby.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    },
+    {
+      "id": "u4_gq197",
+      "category": "Mini Real-life Task - Study Habits",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hábito puede ayudar a descansar durante el estudio?",
+      "options": [
+        "Take short breaks.",
+        "Study without stopping for ten hours.",
+        "Never move."
+      ],
+      "correctAnswer": "Take short breaks.",
+      "emoji": "⏱️",
+      "spa": "Tomar descansos cortos puede ayudar.",
+      "optionsLang": "en",
+      "eng": "Take short breaks.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 4 Our food"
+    }
+  ],
+  "READING_COMPREHENSION": [
+    {
+      "category": "Our Food - School Lunch",
+      "readingText": "Mia takes a packed lunch to school four days a week. She usually has a chicken and tomato sandwich, an apple and a bottle of water. On Fridays, she buys lunch at school. She likes the vegetable pasta, but she doesn't eat the mushroom soup because she doesn't like mushrooms. Mia prepares her packed lunch in the morning before school.",
+      "emoji": "🍱",
+      "questions": [
+        {
+          "q": "How often does Mia take a packed lunch?",
+          "a": "Four days a week",
+          "options": [
+            "Four days a week",
+            "Once a year",
+            "Never"
+          ]
+        },
+        {
+          "q": "What does she usually have in her packed lunch?",
+          "a": "A chicken and tomato sandwich, an apple and water",
+          "options": [
+            "A chicken and tomato sandwich, an apple and water",
+            "Only sweets",
+            "Fish and chips every day"
+          ]
+        },
+        {
+          "q": "Why doesn't she eat the mushroom soup?",
+          "a": "She doesn't like mushrooms",
+          "options": [
+            "She doesn't like mushrooms",
+            "She doesn't like water",
+            "She has no lunch"
+          ]
+        },
+        {
+          "q": "When does she prepare her lunch?",
+          "a": "In the morning before school",
+          "options": [
+            "In the morning before school",
+            "At midnight",
+            "Once a month"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Our Food - A School Cook",
+      "readingText": "Mr Green is the cook at River School. He starts work early and makes lunch for hundreds of students. He reads cookbooks and talks to students about their favourite meals. He often cooks pasta, rice, chicken and fresh vegetables. He doesn't serve the same meal every day, and he rarely makes very spicy food. He says the students' favourite meal is macaroni and cheese.",
+      "emoji": "👨‍🍳",
+      "questions": [
+        {
+          "q": "What is Mr Green's job?",
+          "a": "He is a school cook",
+          "options": [
+            "He is a school cook",
+            "He is a football player",
+            "He is a doctor"
+          ]
+        },
+        {
+          "q": "Does he read cookbooks?",
+          "a": "Yes, he does.",
+          "options": [
+            "Yes, he does.",
+            "No, he doesn't."
+          ]
+        },
+        {
+          "q": "Does he serve the same meal every day?",
+          "a": "No, he doesn't.",
+          "options": [
+            "Yes, he does.",
+            "No, he doesn't."
+          ]
+        },
+        {
+          "q": "What meal is very popular with the students?",
+          "a": "Macaroni and cheese",
+          "options": [
+            "Macaroni and cheese",
+            "Raw onions",
+            "Only water"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Culture and Skills - Takeaway Food in Britain",
+      "readingText": "Takeaway food is very popular in Britain, and many favourite dishes have international influences. People often order Indian, Chinese or Italian-style food, but the British versions are not always exactly the same as dishes from those countries. Some well-known names can be misleading: a dish may have a foreign name but a different history. This shows how food changes when cultures meet.",
+      "emoji": "🥡",
+      "questions": [
+        {
+          "q": "Is takeaway food popular in Britain?",
+          "a": "Yes, it is.",
+          "options": [
+            "Yes, it is.",
+            "No, it isn't."
+          ]
+        },
+        {
+          "q": "What cuisines are mentioned?",
+          "a": "Indian, Chinese and Italian",
+          "options": [
+            "Indian, Chinese and Italian",
+            "Only British",
+            "Only Mexican"
+          ]
+        },
+        {
+          "q": "Are British versions always identical to dishes from other countries?",
+          "a": "No, they aren't.",
+          "options": [
+            "Yes, they are.",
+            "No, they aren't."
+          ]
+        },
+        {
+          "q": "What can happen when cultures meet?",
+          "a": "Food can change",
+          "options": [
+            "Food can change",
+            "Countries disappear",
+            "People stop eating"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Our Food - Favourite Dish",
+      "readingText": "My favourite dish is a vegetable pancake. It has flour, eggs, milk, onion and a little cheese. I usually eat it for dinner, about twice a month. My family makes it at home, so it is always fresh. I like it because it is simple, warm and delicious.",
+      "emoji": "🥞",
+      "questions": [
+        {
+          "q": "What is the favourite dish?",
+          "a": "A vegetable pancake",
+          "options": [
+            "A vegetable pancake",
+            "Fish and chips",
+            "A milk shake"
+          ]
+        },
+        {
+          "q": "What ingredients does it have?",
+          "a": "Flour, eggs, milk, onion and cheese",
+          "options": [
+            "Flour, eggs, milk, onion and cheese",
+            "Only water",
+            "Tuna and grapes"
+          ]
+        },
+        {
+          "q": "How often does the person eat it?",
+          "a": "About twice a month",
+          "options": [
+            "About twice a month",
+            "Every hour",
+            "Once every ten years"
+          ]
+        },
+        {
+          "q": "Why does the person like it?",
+          "a": "It is simple, warm and delicious",
+          "options": [
+            "It is simple, warm and delicious",
+            "It is cold and dangerous",
+            "It is a school subject"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "CLIL Biology - Sea Animal Habits",
+      "readingText": "Sea animals have very different habits. Dolphins are mammals and often live in groups called pods. They communicate with sounds and can work together. Some sharks do not sleep in the same way humans do; they may rest while they keep moving. Fish often stay in schools because being in a group can give protection. Blue whales are gigantic mammals and need large amounts of food.",
+      "emoji": "🌊",
+      "questions": [
+        {
+          "q": "What kind of animals are dolphins?",
+          "a": "Mammals",
+          "options": [
+            "Mammals",
+            "Plants",
+            "Birds"
+          ]
+        },
+        {
+          "q": "What is a group of dolphins called?",
+          "a": "A pod",
+          "options": [
+            "A pod",
+            "A cookbook",
+            "A wardrobe"
+          ]
+        },
+        {
+          "q": "Why do fish stay in schools?",
+          "a": "For protection",
+          "options": [
+            "For protection",
+            "To cook",
+            "To use computers"
+          ]
+        },
+        {
+          "q": "Are blue whales small animals?",
+          "a": "No, they aren't.",
+          "options": [
+            "Yes, they are.",
+            "No, they aren't."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sustainable Food - Leftovers",
+      "readingText": "Leo's family tries not to waste food. Before shopping, they check what is already in the fridge. They buy only what they need. If there is extra cooked food, they keep it safely and use it in another meal. Sometimes they freeze food for later. At restaurants, they ask for a box when they cannot finish their meal.",
+      "emoji": "♻️",
+      "questions": [
+        {
+          "q": "What do they do before shopping?",
+          "a": "They check the fridge",
+          "options": [
+            "They check the fridge",
+            "They throw food away",
+            "They buy everything"
+          ]
+        },
+        {
+          "q": "Do they buy more than they need?",
+          "a": "No, they don't.",
+          "options": [
+            "Yes, they do.",
+            "No, they don't."
+          ]
+        },
+        {
+          "q": "What do they sometimes do with extra food?",
+          "a": "They freeze it",
+          "options": [
+            "They freeze it",
+            "They put it in a school bag",
+            "They throw it in the sea"
+          ]
+        },
+        {
+          "q": "What do they ask for at restaurants?",
+          "a": "A box for leftovers",
+          "options": [
+            "A box for leftovers",
+            "A football",
+            "A bookcase"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Review Unit 4 - Daily Food",
+      "readingText": "Tom usually has an egg, toast and fruit juice for breakfast. For lunch, he has a sandwich with chicken, lettuce and tomato. He drinks water with lunch. For dinner, he often has rice with vegetables and fish. He doesn't eat junk food every day, but he sometimes has ice cream at the weekend.",
+      "emoji": "🍽️",
+      "questions": [
+        {
+          "q": "What does Tom have for breakfast?",
+          "a": "An egg, toast and fruit juice",
+          "options": [
+            "An egg, toast and fruit juice",
+            "Only fish",
+            "Only milk"
+          ]
+        },
+        {
+          "q": "What is in his lunch sandwich?",
+          "a": "Chicken, lettuce and tomato",
+          "options": [
+            "Chicken, lettuce and tomato",
+            "Rice and milk",
+            "Tuna and grapes"
+          ]
+        },
+        {
+          "q": "What does he drink with lunch?",
+          "a": "Water",
+          "options": [
+            "Water",
+            "Oil",
+            "Soup"
+          ]
+        },
+        {
+          "q": "Does he eat junk food every day?",
+          "a": "No, he doesn't.",
+          "options": [
+            "Yes, he does.",
+            "No, he doesn't."
+          ]
+        }
+      ]
+    }
+  ],
+  "SENTENCES": [
+    {
+      "eng": "Pasta is from Italy.",
+      "spa": "La pasta es de Italia.",
+      "category": "Food Origins",
+      "emoji": "🍝"
+    },
+    {
+      "eng": "Fish and chips is a famous British dish.",
+      "spa": "Fish and chips es un plato británico famoso.",
+      "category": "Food Origins",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Croissants are associated with France.",
+      "spa": "Los croissants se asocian con Francia.",
+      "category": "Food Origins",
+      "emoji": "🥐"
+    },
+    {
+      "eng": "I like doughnuts.",
+      "spa": "Me gustan las donas.",
+      "category": "Food Origins",
+      "emoji": "🍩"
+    },
+    {
+      "eng": "I like chicken and tomato sandwiches.",
+      "spa": "Me gustan los sándwiches de pollo y tomate.",
+      "category": "Food",
+      "emoji": "🥪"
+    },
+    {
+      "eng": "Apples are fruit.",
+      "spa": "Las manzanas son frutas.",
+      "category": "Food",
+      "emoji": "🍎"
+    },
+    {
+      "eng": "Lettuce is a vegetable.",
+      "spa": "La lechuga es una verdura.",
+      "category": "Food",
+      "emoji": "🥬"
+    },
+    {
+      "eng": "Salmon is a fish.",
+      "spa": "El salmón es un pescado.",
+      "category": "Food",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Cheddar is a type of cheese.",
+      "spa": "El cheddar es un tipo de queso.",
+      "category": "Food",
+      "emoji": "🧀"
+    },
+    {
+      "eng": "Milk is a dairy product.",
+      "spa": "La leche es un producto lácteo.",
+      "category": "Food",
+      "emoji": "🥛"
+    },
+    {
+      "eng": "Pasta is rich in carbohydrates.",
+      "spa": "La pasta es rica en carbohidratos.",
+      "category": "Food",
+      "emoji": "🍝"
+    },
+    {
+      "eng": "Water is a drink.",
+      "spa": "El agua es una bebida.",
+      "category": "Drink",
+      "emoji": "💧"
+    },
+    {
+      "eng": "I usually drink fruit juice at breakfast.",
+      "spa": "Normalmente tomo jugo de frutas en el desayuno.",
+      "category": "Drink",
+      "emoji": "🧃"
+    },
+    {
+      "eng": "She likes strawberry milk shakes.",
+      "spa": "A ella le gustan los batidos de frutilla.",
+      "category": "Drink",
+      "emoji": "🥤"
+    },
+    {
+      "eng": "I don't cook.",
+      "spa": "No cocino.",
+      "category": "Present Simple Negative",
+      "emoji": "👩‍🍳"
+    },
+    {
+      "eng": "You don't eat fish.",
+      "spa": "No comes pescado.",
+      "category": "Present Simple Negative",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "He doesn't cook.",
+      "spa": "Él no cocina.",
+      "category": "Present Simple Negative",
+      "emoji": "👨‍🍳"
+    },
+    {
+      "eng": "She doesn't like mushrooms.",
+      "spa": "A ella no le gustan los hongos.",
+      "category": "Present Simple Negative",
+      "emoji": "🍄"
+    },
+    {
+      "eng": "We don't eat meat.",
+      "spa": "No comemos carne.",
+      "category": "Present Simple Negative",
+      "emoji": "🥩"
+    },
+    {
+      "eng": "They don't drink milk.",
+      "spa": "Ellos no toman leche.",
+      "category": "Present Simple Negative",
+      "emoji": "🥛"
+    },
+    {
+      "eng": "My brother doesn't like tuna.",
+      "spa": "A mi hermano no le gusta el atún.",
+      "category": "Present Simple Negative",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Do you cook?",
+      "spa": "¿Cocinas?",
+      "category": "Present Simple Questions",
+      "emoji": "👩‍🍳"
+    },
+    {
+      "eng": "Yes, I do.",
+      "spa": "Sí.",
+      "category": "Present Simple Questions",
+      "emoji": "✅"
+    },
+    {
+      "eng": "Do you eat meat?",
+      "spa": "¿Comes carne?",
+      "category": "Present Simple Questions",
+      "emoji": "🥩"
+    },
+    {
+      "eng": "No, I don't.",
+      "spa": "No.",
+      "category": "Present Simple Questions",
+      "emoji": "❌"
+    },
+    {
+      "eng": "Does he cook?",
+      "spa": "¿Él cocina?",
+      "category": "Present Simple Questions",
+      "emoji": "👨‍🍳"
+    },
+    {
+      "eng": "Yes, he does.",
+      "spa": "Sí.",
+      "category": "Present Simple Questions",
+      "emoji": "✅"
+    },
+    {
+      "eng": "Does she like fish?",
+      "spa": "¿A ella le gusta el pescado?",
+      "category": "Present Simple Questions",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "No, she doesn't.",
+      "spa": "No.",
+      "category": "Present Simple Questions",
+      "emoji": "❌"
+    },
+    {
+      "eng": "What do you do at the weekend?",
+      "spa": "¿Qué haces el fin de semana?",
+      "category": "Present Simple Questions",
+      "emoji": "📅"
+    },
+    {
+      "eng": "When do you play football?",
+      "spa": "¿Cuándo juegas al fútbol?",
+      "category": "Present Simple Questions",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "Where do you go to school?",
+      "spa": "¿Dónde vas a la escuela?",
+      "category": "Present Simple Questions",
+      "emoji": "🏫"
+    },
+    {
+      "eng": "What does your horse eat?",
+      "spa": "¿Qué come tu caballo?",
+      "category": "Present Simple Questions",
+      "emoji": "🐎"
+    },
+    {
+      "eng": "How often do you cook?",
+      "spa": "¿Con qué frecuencia cocinas?",
+      "category": "Frequency",
+      "emoji": "🔁"
+    },
+    {
+      "eng": "I cook every day.",
+      "spa": "Cocino todos los días.",
+      "category": "Frequency",
+      "emoji": "📅"
+    },
+    {
+      "eng": "I eat takeaway food once a month.",
+      "spa": "Como comida para llevar una vez al mes.",
+      "category": "Frequency",
+      "emoji": "🥡"
+    },
+    {
+      "eng": "We play football three times a week.",
+      "spa": "Jugamos al fútbol tres veces por semana.",
+      "category": "Frequency",
+      "emoji": "⚽"
+    },
+    {
+      "eng": "We travel twice a year.",
+      "spa": "Viajamos dos veces al año.",
+      "category": "Frequency",
+      "emoji": "✈️"
+    },
+    {
+      "eng": "What do you usually eat for lunch?",
+      "spa": "¿Qué comes normalmente en el almuerzo?",
+      "category": "Asking about Habits",
+      "emoji": "🍱"
+    },
+    {
+      "eng": "I usually have a salad.",
+      "spa": "Normalmente como una ensalada.",
+      "category": "Asking about Habits",
+      "emoji": "🥗"
+    },
+    {
+      "eng": "When do you make your packed lunch?",
+      "spa": "¿Cuándo preparas tu almuerzo para llevar?",
+      "category": "Asking about Habits",
+      "emoji": "🍱"
+    },
+    {
+      "eng": "I make it in the morning.",
+      "spa": "Lo preparo por la mañana.",
+      "category": "Asking about Habits",
+      "emoji": "🌅"
+    },
+    {
+      "eng": "What time do you get up?",
+      "spa": "¿A qué hora te levantas?",
+      "category": "Asking about Habits",
+      "emoji": "⏰"
+    },
+    {
+      "eng": "I get up at six o'clock.",
+      "spa": "Me levanto a las seis.",
+      "category": "Asking about Habits",
+      "emoji": "🕕"
+    },
+    {
+      "eng": "Takeaway food is popular in Britain.",
+      "spa": "La comida para llevar es popular en Gran Bretaña.",
+      "category": "Culture and Skills",
+      "emoji": "🥡"
+    },
+    {
+      "eng": "Food can change when cultures meet.",
+      "spa": "La comida puede cambiar cuando las culturas se encuentran.",
+      "category": "Culture and Skills",
+      "emoji": "🌍"
+    },
+    {
+      "eng": "This dish has fresh ingredients.",
+      "spa": "Este plato tiene ingredientes frescos.",
+      "category": "Culture and Skills",
+      "emoji": "🥬"
+    },
+    {
+      "eng": "I love this pancake because it's delicious.",
+      "spa": "Me encanta este panqueque porque es delicioso.",
+      "category": "Culture and Skills",
+      "emoji": "🥞"
+    },
+    {
+      "eng": "Leftovers are food from a previous meal.",
+      "spa": "Las sobras son comida que queda de una comida anterior.",
+      "category": "Sustainable Food",
+      "emoji": "♻️"
+    },
+    {
+      "eng": "We use leftovers in another meal.",
+      "spa": "Usamos las sobras en otra comida.",
+      "category": "Sustainable Food",
+      "emoji": "♻️"
+    },
+    {
+      "eng": "We freeze extra food for later.",
+      "spa": "Congelamos comida extra para más adelante.",
+      "category": "Sustainable Food",
+      "emoji": "❄️"
+    },
+    {
+      "eng": "We use reusable bags when we go shopping.",
+      "spa": "Usamos bolsas reutilizables cuando vamos de compras.",
+      "category": "Sustainable Food",
+      "emoji": "🛍️"
+    },
+    {
+      "eng": "Dolphins are mammals.",
+      "spa": "Los delfines son mamíferos.",
+      "category": "CLIL Biology",
+      "emoji": "🐬"
+    },
+    {
+      "eng": "Crocodiles are reptiles.",
+      "spa": "Los cocodrilos son reptiles.",
+      "category": "CLIL Biology",
+      "emoji": "🐊"
+    },
+    {
+      "eng": "Dolphins live in groups called pods.",
+      "spa": "Los delfines viven en grupos llamados pods.",
+      "category": "CLIL Biology",
+      "emoji": "🐬"
+    },
+    {
+      "eng": "Fish often live in schools.",
+      "spa": "Los peces suelen vivir en cardúmenes.",
+      "category": "CLIL Biology",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Some sharks rest while they move.",
+      "spa": "Algunos tiburones descansan mientras se mueven.",
+      "category": "CLIL Biology",
+      "emoji": "🦈"
+    },
+    {
+      "eng": "Blue whales are gigantic mammals.",
+      "spa": "Las ballenas azules son mamíferos gigantescos.",
+      "category": "CLIL Biology",
+      "emoji": "🐋"
+    },
+    {
+      "eng": "A predator hunts prey.",
+      "spa": "Un depredador caza presas.",
+      "category": "CLIL Biology",
+      "emoji": "🦈"
+    },
+    {
+      "eng": "Plastic pollution is dangerous for sea animals.",
+      "spa": "La contaminación plástica es peligrosa para los animales marinos.",
+      "category": "CLIL Biology",
+      "emoji": "🧴"
+    },
+    {
+      "eng": "Use a reusable bag to reduce plastic.",
+      "spa": "Usa una bolsa reutilizable para reducir el plástico.",
+      "category": "CLIL Biology",
+      "emoji": "🛍️"
+    },
+    {
+      "eng": "My favourite meal is pasta with vegetables.",
+      "spa": "Mi comida favorita es pasta con verduras.",
+      "category": "Food and Cooking",
+      "emoji": "🍝"
+    },
+    {
+      "eng": "The school cook reads cookbooks.",
+      "spa": "El cocinero escolar lee libros de cocina.",
+      "category": "Food and Cooking",
+      "emoji": "📖"
+    },
+    {
+      "eng": "Mac 'n' cheese is a popular dish.",
+      "spa": "Los macarrones con queso son un plato popular.",
+      "category": "Food and Cooking",
+      "emoji": "🧀"
+    },
+    {
+      "eng": "A packed lunch is food you take with you.",
+      "spa": "Un almuerzo para llevar es comida que llevas contigo.",
+      "category": "Food and Cooking",
+      "emoji": "🍱"
+    },
+    {
+      "eng": "Junk food should not be every meal.",
+      "spa": "La comida chatarra no debería estar en todas las comidas.",
+      "category": "Healthy Lifestyle",
+      "emoji": "🍟"
+    }
+  ],
+  "VOCABULARY": [
+    {
+      "eng": "Apple",
+      "spa": "Manzana",
+      "category": "Food",
+      "emoji": "🍎"
+    },
+    {
+      "eng": "Beef",
+      "spa": "Carne de vaca",
+      "category": "Food",
+      "emoji": "🥩"
+    },
+    {
+      "eng": "Cheese",
+      "spa": "Queso",
+      "category": "Food",
+      "emoji": "🧀"
+    },
+    {
+      "eng": "Chicken",
+      "spa": "Pollo",
+      "category": "Food",
+      "emoji": "🍗"
+    },
+    {
+      "eng": "Egg",
+      "spa": "Huevo",
+      "category": "Food",
+      "emoji": "🥚"
+    },
+    {
+      "eng": "Grapes",
+      "spa": "Uvas",
+      "category": "Food",
+      "emoji": "🍇"
+    },
+    {
+      "eng": "Lettuce",
+      "spa": "Lechuga",
+      "category": "Food",
+      "emoji": "🥬"
+    },
+    {
+      "eng": "Mushroom",
+      "spa": "Hongo / champiñón",
+      "category": "Food",
+      "emoji": "🍄"
+    },
+    {
+      "eng": "Oil",
+      "spa": "Aceite",
+      "category": "Food",
+      "emoji": "🫒"
+    },
+    {
+      "eng": "Onion",
+      "spa": "Cebolla",
+      "category": "Food",
+      "emoji": "🧅"
+    },
+    {
+      "eng": "Orange",
+      "spa": "Naranja",
+      "category": "Food",
+      "emoji": "🍊"
+    },
+    {
+      "eng": "Pasta",
+      "spa": "Pasta",
+      "category": "Food",
+      "emoji": "🍝"
+    },
+    {
+      "eng": "Peas",
+      "spa": "Arvejas / guisantes",
+      "category": "Food",
+      "emoji": "🫛"
+    },
+    {
+      "eng": "Potato",
+      "spa": "Papa",
+      "category": "Food",
+      "emoji": "🥔"
+    },
+    {
+      "eng": "Rice",
+      "spa": "Arroz",
+      "category": "Food",
+      "emoji": "🍚"
+    },
+    {
+      "eng": "Salmon",
+      "spa": "Salmón",
+      "category": "Food",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Salt and pepper",
+      "spa": "Sal y pimienta",
+      "category": "Food",
+      "emoji": "🧂"
+    },
+    {
+      "eng": "Strawberry",
+      "spa": "Frutilla / fresa",
+      "category": "Food",
+      "emoji": "🍓"
+    },
+    {
+      "eng": "Tomato",
+      "spa": "Tomate",
+      "category": "Food",
+      "emoji": "🍅"
+    },
+    {
+      "eng": "Tuna",
+      "spa": "Atún",
+      "category": "Food",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Fruit juice",
+      "spa": "Jugo de frutas",
+      "category": "Drink",
+      "emoji": "🧃"
+    },
+    {
+      "eng": "Milk",
+      "spa": "Leche",
+      "category": "Drink",
+      "emoji": "🥛"
+    },
+    {
+      "eng": "Milk shake",
+      "spa": "Batido / licuado",
+      "category": "Drink",
+      "emoji": "🥤"
+    },
+    {
+      "eng": "Water",
+      "spa": "Agua",
+      "category": "Drink",
+      "emoji": "💧"
+    },
+    {
+      "eng": "Carbohydrates",
+      "spa": "Carbohidratos",
+      "category": "Food Types and Ingredients",
+      "emoji": "🍞"
+    },
+    {
+      "eng": "Cheddar",
+      "spa": "Queso cheddar",
+      "category": "Food Types and Ingredients",
+      "emoji": "🧀"
+    },
+    {
+      "eng": "Condiments",
+      "spa": "Condimentos",
+      "category": "Food Types and Ingredients",
+      "emoji": "🧂"
+    },
+    {
+      "eng": "Cooking",
+      "spa": "Cocina / cocinar",
+      "category": "Food Types and Ingredients",
+      "emoji": "👩‍🍳"
+    },
+    {
+      "eng": "Dairy",
+      "spa": "Lácteos",
+      "category": "Food Types and Ingredients",
+      "emoji": "🥛"
+    },
+    {
+      "eng": "Feta",
+      "spa": "Queso feta",
+      "category": "Food Types and Ingredients",
+      "emoji": "🧀"
+    },
+    {
+      "eng": "Fruit",
+      "spa": "Fruta",
+      "category": "Food Types and Ingredients",
+      "emoji": "🍎"
+    },
+    {
+      "eng": "Hot",
+      "spa": "Picante / caliente",
+      "category": "Food Types and Ingredients",
+      "emoji": "🌶️"
+    },
+    {
+      "eng": "Meat",
+      "spa": "Carne",
+      "category": "Food Types and Ingredients",
+      "emoji": "🥩"
+    },
+    {
+      "eng": "Mozzarella",
+      "spa": "Mozzarella",
+      "category": "Food Types and Ingredients",
+      "emoji": "🧀"
+    },
+    {
+      "eng": "Salad",
+      "spa": "Ensalada",
+      "category": "Food Types and Ingredients",
+      "emoji": "🥗"
+    },
+    {
+      "eng": "Type",
+      "spa": "Tipo",
+      "category": "Food Types and Ingredients",
+      "emoji": "🏷️"
+    },
+    {
+      "eng": "Vegetable",
+      "spa": "Verdura / vegetal",
+      "category": "Food Types and Ingredients",
+      "emoji": "🥕"
+    },
+    {
+      "eng": "Doughnut",
+      "spa": "Dona / rosquilla",
+      "category": "Food Origins and Dishes",
+      "emoji": "🍩"
+    },
+    {
+      "eng": "Fish and chips",
+      "spa": "Pescado con papas fritas",
+      "category": "Food Origins and Dishes",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "French fries",
+      "spa": "Papas fritas",
+      "category": "Food Origins and Dishes",
+      "emoji": "🍟"
+    },
+    {
+      "eng": "Sandwich",
+      "spa": "Sándwich",
+      "category": "Food Origins and Dishes",
+      "emoji": "🥪"
+    },
+    {
+      "eng": "Vegetarian",
+      "spa": "Vegetariano/a",
+      "category": "Food Origins and Dishes",
+      "emoji": "🥗"
+    },
+    {
+      "eng": "Make dinner",
+      "spa": "Preparar la cena",
+      "category": "Food Origins and Dishes",
+      "emoji": "🍽️"
+    },
+    {
+      "eng": "Go shopping",
+      "spa": "Ir de compras",
+      "category": "Food Origins and Dishes",
+      "emoji": "🛒"
+    },
+    {
+      "eng": "Without",
+      "spa": "Sin",
+      "category": "Food Origins and Dishes",
+      "emoji": "🚫"
+    },
+    {
+      "eng": "Grass",
+      "spa": "Pasto / hierba",
+      "category": "Food Origins and Dishes",
+      "emoji": "🌿"
+    },
+    {
+      "eng": "Every day",
+      "spa": "Todos los días",
+      "category": "Frequency",
+      "emoji": "📅"
+    },
+    {
+      "eng": "How often?",
+      "spa": "¿Con qué frecuencia?",
+      "category": "Frequency",
+      "emoji": "🔁"
+    },
+    {
+      "eng": "Once a month",
+      "spa": "Una vez al mes",
+      "category": "Frequency",
+      "emoji": "1️⃣"
+    },
+    {
+      "eng": "Three times a week",
+      "spa": "Tres veces por semana",
+      "category": "Frequency",
+      "emoji": "3️⃣"
+    },
+    {
+      "eng": "Twice a year",
+      "spa": "Dos veces al año",
+      "category": "Frequency",
+      "emoji": "2️⃣"
+    },
+    {
+      "eng": "Cookbook",
+      "spa": "Libro de cocina / recetario",
+      "category": "Food and Cooking Context",
+      "emoji": "📖"
+    },
+    {
+      "eng": "Interview",
+      "spa": "Entrevista",
+      "category": "Food and Cooking Context",
+      "emoji": "🎤"
+    },
+    {
+      "eng": "Mac 'n' cheese",
+      "spa": "Macarrones con queso",
+      "category": "Food and Cooking Context",
+      "emoji": "🧀"
+    },
+    {
+      "eng": "Peanut butter and jelly sandwich",
+      "spa": "Sándwich de mantequilla de maní y mermelada",
+      "category": "Food and Cooking Context",
+      "emoji": "🥪"
+    },
+    {
+      "eng": "School cook",
+      "spa": "Cocinero/a escolar",
+      "category": "Food and Cooking Context",
+      "emoji": "👨‍🍳"
+    },
+    {
+      "eng": "Delicious",
+      "spa": "Delicioso/a",
+      "category": "Food and Cooking Context",
+      "emoji": "😋"
+    },
+    {
+      "eng": "Junk food",
+      "spa": "Comida chatarra",
+      "category": "Food and Cooking Context",
+      "emoji": "🍟"
+    },
+    {
+      "eng": "Packed lunch",
+      "spa": "Almuerzo para llevar",
+      "category": "Food and Cooking Context",
+      "emoji": "🍱"
+    },
+    {
+      "eng": "Adventurous",
+      "spa": "Aventurero/a",
+      "category": "Culture - Food",
+      "emoji": "🧭"
+    },
+    {
+      "eng": "Complicated",
+      "spa": "Complicado/a",
+      "category": "Culture - Food",
+      "emoji": "🧩"
+    },
+    {
+      "eng": "Curry",
+      "spa": "Curry",
+      "category": "Culture - Food",
+      "emoji": "🍛"
+    },
+    {
+      "eng": "Dish",
+      "spa": "Plato / preparación",
+      "category": "Culture - Food",
+      "emoji": "🍽️"
+    },
+    {
+      "eng": "Exist",
+      "spa": "Existir",
+      "category": "Culture - Food",
+      "emoji": "✨"
+    },
+    {
+      "eng": "Fresh",
+      "spa": "Fresco/a",
+      "category": "Culture - Food",
+      "emoji": "🥬"
+    },
+    {
+      "eng": "Ingredient",
+      "spa": "Ingrediente",
+      "category": "Culture - Food",
+      "emoji": "🥕"
+    },
+    {
+      "eng": "Instead of",
+      "spa": "En lugar de",
+      "category": "Culture - Food",
+      "emoji": "🔄"
+    },
+    {
+      "eng": "International",
+      "spa": "Internacional",
+      "category": "Culture - Food",
+      "emoji": "🌍"
+    },
+    {
+      "eng": "Leftovers",
+      "spa": "Sobras",
+      "category": "Culture - Food",
+      "emoji": "♻️"
+    },
+    {
+      "eng": "Meal",
+      "spa": "Comida",
+      "category": "Culture - Food",
+      "emoji": "🍽️"
+    },
+    {
+      "eng": "Modern trend",
+      "spa": "Tendencia moderna",
+      "category": "Culture - Food",
+      "emoji": "📈"
+    },
+    {
+      "eng": "Order",
+      "spa": "Pedir / ordenar",
+      "category": "Culture - Food",
+      "emoji": "📝"
+    },
+    {
+      "eng": "Originally",
+      "spa": "Originalmente",
+      "category": "Culture - Food",
+      "emoji": "🕰️"
+    },
+    {
+      "eng": "Pancake",
+      "spa": "Panqueque",
+      "category": "Culture - Food",
+      "emoji": "🥞"
+    },
+    {
+      "eng": "Roast dinner",
+      "spa": "Cena asada / asado al horno",
+      "category": "Culture - Food",
+      "emoji": "🍖"
+    },
+    {
+      "eng": "Similar to",
+      "spa": "Similar a",
+      "category": "Culture - Food",
+      "emoji": "≈"
+    },
+    {
+      "eng": "Takeaway food",
+      "spa": "Comida para llevar",
+      "category": "Culture - Food",
+      "emoji": "🥡"
+    },
+    {
+      "eng": "Thick sauce",
+      "spa": "Salsa espesa",
+      "category": "Culture - Food",
+      "emoji": "🥣"
+    },
+    {
+      "eng": "Treat",
+      "spa": "Darse un gusto / premio",
+      "category": "Culture - Food",
+      "emoji": "🍰"
+    },
+    {
+      "eng": "Blue whale",
+      "spa": "Ballena azul",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐋"
+    },
+    {
+      "eng": "Cold-blooded animal",
+      "spa": "Animal de sangre fría",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🦎"
+    },
+    {
+      "eng": "Crocodile",
+      "spa": "Cocodrilo",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐊"
+    },
+    {
+      "eng": "Dolphin",
+      "spa": "Delfín",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐬"
+    },
+    {
+      "eng": "Mammal",
+      "spa": "Mamífero",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐋"
+    },
+    {
+      "eng": "Orca",
+      "spa": "Orca",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐋"
+    },
+    {
+      "eng": "Reptile",
+      "spa": "Reptil",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐊"
+    },
+    {
+      "eng": "Sea animal",
+      "spa": "Animal marino",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🌊"
+    },
+    {
+      "eng": "Shark",
+      "spa": "Tiburón",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🦈"
+    },
+    {
+      "eng": "School of fish",
+      "spa": "Cardumen",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Pod",
+      "spa": "Grupo de cetáceos / pod",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐬"
+    },
+    {
+      "eng": "Predator",
+      "spa": "Depredador",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🦈"
+    },
+    {
+      "eng": "Prey",
+      "spa": "Presa",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Species",
+      "spa": "Especie",
+      "category": "CLIL Biology - Sea Animals",
+      "emoji": "🧬"
+    },
+    {
+      "eng": "All the time",
+      "spa": "Todo el tiempo",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "⏱️"
+    },
+    {
+      "eng": "Attack",
+      "spa": "Atacar",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "⚡"
+    },
+    {
+      "eng": "Belong to",
+      "spa": "Pertenecer a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🔗"
+    },
+    {
+      "eng": "Boat",
+      "spa": "Bote",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🚤"
+    },
+    {
+      "eng": "Chemical reaction",
+      "spa": "Reacción química",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🧪"
+    },
+    {
+      "eng": "Chew",
+      "spa": "Masticar",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🦷"
+    },
+    {
+      "eng": "Communicate",
+      "spa": "Comunicarse",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "💬"
+    },
+    {
+      "eng": "Cry",
+      "spa": "Llorar",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "😭"
+    },
+    {
+      "eng": "Dangerous",
+      "spa": "Peligroso/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "⚠️"
+    },
+    {
+      "eng": "Dinosaur",
+      "spa": "Dinosaurio",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🦖"
+    },
+    {
+      "eng": "Enjoy",
+      "spa": "Disfrutar",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "😊"
+    },
+    {
+      "eng": "Friendly",
+      "spa": "Amistoso/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🙂"
+    },
+    {
+      "eng": "Gigantic",
+      "spa": "Gigantesco/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🐋"
+    },
+    {
+      "eng": "Human",
+      "spa": "Humano/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🧑"
+    },
+    {
+      "eng": "In danger",
+      "spa": "En peligro",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "⚠️"
+    },
+    {
+      "eng": "Jump",
+      "spa": "Saltar",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "⬆️"
+    },
+    {
+      "eng": "Keep eyes open",
+      "spa": "Mantener los ojos abiertos",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "👀"
+    },
+    {
+      "eng": "Kill",
+      "spa": "Matar",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "⚠️"
+    },
+    {
+      "eng": "Live",
+      "spa": "Vivir",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🏠"
+    },
+    {
+      "eng": "Living relative",
+      "spa": "Pariente vivo",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🧬"
+    },
+    {
+      "eng": "Lonely",
+      "spa": "Solo/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "😔"
+    },
+    {
+      "eng": "Own",
+      "spa": "Propio/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🔑"
+    },
+    {
+      "eng": "Plastic pollution",
+      "spa": "Contaminación plástica",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🧴"
+    },
+    {
+      "eng": "Portion",
+      "spa": "Porción",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🍽️"
+    },
+    {
+      "eng": "Produce",
+      "spa": "Producir",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "⚙️"
+    },
+    {
+      "eng": "Protection",
+      "spa": "Protección",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🛡️"
+    },
+    {
+      "eng": "Reduce the amount",
+      "spa": "Reducir la cantidad",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "📉"
+    },
+    {
+      "eng": "Rest",
+      "spa": "Descansar",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "😴"
+    },
+    {
+      "eng": "Reusable bag",
+      "spa": "Bolsa reutilizable",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🛍️"
+    },
+    {
+      "eng": "Sharp",
+      "spa": "Afilado/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🔪"
+    },
+    {
+      "eng": "Silly",
+      "spa": "Tonto/a",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "😜"
+    },
+    {
+      "eng": "Swallow air",
+      "spa": "Tragar aire",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "💨"
+    },
+    {
+      "eng": "Tear food apart",
+      "spa": "Desgarrar la comida",
+      "category": "CLIL Biology - Animal Actions",
+      "emoji": "🦷"
+    }
+  ]
+}

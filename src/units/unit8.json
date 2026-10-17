@@ -1,0 +1,1816 @@
+{
+  "unit": "Unid. 8: Film and Fiction",
+  "source": "I Succeed in English 2 Studentsbook and Workbook",
+  "year": "2026",
+  "DIALOGUES": [
+    {
+      "id": "u8x_weather_week_plan",
+      "category": "Unit 8 Fun Time - Choosing a Day",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "I want to go sailing this week.",
+          "spa": "Quiero ir a navegar esta semana.",
+          "emoji": "⛵"
+        },
+        {
+          "speaker": "B",
+          "eng": "Check the weather chart first.",
+          "spa": "Primero revisa la tabla del tiempo.",
+          "emoji": "🌦️"
+        },
+        {
+          "speaker": "A",
+          "eng": "Wednesday is sunny and windy.",
+          "spa": "El miércoles está soleado y ventoso.",
+          "emoji": "💨"
+        },
+        {
+          "speaker": "B",
+          "eng": "That sounds good for sailing.",
+          "spa": "Eso suena bien para navegar.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "What can we do on the rainy day?",
+          "spa": "¿Qué podemos hacer el día lluvioso?",
+          "emoji": "🌧️"
+        },
+        {
+          "speaker": "B",
+          "eng": "We can visit a museum.",
+          "spa": "Podemos visitar un museo.",
+          "emoji": "🏛️"
+        }
+      ]
+    },
+    {
+      "id": "u8x_sdg_planet_words",
+      "category": "Unit 8 SDG - Protect Trees",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What happens when land is very dry?",
+          "spa": "¿Qué pasa cuando la tierra está muy seca?",
+          "emoji": "🏜️"
+        },
+        {
+          "speaker": "B",
+          "eng": "It can become a desert.",
+          "spa": "Puede convertirse en un desierto.",
+          "emoji": "☀️"
+        },
+        {
+          "speaker": "A",
+          "eng": "What are Everest and K2?",
+          "spa": "¿Qué son el Everest y el K2?",
+          "emoji": "🏔️"
+        },
+        {
+          "speaker": "B",
+          "eng": "They're mountains.",
+          "spa": "Son montañas.",
+          "emoji": "⛰️"
+        },
+        {
+          "speaker": "A",
+          "eng": "What takes water to the oceans?",
+          "spa": "¿Qué lleva agua a los océanos?",
+          "emoji": "🌊"
+        },
+        {
+          "speaker": "B",
+          "eng": "Rivers do.",
+          "spa": "Los ríos.",
+          "emoji": "🏞️"
+        }
+      ]
+    },
+    {
+      "id": "fp_litter_school",
+      "category": "Final Project - Litter near school",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What litter do you usually see near school?",
+          "spa": "¿Qué basura sueles ver cerca de la escuela?",
+          "emoji": "🗑️"
+        },
+        {
+          "speaker": "B",
+          "eng": "I often see plastic bottles and crisp packets.",
+          "spa": "A menudo veo botellas de plástico y paquetes de papas fritas.",
+          "emoji": "🥤"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you see broken glass?",
+          "spa": "¿Ves vidrios rotos?",
+          "emoji": "🟩"
+        },
+        {
+          "speaker": "B",
+          "eng": "Sometimes, but not very often.",
+          "spa": "A veces, pero no muy seguido.",
+          "emoji": "⚠️"
+        },
+        {
+          "speaker": "A",
+          "eng": "We should organise a litter pick.",
+          "spa": "Deberíamos organizar una jornada de recolección de basura.",
+          "emoji": "🧤"
+        },
+        {
+          "speaker": "B",
+          "eng": "Good idea!",
+          "spa": "¡Buena idea!",
+          "emoji": "👍"
+        }
+      ]
+    },
+    {
+      "id": "fp_litter_equipment",
+      "category": "Final Project - Equipment",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What equipment do we need?",
+          "spa": "¿Qué equipo necesitamos?",
+          "emoji": "🎒"
+        },
+        {
+          "speaker": "B",
+          "eng": "We need bags and gloves.",
+          "spa": "Necesitamos bolsas y guantes.",
+          "emoji": "🧤"
+        },
+        {
+          "speaker": "A",
+          "eng": "Should we take boots?",
+          "spa": "¿Deberíamos llevar botas?",
+          "emoji": "🥾"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, especially if the ground is wet.",
+          "spa": "Sí, especialmente si el suelo está mojado.",
+          "emoji": "💧"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do we need a map and a phone?",
+          "spa": "¿Necesitamos un mapa y un teléfono?",
+          "emoji": "🗺️"
+        },
+        {
+          "speaker": "B",
+          "eng": "They can be useful too.",
+          "spa": "También pueden ser útiles.",
+          "emoji": "📱"
+        }
+      ]
+    },
+    {
+      "id": "fp_litter_poster",
+      "category": "Final Project - Planning a poster",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "When is our litter pick?",
+          "spa": "¿Cuándo es nuestra jornada de limpieza?",
+          "emoji": "📅"
+        },
+        {
+          "speaker": "B",
+          "eng": "On Saturday morning.",
+          "spa": "El sábado por la mañana.",
+          "emoji": "🌅"
+        },
+        {
+          "speaker": "A",
+          "eng": "Where is it?",
+          "spa": "¿Dónde es?",
+          "emoji": "📍"
+        },
+        {
+          "speaker": "B",
+          "eng": "At Riverside Park.",
+          "spa": "En Riverside Park.",
+          "emoji": "🌳"
+        },
+        {
+          "speaker": "A",
+          "eng": "What should we put on the poster?",
+          "spa": "¿Qué deberíamos poner en el póster?",
+          "emoji": "🖼️"
+        },
+        {
+          "speaker": "B",
+          "eng": "The date, time, place and equipment.",
+          "spa": "La fecha, la hora, el lugar y el equipo necesario.",
+          "emoji": "📝"
+        }
+      ]
+    },
+    {
+      "id": "fp_litter_group",
+      "category": "Final Project - Group work",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Which poster do you prefer?",
+          "spa": "¿Qué póster prefieres?",
+          "emoji": "🖼️"
+        },
+        {
+          "speaker": "B",
+          "eng": "Poster B. The information is clear and the pictures are useful.",
+          "spa": "El póster B. La información es clara y las imágenes son útiles.",
+          "emoji": "✅"
+        },
+        {
+          "speaker": "A",
+          "eng": "What can we improve?",
+          "spa": "¿Qué podemos mejorar?",
+          "emoji": "💡"
+        },
+        {
+          "speaker": "B",
+          "eng": "We can make the time bigger and add the equipment list.",
+          "spa": "Podemos hacer la hora más grande y agregar la lista de equipo.",
+          "emoji": "📝"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do we all agree?",
+          "spa": "¿Estamos todos de acuerdo?",
+          "emoji": "🤝"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes. Let's finish it together.",
+          "spa": "Sí. Terminémoslo juntos.",
+          "emoji": "👥"
+        }
+      ]
+    },
+    {
+      "id": "u8_func_cinema_review",
+      "category": "Film - Talking about a movie",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Did you go to the cinema at the weekend?",
+          "spa": "¿Fuiste al cine el fin de semana?",
+          "emoji": "🎟️"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I did. I watched a new animated film with my friends.",
+          "spa": "Sí. Vi una nueva película animada con mis amigos.",
+          "emoji": "🍿"
+        },
+        {
+          "speaker": "A",
+          "eng": "What did you think of it?",
+          "spa": "¿Qué te pareció?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "B",
+          "eng": "In my opinion, it was brilliant! The special effects were amazing.",
+          "spa": "En mi opinión, ¡fue brillante! Los efectos especiales fueron increíbles.",
+          "emoji": "✨"
+        },
+        {
+          "speaker": "A",
+          "eng": "Who was your favourite character?",
+          "spa": "¿Quién fue tu personaje favorito?",
+          "emoji": "🦸"
+        },
+        {
+          "speaker": "B",
+          "eng": "The brave little robot. He was very funny.",
+          "spa": "El valiente robotito. Era muy divertido.",
+          "emoji": "🤖"
+        }
+      ]
+    },
+    {
+      "id": "u8_func_favourite_genres",
+      "category": "Film genres and preferences",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What kind of films do you like best?",
+          "spa": "¿Qué tipo de películas te gustan más?",
+          "emoji": "🎬"
+        },
+        {
+          "speaker": "B",
+          "eng": "I love sci-fi and fantasy films.",
+          "spa": "Me encantan las películas de ciencia ficción y fantasía.",
+          "emoji": "🚀"
+        },
+        {
+          "speaker": "A",
+          "eng": "Do you like horror films?",
+          "spa": "¿Te gustan las películas de terror?",
+          "emoji": "👻"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, I can't stand them. They are too scary!",
+          "spa": "No, no las soporto. ¡Dan demasiado miedo!",
+          "emoji": "😱"
+        },
+        {
+          "speaker": "A",
+          "eng": "I prefer comedies because they make me laugh.",
+          "spa": "Yo prefiero las comedias porque me hacen reír.",
+          "emoji": "😂"
+        },
+        {
+          "speaker": "B",
+          "eng": "Comedies are great to watch with family.",
+          "spa": "Las comedias son geniales para ver en familia.",
+          "emoji": "👨‍👩‍👧"
+        }
+      ]
+    }
+  ],
+  "GRAMMAR_QUIZZES": [
+    {
+      "id": "u8_fq001",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Action film\"?",
+      "options": [
+        "Película de acción",
+        "Comedia",
+        "Documental"
+      ],
+      "correctAnswer": "Película de acción",
+      "emoji": "💥",
+      "spa": "Película de acción",
+      "optionsLang": "es",
+      "eng": "Action film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq002",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Animated film\"?",
+      "options": [
+        "Película animada / de animación",
+        "Película de terror",
+        "Musical"
+      ],
+      "correctAnswer": "Película animada / de animación",
+      "emoji": "🎨",
+      "spa": "Película animada / de animación",
+      "optionsLang": "es",
+      "eng": "Animated film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq003",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Comedy\"?",
+      "options": [
+        "Comedia",
+        "Drama",
+        "Película de acción"
+      ],
+      "correctAnswer": "Comedia",
+      "emoji": "😂",
+      "spa": "Comedia",
+      "optionsLang": "es",
+      "eng": "Comedy",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq004",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Documentary\"?",
+      "options": [
+        "Documental",
+        "Comedia",
+        "Musical"
+      ],
+      "correctAnswer": "Documental",
+      "emoji": "📹",
+      "spa": "Documental",
+      "optionsLang": "es",
+      "eng": "Documentary",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq005",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Fantasy film\"?",
+      "options": [
+        "Película fantástica / de fantasía",
+        "Película de ciencia ficción",
+        "Western"
+      ],
+      "correctAnswer": "Película fantástica / de fantasía",
+      "emoji": "🧙",
+      "spa": "Película fantástica / de fantasía",
+      "optionsLang": "es",
+      "eng": "Fantasy film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq006",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Horror film\"?",
+      "options": [
+        "Película de terror",
+        "Comedia",
+        "Película animada"
+      ],
+      "correctAnswer": "Película de terror",
+      "emoji": "👻",
+      "spa": "Película de terror",
+      "optionsLang": "es",
+      "eng": "Horror film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq007",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Musical\"?",
+      "options": [
+        "Musical",
+        "Documental",
+        "Acción"
+      ],
+      "correctAnswer": "Musical",
+      "emoji": "🎵",
+      "spa": "Musical",
+      "optionsLang": "es",
+      "eng": "Musical",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq008",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Sci-fi film\"?",
+      "options": [
+        "Película de ciencia ficción",
+        "Película de terror",
+        "Comedia"
+      ],
+      "correctAnswer": "Película de ciencia ficción",
+      "emoji": "🚀",
+      "spa": "Película de ciencia ficción",
+      "optionsLang": "es",
+      "eng": "Sci-fi film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq009",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Actor / Actress\"?",
+      "options": [
+        "Actor / Actriz",
+        "Director",
+        "Guionista"
+      ],
+      "correctAnswer": "Actor / Actriz",
+      "emoji": "🎭",
+      "spa": "Actor / Actriz",
+      "optionsLang": "es",
+      "eng": "Actor / Actress",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq010",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Character\"?",
+      "options": [
+        "Personaje",
+        "Actor",
+        "Director"
+      ],
+      "correctAnswer": "Personaje",
+      "emoji": "🦸",
+      "spa": "Personaje",
+      "optionsLang": "es",
+      "eng": "Character",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq011",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Director\"?",
+      "options": [
+        "Director / Directora",
+        "Personaje",
+        "Cámara"
+      ],
+      "correctAnswer": "Director / Directora",
+      "emoji": "🎬",
+      "spa": "Director / Directora",
+      "optionsLang": "es",
+      "eng": "Director",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq012",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Soundtrack\"?",
+      "options": [
+        "Banda sonora",
+        "Efectos de sonido",
+        "Subtítulos"
+      ],
+      "correctAnswer": "Banda sonora",
+      "emoji": "🎶",
+      "spa": "Banda sonora",
+      "optionsLang": "es",
+      "eng": "Soundtrack",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_fq013",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Special effects\"?",
+      "options": [
+        "Efectos especiales",
+        "Banda sonora",
+        "Vestuario"
+      ],
+      "correctAnswer": "Efectos especiales",
+      "emoji": "✨",
+      "spa": "Efectos especiales",
+      "optionsLang": "es",
+      "eng": "Special effects",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq001",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Película de acción\" en inglés?",
+      "options": [
+        "Action film",
+        "Animated film",
+        "Fantasy film"
+      ],
+      "correctAnswer": "Action film",
+      "emoji": "💥",
+      "spa": "Película de acción",
+      "optionsLang": "en",
+      "eng": "Action film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq002",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Película animada / de animación\" en inglés?",
+      "options": [
+        "Animated film",
+        "Comedy",
+        "Horror film"
+      ],
+      "correctAnswer": "Animated film",
+      "emoji": "🎨",
+      "spa": "Película animada / de animación",
+      "optionsLang": "en",
+      "eng": "Animated film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq003",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Comedia\" en inglés?",
+      "options": [
+        "Comedy",
+        "Documentary",
+        "Musical"
+      ],
+      "correctAnswer": "Comedy",
+      "emoji": "😂",
+      "spa": "Comedia",
+      "optionsLang": "en",
+      "eng": "Comedy",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq004",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Documental\" en inglés?",
+      "options": [
+        "Documentary",
+        "Fantasy film",
+        "Sci-fi film"
+      ],
+      "correctAnswer": "Documentary",
+      "emoji": "📹",
+      "spa": "Documental",
+      "optionsLang": "en",
+      "eng": "Documentary",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq005",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Película fantástica / de fantasía\" en inglés?",
+      "options": [
+        "Actor / Actress",
+        "Fantasy film",
+        "Horror film"
+      ],
+      "correctAnswer": "Fantasy film",
+      "emoji": "🧙",
+      "spa": "Película fantástica / de fantasía",
+      "optionsLang": "en",
+      "eng": "Fantasy film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq006",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Película de terror\" en inglés?",
+      "options": [
+        "Character",
+        "Horror film",
+        "Musical"
+      ],
+      "correctAnswer": "Horror film",
+      "emoji": "👻",
+      "spa": "Película de terror",
+      "optionsLang": "en",
+      "eng": "Horror film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq007",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Musical\" en inglés?",
+      "options": [
+        "Director",
+        "Musical",
+        "Sci-fi film"
+      ],
+      "correctAnswer": "Musical",
+      "emoji": "🎵",
+      "spa": "Musical",
+      "optionsLang": "en",
+      "eng": "Musical",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq008",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Película de ciencia ficción\" en inglés?",
+      "options": [
+        "Actor / Actress",
+        "Sci-fi film",
+        "Soundtrack"
+      ],
+      "correctAnswer": "Sci-fi film",
+      "emoji": "🚀",
+      "spa": "Película de ciencia ficción",
+      "optionsLang": "en",
+      "eng": "Sci-fi film",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq009",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Actor / Actriz\" en inglés?",
+      "options": [
+        "Actor / Actress",
+        "Character",
+        "Special effects"
+      ],
+      "correctAnswer": "Actor / Actress",
+      "emoji": "🎭",
+      "spa": "Actor / Actriz",
+      "optionsLang": "en",
+      "eng": "Actor / Actress",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq010",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Personaje\" en inglés?",
+      "options": [
+        "Action film",
+        "Character",
+        "Director"
+      ],
+      "correctAnswer": "Character",
+      "emoji": "🦸",
+      "spa": "Personaje",
+      "optionsLang": "en",
+      "eng": "Character",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq011",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Director / Directora\" en inglés?",
+      "options": [
+        "Animated film",
+        "Director",
+        "Soundtrack"
+      ],
+      "correctAnswer": "Director",
+      "emoji": "🎬",
+      "spa": "Director / Directora",
+      "optionsLang": "en",
+      "eng": "Director",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq012",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Banda sonora\" en inglés?",
+      "options": [
+        "Comedy",
+        "Soundtrack",
+        "Special effects"
+      ],
+      "correctAnswer": "Soundtrack",
+      "emoji": "🎶",
+      "spa": "Banda sonora",
+      "optionsLang": "en",
+      "eng": "Soundtrack",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_feng_fq013",
+      "category": "Film and Fiction",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Efectos especiales\" en inglés?",
+      "options": [
+        "Action film",
+        "Documentary",
+        "Special effects"
+      ],
+      "correctAnswer": "Special effects",
+      "emoji": "✨",
+      "spa": "Efectos especiales",
+      "optionsLang": "en",
+      "eng": "Special effects",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww01",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "The film ___ very exciting.",
+      "options": [
+        "was",
+        "were",
+        "is"
+      ],
+      "correctAnswer": "was",
+      "emoji": "🎬",
+      "spa": "La película fue muy emocionante.",
+      "optionsLang": "en",
+      "eng": "The film was very exciting.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww02",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "The special effects ___ fantastic!",
+      "options": [
+        "were",
+        "was",
+        "are"
+      ],
+      "correctAnswer": "were",
+      "emoji": "✨",
+      "spa": "¡Los efectos especiales fueron fantásticos!",
+      "optionsLang": "en",
+      "eng": "The special effects were fantastic!",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww03",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I ___ at the cinema last night.",
+      "options": [
+        "was",
+        "were",
+        "am"
+      ],
+      "correctAnswer": "was",
+      "emoji": "🍿",
+      "spa": "Estuve en el cine anoche.",
+      "optionsLang": "en",
+      "eng": "I was at the cinema last night.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww04",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "They ___ not scared during the movie.",
+      "options": [
+        "were",
+        "was",
+        "did"
+      ],
+      "correctAnswer": "were",
+      "emoji": "👻",
+      "spa": "Ellos no tuvieron miedo durante la película.",
+      "optionsLang": "en",
+      "eng": "They were not scared during the movie.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww05",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ the tickets expensive?",
+      "options": [
+        "Were",
+        "Was",
+        "Did"
+      ],
+      "correctAnswer": "Were",
+      "emoji": "🎟️",
+      "spa": "¿Las entradas fueron caras?",
+      "optionsLang": "en",
+      "eng": "Were the tickets expensive?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww06",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Arthur ___ a young boy when he found the sword.",
+      "options": [
+        "was",
+        "were",
+        "is"
+      ],
+      "correctAnswer": "was",
+      "emoji": "⚔️",
+      "spa": "Arthur era un niño cuando encontró la espada.",
+      "optionsLang": "en",
+      "eng": "Arthur was a young boy.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww07",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "We ___ at home all weekend.",
+      "options": [
+        "were",
+        "was",
+        "are"
+      ],
+      "correctAnswer": "were",
+      "emoji": "🏠",
+      "spa": "Estuvimos en casa todo el fin de semana.",
+      "optionsLang": "en",
+      "eng": "We were at home all weekend.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_ww08",
+      "category": "Past Simple - Was and Were",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Wednesday ___ sunny and warm.",
+      "options": [
+        "was",
+        "were",
+        "did"
+      ],
+      "correctAnswer": "was",
+      "emoji": "☀️",
+      "spa": "El miércoles estuvo soleado y templado.",
+      "optionsLang": "en",
+      "eng": "Wednesday was sunny and warm.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv01",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "We ___ an animated movie on Saturday. (watch)",
+      "options": [
+        "watched",
+        "watches",
+        "watching"
+      ],
+      "correctAnswer": "watched",
+      "emoji": "🍿",
+      "spa": "Vimos una película animada el sábado.",
+      "optionsLang": "en",
+      "eng": "We watched an animated movie on Saturday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv02",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "They ___ to the cinema by bus. (go)",
+      "options": [
+        "went",
+        "goed",
+        "gone"
+      ],
+      "correctAnswer": "went",
+      "emoji": "🚌",
+      "spa": "Fueron al cine en colectivo.",
+      "optionsLang": "en",
+      "eng": "They went to the cinema by bus.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv03",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Arthur ___ the sword from the stone. (pull)",
+      "options": [
+        "pulled",
+        "pulls",
+        "pulling"
+      ],
+      "correctAnswer": "pulled",
+      "emoji": "⚔️",
+      "spa": "Arthur sacó la espada de la piedra.",
+      "optionsLang": "en",
+      "eng": "Arthur pulled the sword from the stone.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv04",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I ___ pop-corn and a drink. (buy)",
+      "options": [
+        "bought",
+        "buyed",
+        "buys"
+      ],
+      "correctAnswer": "bought",
+      "emoji": "🍿",
+      "spa": "Compré pochoclos y una bebida.",
+      "optionsLang": "en",
+      "eng": "I bought popcorn and a drink.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv05",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "She ___ the ending of the story. (love)",
+      "options": [
+        "loved",
+        "loveed",
+        "loves"
+      ],
+      "correctAnswer": "loved",
+      "emoji": "❤️",
+      "spa": "Le encantó el final de la historia.",
+      "optionsLang": "en",
+      "eng": "She loved the ending of the story.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv06",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "We ___ fifty bags of litter in the park. (collect)",
+      "options": [
+        "collected",
+        "collects",
+        "collecting"
+      ],
+      "correctAnswer": "collected",
+      "emoji": "🧤",
+      "spa": "Juntamos cincuenta bolsas de basura en el parque.",
+      "optionsLang": "en",
+      "eng": "We collected fifty bags of litter.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv07",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "He ___ a great review online. (write)",
+      "options": [
+        "wrote",
+        "writed",
+        "written"
+      ],
+      "correctAnswer": "wrote",
+      "emoji": "📝",
+      "spa": "Escribió una gran reseña en internet.",
+      "optionsLang": "en",
+      "eng": "He wrote a great review online.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pv08",
+      "category": "Past Simple - Affirmative Verbs",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "The knights ___ very hard. (try)",
+      "options": [
+        "tried",
+        "tryed",
+        "trying"
+      ],
+      "correctAnswer": "tried",
+      "emoji": "💪",
+      "spa": "Los caballeros lo intentaron con fuerza.",
+      "optionsLang": "en",
+      "eng": "The knights tried very hard.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pn01",
+      "category": "Past Simple - Questions and Negatives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I ___ like the horror movie. It was too scary.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't"
+      ],
+      "correctAnswer": "didn't",
+      "emoji": "😱",
+      "spa": "No me gustó la película de terror.",
+      "optionsLang": "en",
+      "eng": "I didn't like the horror movie.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pn02",
+      "category": "Past Simple - Questions and Negatives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ you go to the cinema yesterday?",
+      "options": [
+        "Did",
+        "Do",
+        "Were"
+      ],
+      "correctAnswer": "Did",
+      "emoji": "❓",
+      "spa": "¿Fuiste al cine ayer?",
+      "optionsLang": "en",
+      "eng": "Did you go to the cinema yesterday?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pn03",
+      "category": "Past Simple - Questions and Negatives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Did you enjoy the film? - Yes, I ___.",
+      "options": [
+        "did",
+        "do",
+        "enjoyed"
+      ],
+      "correctAnswer": "did",
+      "emoji": "✅",
+      "spa": "Sí, lo disfruté.",
+      "optionsLang": "en",
+      "eng": "Yes, I did.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pn04",
+      "category": "Past Simple - Questions and Negatives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Did she cry at the end? - No, she ___.",
+      "options": [
+        "didn't",
+        "doesn't",
+        "wasn't"
+      ],
+      "correctAnswer": "didn't",
+      "emoji": "❌",
+      "spa": "No, no lloró.",
+      "optionsLang": "en",
+      "eng": "No, she didn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pn05",
+      "category": "Past Simple - Questions and Negatives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "They ___ see the ending because they left early.",
+      "options": [
+        "didn't",
+        "weren't",
+        "don't"
+      ],
+      "correctAnswer": "didn't",
+      "emoji": "🚪",
+      "spa": "No vieron el final porque se fueron temprano.",
+      "optionsLang": "en",
+      "eng": "They didn't see the ending.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pn06",
+      "category": "Past Simple - Questions and Negatives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "What film ___ you watch last weekend?",
+      "options": [
+        "did",
+        "do",
+        "were"
+      ],
+      "correctAnswer": "did",
+      "emoji": "🎬",
+      "spa": "¿Qué película viste el fin de semana pasado?",
+      "optionsLang": "en",
+      "eng": "What film did you watch last weekend?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_pn07",
+      "category": "Past Simple - Questions and Negatives",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Where ___ Arthur find the sword?",
+      "options": [
+        "did",
+        "was",
+        "does"
+      ],
+      "correctAnswer": "did",
+      "emoji": "⚔️",
+      "spa": "¿Dónde encontró Arthur la espada?",
+      "optionsLang": "en",
+      "eng": "Where did Arthur find the sword?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_np01",
+      "category": "Weather, Nature & Final Project",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Wednesday is ___ and windy. (soleado)",
+      "options": [
+        "sunny",
+        "foggy",
+        "stormy"
+      ],
+      "correctAnswer": "sunny",
+      "emoji": "☀️",
+      "spa": "El miércoles está soleado y ventoso.",
+      "optionsLang": "en",
+      "eng": "sunny",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_np02",
+      "category": "Weather, Nature & Final Project",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "When land is very dry for years, it can become a ___.",
+      "options": [
+        "desert",
+        "river",
+        "mountain"
+      ],
+      "correctAnswer": "desert",
+      "emoji": "🏜️",
+      "spa": "Se puede convertir en un desierto.",
+      "optionsLang": "en",
+      "eng": "desert",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_np03",
+      "category": "Weather, Nature & Final Project",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Everest and K2 are famous ___.",
+      "options": [
+        "mountains",
+        "oceans",
+        "lakes"
+      ],
+      "correctAnswer": "mountains",
+      "emoji": "⛰️",
+      "spa": "Son famosas montañas.",
+      "optionsLang": "en",
+      "eng": "mountains",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_np04",
+      "category": "Weather, Nature & Final Project",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Rivers carry water to the ___.",
+      "options": [
+        "oceans",
+        "deserts",
+        "trees"
+      ],
+      "correctAnswer": "oceans",
+      "emoji": "🌊",
+      "spa": "Los ríos llevan agua a los océanos.",
+      "optionsLang": "en",
+      "eng": "oceans",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_np05",
+      "category": "Weather, Nature & Final Project",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "What equipment do students need for a litter pick?",
+      "options": [
+        "Bags, gloves and boots",
+        "Books and pencils",
+        "Tennis rackets"
+      ],
+      "correctAnswer": "Bags, gloves and boots",
+      "emoji": "🧤",
+      "spa": "Bolsas, guantes y botas.",
+      "optionsLang": "en",
+      "eng": "Bags, gloves and boots",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_np06",
+      "category": "Weather, Nature & Final Project",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "What should be on the campaign poster?",
+      "options": [
+        "Date, time, place and equipment",
+        "Only pictures of cars",
+        "Nothing"
+      ],
+      "correctAnswer": "Date, time, place and equipment",
+      "emoji": "🖼️",
+      "spa": "Fecha, hora, lugar y equipo.",
+      "optionsLang": "en",
+      "eng": "Date, time, place and equipment",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u8_np07",
+      "category": "Weather, Nature & Final Project",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa 'litter pick'?",
+      "options": [
+        "Jornada de recolección de basura",
+        "Elegir un postre",
+        "Jugar al fútbol"
+      ],
+      "correctAnswer": "Jornada de recolección de basura",
+      "emoji": "🚯",
+      "spa": "Jornada de recolección de basura.",
+      "optionsLang": "en",
+      "eng": "litter pick",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    }
+  ],
+  "READING_COMPREHENSION": [
+    {
+      "category": "The Magic of Animated Movies",
+      "readingText": "Animated movies are loved by people of all ages. Long ago, artists drew every single picture by hand on transparent sheets called cels. It took thousands of drawings to make just one minute of film! Today, animators use powerful computers and 3D software to create lifelike textures, lighting, and expressions. Famous animation studios like Pixar and Studio Ghibli spend up to four years making a single movie. The key to a great animated film is not just fancy technology, but a heartwarming story with relatable characters.",
+      "emoji": "🎨",
+      "questions": [
+        {
+          "q": "How did artists make animated movies long ago?",
+          "a": "They drew every picture by hand",
+          "options": [
+            "They drew every picture by hand",
+            "Using smartphones",
+            "With AI cameras"
+          ]
+        },
+        {
+          "q": "What do animators use today?",
+          "a": "Computers and 3D software",
+          "options": [
+            "Computers and 3D software",
+            "Only chalk and blackboards",
+            "Wooden puppets only"
+          ]
+        },
+        {
+          "q": "How long does it take to make a feature movie?",
+          "a": "Up to four years",
+          "options": [
+            "Up to four years",
+            "One afternoon",
+            "One week"
+          ]
+        },
+        {
+          "q": "What is the key to a great animated film?",
+          "a": "A heartwarming story and relatable characters",
+          "options": [
+            "A heartwarming story and relatable characters",
+            "Having no soundtrack",
+            "Making it as short as possible"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "The Legend of King Arthur",
+      "readingText": "One of the most famous stories in English literature is the legend of King Arthur. According to the tale, Britain had no king and the land was in chaos. In a churchyard in London, a magical sword appeared stuck inside a solid stone anvil with golden letters: 'Whoso pulleth out this sword is rightwise King of England'. Many strong knights and nobles pulled with all their strength, but nobody could move it. One day, a young boy named Arthur tried. He pulled the sword out easily and became a wise, just king.",
+      "emoji": "⚔️",
+      "questions": [
+        {
+          "q": "Where was the magical sword stuck?",
+          "a": "Inside a solid stone anvil",
+          "options": [
+            "Inside a solid stone anvil",
+            "At the bottom of the sea",
+            "In a hollow tree"
+          ]
+        },
+        {
+          "q": "Could the strong knights pull the sword out?",
+          "a": "No, they couldn't.",
+          "options": [
+            "Yes, they did easily.",
+            "No, they couldn't.",
+            "They didn't try."
+          ]
+        },
+        {
+          "q": "Who pulled the sword out easily?",
+          "a": "A young boy named Arthur",
+          "options": [
+            "A young boy named Arthur",
+            "A French pirate",
+            "A Roman emperor"
+          ]
+        },
+        {
+          "q": "What kind of king did Arthur become?",
+          "a": "A wise, just king",
+          "options": [
+            "A wise, just king",
+            "A cruel ruler",
+            "A cowardly king"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Final Project - Clean School Campaign",
+      "readingText": "Last Friday, students at Oakwood Secondary School completed their Final Project. During the week, they inspected the streets near their school and recorded the types of litter they found. Most litter consisted of plastic drink bottles, snack packets, and soda cans. On Saturday morning, thirty volunteers gathered at Riverside Park. Equipped with sturdy gloves, bin bags, and safety boots, they collected over fifty bags of rubbish in just three hours. Afterwards, the team created colourful posters to encourage everyone in the neighbourhood to keep the park clean.",
+      "emoji": "🧤",
+      "questions": [
+        {
+          "q": "What project did Oakwood students complete?",
+          "a": "A Clean School Campaign",
+          "options": [
+            "A Clean School Campaign",
+            "A science fiction movie",
+            "A chess tournament"
+          ]
+        },
+        {
+          "q": "What was the most common litter?",
+          "a": "Plastic bottles, snack packets, and cans",
+          "options": [
+            "Plastic bottles, snack packets, and cans",
+            "Old computers",
+            "Car wheels"
+          ]
+        },
+        {
+          "q": "How many bags of rubbish did they collect?",
+          "a": "Over fifty bags",
+          "options": [
+            "Over fifty bags",
+            "Only two small bags",
+            "Zero bags"
+          ]
+        },
+        {
+          "q": "What did the team create afterwards?",
+          "a": "Colourful posters to keep the park clean",
+          "options": [
+            "Colourful posters to keep the park clean",
+            "A new computer game",
+            "A pizza shop"
+          ]
+        }
+      ]
+    }
+  ],
+  "SENTENCES": [
+    {
+      "eng": "I watched an exciting sci-fi movie yesterday.",
+      "spa": "Ayer vi una película emocionante de ciencia ficción.",
+      "category": "Past Simple",
+      "emoji": "🚀"
+    },
+    {
+      "eng": "We went to the cinema last Saturday.",
+      "spa": "Fuimos al cine el sábado pasado.",
+      "category": "Past Simple",
+      "emoji": "🎬"
+    },
+    {
+      "eng": "The actors were brilliant and the soundtrack was great.",
+      "spa": "Los actores fueron brillantes y la banda sonora fue genial.",
+      "category": "Past Simple",
+      "emoji": "🎵"
+    },
+    {
+      "eng": "She didn't like the horror film because it was too scary.",
+      "spa": "No le gustó la película de terror porque daba demasiado miedo.",
+      "category": "Past Simple",
+      "emoji": "👻"
+    },
+    {
+      "eng": "Did you enjoy the film? - Yes, I did.",
+      "spa": "¿Disfrutaste la película? - Sí, la disfruté.",
+      "category": "Past Simple",
+      "emoji": "🍿"
+    },
+    {
+      "eng": "Arthur pulled the magic sword out of the stone.",
+      "spa": "Arthur sacó la espada mágica de la piedra.",
+      "category": "Past Simple",
+      "emoji": "⚔️"
+    },
+    {
+      "eng": "Wednesday was sunny and windy.",
+      "spa": "El miércoles estuvo soleado y ventoso.",
+      "category": "Weather and Nature",
+      "emoji": "💨"
+    },
+    {
+      "eng": "Volunteers collected fifty bags of litter in the park.",
+      "spa": "Los voluntarios juntaron cincuenta bolsas de basura en el parque.",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🧤"
+    },
+    {
+      "eng": "Our group designed an eye-catching poster.",
+      "spa": "Nuestro grupo diseñó un cartel muy llamativo.",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🖼️"
+    }
+  ],
+  "VOCABULARY": [
+    {
+      "eng": "Action film",
+      "spa": "Película de acción",
+      "category": "Film and Fiction",
+      "emoji": "💥"
+    },
+    {
+      "eng": "Animated film",
+      "spa": "Película animada / de animación",
+      "category": "Film and Fiction",
+      "emoji": "🎨"
+    },
+    {
+      "eng": "Comedy",
+      "spa": "Comedia",
+      "category": "Film and Fiction",
+      "emoji": "😂"
+    },
+    {
+      "eng": "Documentary",
+      "spa": "Documental",
+      "category": "Film and Fiction",
+      "emoji": "📹"
+    },
+    {
+      "eng": "Fantasy film",
+      "spa": "Película fantástica / de fantasía",
+      "category": "Film and Fiction",
+      "emoji": "🧙"
+    },
+    {
+      "eng": "Horror film",
+      "spa": "Película de terror",
+      "category": "Film and Fiction",
+      "emoji": "👻"
+    },
+    {
+      "eng": "Musical",
+      "spa": "Musical",
+      "category": "Film and Fiction",
+      "emoji": "🎵"
+    },
+    {
+      "eng": "Sci-fi film",
+      "spa": "Película de ciencia ficción",
+      "category": "Film and Fiction",
+      "emoji": "🚀"
+    },
+    {
+      "eng": "Actor / Actress",
+      "spa": "Actor / Actriz",
+      "category": "Film and Fiction",
+      "emoji": "🎭"
+    },
+    {
+      "eng": "Character",
+      "spa": "Personaje",
+      "category": "Film and Fiction",
+      "emoji": "🦸"
+    },
+    {
+      "eng": "Director",
+      "spa": "Director / Directora",
+      "category": "Film and Fiction",
+      "emoji": "🎬"
+    },
+    {
+      "eng": "Plot",
+      "spa": "Trama / Argumento",
+      "category": "Film and Fiction",
+      "emoji": "📜"
+    },
+    {
+      "eng": "Scene",
+      "spa": "Escena",
+      "category": "Film and Fiction",
+      "emoji": "🎥"
+    },
+    {
+      "eng": "Soundtrack",
+      "spa": "Banda sonora",
+      "category": "Film and Fiction",
+      "emoji": "🎶"
+    },
+    {
+      "eng": "Special effects",
+      "spa": "Efectos especiales",
+      "category": "Film and Fiction",
+      "emoji": "✨"
+    },
+    {
+      "eng": "Yesterday",
+      "spa": "Ayer",
+      "category": "Past Time Expressions",
+      "emoji": "📅"
+    },
+    {
+      "eng": "Last night",
+      "spa": "Anoche",
+      "category": "Past Time Expressions",
+      "emoji": "🌙"
+    },
+    {
+      "eng": "Last weekend",
+      "spa": "El fin de semana pasado",
+      "category": "Past Time Expressions",
+      "emoji": "🏖️"
+    },
+    {
+      "eng": "Two days ago",
+      "spa": "Hace dos días",
+      "category": "Past Time Expressions",
+      "emoji": "⏪"
+    },
+    {
+      "eng": "Sunny",
+      "spa": "Soleado",
+      "category": "Weather and Nature",
+      "emoji": "☀️"
+    },
+    {
+      "eng": "Rainy",
+      "spa": "Lluvioso",
+      "category": "Weather and Nature",
+      "emoji": "🌧️"
+    },
+    {
+      "eng": "Windy",
+      "spa": "Ventoso",
+      "category": "Weather and Nature",
+      "emoji": "💨"
+    },
+    {
+      "eng": "Stormy",
+      "spa": "Tormentoso",
+      "category": "Weather and Nature",
+      "emoji": "⛈️"
+    },
+    {
+      "eng": "Foggy",
+      "spa": "Con niebla",
+      "category": "Weather and Nature",
+      "emoji": "🌫️"
+    },
+    {
+      "eng": "Snowy",
+      "spa": "Nevado / Con nieve",
+      "category": "Weather and Nature",
+      "emoji": "❄️"
+    },
+    {
+      "eng": "Mountain",
+      "spa": "Montaña",
+      "category": "Weather and Nature",
+      "emoji": "⛰️"
+    },
+    {
+      "eng": "River",
+      "spa": "Río",
+      "category": "Weather and Nature",
+      "emoji": "🏞️"
+    },
+    {
+      "eng": "Desert",
+      "spa": "Desierto",
+      "category": "Weather and Nature",
+      "emoji": "🏜️"
+    },
+    {
+      "eng": "Ocean",
+      "spa": "Océano",
+      "category": "Weather and Nature",
+      "emoji": "🌊"
+    },
+    {
+      "eng": "Litter",
+      "spa": "Basura",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🗑️"
+    },
+    {
+      "eng": "Gloves",
+      "spa": "Guantes",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🧤"
+    },
+    {
+      "eng": "Rubbish bags",
+      "spa": "Bolsas de basura",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🛍️"
+    },
+    {
+      "eng": "Equipment",
+      "spa": "Equipo / Materiales",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🎒"
+    },
+    {
+      "eng": "Poster",
+      "spa": "Póster / Cartel",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🖼️"
+    },
+    {
+      "eng": "Litter pick",
+      "spa": "Jornada de recolección de basura",
+      "category": "Final Project - Environmental Action",
+      "emoji": "🚯"
+    }
+  ]
+}

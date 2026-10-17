@@ -1,0 +1,3924 @@
+{
+  "unit": "Unid. 0: Introduction",
+  "source": "I Succeed in English 2 Studentsbook and Workbook",
+  "year": "2026",
+  "DIALOGUES": [
+    {
+      "id": "u0_func_spelling_name",
+      "category": "Introduction - Spelling names",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What's your name?",
+          "spa": "¿Cómo te llamas?",
+          "emoji": "👋"
+        },
+        {
+          "speaker": "B",
+          "eng": "I'm Molly.",
+          "spa": "Soy Molly.",
+          "emoji": "🙂"
+        },
+        {
+          "speaker": "A",
+          "eng": "How do you spell Molly?",
+          "spa": "¿Cómo se deletrea Molly?",
+          "emoji": "🔤"
+        },
+        {
+          "speaker": "B",
+          "eng": "M-O-L-L-Y.",
+          "spa": "M-O-L-L-Y.",
+          "emoji": "✨"
+        }
+      ]
+    },
+    {
+      "id": "u0_func_favourite_pet",
+      "category": "Introduction - Pets",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What's your favourite pet?",
+          "spa": "¿Cuál es tu mascota favorita?",
+          "emoji": "🐾"
+        },
+        {
+          "speaker": "B",
+          "eng": "My favourite pet is a rabbit.",
+          "spa": "Mi mascota favorita es el conejo.",
+          "emoji": "🐇"
+        },
+        {
+          "speaker": "A",
+          "eng": "Have you got a rabbit?",
+          "spa": "¿Tienes un conejo?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I have. It's white.",
+          "spa": "Sí. Es blanco.",
+          "emoji": "✅"
+        }
+      ]
+    },
+    {
+      "id": "u0_func_birthday",
+      "category": "Introduction - Birthday",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "When is your birthday?",
+          "spa": "¿Cuándo es tu cumpleaños?",
+          "emoji": "🎂"
+        },
+        {
+          "speaker": "B",
+          "eng": "My birthday is in October.",
+          "spa": "Mi cumpleaños es en octubre.",
+          "emoji": "📅"
+        },
+        {
+          "speaker": "A",
+          "eng": "What's your favourite season?",
+          "spa": "¿Cuál es tu estación favorita?",
+          "emoji": "🌦️"
+        },
+        {
+          "speaker": "B",
+          "eng": "My favourite season is spring.",
+          "spa": "Mi estación favorita es la primavera.",
+          "emoji": "🌸"
+        }
+      ]
+    },
+    {
+      "id": "u0_func_classroom_object",
+      "category": "Introduction - Classroom objects",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What's that?",
+          "spa": "¿Qué es eso?",
+          "emoji": "❓"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's an orange pencil case.",
+          "spa": "Es una cartuchera naranja.",
+          "emoji": "🧰"
+        },
+        {
+          "speaker": "A",
+          "eng": "What colour is the ruler?",
+          "spa": "¿De qué color es la regla?",
+          "emoji": "📏"
+        },
+        {
+          "speaker": "B",
+          "eng": "It's blue.",
+          "spa": "Es azul.",
+          "emoji": "🔵"
+        }
+      ]
+    }
+  ],
+  "GRAMMAR_QUIZZES": [
+    {
+      "id": "u0_gq001",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué letra viene después de B?",
+      "options": [
+        "C",
+        "D",
+        "A"
+      ],
+      "correctAnswer": "C",
+      "emoji": "🔤",
+      "spa": "La letra que sigue a B es C.",
+      "optionsLang": "en",
+      "eng": "C comes after B.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq002",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué letra viene antes de H?",
+      "options": [
+        "G",
+        "I",
+        "F"
+      ],
+      "correctAnswer": "G",
+      "emoji": "🔤",
+      "spa": "La letra anterior a H es G.",
+      "optionsLang": "en",
+      "eng": "G comes before H.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq003",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cómo se deletrea correctamente Molly?",
+      "options": [
+        "M-O-L-L-Y",
+        "M-A-L-I",
+        "M-O-L-Y"
+      ],
+      "correctAnswer": "M-O-L-L-Y",
+      "emoji": "🔤",
+      "spa": "Molly se deletrea M-O-L-L-Y.",
+      "optionsLang": "en",
+      "eng": "Molly is spelled M-O-L-L-Y.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq004",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige la letra inicial de dog.",
+      "options": [
+        "D",
+        "B",
+        "G"
+      ],
+      "correctAnswer": "D",
+      "emoji": "🔤",
+      "spa": "Dog comienza con D.",
+      "optionsLang": "en",
+      "eng": "Dog starts with D.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq005",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "Elige la letra inicial de rabbit.",
+      "options": [
+        "R",
+        "B",
+        "T"
+      ],
+      "correctAnswer": "R",
+      "emoji": "🔤",
+      "spa": "Rabbit comienza con R.",
+      "optionsLang": "en",
+      "eng": "Rabbit starts with R.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq006",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué letra viene después de M?",
+      "options": [
+        "N",
+        "L",
+        "O"
+      ],
+      "correctAnswer": "N",
+      "emoji": "🔤",
+      "spa": "Después de M viene N.",
+      "optionsLang": "en",
+      "eng": "N comes after M.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq007",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué letra viene antes de T?",
+      "options": [
+        "S",
+        "U",
+        "R"
+      ],
+      "correctAnswer": "S",
+      "emoji": "🔤",
+      "spa": "Antes de T viene S.",
+      "optionsLang": "en",
+      "eng": "S comes before T.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq008",
+      "category": "Alphabet",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué pregunta sirve para pedir que deletreen un nombre?",
+      "options": [
+        "How do you spell your name?",
+        "How old are you?",
+        "What's your favourite colour?"
+      ],
+      "correctAnswer": "How do you spell your name?",
+      "emoji": "🔤",
+      "spa": "La pregunta pide cómo se deletrea el nombre.",
+      "optionsLang": "en",
+      "eng": "How do you spell your name?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq009",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Negro\" en inglés?",
+      "options": [
+        "Black",
+        "Blue",
+        "Brown"
+      ],
+      "correctAnswer": "Black",
+      "emoji": "⚫",
+      "spa": "Negro",
+      "optionsLang": "en",
+      "eng": "Black",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq010",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Azul\" en inglés?",
+      "options": [
+        "Blue",
+        "Brown",
+        "Green"
+      ],
+      "correctAnswer": "Blue",
+      "emoji": "🔵",
+      "spa": "Azul",
+      "optionsLang": "en",
+      "eng": "Blue",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq011",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Marrón\" en inglés?",
+      "options": [
+        "Brown",
+        "Green",
+        "Grey"
+      ],
+      "correctAnswer": "Brown",
+      "emoji": "🟤",
+      "spa": "Marrón",
+      "optionsLang": "en",
+      "eng": "Brown",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq012",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Verde\" en inglés?",
+      "options": [
+        "Green",
+        "Grey",
+        "Orange"
+      ],
+      "correctAnswer": "Green",
+      "emoji": "🟢",
+      "spa": "Verde",
+      "optionsLang": "en",
+      "eng": "Green",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq013",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Gris\" en inglés?",
+      "options": [
+        "Grey",
+        "Orange",
+        "Pink"
+      ],
+      "correctAnswer": "Grey",
+      "emoji": "⚪",
+      "spa": "Gris",
+      "optionsLang": "en",
+      "eng": "Grey",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq014",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Naranja\" en inglés?",
+      "options": [
+        "Orange",
+        "Pink",
+        "Purple"
+      ],
+      "correctAnswer": "Orange",
+      "emoji": "🟠",
+      "spa": "Naranja",
+      "optionsLang": "en",
+      "eng": "Orange",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq015",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Rosa\" en inglés?",
+      "options": [
+        "Pink",
+        "Purple",
+        "Red"
+      ],
+      "correctAnswer": "Pink",
+      "emoji": "🩷",
+      "spa": "Rosa",
+      "optionsLang": "en",
+      "eng": "Pink",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq016",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Violeta\" en inglés?",
+      "options": [
+        "Purple",
+        "Red",
+        "White"
+      ],
+      "correctAnswer": "Purple",
+      "emoji": "🟣",
+      "spa": "Violeta",
+      "optionsLang": "en",
+      "eng": "Purple",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq017",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Rojo\" en inglés?",
+      "options": [
+        "Red",
+        "White",
+        "Yellow"
+      ],
+      "correctAnswer": "Red",
+      "emoji": "🔴",
+      "spa": "Rojo",
+      "optionsLang": "en",
+      "eng": "Red",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq018",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Blanco\" en inglés?",
+      "options": [
+        "White",
+        "Yellow",
+        "Black"
+      ],
+      "correctAnswer": "White",
+      "emoji": "⚪",
+      "spa": "Blanco",
+      "optionsLang": "en",
+      "eng": "White",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq019",
+      "category": "Colours",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Amarillo\" en inglés?",
+      "options": [
+        "Yellow",
+        "Black",
+        "Blue"
+      ],
+      "correctAnswer": "Yellow",
+      "emoji": "🟡",
+      "spa": "Amarillo",
+      "optionsLang": "en",
+      "eng": "Yellow",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq020",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 1.",
+      "options": [
+        "one",
+        "two",
+        "three"
+      ],
+      "correctAnswer": "one",
+      "emoji": "🔢",
+      "spa": "1: one.",
+      "optionsLang": "en",
+      "eng": "one",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq021",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 2.",
+      "options": [
+        "two",
+        "three",
+        "four"
+      ],
+      "correctAnswer": "two",
+      "emoji": "🔢",
+      "spa": "2: two.",
+      "optionsLang": "en",
+      "eng": "two",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq022",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 3.",
+      "options": [
+        "three",
+        "four",
+        "five"
+      ],
+      "correctAnswer": "three",
+      "emoji": "🔢",
+      "spa": "3: three.",
+      "optionsLang": "en",
+      "eng": "three",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq023",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 4.",
+      "options": [
+        "four",
+        "five",
+        "six"
+      ],
+      "correctAnswer": "four",
+      "emoji": "🔢",
+      "spa": "4: four.",
+      "optionsLang": "en",
+      "eng": "four",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq024",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 5.",
+      "options": [
+        "five",
+        "six",
+        "seven"
+      ],
+      "correctAnswer": "five",
+      "emoji": "🔢",
+      "spa": "5: five.",
+      "optionsLang": "en",
+      "eng": "five",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq025",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 6.",
+      "options": [
+        "six",
+        "seven",
+        "eight"
+      ],
+      "correctAnswer": "six",
+      "emoji": "🔢",
+      "spa": "6: six.",
+      "optionsLang": "en",
+      "eng": "six",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq026",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 7.",
+      "options": [
+        "seven",
+        "eight",
+        "nine"
+      ],
+      "correctAnswer": "seven",
+      "emoji": "🔢",
+      "spa": "7: seven.",
+      "optionsLang": "en",
+      "eng": "seven",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq027",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 8.",
+      "options": [
+        "eight",
+        "nine",
+        "ten"
+      ],
+      "correctAnswer": "eight",
+      "emoji": "🔢",
+      "spa": "8: eight.",
+      "optionsLang": "en",
+      "eng": "eight",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq028",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 9.",
+      "options": [
+        "nine",
+        "ten",
+        "eleven"
+      ],
+      "correctAnswer": "nine",
+      "emoji": "🔢",
+      "spa": "9: nine.",
+      "optionsLang": "en",
+      "eng": "nine",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq029",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 10.",
+      "options": [
+        "ten",
+        "eleven",
+        "twelve"
+      ],
+      "correctAnswer": "ten",
+      "emoji": "🔢",
+      "spa": "10: ten.",
+      "optionsLang": "en",
+      "eng": "ten",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq030",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 11.",
+      "options": [
+        "eleven",
+        "twelve",
+        "thirteen"
+      ],
+      "correctAnswer": "eleven",
+      "emoji": "🔢",
+      "spa": "11: eleven.",
+      "optionsLang": "en",
+      "eng": "eleven",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq031",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 12.",
+      "options": [
+        "twelve",
+        "thirteen",
+        "fourteen"
+      ],
+      "correctAnswer": "twelve",
+      "emoji": "🔢",
+      "spa": "12: twelve.",
+      "optionsLang": "en",
+      "eng": "twelve",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq032",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 13.",
+      "options": [
+        "thirteen",
+        "fourteen",
+        "fifteen"
+      ],
+      "correctAnswer": "thirteen",
+      "emoji": "🔢",
+      "spa": "13: thirteen.",
+      "optionsLang": "en",
+      "eng": "thirteen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq033",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 14.",
+      "options": [
+        "fourteen",
+        "fifteen",
+        "sixteen"
+      ],
+      "correctAnswer": "fourteen",
+      "emoji": "🔢",
+      "spa": "14: fourteen.",
+      "optionsLang": "en",
+      "eng": "fourteen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq034",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 15.",
+      "options": [
+        "fifteen",
+        "sixteen",
+        "seventeen"
+      ],
+      "correctAnswer": "fifteen",
+      "emoji": "🔢",
+      "spa": "15: fifteen.",
+      "optionsLang": "en",
+      "eng": "fifteen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq035",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 16.",
+      "options": [
+        "sixteen",
+        "seventeen",
+        "eighteen"
+      ],
+      "correctAnswer": "sixteen",
+      "emoji": "🔢",
+      "spa": "16: sixteen.",
+      "optionsLang": "en",
+      "eng": "sixteen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq036",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 17.",
+      "options": [
+        "seventeen",
+        "eighteen",
+        "nineteen"
+      ],
+      "correctAnswer": "seventeen",
+      "emoji": "🔢",
+      "spa": "17: seventeen.",
+      "optionsLang": "en",
+      "eng": "seventeen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq037",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 18.",
+      "options": [
+        "eighteen",
+        "nineteen",
+        "twenty"
+      ],
+      "correctAnswer": "eighteen",
+      "emoji": "🔢",
+      "spa": "18: eighteen.",
+      "optionsLang": "en",
+      "eng": "eighteen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq038",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 19.",
+      "options": [
+        "nineteen",
+        "twenty",
+        "twenty-one"
+      ],
+      "correctAnswer": "nineteen",
+      "emoji": "🔢",
+      "spa": "19: nineteen.",
+      "optionsLang": "en",
+      "eng": "nineteen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq039",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 20.",
+      "options": [
+        "twenty",
+        "twenty-one",
+        "twenty-three"
+      ],
+      "correctAnswer": "twenty",
+      "emoji": "🔢",
+      "spa": "20: twenty.",
+      "optionsLang": "en",
+      "eng": "twenty",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq040",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 21.",
+      "options": [
+        "twenty-one",
+        "twenty-three",
+        "thirty"
+      ],
+      "correctAnswer": "twenty-one",
+      "emoji": "🔢",
+      "spa": "21: twenty-one.",
+      "optionsLang": "en",
+      "eng": "twenty-one",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq041",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 23.",
+      "options": [
+        "twenty-three",
+        "thirty",
+        "forty"
+      ],
+      "correctAnswer": "twenty-three",
+      "emoji": "🔢",
+      "spa": "23: twenty-three.",
+      "optionsLang": "en",
+      "eng": "twenty-three",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq042",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 30.",
+      "options": [
+        "thirty",
+        "forty",
+        "fifty"
+      ],
+      "correctAnswer": "thirty",
+      "emoji": "🔢",
+      "spa": "30: thirty.",
+      "optionsLang": "en",
+      "eng": "thirty",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq043",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 40.",
+      "options": [
+        "forty",
+        "fifty",
+        "sixty"
+      ],
+      "correctAnswer": "forty",
+      "emoji": "🔢",
+      "spa": "40: forty.",
+      "optionsLang": "en",
+      "eng": "forty",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq044",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 50.",
+      "options": [
+        "fifty",
+        "sixty",
+        "seventy"
+      ],
+      "correctAnswer": "fifty",
+      "emoji": "🔢",
+      "spa": "50: fifty.",
+      "optionsLang": "en",
+      "eng": "fifty",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq045",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 60.",
+      "options": [
+        "sixty",
+        "seventy",
+        "eighty"
+      ],
+      "correctAnswer": "sixty",
+      "emoji": "🔢",
+      "spa": "60: sixty.",
+      "optionsLang": "en",
+      "eng": "sixty",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq046",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 70.",
+      "options": [
+        "seventy",
+        "eighty",
+        "ninety"
+      ],
+      "correctAnswer": "seventy",
+      "emoji": "🔢",
+      "spa": "70: seventy.",
+      "optionsLang": "en",
+      "eng": "seventy",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq047",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 80.",
+      "options": [
+        "eighty",
+        "ninety",
+        "one hundred"
+      ],
+      "correctAnswer": "eighty",
+      "emoji": "🔢",
+      "spa": "80: eighty.",
+      "optionsLang": "en",
+      "eng": "eighty",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq048",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 90.",
+      "options": [
+        "ninety",
+        "one hundred",
+        "one"
+      ],
+      "correctAnswer": "ninety",
+      "emoji": "🔢",
+      "spa": "90: ninety.",
+      "optionsLang": "en",
+      "eng": "ninety",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq049",
+      "category": "Numbers 1-100",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Elige la forma escrita de 100.",
+      "options": [
+        "one hundred",
+        "one",
+        "two"
+      ],
+      "correctAnswer": "one hundred",
+      "emoji": "🔢",
+      "spa": "100: one hundred.",
+      "optionsLang": "en",
+      "eng": "one hundred",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq050",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Bird\"?",
+      "options": [
+        "Pájaro",
+        "Gato",
+        "Perro"
+      ],
+      "correctAnswer": "Pájaro",
+      "emoji": "🐦",
+      "spa": "Pájaro",
+      "optionsLang": "es",
+      "eng": "Bird",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq051",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Cat\"?",
+      "options": [
+        "Gato",
+        "Perro",
+        "Pez"
+      ],
+      "correctAnswer": "Gato",
+      "emoji": "🐈",
+      "spa": "Gato",
+      "optionsLang": "es",
+      "eng": "Cat",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq052",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Dog\"?",
+      "options": [
+        "Perro",
+        "Pez",
+        "Hámster"
+      ],
+      "correctAnswer": "Perro",
+      "emoji": "🐕",
+      "spa": "Perro",
+      "optionsLang": "es",
+      "eng": "Dog",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq053",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Fish\"?",
+      "options": [
+        "Pez",
+        "Hámster",
+        "Caballo"
+      ],
+      "correctAnswer": "Pez",
+      "emoji": "🐟",
+      "spa": "Pez",
+      "optionsLang": "es",
+      "eng": "Fish",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq054",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Hamster\"?",
+      "options": [
+        "Hámster",
+        "Caballo",
+        "Ratón"
+      ],
+      "correctAnswer": "Hámster",
+      "emoji": "🐹",
+      "spa": "Hámster",
+      "optionsLang": "es",
+      "eng": "Hamster",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq055",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Horse\"?",
+      "options": [
+        "Caballo",
+        "Ratón",
+        "Conejo"
+      ],
+      "correctAnswer": "Caballo",
+      "emoji": "🐎",
+      "spa": "Caballo",
+      "optionsLang": "es",
+      "eng": "Horse",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq056",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Mouse\"?",
+      "options": [
+        "Ratón",
+        "Conejo",
+        "Serpiente"
+      ],
+      "correctAnswer": "Ratón",
+      "emoji": "🐭",
+      "spa": "Ratón",
+      "optionsLang": "es",
+      "eng": "Mouse",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq057",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Rabbit\"?",
+      "options": [
+        "Conejo",
+        "Serpiente",
+        "Pájaro"
+      ],
+      "correctAnswer": "Conejo",
+      "emoji": "🐇",
+      "spa": "Conejo",
+      "optionsLang": "es",
+      "eng": "Rabbit",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq058",
+      "category": "Pets",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Snake\"?",
+      "options": [
+        "Serpiente",
+        "Pájaro",
+        "Gato"
+      ],
+      "correctAnswer": "Serpiente",
+      "emoji": "🐍",
+      "spa": "Serpiente",
+      "optionsLang": "es",
+      "eng": "Snake",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq059",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ cat here is black.",
+      "options": [
+        "This",
+        "These",
+        "Those"
+      ],
+      "correctAnswer": "This",
+      "emoji": "🐈",
+      "spa": "Este gato de aquí es negro.",
+      "optionsLang": "en",
+      "eng": "This cat here is black.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq060",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ dog over there is white.",
+      "options": [
+        "That",
+        "This",
+        "These"
+      ],
+      "correctAnswer": "That",
+      "emoji": "🐕",
+      "spa": "Ese perro de allí es blanco.",
+      "optionsLang": "en",
+      "eng": "That dog over there is white.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq061",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ birds here are blue.",
+      "options": [
+        "These",
+        "This",
+        "That"
+      ],
+      "correctAnswer": "These",
+      "emoji": "🐦",
+      "spa": "Estos pájaros de aquí son azules.",
+      "optionsLang": "en",
+      "eng": "These birds here are blue.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq062",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: ___ birds over there are yellow.",
+      "options": [
+        "Those",
+        "That",
+        "This"
+      ],
+      "correctAnswer": "Those",
+      "emoji": "🐦",
+      "spa": "Esos pájaros de allí son amarillos.",
+      "optionsLang": "en",
+      "eng": "Those birds over there are yellow.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq063",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: I ___ a hamster.",
+      "options": [
+        "have got",
+        "has got",
+        "haven't got"
+      ],
+      "correctAnswer": "have got",
+      "emoji": "🐹",
+      "spa": "Tengo un hámster.",
+      "optionsLang": "en",
+      "eng": "I have got a hamster.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq064",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: She ___ a grey horse.",
+      "options": [
+        "has got",
+        "have got",
+        "haven't got"
+      ],
+      "correctAnswer": "has got",
+      "emoji": "🐎",
+      "spa": "Ella tiene un caballo gris.",
+      "optionsLang": "en",
+      "eng": "She has got a grey horse.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq065",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma negativa: We ___ a snake.",
+      "options": [
+        "haven't got",
+        "hasn't got",
+        "have got"
+      ],
+      "correctAnswer": "haven't got",
+      "emoji": "🐍",
+      "spa": "No tenemos una serpiente.",
+      "optionsLang": "en",
+      "eng": "We haven't got a snake.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq066",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: He ___ a cat.",
+      "options": [
+        "hasn't got",
+        "haven't got",
+        "isn't got"
+      ],
+      "correctAnswer": "hasn't got",
+      "emoji": "🐈",
+      "spa": "Él no tiene un gato.",
+      "optionsLang": "en",
+      "eng": "He hasn't got a cat.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq067",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Pregunta correcta:",
+      "options": [
+        "Have you got a mouse?",
+        "Has you got a mouse?",
+        "You have got a mouse?"
+      ],
+      "correctAnswer": "Have you got a mouse?",
+      "emoji": "🐭",
+      "spa": "¿Tienes un ratón?",
+      "optionsLang": "en",
+      "eng": "Have you got a mouse?",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq068",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta a \"Have you got a pet?\"",
+      "options": [
+        "Yes, I have.",
+        "Yes, I got.",
+        "Yes, I am."
+      ],
+      "correctAnswer": "Yes, I have.",
+      "emoji": "🐾",
+      "spa": "Sí, tengo.",
+      "optionsLang": "en",
+      "eng": "Yes, I have.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq069",
+      "category": "Demonstratives and Have got",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Respuesta corta a \"Has she got a rabbit?\"",
+      "options": [
+        "No, she hasn't.",
+        "No, she haven't.",
+        "No, she isn't."
+      ],
+      "correctAnswer": "No, she hasn't.",
+      "emoji": "🐇",
+      "spa": "No, no tiene.",
+      "optionsLang": "en",
+      "eng": "No, she hasn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq070",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"a quarter to one\"?",
+      "options": [
+        "12:45",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "12:45",
+      "emoji": "🕒",
+      "spa": "Es la una menos cuarto.",
+      "optionsLang": "en",
+      "eng": "a quarter to one",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq071",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"five to two\"?",
+      "options": [
+        "1:55",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "1:55",
+      "emoji": "🕒",
+      "spa": "Son las dos menos cinco.",
+      "optionsLang": "en",
+      "eng": "five to two",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq072",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"ten past three\"?",
+      "options": [
+        "3:10",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "3:10",
+      "emoji": "🕒",
+      "spa": "Son las tres y diez.",
+      "optionsLang": "en",
+      "eng": "ten past three",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq073",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"twenty-five past four\"?",
+      "options": [
+        "4:25",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "4:25",
+      "emoji": "🕒",
+      "spa": "Son las cuatro y veinticinco.",
+      "optionsLang": "en",
+      "eng": "twenty-five past four",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq074",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"half past seven\"?",
+      "options": [
+        "7:30",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "7:30",
+      "emoji": "🕒",
+      "spa": "Son las siete y media.",
+      "optionsLang": "en",
+      "eng": "half past seven",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq075",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"twenty past five\"?",
+      "options": [
+        "5:20",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "5:20",
+      "emoji": "🕒",
+      "spa": "Son las cinco y veinte.",
+      "optionsLang": "en",
+      "eng": "twenty past five",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq076",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"a quarter past nine\"?",
+      "options": [
+        "9:15",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "9:15",
+      "emoji": "🕒",
+      "spa": "Son las nueve y cuarto.",
+      "optionsLang": "en",
+      "eng": "a quarter past nine",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq077",
+      "category": "Telling the Time",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Qué hora es \"ten to eleven\"?",
+      "options": [
+        "10:50",
+        "6:30",
+        "8:45"
+      ],
+      "correctAnswer": "10:50",
+      "emoji": "🕒",
+      "spa": "Son las once menos diez.",
+      "optionsLang": "en",
+      "eng": "ten to eleven",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq078",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de January?",
+      "options": [
+        "February",
+        "January",
+        "March"
+      ],
+      "correctAnswer": "February",
+      "emoji": "📅",
+      "spa": "Después de January viene February.",
+      "optionsLang": "en",
+      "eng": "February comes after January.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq079",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de February?",
+      "options": [
+        "March",
+        "February",
+        "April"
+      ],
+      "correctAnswer": "March",
+      "emoji": "📅",
+      "spa": "Después de February viene March.",
+      "optionsLang": "en",
+      "eng": "March comes after February.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq080",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de March?",
+      "options": [
+        "April",
+        "March",
+        "May"
+      ],
+      "correctAnswer": "April",
+      "emoji": "📅",
+      "spa": "Después de March viene April.",
+      "optionsLang": "en",
+      "eng": "April comes after March.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq081",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de April?",
+      "options": [
+        "May",
+        "April",
+        "June"
+      ],
+      "correctAnswer": "May",
+      "emoji": "📅",
+      "spa": "Después de April viene May.",
+      "optionsLang": "en",
+      "eng": "May comes after April.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq082",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de May?",
+      "options": [
+        "June",
+        "May",
+        "July"
+      ],
+      "correctAnswer": "June",
+      "emoji": "📅",
+      "spa": "Después de May viene June.",
+      "optionsLang": "en",
+      "eng": "June comes after May.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq083",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de June?",
+      "options": [
+        "July",
+        "June",
+        "August"
+      ],
+      "correctAnswer": "July",
+      "emoji": "📅",
+      "spa": "Después de June viene July.",
+      "optionsLang": "en",
+      "eng": "July comes after June.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq084",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de July?",
+      "options": [
+        "August",
+        "July",
+        "September"
+      ],
+      "correctAnswer": "August",
+      "emoji": "📅",
+      "spa": "Después de July viene August.",
+      "optionsLang": "en",
+      "eng": "August comes after July.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq085",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de August?",
+      "options": [
+        "September",
+        "August",
+        "October"
+      ],
+      "correctAnswer": "September",
+      "emoji": "📅",
+      "spa": "Después de August viene September.",
+      "optionsLang": "en",
+      "eng": "September comes after August.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq086",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de September?",
+      "options": [
+        "October",
+        "September",
+        "November"
+      ],
+      "correctAnswer": "October",
+      "emoji": "📅",
+      "spa": "Después de September viene October.",
+      "optionsLang": "en",
+      "eng": "October comes after September.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq087",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de October?",
+      "options": [
+        "November",
+        "October",
+        "December"
+      ],
+      "correctAnswer": "November",
+      "emoji": "📅",
+      "spa": "Después de October viene November.",
+      "optionsLang": "en",
+      "eng": "November comes after October.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq088",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué mes viene después de November?",
+      "options": [
+        "December",
+        "November",
+        "January"
+      ],
+      "correctAnswer": "December",
+      "emoji": "📅",
+      "spa": "Después de November viene December.",
+      "optionsLang": "en",
+      "eng": "December comes after November.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq089",
+      "category": "Months",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cuál es el primer mes del año?",
+      "options": [
+        "January",
+        "June",
+        "December"
+      ],
+      "correctAnswer": "January",
+      "emoji": "📅",
+      "spa": "Enero es el primer mes del año.",
+      "optionsLang": "en",
+      "eng": "January is the first month of the year.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq090",
+      "category": "Days of the week",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué día viene después de Monday?",
+      "options": [
+        "Tuesday",
+        "Monday",
+        "Wednesday"
+      ],
+      "correctAnswer": "Tuesday",
+      "emoji": "📆",
+      "spa": "Después de Monday viene Tuesday.",
+      "optionsLang": "en",
+      "eng": "Tuesday comes after Monday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq091",
+      "category": "Days of the week",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué día viene después de Tuesday?",
+      "options": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "correctAnswer": "Wednesday",
+      "emoji": "📆",
+      "spa": "Después de Tuesday viene Wednesday.",
+      "optionsLang": "en",
+      "eng": "Wednesday comes after Tuesday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq092",
+      "category": "Days of the week",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué día viene después de Wednesday?",
+      "options": [
+        "Thursday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correctAnswer": "Thursday",
+      "emoji": "📆",
+      "spa": "Después de Wednesday viene Thursday.",
+      "optionsLang": "en",
+      "eng": "Thursday comes after Wednesday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq093",
+      "category": "Days of the week",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué día viene después de Thursday?",
+      "options": [
+        "Friday",
+        "Thursday",
+        "Saturday"
+      ],
+      "correctAnswer": "Friday",
+      "emoji": "📆",
+      "spa": "Después de Thursday viene Friday.",
+      "optionsLang": "en",
+      "eng": "Friday comes after Thursday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq094",
+      "category": "Days of the week",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué día viene después de Friday?",
+      "options": [
+        "Saturday",
+        "Friday",
+        "Sunday"
+      ],
+      "correctAnswer": "Saturday",
+      "emoji": "📆",
+      "spa": "Después de Friday viene Saturday.",
+      "optionsLang": "en",
+      "eng": "Saturday comes after Friday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq095",
+      "category": "Days of the week",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué día viene después de Saturday?",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Monday"
+      ],
+      "correctAnswer": "Sunday",
+      "emoji": "📆",
+      "spa": "Después de Saturday viene Sunday.",
+      "optionsLang": "en",
+      "eng": "Sunday comes after Saturday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq096",
+      "category": "Days of the week",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué día viene después de Sunday?",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Tuesday"
+      ],
+      "correctAnswer": "Monday",
+      "emoji": "📆",
+      "spa": "Después de Sunday viene Monday.",
+      "optionsLang": "en",
+      "eng": "Monday comes after Sunday.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq097",
+      "category": "Seasons",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Spring\"?",
+      "options": [
+        "Primavera",
+        "Mes",
+        "Día"
+      ],
+      "correctAnswer": "Primavera",
+      "emoji": "🌸",
+      "spa": "Primavera",
+      "optionsLang": "es",
+      "eng": "Spring",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq098",
+      "category": "Seasons",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Summer\"?",
+      "options": [
+        "Verano",
+        "Mes",
+        "Día"
+      ],
+      "correctAnswer": "Verano",
+      "emoji": "☀️",
+      "spa": "Verano",
+      "optionsLang": "es",
+      "eng": "Summer",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq099",
+      "category": "Seasons",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Autumn\"?",
+      "options": [
+        "Otoño",
+        "Mes",
+        "Día"
+      ],
+      "correctAnswer": "Otoño",
+      "emoji": "🍂",
+      "spa": "Otoño",
+      "optionsLang": "es",
+      "eng": "Autumn",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq100",
+      "category": "Seasons",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Winter\"?",
+      "options": [
+        "Invierno",
+        "Mes",
+        "Día"
+      ],
+      "correctAnswer": "Invierno",
+      "emoji": "❄️",
+      "spa": "Invierno",
+      "optionsLang": "es",
+      "eng": "Winter",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq101",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Ruler\"?",
+      "options": [
+        "Regla",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Regla",
+      "emoji": "📏",
+      "spa": "Regla",
+      "optionsLang": "es",
+      "eng": "Ruler",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq102",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Book\"?",
+      "options": [
+        "Libro",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Libro",
+      "emoji": "📘",
+      "spa": "Libro",
+      "optionsLang": "es",
+      "eng": "Book",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq103",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Paper\"?",
+      "options": [
+        "Papel",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Papel",
+      "emoji": "📄",
+      "spa": "Papel",
+      "optionsLang": "es",
+      "eng": "Paper",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq104",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Chair\"?",
+      "options": [
+        "Silla",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Silla",
+      "emoji": "🪑",
+      "spa": "Silla",
+      "optionsLang": "es",
+      "eng": "Chair",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq105",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Pen\"?",
+      "options": [
+        "Lapicera / Bolígrafo",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Lapicera / Bolígrafo",
+      "emoji": "🖊️",
+      "spa": "Lapicera / Bolígrafo",
+      "optionsLang": "es",
+      "eng": "Pen",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq106",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Pencil\"?",
+      "options": [
+        "Lápiz",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Lápiz",
+      "emoji": "✏️",
+      "spa": "Lápiz",
+      "optionsLang": "es",
+      "eng": "Pencil",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq107",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Pencil case\"?",
+      "options": [
+        "Cartuchera",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Cartuchera",
+      "emoji": "🧰",
+      "spa": "Cartuchera",
+      "optionsLang": "es",
+      "eng": "Pencil case",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq108",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Rubber\"?",
+      "options": [
+        "Goma de borrar",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Goma de borrar",
+      "emoji": "🧽",
+      "spa": "Goma de borrar",
+      "optionsLang": "es",
+      "eng": "Rubber",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq109",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Calculator\"?",
+      "options": [
+        "Calculadora",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Calculadora",
+      "emoji": "🧮",
+      "spa": "Calculadora",
+      "optionsLang": "es",
+      "eng": "Calculator",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq110",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Pencil sharpener\"?",
+      "options": [
+        "Sacapuntas",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Sacapuntas",
+      "emoji": "✏️",
+      "spa": "Sacapuntas",
+      "optionsLang": "es",
+      "eng": "Pencil sharpener",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq111",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Exercise book\"?",
+      "options": [
+        "Cuaderno de ejercicios",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Cuaderno de ejercicios",
+      "emoji": "📒",
+      "spa": "Cuaderno de ejercicios",
+      "optionsLang": "es",
+      "eng": "Exercise book",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq112",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Rucksack\"?",
+      "options": [
+        "Mochila",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Mochila",
+      "emoji": "🎒",
+      "spa": "Mochila",
+      "optionsLang": "es",
+      "eng": "Rucksack",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq113",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Blackboard\"?",
+      "options": [
+        "Pizarrón",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Pizarrón",
+      "emoji": "⬛",
+      "spa": "Pizarrón",
+      "optionsLang": "es",
+      "eng": "Blackboard",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq114",
+      "category": "Classroom Objects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Interactive whiteboard\"?",
+      "options": [
+        "Pizarra interactiva",
+        "Materia escolar",
+        "Parte del cuerpo"
+      ],
+      "correctAnswer": "Pizarra interactiva",
+      "emoji": "🖥️",
+      "spa": "Pizarra interactiva",
+      "optionsLang": "es",
+      "eng": "Interactive whiteboard",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq115",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ blue book.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "a",
+      "emoji": "📝",
+      "spa": "Se usa a antes de blue book.",
+      "optionsLang": "en",
+      "eng": "It's a blue book.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq116",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ orange pencil.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "an",
+      "emoji": "📝",
+      "spa": "Se usa an antes de orange pencil.",
+      "optionsLang": "en",
+      "eng": "It's an orange pencil.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq117",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ white desk.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "a",
+      "emoji": "📝",
+      "spa": "Se usa a antes de white desk.",
+      "optionsLang": "en",
+      "eng": "It's a white desk.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq118",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ exercise book.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "an",
+      "emoji": "📝",
+      "spa": "Se usa an antes de exercise book.",
+      "optionsLang": "en",
+      "eng": "It's an exercise book.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq119",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ green calculator.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "a",
+      "emoji": "📝",
+      "spa": "Se usa a antes de green calculator.",
+      "optionsLang": "en",
+      "eng": "It's a green calculator.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq120",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ pencil case.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "a",
+      "emoji": "📝",
+      "spa": "Se usa a antes de pencil case.",
+      "optionsLang": "en",
+      "eng": "It's a pencil case.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq121",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ interactive whiteboard.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "an",
+      "emoji": "📝",
+      "spa": "Se usa an antes de interactive whiteboard.",
+      "optionsLang": "en",
+      "eng": "It's an interactive whiteboard.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq122",
+      "category": "Articles a/an",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: It's ___ orange rucksack.",
+      "options": [
+        "a",
+        "an"
+      ],
+      "correctAnswer": "an",
+      "emoji": "📝",
+      "spa": "Se usa an antes de orange rucksack.",
+      "optionsLang": "en",
+      "eng": "It's an orange rucksack.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq123",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"ICT\"?",
+      "options": [
+        "Informática / TIC",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Informática / TIC",
+      "emoji": "💻",
+      "spa": "Informática / TIC",
+      "optionsLang": "es",
+      "eng": "ICT",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq124",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"English\"?",
+      "options": [
+        "Inglés",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Inglés",
+      "emoji": "🇬🇧",
+      "spa": "Inglés",
+      "optionsLang": "es",
+      "eng": "English",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq125",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"French\"?",
+      "options": [
+        "Francés",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Francés",
+      "emoji": "🇫🇷",
+      "spa": "Francés",
+      "optionsLang": "es",
+      "eng": "French",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq126",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Geography\"?",
+      "options": [
+        "Geografía",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Geografía",
+      "emoji": "🌍",
+      "spa": "Geografía",
+      "optionsLang": "es",
+      "eng": "Geography",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq127",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"History\"?",
+      "options": [
+        "Historia",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Historia",
+      "emoji": "🏛️",
+      "spa": "Historia",
+      "optionsLang": "es",
+      "eng": "History",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq128",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Maths\"?",
+      "options": [
+        "Matemática",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Matemática",
+      "emoji": "➗",
+      "spa": "Matemática",
+      "optionsLang": "es",
+      "eng": "Maths",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq129",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Music\"?",
+      "options": [
+        "Música",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Música",
+      "emoji": "🎵",
+      "spa": "Música",
+      "optionsLang": "es",
+      "eng": "Music",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq130",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"PE\"?",
+      "options": [
+        "Educación Física",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Educación Física",
+      "emoji": "🏃",
+      "spa": "Educación Física",
+      "optionsLang": "es",
+      "eng": "PE",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq131",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Science\"?",
+      "options": [
+        "Ciencias",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Ciencias",
+      "emoji": "🔬",
+      "spa": "Ciencias",
+      "optionsLang": "es",
+      "eng": "Science",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq132",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Art\"?",
+      "options": [
+        "Arte",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Arte",
+      "emoji": "🎨",
+      "spa": "Arte",
+      "optionsLang": "es",
+      "eng": "Art",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq133",
+      "category": "School Subjects",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Design and technology\"?",
+      "options": [
+        "Diseño y tecnología",
+        "Recreo",
+        "Biblioteca"
+      ],
+      "correctAnswer": "Diseño y tecnología",
+      "emoji": "🛠️",
+      "spa": "Diseño y tecnología",
+      "optionsLang": "es",
+      "eng": "Design and technology",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq134",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Arm\"?",
+      "options": [
+        "Brazo",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Brazo",
+      "emoji": "💪",
+      "spa": "Brazo",
+      "optionsLang": "es",
+      "eng": "Arm",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq135",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Back\"?",
+      "options": [
+        "Espalda",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Espalda",
+      "emoji": "🧍",
+      "spa": "Espalda",
+      "optionsLang": "es",
+      "eng": "Back",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq136",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Ear\"?",
+      "options": [
+        "Oreja",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Oreja",
+      "emoji": "👂",
+      "spa": "Oreja",
+      "optionsLang": "es",
+      "eng": "Ear",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq137",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Eye\"?",
+      "options": [
+        "Ojo",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Ojo",
+      "emoji": "👁️",
+      "spa": "Ojo",
+      "optionsLang": "es",
+      "eng": "Eye",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq138",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Finger\"?",
+      "options": [
+        "Dedo",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Dedo",
+      "emoji": "☝️",
+      "spa": "Dedo",
+      "optionsLang": "es",
+      "eng": "Finger",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq139",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Foot\"?",
+      "options": [
+        "Pie",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Pie",
+      "emoji": "🦶",
+      "spa": "Pie",
+      "optionsLang": "es",
+      "eng": "Foot",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq140",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Hair\"?",
+      "options": [
+        "Cabello",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Cabello",
+      "emoji": "💇",
+      "spa": "Cabello",
+      "optionsLang": "es",
+      "eng": "Hair",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq141",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Hand\"?",
+      "options": [
+        "Mano",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Mano",
+      "emoji": "✋",
+      "spa": "Mano",
+      "optionsLang": "es",
+      "eng": "Hand",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq142",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Head\"?",
+      "options": [
+        "Cabeza",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Cabeza",
+      "emoji": "🙂",
+      "spa": "Cabeza",
+      "optionsLang": "es",
+      "eng": "Head",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq143",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Leg\"?",
+      "options": [
+        "Pierna",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Pierna",
+      "emoji": "🦵",
+      "spa": "Pierna",
+      "optionsLang": "es",
+      "eng": "Leg",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq144",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Mouth\"?",
+      "options": [
+        "Boca",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Boca",
+      "emoji": "👄",
+      "spa": "Boca",
+      "optionsLang": "es",
+      "eng": "Mouth",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq145",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Neck\"?",
+      "options": [
+        "Cuello",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Cuello",
+      "emoji": "🧣",
+      "spa": "Cuello",
+      "optionsLang": "es",
+      "eng": "Neck",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq146",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Nose\"?",
+      "options": [
+        "Nariz",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Nariz",
+      "emoji": "👃",
+      "spa": "Nariz",
+      "optionsLang": "es",
+      "eng": "Nose",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq147",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Thumb\"?",
+      "options": [
+        "Pulgar",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Pulgar",
+      "emoji": "👍",
+      "spa": "Pulgar",
+      "optionsLang": "es",
+      "eng": "Thumb",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq148",
+      "category": "Parts of the Body",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Toe\"?",
+      "options": [
+        "Dedo del pie",
+        "Mueble",
+        "Color"
+      ],
+      "correctAnswer": "Dedo del pie",
+      "emoji": "🦶",
+      "spa": "Dedo del pie",
+      "optionsLang": "es",
+      "eng": "Toe",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq149",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál no pertenece al grupo de partes de la cara?",
+      "options": [
+        "leg",
+        "eye",
+        "nose"
+      ],
+      "correctAnswer": "leg",
+      "emoji": "🦵",
+      "spa": "Leg es pierna; eye y nose están en la cara.",
+      "optionsLang": "en",
+      "eng": "Leg is the odd one out.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq150",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "¿Cuál no pertenece al grupo relacionado con la mano?",
+      "options": [
+        "foot",
+        "finger",
+        "thumb"
+      ],
+      "correctAnswer": "foot",
+      "emoji": "🦶",
+      "spa": "Foot es pie; finger y thumb pertenecen a la mano.",
+      "optionsLang": "en",
+      "eng": "Foot is the odd one out.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq151",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: A person who is 1.90 metres is very ___.",
+      "options": [
+        "tall",
+        "short",
+        "old"
+      ],
+      "correctAnswer": "tall",
+      "emoji": "📏",
+      "spa": "Una persona de 1,90 m es muy alta.",
+      "optionsLang": "en",
+      "eng": "A person who is 1.90 metres is very tall.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq152",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: A ten-year-old child is ___.",
+      "options": [
+        "young",
+        "old",
+        "long"
+      ],
+      "correctAnswer": "young",
+      "emoji": "🧒",
+      "spa": "Un niño de diez años es joven.",
+      "optionsLang": "en",
+      "eng": "A ten-year-old child is young.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq153",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "short grey hair",
+        "grey hair short",
+        "hair grey short"
+      ],
+      "correctAnswer": "short grey hair",
+      "emoji": "💇",
+      "spa": "cabello corto y gris",
+      "optionsLang": "en",
+      "eng": "short grey hair",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq154",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "medium-length red hair",
+        "red medium-length hair",
+        "hair red medium-length"
+      ],
+      "correctAnswer": "medium-length red hair",
+      "emoji": "💇",
+      "spa": "cabello pelirrojo de largo medio",
+      "optionsLang": "en",
+      "eng": "medium-length red hair",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq155",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Elige el orden correcto.",
+      "options": [
+        "long brown hair",
+        "brown long hair",
+        "hair brown long"
+      ],
+      "correctAnswer": "long brown hair",
+      "emoji": "💇",
+      "spa": "cabello largo y marrón",
+      "optionsLang": "en",
+      "eng": "long brown hair",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq156",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: My friend has got ___ eyes.",
+      "options": [
+        "blue",
+        "tall",
+        "young"
+      ],
+      "correctAnswer": "blue",
+      "emoji": "👁️",
+      "spa": "Mi amigo tiene ojos azules.",
+      "optionsLang": "en",
+      "eng": "My friend has got blue eyes.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq157",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: She has got ___ hair.",
+      "options": [
+        "long",
+        "tall",
+        "young"
+      ],
+      "correctAnswer": "long",
+      "emoji": "💇",
+      "spa": "Ella tiene el cabello largo.",
+      "optionsLang": "en",
+      "eng": "She has got long hair.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "id": "u0_gq158",
+      "category": "Appearance",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Completa: He is 72. He is ___.",
+      "options": [
+        "old",
+        "young",
+        "long"
+      ],
+      "correctAnswer": "old",
+      "emoji": "👴",
+      "spa": "Él tiene 72 años. Es mayor.",
+      "optionsLang": "en",
+      "eng": "He is old.",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    }
+  ],
+  "READING_COMPREHENSION": [],
+  "SENTENCES": [
+    {
+      "eng": "What's your name?",
+      "spa": "¿Cómo te llamas?",
+      "category": "Introductions",
+      "emoji": "👋",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "How do you spell your name?",
+      "spa": "¿Cómo se deletrea tu nombre?",
+      "category": "Alphabet",
+      "emoji": "🔤",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "My favourite colour is blue.",
+      "spa": "Mi color favorito es el azul.",
+      "category": "Colours",
+      "emoji": "🔵",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "My favourite pet is a cat.",
+      "spa": "Mi mascota favorita es el gato.",
+      "category": "Pets",
+      "emoji": "🐈",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "This cat is black.",
+      "spa": "Este gato es negro.",
+      "category": "Demonstratives",
+      "emoji": "🐈",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "That cat is white.",
+      "spa": "Ese gato es blanco.",
+      "category": "Demonstratives",
+      "emoji": "🐈",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "These birds are blue.",
+      "spa": "Estos pájaros son azules.",
+      "category": "Demonstratives",
+      "emoji": "🐦",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "Those birds are yellow.",
+      "spa": "Esos pájaros son amarillos.",
+      "category": "Demonstratives",
+      "emoji": "🐦",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "I've got a pet.",
+      "spa": "Tengo una mascota.",
+      "category": "Have got",
+      "emoji": "🐾",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "She has got a rabbit.",
+      "spa": "Ella tiene un conejo.",
+      "category": "Have got",
+      "emoji": "🐇",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "We haven't got a snake.",
+      "spa": "No tenemos una serpiente.",
+      "category": "Have got",
+      "emoji": "🐍",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "Have you got a dog?",
+      "spa": "¿Tienes un perro?",
+      "category": "Have got",
+      "emoji": "🐕",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "It's half past seven.",
+      "spa": "Son las siete y media.",
+      "category": "Telling the Time",
+      "emoji": "🕢",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "It's a quarter past nine.",
+      "spa": "Son las nueve y cuarto.",
+      "category": "Telling the Time",
+      "emoji": "🕘",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "Today is Monday.",
+      "spa": "Hoy es lunes.",
+      "category": "Days of the week",
+      "emoji": "📆",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "Tomorrow is Tuesday.",
+      "spa": "Mañana es martes.",
+      "category": "Days of the week",
+      "emoji": "📆",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "My birthday is in March.",
+      "spa": "Mi cumpleaños es en marzo.",
+      "category": "Months",
+      "emoji": "🎂",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "Spring is my favourite season.",
+      "spa": "La primavera es mi estación favorita.",
+      "category": "Seasons",
+      "emoji": "🌸",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "It's an exercise book.",
+      "spa": "Es un cuaderno de ejercicios.",
+      "category": "Articles a/an",
+      "emoji": "📒",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "It's a blue pencil.",
+      "spa": "Es un lápiz azul.",
+      "category": "Classroom Objects",
+      "emoji": "✏️",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "What's that?",
+      "spa": "¿Qué es eso?",
+      "category": "Classroom Objects",
+      "emoji": "❓",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "What colour is it?",
+      "spa": "¿De qué color es?",
+      "category": "Colours",
+      "emoji": "🎨",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "My favourite subject is science.",
+      "spa": "Mi materia favorita es Ciencias.",
+      "category": "School Subjects",
+      "emoji": "🔬",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "Art is on Wednesday.",
+      "spa": "Arte es el miércoles.",
+      "category": "School Subjects",
+      "emoji": "🎨",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "This is my hand.",
+      "spa": "Esta es mi mano.",
+      "category": "Parts of the Body",
+      "emoji": "✋",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "These are my feet.",
+      "spa": "Estos son mis pies.",
+      "category": "Parts of the Body",
+      "emoji": "🦶",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "She has got long brown hair.",
+      "spa": "Ella tiene el cabello largo y marrón.",
+      "category": "Appearance",
+      "emoji": "💇",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "He has got short grey hair.",
+      "spa": "Él tiene el cabello corto y gris.",
+      "category": "Appearance",
+      "emoji": "👨‍🦳",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "She has got blue eyes.",
+      "spa": "Ella tiene ojos azules.",
+      "category": "Appearance",
+      "emoji": "👁️",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    },
+    {
+      "eng": "My best friend is tall and young.",
+      "spa": "Mi mejor amigo/a es alto/a y joven.",
+      "category": "Appearance",
+      "emoji": "🧒",
+      "year": "2026",
+      "source": "I Succeed in English 2 - Unit 0 Introduction"
+    }
+  ],
+  "VOCABULARY": [
+    {
+      "eng": "Black",
+      "spa": "Negro",
+      "category": "Colours",
+      "emoji": "⚫"
+    },
+    {
+      "eng": "Blue",
+      "spa": "Azul",
+      "category": "Colours",
+      "emoji": "🔵"
+    },
+    {
+      "eng": "Brown",
+      "spa": "Marrón",
+      "category": "Colours",
+      "emoji": "🟤"
+    },
+    {
+      "eng": "Green",
+      "spa": "Verde",
+      "category": "Colours",
+      "emoji": "🟢"
+    },
+    {
+      "eng": "Grey",
+      "spa": "Gris",
+      "category": "Colours",
+      "emoji": "⚪"
+    },
+    {
+      "eng": "Orange",
+      "spa": "Naranja",
+      "category": "Colours",
+      "emoji": "🟠"
+    },
+    {
+      "eng": "Pink",
+      "spa": "Rosa",
+      "category": "Colours",
+      "emoji": "🩷"
+    },
+    {
+      "eng": "Purple",
+      "spa": "Violeta",
+      "category": "Colours",
+      "emoji": "🟣"
+    },
+    {
+      "eng": "Red",
+      "spa": "Rojo",
+      "category": "Colours",
+      "emoji": "🔴"
+    },
+    {
+      "eng": "White",
+      "spa": "Blanco",
+      "category": "Colours",
+      "emoji": "⚪"
+    },
+    {
+      "eng": "Yellow",
+      "spa": "Amarillo",
+      "category": "Colours",
+      "emoji": "🟡"
+    },
+    {
+      "eng": "Bird",
+      "spa": "Pájaro",
+      "category": "Pets",
+      "emoji": "🐦"
+    },
+    {
+      "eng": "Cat",
+      "spa": "Gato",
+      "category": "Pets",
+      "emoji": "🐈"
+    },
+    {
+      "eng": "Dog",
+      "spa": "Perro",
+      "category": "Pets",
+      "emoji": "🐕"
+    },
+    {
+      "eng": "Fish",
+      "spa": "Pez",
+      "category": "Pets",
+      "emoji": "🐟"
+    },
+    {
+      "eng": "Hamster",
+      "spa": "Hámster",
+      "category": "Pets",
+      "emoji": "🐹"
+    },
+    {
+      "eng": "Horse",
+      "spa": "Caballo",
+      "category": "Pets",
+      "emoji": "🐎"
+    },
+    {
+      "eng": "Mouse",
+      "spa": "Ratón",
+      "category": "Pets",
+      "emoji": "🐭"
+    },
+    {
+      "eng": "Rabbit",
+      "spa": "Conejo",
+      "category": "Pets",
+      "emoji": "🐇"
+    },
+    {
+      "eng": "Snake",
+      "spa": "Serpiente",
+      "category": "Pets",
+      "emoji": "🐍"
+    },
+    {
+      "eng": "January",
+      "spa": "Enero",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "February",
+      "spa": "Febrero",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "March",
+      "spa": "Marzo",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "April",
+      "spa": "Abril",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "May",
+      "spa": "Mayo",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "June",
+      "spa": "Junio",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "July",
+      "spa": "Julio",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "August",
+      "spa": "Agosto",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "September",
+      "spa": "Septiembre",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "October",
+      "spa": "Octubre",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "November",
+      "spa": "Noviembre",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "December",
+      "spa": "Diciembre",
+      "category": "Months",
+      "emoji": "📅"
+    },
+    {
+      "eng": "Monday",
+      "spa": "Lunes",
+      "category": "Days of the week",
+      "emoji": "📆"
+    },
+    {
+      "eng": "Tuesday",
+      "spa": "Martes",
+      "category": "Days of the week",
+      "emoji": "📆"
+    },
+    {
+      "eng": "Wednesday",
+      "spa": "Miércoles",
+      "category": "Days of the week",
+      "emoji": "📆"
+    },
+    {
+      "eng": "Thursday",
+      "spa": "Jueves",
+      "category": "Days of the week",
+      "emoji": "📆"
+    },
+    {
+      "eng": "Friday",
+      "spa": "Viernes",
+      "category": "Days of the week",
+      "emoji": "📆"
+    },
+    {
+      "eng": "Saturday",
+      "spa": "Sábado",
+      "category": "Days of the week",
+      "emoji": "📆"
+    },
+    {
+      "eng": "Sunday",
+      "spa": "Domingo",
+      "category": "Days of the week",
+      "emoji": "📆"
+    },
+    {
+      "eng": "Spring",
+      "spa": "Primavera",
+      "category": "Seasons",
+      "emoji": "🌸"
+    },
+    {
+      "eng": "Summer",
+      "spa": "Verano",
+      "category": "Seasons",
+      "emoji": "☀️"
+    },
+    {
+      "eng": "Autumn",
+      "spa": "Otoño",
+      "category": "Seasons",
+      "emoji": "🍂"
+    },
+    {
+      "eng": "Winter",
+      "spa": "Invierno",
+      "category": "Seasons",
+      "emoji": "❄️"
+    },
+    {
+      "eng": "Ruler",
+      "spa": "Regla",
+      "category": "Classroom Objects",
+      "emoji": "📏"
+    },
+    {
+      "eng": "Book",
+      "spa": "Libro",
+      "category": "Classroom Objects",
+      "emoji": "📘"
+    },
+    {
+      "eng": "Paper",
+      "spa": "Papel",
+      "category": "Classroom Objects",
+      "emoji": "📄"
+    },
+    {
+      "eng": "Chair",
+      "spa": "Silla",
+      "category": "Classroom Objects",
+      "emoji": "🪑"
+    },
+    {
+      "eng": "Pen",
+      "spa": "Lapicera / Bolígrafo",
+      "category": "Classroom Objects",
+      "emoji": "🖊️"
+    },
+    {
+      "eng": "Pencil",
+      "spa": "Lápiz",
+      "category": "Classroom Objects",
+      "emoji": "✏️"
+    },
+    {
+      "eng": "Pencil case",
+      "spa": "Cartuchera",
+      "category": "Classroom Objects",
+      "emoji": "🧰"
+    },
+    {
+      "eng": "Rubber",
+      "spa": "Goma de borrar",
+      "category": "Classroom Objects",
+      "emoji": "🧽"
+    },
+    {
+      "eng": "Calculator",
+      "spa": "Calculadora",
+      "category": "Classroom Objects",
+      "emoji": "🧮"
+    },
+    {
+      "eng": "Pencil sharpener",
+      "spa": "Sacapuntas",
+      "category": "Classroom Objects",
+      "emoji": "✏️"
+    },
+    {
+      "eng": "Exercise book",
+      "spa": "Cuaderno de ejercicios",
+      "category": "Classroom Objects",
+      "emoji": "📒"
+    },
+    {
+      "eng": "Rucksack",
+      "spa": "Mochila",
+      "category": "Classroom Objects",
+      "emoji": "🎒"
+    },
+    {
+      "eng": "Blackboard",
+      "spa": "Pizarrón",
+      "category": "Classroom Objects",
+      "emoji": "⬛"
+    },
+    {
+      "eng": "Interactive whiteboard",
+      "spa": "Pizarra interactiva",
+      "category": "Classroom Objects",
+      "emoji": "🖥️"
+    },
+    {
+      "eng": "ICT",
+      "spa": "Informática / TIC",
+      "category": "School Subjects",
+      "emoji": "💻"
+    },
+    {
+      "eng": "English",
+      "spa": "Inglés",
+      "category": "School Subjects",
+      "emoji": "🇬🇧"
+    },
+    {
+      "eng": "French",
+      "spa": "Francés",
+      "category": "School Subjects",
+      "emoji": "🇫🇷"
+    },
+    {
+      "eng": "Geography",
+      "spa": "Geografía",
+      "category": "School Subjects",
+      "emoji": "🌍"
+    },
+    {
+      "eng": "History",
+      "spa": "Historia",
+      "category": "School Subjects",
+      "emoji": "🏛️"
+    },
+    {
+      "eng": "Maths",
+      "spa": "Matemática",
+      "category": "School Subjects",
+      "emoji": "➗"
+    },
+    {
+      "eng": "Music",
+      "spa": "Música",
+      "category": "School Subjects",
+      "emoji": "🎵"
+    },
+    {
+      "eng": "PE",
+      "spa": "Educación Física",
+      "category": "School Subjects",
+      "emoji": "🏃"
+    },
+    {
+      "eng": "Science",
+      "spa": "Ciencias",
+      "category": "School Subjects",
+      "emoji": "🔬"
+    },
+    {
+      "eng": "Art",
+      "spa": "Arte",
+      "category": "School Subjects",
+      "emoji": "🎨"
+    },
+    {
+      "eng": "Design and technology",
+      "spa": "Diseño y tecnología",
+      "category": "School Subjects",
+      "emoji": "🛠️"
+    },
+    {
+      "eng": "Arm",
+      "spa": "Brazo",
+      "category": "Parts of the Body",
+      "emoji": "💪"
+    },
+    {
+      "eng": "Back",
+      "spa": "Espalda",
+      "category": "Parts of the Body",
+      "emoji": "🧍"
+    },
+    {
+      "eng": "Ear",
+      "spa": "Oreja",
+      "category": "Parts of the Body",
+      "emoji": "👂"
+    },
+    {
+      "eng": "Eye",
+      "spa": "Ojo",
+      "category": "Parts of the Body",
+      "emoji": "👁️"
+    },
+    {
+      "eng": "Finger",
+      "spa": "Dedo",
+      "category": "Parts of the Body",
+      "emoji": "☝️"
+    },
+    {
+      "eng": "Foot",
+      "spa": "Pie",
+      "category": "Parts of the Body",
+      "emoji": "🦶"
+    },
+    {
+      "eng": "Hair",
+      "spa": "Cabello",
+      "category": "Parts of the Body",
+      "emoji": "💇"
+    },
+    {
+      "eng": "Hand",
+      "spa": "Mano",
+      "category": "Parts of the Body",
+      "emoji": "✋"
+    },
+    {
+      "eng": "Head",
+      "spa": "Cabeza",
+      "category": "Parts of the Body",
+      "emoji": "🙂"
+    },
+    {
+      "eng": "Leg",
+      "spa": "Pierna",
+      "category": "Parts of the Body",
+      "emoji": "🦵"
+    },
+    {
+      "eng": "Mouth",
+      "spa": "Boca",
+      "category": "Parts of the Body",
+      "emoji": "👄"
+    },
+    {
+      "eng": "Neck",
+      "spa": "Cuello",
+      "category": "Parts of the Body",
+      "emoji": "🧣"
+    },
+    {
+      "eng": "Nose",
+      "spa": "Nariz",
+      "category": "Parts of the Body",
+      "emoji": "👃"
+    },
+    {
+      "eng": "Thumb",
+      "spa": "Pulgar",
+      "category": "Parts of the Body",
+      "emoji": "👍"
+    },
+    {
+      "eng": "Toe",
+      "spa": "Dedo del pie",
+      "category": "Parts of the Body",
+      "emoji": "🦶"
+    },
+    {
+      "eng": "Big",
+      "spa": "Grande",
+      "category": "Appearance",
+      "emoji": "📏"
+    },
+    {
+      "eng": "Small",
+      "spa": "Pequeño",
+      "category": "Appearance",
+      "emoji": "🤏"
+    },
+    {
+      "eng": "Tall",
+      "spa": "Alto",
+      "category": "Appearance",
+      "emoji": "📏"
+    },
+    {
+      "eng": "Short",
+      "spa": "Bajo / Corto",
+      "category": "Appearance",
+      "emoji": "📐"
+    },
+    {
+      "eng": "Old",
+      "spa": "Viejo / Mayor",
+      "category": "Appearance",
+      "emoji": "👴"
+    },
+    {
+      "eng": "Young",
+      "spa": "Joven",
+      "category": "Appearance",
+      "emoji": "🧒"
+    },
+    {
+      "eng": "Long hair",
+      "spa": "Cabello largo",
+      "category": "Appearance",
+      "emoji": "💇"
+    },
+    {
+      "eng": "Short hair",
+      "spa": "Cabello corto",
+      "category": "Appearance",
+      "emoji": "✂️"
+    },
+    {
+      "eng": "Medium-length hair",
+      "spa": "Cabello de largo medio",
+      "category": "Appearance",
+      "emoji": "💇"
+    }
+  ]
+}

@@ -1,5 +1,14 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+/* Automatic Dark Mode */
+.dark body {
+  background-color: #020617;
+  color: #f1f5f9;
+}
+
 @keyframes slide-up { from { transform: translateY(100%); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
 @keyframes slide-down { from { transform: translateY(-100%); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
 @keyframes slide-down-toast { from { transform: translate(-50%, -100%); opacity: 0; } to { transform: translate(-50%, 0); opacity: 1; } }
@@ -10,3 +19,43 @@
 .transform-style-3d { transform-style: preserve-3d; }
 .backface-hidden { backface-visibility: hidden; }
 .rotate-y-180 { transform: rotateY(180deg); }
+
+/* Exercise Card Custom Theme Container */
+.exercise-card {
+  background-color: #f1f5f9;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.exercise-card:hover {
+  transform: scale(1.015);
+  box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.15), 0 8px 10px -6px rgba(99, 102, 241, 0.15);
+}
+.dark .exercise-card {
+  background-color: #0f172a;
+}
+
+@keyframes unlock-pop {
+  0% { transform: scale(0.8); box-shadow: 0 0 0 rgba(251, 191, 36, 0); }
+  50% { transform: scale(1.1); box-shadow: 0 0 30px rgba(251, 191, 36, 0.8); }
+  100% { transform: scale(1); box-shadow: 0 0 10px rgba(251, 191, 36, 0.4); }
+}
+.animate-unlock-pop {
+  animation: unlock-pop 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+@keyframes pop-in { 0% { transform: scale(0) translateY(50px); opacity: 0; } 60% { transform: scale(1.1) translateY(-10px); opacity: 1; } 100% { transform: scale(1) translateY(0); opacity: 1; } }
+.animate-pop-in { animation: pop-in 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards; }
+
+@keyframes pop-in-rotate {
+  0% { transform: scale(0) translateY(50px) rotate(-15deg); opacity: 0; }
+  60% { transform: scale(1.1) translateY(-10px) rotate(5deg); opacity: 1; }
+  100% { transform: scale(1) translateY(0) rotate(0deg); opacity: 1; }
+}
+.animate-pop-in-rotate {
+  animation: pop-in-rotate 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+.battery-saver *, .battery-saver *::before, .battery-saver *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+}

@@ -1,0 +1,576 @@
+[
+  {
+    "id": "wq1",
+    "category": "Possessive Adjectives",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: ___ favourite sport is football. (de ella)",
+    "options": [
+      "Her",
+      "His",
+      "My"
+    ],
+    "correctAnswer": "Her",
+    "emoji": "⚽",
+    "spa": "Su deporte favorito es el fútbol.",
+    "optionsLang": "en",
+    "eng": "Her favourite sport is football.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq2",
+    "category": "Possessive Adjectives",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: He is 14. ___ hobby is animals. (de él)",
+    "options": [
+      "His",
+      "Her",
+      "Your"
+    ],
+    "correctAnswer": "His",
+    "emoji": "🐾",
+    "spa": "Su pasatiempo son los animales.",
+    "optionsLang": "en",
+    "eng": "His hobby is animals.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq3",
+    "category": "There is/are",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: ___ a blue rucksack in the classroom.",
+    "options": [
+      "There's",
+      "There are",
+      "Is there"
+    ],
+    "correctAnswer": "There's",
+    "emoji": "🎒",
+    "spa": "Hay una mochila azul en el salón.",
+    "optionsLang": "en",
+    "eng": "There's a blue rucksack in the classroom.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq4",
+    "category": "There is/are",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: ___ two chairs in the dining room.",
+    "options": [
+      "There are",
+      "There is",
+      "Are there"
+    ],
+    "correctAnswer": "There are",
+    "emoji": "🪑",
+    "spa": "Hay dos sillas en el comedor.",
+    "optionsLang": "en",
+    "eng": "There are two chairs in the dining room.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq5",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: Are there ___ computers?",
+    "options": [
+      "any",
+      "some",
+      "a"
+    ],
+    "correctAnswer": "any",
+    "emoji": "💻",
+    "spa": "¿Hay algunas computadoras?",
+    "optionsLang": "en",
+    "eng": "Are there any computers?",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq6",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: There are ___ books in the bookcase.",
+    "options": [
+      "some",
+      "any",
+      "a"
+    ],
+    "correctAnswer": "some",
+    "emoji": "📚",
+    "spa": "Hay algunos libros en la estantería.",
+    "optionsLang": "en",
+    "eng": "There are some books in the bookcase.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq7",
+    "category": "Prepositions",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "¿Qué significa \"Between\"?",
+    "options": [
+      "Entre",
+      "Debajo de",
+      "Detrás de"
+    ],
+    "correctAnswer": "Entre",
+    "emoji": "👐",
+    "spa": "Entre",
+    "optionsLang": "es",
+    "eng": "Between",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq8",
+    "category": "Prepositions",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "¿Qué significa \"Opposite\"?",
+    "options": [
+      "Enfrente de",
+      "Al lado de",
+      "Por encima de"
+    ],
+    "correctAnswer": "Enfrente de",
+    "emoji": "↔️",
+    "spa": "Enfrente de",
+    "optionsLang": "es",
+    "eng": "Opposite",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq9",
+    "category": "There is/are",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: There ___ ten cupboards in the kitchen.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "correctAnswer": "are",
+    "emoji": "🗄️",
+    "spa": "Hay diez alacenas en la cocina.",
+    "optionsLang": "en",
+    "eng": "There are ten cupboards in the kitchen.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq10",
+    "category": "There is/are",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Forma negativa: ___ a bath in the bathroom.",
+    "options": [
+      "There isn't",
+      "There aren't",
+      "Isn't there"
+    ],
+    "correctAnswer": "There isn't",
+    "emoji": "🛁",
+    "spa": "No hay una bañera en el baño.",
+    "optionsLang": "en",
+    "eng": "There isn't a bath in the bathroom.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq11",
+    "category": "Prepositions",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "El opuesto de \"Upstairs\" (Arriba) es:",
+    "options": [
+      "Downstairs",
+      "Under",
+      "Behind"
+    ],
+    "correctAnswer": "Downstairs",
+    "emoji": "⬇️",
+    "spa": "Abajo",
+    "optionsLang": "en",
+    "eng": "Downstairs",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq12",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: There aren't ___ cupboards here.",
+    "options": [
+      "any",
+      "some",
+      "a"
+    ],
+    "correctAnswer": "any",
+    "emoji": "🗄️",
+    "spa": "No hay ningunas alacenas aquí.",
+    "optionsLang": "en",
+    "eng": "There aren't any cupboards here.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "wq13",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: Is there ___ sofa in your living room?",
+    "options": [
+      "a",
+      "any",
+      "some"
+    ],
+    "correctAnswer": "a",
+    "emoji": "🛋️",
+    "spa": "¿Hay un sofá en tu sala de estar?",
+    "optionsLang": "en",
+    "eng": "Is there a sofa in your living room?",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q1",
+    "category": "Monsters - Reading Comprehension",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "True or False: Monstropolis is a monster.",
+    "options": [
+      "True (T)",
+      "False (F)"
+    ],
+    "correctAnswer": "False (F)",
+    "emoji": "🏙️",
+    "spa": "¿Verdadero o Falso?: Monstruópolis es un monstruo.",
+    "optionsLang": "en",
+    "eng": "Monstropolis is a city, not a monster.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q2",
+    "category": "Monsters - Reading Comprehension",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "True or False: Mike works at Monsters, Inc.",
+    "options": [
+      "True (T)",
+      "False (F)"
+    ],
+    "correctAnswer": "True (T)",
+    "emoji": "🏢",
+    "spa": "¿Verdadero o Falso?: Mike trabaja en Monsters, Inc.",
+    "optionsLang": "en",
+    "eng": "Mike works at Monsters, Inc.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q3",
+    "category": "Monsters - Reading Comprehension",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "True or False: Randall is a nice monster.",
+    "options": [
+      "True (T)",
+      "False (F)"
+    ],
+    "correctAnswer": "False (F)",
+    "emoji": "🦎",
+    "spa": "¿Verdadero o Falso?: Randall es un monstruo agradable.",
+    "optionsLang": "en",
+    "eng": "Randall is bad and does not like Sulley.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q4",
+    "category": "Monsters - Reading Comprehension",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "True or False: The monsters aren't scared of the children.",
+    "options": [
+      "True (T)",
+      "False (F)"
+    ],
+    "correctAnswer": "False (F)",
+    "emoji": "😨",
+    "spa": "¿Verdadero o Falso?: Los monstruos no están asustados de los niños.",
+    "optionsLang": "en",
+    "eng": "But the monsters are scared of the children.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q5",
+    "category": "Monsters - Reading Comprehension",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "True or False: Mr. Waternoose and Randall help Boo.",
+    "options": [
+      "True (T)",
+      "False (F)"
+    ],
+    "correctAnswer": "False (F)",
+    "emoji": "🦀",
+    "spa": "¿Verdadero o Falso?: El Sr. Waternoose y Randall ayudan a Boo.",
+    "optionsLang": "en",
+    "eng": "They take Boo and throw the monsters out.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q6",
+    "category": "Monsters - Reading Comprehension",
+    "type": "quiz",
+    "skill": "Reading",
+    "question": "True or False: At the new Monsters, Inc., laughs make power for the city.",
+    "options": [
+      "True (T)",
+      "False (F)"
+    ],
+    "correctAnswer": "True (T)",
+    "emoji": "⚡",
+    "spa": "¿Verdadero o Falso?: En el nuevo Monsters, Inc., las risas generan energía para la ciudad.",
+    "optionsLang": "en",
+    "eng": "Laughs make power for Monstropolis now.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q7",
+    "category": "Monsters - Modals",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: Randall ___ change color.",
+    "options": [
+      "can",
+      "cannot",
+      "is"
+    ],
+    "correctAnswer": "can",
+    "emoji": "🎨",
+    "spa": "Randall puede cambiar de color.",
+    "optionsLang": "en",
+    "eng": "He can change color.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "mon_q8",
+    "category": "Monsters - Modals",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: Children ___ come to Monstropolis.",
+    "options": [
+      "can",
+      "cannot",
+      "are"
+    ],
+    "correctAnswer": "cannot",
+    "emoji": "🚫",
+    "spa": "Los niños no pueden venir a Monstruópolis.",
+    "optionsLang": "en",
+    "eng": "Children cannot come to Monstropolis.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q1",
+    "category": "Verb To Be",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: He ___ English. He's Argentinian.",
+    "options": [
+      "isn't",
+      "aren't",
+      "is"
+    ],
+    "correctAnswer": "isn't",
+    "emoji": "🇦🇷",
+    "spa": "Él no es inglés. Él es argentino.",
+    "optionsLang": "en",
+    "eng": "He isn't English. He's Argentinian.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q2",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: Is there ___ iron in my bedroom?",
+    "options": [
+      "an",
+      "a",
+      "any"
+    ],
+    "correctAnswer": "an",
+    "emoji": "🧲",
+    "spa": "¿Hay una plancha en mi dormitorio?",
+    "optionsLang": "en",
+    "eng": "Is there an iron in my bedroom?",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q3",
+    "category": "There is/are",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: ___ a blue rucksack in the classroom.",
+    "options": [
+      "There's",
+      "There are",
+      "Is there"
+    ],
+    "correctAnswer": "There's",
+    "emoji": "🎒",
+    "spa": "Hay una mochila azul en el salón.",
+    "optionsLang": "en",
+    "eng": "There's a blue rucksack in the classroom.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q4",
+    "category": "There is/are",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: ___ two chairs in the dining room.",
+    "options": [
+      "There are",
+      "There is",
+      "Are there"
+    ],
+    "correctAnswer": "There are",
+    "emoji": "🪑",
+    "spa": "Hay dos sillas en el comedor.",
+    "optionsLang": "en",
+    "eng": "There are two chairs in the dining room.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q5",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: Are there ___ computers?",
+    "options": [
+      "any",
+      "some",
+      "a"
+    ],
+    "correctAnswer": "any",
+    "emoji": "💻",
+    "spa": "¿Hay algunas computadoras?",
+    "optionsLang": "en",
+    "eng": "Are there any computers?",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q6",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: There are ___ books in the bookcase.",
+    "options": [
+      "some",
+      "any",
+      "an"
+    ],
+    "correctAnswer": "some",
+    "emoji": "📚",
+    "spa": "Hay algunos libros en la estantería.",
+    "optionsLang": "en",
+    "eng": "There are some books in the bookcase.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q7",
+    "category": "Prepositions",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: There's a desk ___ the window in my room.",
+    "options": [
+      "under",
+      "in",
+      "on"
+    ],
+    "correctAnswer": "under",
+    "emoji": "🪟",
+    "spa": "Hay un escritorio debajo de la ventana en mi habitación.",
+    "optionsLang": "en",
+    "eng": "There's a desk under the window in my room.",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "id": "ex_q8",
+    "category": "Quantifiers",
+    "type": "quiz",
+    "skill": "Grammar",
+    "question": "Completa: There isn't ___ mouse in my house!",
+    "options": [
+      "a",
+      "an",
+      "any"
+    ],
+    "correctAnswer": "a",
+    "emoji": "🐭",
+    "spa": "¡No hay un ratón en mi casa!",
+    "optionsLang": "en",
+    "eng": "There isn't a mouse in my house!",
+    "year": "2026",
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  }
+]

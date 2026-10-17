@@ -1,0 +1,2336 @@
+{
+  "unit": "Unid. 6: School Life",
+  "source": "I Succeed in English 2 Studentsbook and Workbook",
+  "year": "2026",
+  "DIALOGUES": [
+    {
+      "id": "u6_func_getting_dressed",
+      "category": "Getting dressed for school",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Hurry up! What are you wearing today?",
+          "spa": "¡Apúrate! ¿Qué te estás poniendo hoy?",
+          "emoji": "⏰"
+        },
+        {
+          "speaker": "B",
+          "eng": "I am putting on my school uniform.",
+          "spa": "Me estoy poniendo mi uniforme escolar.",
+          "emoji": "👔"
+        },
+        {
+          "speaker": "A",
+          "eng": "Are you wearing your blue jumper?",
+          "spa": "¿Estás usando tu suéter azul?",
+          "emoji": "🧥"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I am. And my black shoes.",
+          "spa": "Sí. Y mis zapatos negros.",
+          "emoji": "👞"
+        },
+        {
+          "speaker": "A",
+          "eng": "Don't forget your warm jacket.",
+          "spa": "No olvides tu campera abrigada.",
+          "emoji": "🧥"
+        },
+        {
+          "speaker": "B",
+          "eng": "Thanks! It is cold outside.",
+          "spa": "¡Gracias! Hace frío afuera.",
+          "emoji": "❄️"
+        }
+      ]
+    },
+    {
+      "id": "u6_func_classroom_actions",
+      "category": "Classroom - Actions now",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "What is the teacher writing on the board?",
+          "spa": "¿Qué está escribiendo la profesora en el pizarrón?",
+          "emoji": "👩‍🏫"
+        },
+        {
+          "speaker": "B",
+          "eng": "She is writing the English homework.",
+          "spa": "Está escribiendo la tarea de inglés.",
+          "emoji": "📝"
+        },
+        {
+          "speaker": "A",
+          "eng": "Are you copying the sentences?",
+          "spa": "¿Estás copiando las oraciones?",
+          "emoji": "✍️"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I am copying them in my notebook.",
+          "spa": "Sí, las estoy copiando en mi cuaderno.",
+          "emoji": "📓"
+        },
+        {
+          "speaker": "A",
+          "eng": "Where is Lucas sitting today?",
+          "spa": "¿Dónde está sentado Lucas hoy?",
+          "emoji": "🪑"
+        },
+        {
+          "speaker": "B",
+          "eng": "He is sitting next to the window.",
+          "spa": "Está sentado al lado de la ventana.",
+          "emoji": "🪟"
+        }
+      ]
+    },
+    {
+      "id": "u6_func_looking_clothes",
+      "category": "Looking for missing clothes",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Where is my hoodie?",
+          "spa": "¿Dónde está mi buzo con capucha?",
+          "emoji": "🧥"
+        },
+        {
+          "speaker": "B",
+          "eng": "Is your brother wearing it?",
+          "spa": "¿Lo está usando tu hermano?",
+          "emoji": "👦"
+        },
+        {
+          "speaker": "A",
+          "eng": "No, he is wearing a red sweatshirt.",
+          "spa": "No, él está usando un buzo rojo.",
+          "emoji": "🔴"
+        },
+        {
+          "speaker": "B",
+          "eng": "Look, it is hanging behind the door.",
+          "spa": "Mira, está colgado detrás de la puerta.",
+          "emoji": "🚪"
+        },
+        {
+          "speaker": "A",
+          "eng": "Oh, thank you! I need it for PE.",
+          "spa": "¡Ah, gracias! Lo necesito para educación física.",
+          "emoji": "🏃"
+        }
+      ]
+    },
+    {
+      "id": "u6_func_shopping_clothes",
+      "category": "Shopping for clothes",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Can I help you?",
+          "spa": "¿En qué puedo ayudarte?",
+          "emoji": "🛍️"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, please. I am looking for a pair of jeans.",
+          "spa": "Sí, por favor. Estoy buscando un par de jeans.",
+          "emoji": "👖"
+        },
+        {
+          "speaker": "A",
+          "eng": "What size are you?",
+          "spa": "¿Qué talle tienes?",
+          "emoji": "📏"
+        },
+        {
+          "speaker": "B",
+          "eng": "I am a medium. Can I try these on?",
+          "spa": "Soy talle mediano. ¿Me puedo probar estos?",
+          "emoji": "👕"
+        },
+        {
+          "speaker": "A",
+          "eng": "Sure. The changing rooms are over there.",
+          "spa": "Claro. Los probadores están por allí.",
+          "emoji": "🚪"
+        },
+        {
+          "speaker": "B",
+          "eng": "Thank you very much.",
+          "spa": "Muchas gracias.",
+          "emoji": "😊"
+        }
+      ]
+    },
+    {
+      "id": "u6_func_school_chores",
+      "category": "School chores and duties",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "Are you tidying the science lab?",
+          "spa": "¿Estás ordenando el laboratorio de ciencias?",
+          "emoji": "🔬"
+        },
+        {
+          "speaker": "B",
+          "eng": "Yes, I am cleaning the test tubes.",
+          "spa": "Sí, estoy limpiando los tubos de ensayo.",
+          "emoji": "🧽"
+        },
+        {
+          "speaker": "A",
+          "eng": "Who is wiping the blackboard?",
+          "spa": "¿Quién está limpiando el pizarrón?",
+          "emoji": "🧹"
+        },
+        {
+          "speaker": "B",
+          "eng": "Elena is wiping it with a wet cloth.",
+          "spa": "Elena lo está limpiando con un trapo húmedo.",
+          "emoji": "🧼"
+        },
+        {
+          "speaker": "A",
+          "eng": "Let's help her finish quickly.",
+          "spa": "Ayudémosla a terminar rápido.",
+          "emoji": "🤝"
+        }
+      ]
+    },
+    {
+      "id": "u6_func_eco_clothes",
+      "category": "SDG - Sustainable Fashion",
+      "vars": [],
+      "lines": [
+        {
+          "speaker": "A",
+          "eng": "That's a nice jacket! Is it new?",
+          "spa": "¡Qué linda campera! ¿Es nueva?",
+          "emoji": "🧥"
+        },
+        {
+          "speaker": "B",
+          "eng": "No, it's second-hand from a charity shop.",
+          "spa": "No, es de segunda mano de una tienda benéfica.",
+          "emoji": "♻️"
+        },
+        {
+          "speaker": "A",
+          "eng": "Really? It looks brand new.",
+          "spa": "¿En serio? Parece a estrenar.",
+          "emoji": "✨"
+        },
+        {
+          "speaker": "B",
+          "eng": "Buying second-hand clothes saves water and energy.",
+          "spa": "Comprar ropa de segunda mano ahorra agua y energía.",
+          "emoji": "💧"
+        },
+        {
+          "speaker": "A",
+          "eng": "That is great for our planet.",
+          "spa": "Eso es genial para nuestro planeta.",
+          "emoji": "🌍"
+        }
+      ]
+    }
+  ],
+  "GRAMMAR_QUIZZES": [
+    {
+      "id": "u6_cq001",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Belt\"?",
+      "options": [
+        "Cinturón",
+        "Bufanda",
+        "Zapatillas"
+      ],
+      "correctAnswer": "Cinturón",
+      "emoji": "🥋",
+      "spa": "Cinturón",
+      "optionsLang": "es",
+      "eng": "Belt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq002",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Boots\"?",
+      "options": [
+        "Botas",
+        "Zapatos",
+        "Medias"
+      ],
+      "correctAnswer": "Botas",
+      "emoji": "🥾",
+      "spa": "Botas",
+      "optionsLang": "es",
+      "eng": "Boots",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq003",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Cap\"?",
+      "options": [
+        "Gorra",
+        "Sombrero",
+        "Bufanda"
+      ],
+      "correctAnswer": "Gorra",
+      "emoji": "🧢",
+      "spa": "Gorra",
+      "optionsLang": "es",
+      "eng": "Cap",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq004",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Coat\"?",
+      "options": [
+        "Abrigo",
+        "Camisa",
+        "Falda"
+      ],
+      "correctAnswer": "Abrigo",
+      "emoji": "🧥",
+      "spa": "Abrigo",
+      "optionsLang": "es",
+      "eng": "Coat",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq005",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Dress\"?",
+      "options": [
+        "Vestido",
+        "Pollera",
+        "Pantalones"
+      ],
+      "correctAnswer": "Vestido",
+      "emoji": "👗",
+      "spa": "Vestido",
+      "optionsLang": "es",
+      "eng": "Dress",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq006",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Hoodie\"?",
+      "options": [
+        "Buzo con capucha",
+        "Campera",
+        "Chaleco"
+      ],
+      "correctAnswer": "Buzo con capucha",
+      "emoji": "🧥",
+      "spa": "Buzo con capucha",
+      "optionsLang": "es",
+      "eng": "Hoodie",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq007",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Jacket\"?",
+      "options": [
+        "Campera / Chaqueta",
+        "Suéter",
+        "Remera"
+      ],
+      "correctAnswer": "Campera / Chaqueta",
+      "emoji": "🧥",
+      "spa": "Campera / Chaqueta",
+      "optionsLang": "es",
+      "eng": "Jacket",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq008",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Jeans\"?",
+      "options": [
+        "Jeans / Vaqueros",
+        "Pantalón corto",
+        "Medias"
+      ],
+      "correctAnswer": "Jeans / Vaqueros",
+      "emoji": "👖",
+      "spa": "Jeans / Vaqueros",
+      "optionsLang": "es",
+      "eng": "Jeans",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq009",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Jumper\"?",
+      "options": [
+        "Suéter / Jersey",
+        "Camisa",
+        "Corbata"
+      ],
+      "correctAnswer": "Suéter / Jersey",
+      "emoji": "🧶",
+      "spa": "Suéter / Jersey",
+      "optionsLang": "es",
+      "eng": "Jumper",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq010",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Scarf\"?",
+      "options": [
+        "Bufanda",
+        "Gorra",
+        "Cinturón"
+      ],
+      "correctAnswer": "Bufanda",
+      "emoji": "🧣",
+      "spa": "Bufanda",
+      "optionsLang": "es",
+      "eng": "Scarf",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq011",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Shirt\"?",
+      "options": [
+        "Camisa",
+        "Remera",
+        "Abrigo"
+      ],
+      "correctAnswer": "Camisa",
+      "emoji": "👔",
+      "spa": "Camisa",
+      "optionsLang": "es",
+      "eng": "Shirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq012",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Shoes\"?",
+      "options": [
+        "Zapatos",
+        "Botas",
+        "Zapatillas"
+      ],
+      "correctAnswer": "Zapatos",
+      "emoji": "👞",
+      "spa": "Zapatos",
+      "optionsLang": "es",
+      "eng": "Shoes",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq013",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Skirt\"?",
+      "options": [
+        "Falda / Pollera",
+        "Vestido",
+        "Camisa"
+      ],
+      "correctAnswer": "Falda / Pollera",
+      "emoji": "👗",
+      "spa": "Falda / Pollera",
+      "optionsLang": "es",
+      "eng": "Skirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq014",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Socks\"?",
+      "options": [
+        "Medias / Calcetines",
+        "Zapatos",
+        "Guantes"
+      ],
+      "correctAnswer": "Medias / Calcetines",
+      "emoji": "🧦",
+      "spa": "Medias / Calcetines",
+      "optionsLang": "es",
+      "eng": "Socks",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq015",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Sunglasses\"?",
+      "options": [
+        "Anteojos de sol",
+        "Gorra",
+        "Bufanda"
+      ],
+      "correctAnswer": "Anteojos de sol",
+      "emoji": "🕶️",
+      "spa": "Anteojos de sol",
+      "optionsLang": "es",
+      "eng": "Sunglasses",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq016",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Sweatshirt\"?",
+      "options": [
+        "Buzo deportivo",
+        "Campera",
+        "Chaleco"
+      ],
+      "correctAnswer": "Buzo deportivo",
+      "emoji": "👕",
+      "spa": "Buzo deportivo",
+      "optionsLang": "es",
+      "eng": "Sweatshirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq017",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Tie\"?",
+      "options": [
+        "Corbata",
+        "Cinturón",
+        "Bufanda"
+      ],
+      "correctAnswer": "Corbata",
+      "emoji": "👔",
+      "spa": "Corbata",
+      "optionsLang": "es",
+      "eng": "Tie",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq018",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Trainers\"?",
+      "options": [
+        "Zapatillas deportivas",
+        "Botas",
+        "Zapatos"
+      ],
+      "correctAnswer": "Zapatillas deportivas",
+      "emoji": "👟",
+      "spa": "Zapatillas deportivas",
+      "optionsLang": "es",
+      "eng": "Trainers",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq019",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Trousers\"?",
+      "options": [
+        "Pantalones",
+        "Jeans",
+        "Medias"
+      ],
+      "correctAnswer": "Pantalones",
+      "emoji": "👖",
+      "spa": "Pantalones",
+      "optionsLang": "es",
+      "eng": "Trousers",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq020",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"T-shirt\"?",
+      "options": [
+        "Remera / Camiseta",
+        "Camisa",
+        "Suéter"
+      ],
+      "correctAnswer": "Remera / Camiseta",
+      "emoji": "👕",
+      "spa": "Remera / Camiseta",
+      "optionsLang": "es",
+      "eng": "T-shirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_cq021",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa \"Uniform\"?",
+      "options": [
+        "Uniforme",
+        "Disfraz",
+        "Ropa casual"
+      ],
+      "correctAnswer": "Uniforme",
+      "emoji": "🏫",
+      "spa": "Uniforme",
+      "optionsLang": "es",
+      "eng": "Uniform",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq001",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Cinturón\" en inglés?",
+      "options": [
+        "Belt",
+        "Boots",
+        "Dress"
+      ],
+      "correctAnswer": "Belt",
+      "emoji": "🥋",
+      "spa": "Cinturón",
+      "optionsLang": "en",
+      "eng": "Belt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq002",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Botas\" en inglés?",
+      "options": [
+        "Boots",
+        "Cap",
+        "Hoodie"
+      ],
+      "correctAnswer": "Boots",
+      "emoji": "🥾",
+      "spa": "Botas",
+      "optionsLang": "en",
+      "eng": "Boots",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq003",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Gorra\" en inglés?",
+      "options": [
+        "Cap",
+        "Coat",
+        "Jacket"
+      ],
+      "correctAnswer": "Cap",
+      "emoji": "🧢",
+      "spa": "Gorra",
+      "optionsLang": "en",
+      "eng": "Cap",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq004",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Abrigo\" en inglés?",
+      "options": [
+        "Coat",
+        "Dress",
+        "Jeans"
+      ],
+      "correctAnswer": "Coat",
+      "emoji": "🧥",
+      "spa": "Abrigo",
+      "optionsLang": "en",
+      "eng": "Coat",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq005",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Vestido\" en inglés?",
+      "options": [
+        "Dress",
+        "Hoodie",
+        "Jumper"
+      ],
+      "correctAnswer": "Dress",
+      "emoji": "👗",
+      "spa": "Vestido",
+      "optionsLang": "en",
+      "eng": "Dress",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq006",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Buzo con capucha\" en inglés?",
+      "options": [
+        "Hoodie",
+        "Jacket",
+        "Scarf"
+      ],
+      "correctAnswer": "Hoodie",
+      "emoji": "🧥",
+      "spa": "Buzo con capucha",
+      "optionsLang": "en",
+      "eng": "Hoodie",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq007",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Campera / Chaqueta\" en inglés?",
+      "options": [
+        "Jacket",
+        "Jeans",
+        "Shirt"
+      ],
+      "correctAnswer": "Jacket",
+      "emoji": "🧥",
+      "spa": "Campera / Chaqueta",
+      "optionsLang": "en",
+      "eng": "Jacket",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq008",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Jeans / Vaqueros\" en inglés?",
+      "options": [
+        "Jeans",
+        "Jumper",
+        "Shoes"
+      ],
+      "correctAnswer": "Jeans",
+      "emoji": "👖",
+      "spa": "Jeans / Vaqueros",
+      "optionsLang": "en",
+      "eng": "Jeans",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq009",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Suéter / Jersey\" en inglés?",
+      "options": [
+        "Jumper",
+        "Scarf",
+        "Skirt"
+      ],
+      "correctAnswer": "Jumper",
+      "emoji": "🧶",
+      "spa": "Suéter / Jersey",
+      "optionsLang": "en",
+      "eng": "Jumper",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq010",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Bufanda\" en inglés?",
+      "options": [
+        "Scarf",
+        "Shirt",
+        "Socks"
+      ],
+      "correctAnswer": "Scarf",
+      "emoji": "🧣",
+      "spa": "Bufanda",
+      "optionsLang": "en",
+      "eng": "Scarf",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq011",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Camisa\" en inglés?",
+      "options": [
+        "Shirt",
+        "Shoes",
+        "Sunglasses"
+      ],
+      "correctAnswer": "Shirt",
+      "emoji": "👔",
+      "spa": "Camisa",
+      "optionsLang": "en",
+      "eng": "Shirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq012",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Zapatos\" en inglés?",
+      "options": [
+        "Shoes",
+        "Skirt",
+        "Sweatshirt"
+      ],
+      "correctAnswer": "Shoes",
+      "emoji": "👞",
+      "spa": "Zapatos",
+      "optionsLang": "en",
+      "eng": "Shoes",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq013",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Falda / Pollera\" en inglés?",
+      "options": [
+        "Skirt",
+        "Socks",
+        "Tie"
+      ],
+      "correctAnswer": "Skirt",
+      "emoji": "👗",
+      "spa": "Falda / Pollera",
+      "optionsLang": "en",
+      "eng": "Skirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq014",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Medias / Calcetines\" en inglés?",
+      "options": [
+        "Socks",
+        "Sunglasses",
+        "Trainers"
+      ],
+      "correctAnswer": "Socks",
+      "emoji": "🧦",
+      "spa": "Medias / Calcetines",
+      "optionsLang": "en",
+      "eng": "Socks",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq015",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Anteojos de sol\" en inglés?",
+      "options": [
+        "Sunglasses",
+        "Sweatshirt",
+        "Trousers"
+      ],
+      "correctAnswer": "Sunglasses",
+      "emoji": "🕶️",
+      "spa": "Anteojos de sol",
+      "optionsLang": "en",
+      "eng": "Sunglasses",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq016",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Buzo deportivo\" en inglés?",
+      "options": [
+        "Sweatshirt",
+        "T-shirt",
+        "Tie"
+      ],
+      "correctAnswer": "Sweatshirt",
+      "emoji": "👕",
+      "spa": "Buzo deportivo",
+      "optionsLang": "en",
+      "eng": "Sweatshirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq017",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Corbata\" en inglés?",
+      "options": [
+        "Tie",
+        "Trainers",
+        "Uniform"
+      ],
+      "correctAnswer": "Tie",
+      "emoji": "👔",
+      "spa": "Corbata",
+      "optionsLang": "en",
+      "eng": "Tie",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq018",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Zapatillas deportivas\" en inglés?",
+      "options": [
+        "Belt",
+        "Trainers",
+        "Trousers"
+      ],
+      "correctAnswer": "Trainers",
+      "emoji": "👟",
+      "spa": "Zapatillas deportivas",
+      "optionsLang": "en",
+      "eng": "Trainers",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq019",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Pantalones\" en inglés?",
+      "options": [
+        "Boots",
+        "T-shirt",
+        "Trousers"
+      ],
+      "correctAnswer": "Trousers",
+      "emoji": "👖",
+      "spa": "Pantalones",
+      "optionsLang": "en",
+      "eng": "Trousers",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq020",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Remera / Camiseta\" en inglés?",
+      "options": [
+        "Cap",
+        "T-shirt",
+        "Uniform"
+      ],
+      "correctAnswer": "T-shirt",
+      "emoji": "👕",
+      "spa": "Remera / Camiseta",
+      "optionsLang": "en",
+      "eng": "T-shirt",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_ceng_cq021",
+      "category": "Clothes and Accessories",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Cómo se dice \"Uniforme\" en inglés?",
+      "options": [
+        "Belt",
+        "Coat",
+        "Uniform"
+      ],
+      "correctAnswer": "Uniform",
+      "emoji": "🏫",
+      "spa": "Uniforme",
+      "optionsLang": "en",
+      "eng": "Uniform",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp01",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"wear\":",
+      "options": [
+        "wearing",
+        "wearring",
+        "weares"
+      ],
+      "correctAnswer": "wearing",
+      "emoji": "✍️",
+      "spa": "wear → wearing",
+      "optionsLang": "en",
+      "eng": "wear → wearing",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp02",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"sit\":",
+      "options": [
+        "sitting",
+        "siting",
+        "sited"
+      ],
+      "correctAnswer": "sitting",
+      "emoji": "✍️",
+      "spa": "sit → sitting (dobla consonante)",
+      "optionsLang": "en",
+      "eng": "sit → sitting",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp03",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"dance\":",
+      "options": [
+        "dancing",
+        "danceing",
+        "dances"
+      ],
+      "correctAnswer": "dancing",
+      "emoji": "✍️",
+      "spa": "dance → dancing (quita 'e')",
+      "optionsLang": "en",
+      "eng": "dance → dancing",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp04",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"swim\":",
+      "options": [
+        "swimming",
+        "swiming",
+        "swims"
+      ],
+      "correctAnswer": "swimming",
+      "emoji": "✍️",
+      "spa": "swim → swimming (dobla 'm')",
+      "optionsLang": "en",
+      "eng": "swim → swimming",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp05",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"run\":",
+      "options": [
+        "running",
+        "runing",
+        "runs"
+      ],
+      "correctAnswer": "running",
+      "emoji": "✍️",
+      "spa": "run → running (dobla 'n')",
+      "optionsLang": "en",
+      "eng": "run → running",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp06",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"write\":",
+      "options": [
+        "writing",
+        "writeing",
+        "writes"
+      ],
+      "correctAnswer": "writing",
+      "emoji": "✍️",
+      "spa": "write → writing (quita 'e')",
+      "optionsLang": "en",
+      "eng": "write → writing",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp07",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"tidy\":",
+      "options": [
+        "tidying",
+        "tiding",
+        "tidies"
+      ],
+      "correctAnswer": "tidying",
+      "emoji": "✍️",
+      "spa": "tidy → tidying",
+      "optionsLang": "en",
+      "eng": "tidy → tidying",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp08",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"play\":",
+      "options": [
+        "playing",
+        "plaing",
+        "plaies"
+      ],
+      "correctAnswer": "playing",
+      "emoji": "✍️",
+      "spa": "play → playing",
+      "optionsLang": "en",
+      "eng": "play → playing",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp09",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"put\":",
+      "options": [
+        "putting",
+        "puting",
+        "puts"
+      ],
+      "correctAnswer": "putting",
+      "emoji": "✍️",
+      "spa": "put → putting (dobla 't')",
+      "optionsLang": "en",
+      "eng": "put → putting",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sp10",
+      "category": "Present Continuous - Spelling Rules",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Forma en -ing del verbo \"make\":",
+      "options": [
+        "making",
+        "makeing",
+        "makes"
+      ],
+      "correctAnswer": "making",
+      "emoji": "✍️",
+      "spa": "make → making (quita 'e')",
+      "optionsLang": "en",
+      "eng": "make → making",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an01",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I ___ a green hoodie today.",
+      "options": [
+        "am wearing",
+        "is wearing",
+        "are wearing"
+      ],
+      "correctAnswer": "am wearing",
+      "emoji": "👔",
+      "spa": "Estoy usando un buzo verde hoy.",
+      "optionsLang": "en",
+      "eng": "I am wearing a green hoodie today.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an02",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "She ___ her homework right now.",
+      "options": [
+        "is doing",
+        "are doing",
+        "am doing"
+      ],
+      "correctAnswer": "is doing",
+      "emoji": "👔",
+      "spa": "Ella está haciendo su tarea ahora.",
+      "optionsLang": "en",
+      "eng": "She is doing her homework right now.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an03",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "They ___ football in the schoolyard.",
+      "options": [
+        "are playing",
+        "is playing",
+        "am playing"
+      ],
+      "correctAnswer": "are playing",
+      "emoji": "👔",
+      "spa": "Ellos están jugando al fútbol en el patio.",
+      "optionsLang": "en",
+      "eng": "They are playing football in the schoolyard.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an04",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "We ___ our classroom together.",
+      "options": [
+        "are cleaning",
+        "is cleaning",
+        "am cleaning"
+      ],
+      "correctAnswer": "are cleaning",
+      "emoji": "👔",
+      "spa": "Estamos limpiando nuestra aula juntos.",
+      "optionsLang": "en",
+      "eng": "We are cleaning our classroom together.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an05",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "He ___ a coat because it is warm.",
+      "options": [
+        "isn't wearing",
+        "aren't wearing",
+        "am not wearing"
+      ],
+      "correctAnswer": "isn't wearing",
+      "emoji": "👔",
+      "spa": "Él no lleva abrigo porque está templado.",
+      "optionsLang": "en",
+      "eng": "He isn't wearing a coat because it is warm.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an06",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "You ___ to the teacher!",
+      "options": [
+        "aren't listening",
+        "isn't listening",
+        "doesn't listening"
+      ],
+      "correctAnswer": "aren't listening",
+      "emoji": "👔",
+      "spa": "¡No estás prestando atención a la profesora!",
+      "optionsLang": "en",
+      "eng": "You aren't listening to the teacher!",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an07",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I ___ TV, I am reading.",
+      "options": [
+        "am not watching",
+        "isn't watching",
+        "aren't watching"
+      ],
+      "correctAnswer": "am not watching",
+      "emoji": "👔",
+      "spa": "No estoy viendo la tele, estoy leyendo.",
+      "optionsLang": "en",
+      "eng": "I am not watching TV, I am reading.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an08",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "The dog ___ under the desk.",
+      "options": [
+        "is sleeping",
+        "are sleeping",
+        "am sleeping"
+      ],
+      "correctAnswer": "is sleeping",
+      "emoji": "👔",
+      "spa": "El perro está durmiendo debajo del banco.",
+      "optionsLang": "en",
+      "eng": "The dog is sleeping under the desk.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an09",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Lucas and Emma ___ to school now.",
+      "options": [
+        "are walking",
+        "is walking",
+        "walks"
+      ],
+      "correctAnswer": "are walking",
+      "emoji": "👔",
+      "spa": "Lucas y Emma están caminando a la escuela ahora.",
+      "optionsLang": "en",
+      "eng": "Lucas and Emma are walking to school now.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_an10",
+      "category": "Present Continuous - Affirmative and Negative",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Look! It ___ outside.",
+      "options": [
+        "is snowing",
+        "are snowing",
+        "snow"
+      ],
+      "correctAnswer": "is snowing",
+      "emoji": "👔",
+      "spa": "¡Mira! Está nevando afuera.",
+      "optionsLang": "en",
+      "eng": "Look! It is snowing outside.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq01",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ you wearing your new trainers?",
+      "options": [
+        "Are",
+        "Is",
+        "Do"
+      ],
+      "correctAnswer": "Are",
+      "emoji": "❓",
+      "spa": "¿Estás usando tus zapatillas nuevas?",
+      "optionsLang": "en",
+      "eng": "Are you wearing your new trainers?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq02",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "___ your brother doing his homework?",
+      "options": [
+        "Is",
+        "Are",
+        "Does"
+      ],
+      "correctAnswer": "Is",
+      "emoji": "❓",
+      "spa": "¿Tu hermano está haciendo su tarea?",
+      "optionsLang": "en",
+      "eng": "Is your brother doing his homework?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq03",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Are they studying English? - Yes, they ___.",
+      "options": [
+        "are",
+        "do",
+        "is"
+      ],
+      "correctAnswer": "are",
+      "emoji": "❓",
+      "spa": "Sí, están estudiando.",
+      "optionsLang": "en",
+      "eng": "Yes, they are.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq04",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Is she wearing a scarf? - No, she ___.",
+      "options": [
+        "isn't",
+        "aren't",
+        "doesn't"
+      ],
+      "correctAnswer": "isn't",
+      "emoji": "❓",
+      "spa": "No, no lleva bufanda.",
+      "optionsLang": "en",
+      "eng": "No, she isn't.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq05",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Are you listening? - Yes, I ___.",
+      "options": [
+        "am",
+        "do",
+        "are"
+      ],
+      "correctAnswer": "am",
+      "emoji": "❓",
+      "spa": "Sí, estoy escuchando.",
+      "optionsLang": "en",
+      "eng": "Yes, I am.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq06",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "What ___ you doing right now?",
+      "options": [
+        "are",
+        "is",
+        "do"
+      ],
+      "correctAnswer": "are",
+      "emoji": "❓",
+      "spa": "¿Qué estás haciendo ahora mismo?",
+      "optionsLang": "en",
+      "eng": "What are you doing right now?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq07",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Where ___ he going?",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correctAnswer": "is",
+      "emoji": "❓",
+      "spa": "¿Adónde va él?",
+      "optionsLang": "en",
+      "eng": "Where is he going?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq08",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Why ___ they wearing jackets indoors?",
+      "options": [
+        "are",
+        "is",
+        "do"
+      ],
+      "correctAnswer": "are",
+      "emoji": "❓",
+      "spa": "¿Por qué llevan camperas adentro?",
+      "optionsLang": "en",
+      "eng": "Why are they wearing jackets indoors?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq09",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Who ___ sitting next to Maya?",
+      "options": [
+        "is",
+        "are",
+        "do"
+      ],
+      "correctAnswer": "is",
+      "emoji": "❓",
+      "spa": "¿Quién está sentado al lado de Maya?",
+      "optionsLang": "en",
+      "eng": "Who is sitting next to Maya?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_pq10",
+      "category": "Present Continuous - Questions and Answers",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Is it raining outside? - Yes, it ___.",
+      "options": [
+        "is",
+        "are",
+        "does"
+      ],
+      "correctAnswer": "is",
+      "emoji": "❓",
+      "spa": "Sí, está lloviendo.",
+      "optionsLang": "en",
+      "eng": "Yes, it is.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc01",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "I usually ___ a uniform, but today I ___ jeans.",
+      "options": [
+        "wear / am wearing",
+        "am wearing / wear",
+        "wears / is wearing"
+      ],
+      "correctAnswer": "wear / am wearing",
+      "emoji": "⚖️",
+      "spa": "Normalmente uso uniforme, pero hoy llevo jeans.",
+      "optionsLang": "en",
+      "eng": "I usually wear a uniform, but today I am wearing jeans.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc02",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Listen! The baby ___.",
+      "options": [
+        "is crying",
+        "cries",
+        "cry"
+      ],
+      "correctAnswer": "is crying",
+      "emoji": "⚖️",
+      "spa": "¡Escucha! El bebé está llorando.",
+      "optionsLang": "en",
+      "eng": "Listen! The baby is crying.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc03",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Tom ___ to school by bike every morning.",
+      "options": [
+        "rides",
+        "is riding",
+        "riding"
+      ],
+      "correctAnswer": "rides",
+      "emoji": "⚖️",
+      "spa": "Tom va en bicicleta a la escuela todas las mañanas.",
+      "optionsLang": "en",
+      "eng": "Tom rides to school by bike every morning.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc04",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Right now, we ___ for our exam.",
+      "options": [
+        "are studying",
+        "study",
+        "studies"
+      ],
+      "correctAnswer": "are studying",
+      "emoji": "⚖️",
+      "spa": "Ahora mismo estamos estudiando para nuestro examen.",
+      "optionsLang": "en",
+      "eng": "Right now, we are studying for our exam.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc05",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "She ___ coffee every day.",
+      "options": [
+        "drinks",
+        "is drinking",
+        "drink"
+      ],
+      "correctAnswer": "drinks",
+      "emoji": "⚖️",
+      "spa": "Ella toma café todos los días.",
+      "optionsLang": "en",
+      "eng": "She drinks coffee every day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc06",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Look! Diego ___ a red sweatshirt today.",
+      "options": [
+        "is wearing",
+        "wears",
+        "wear"
+      ],
+      "correctAnswer": "is wearing",
+      "emoji": "⚖️",
+      "spa": "¡Mira! Diego lleva un buzo rojo hoy.",
+      "optionsLang": "en",
+      "eng": "Look! Diego is wearing a red sweatshirt today.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc07",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "They never ___ trainers to formal events.",
+      "options": [
+        "wear",
+        "are wearing",
+        "wears"
+      ],
+      "correctAnswer": "wear",
+      "emoji": "⚖️",
+      "spa": "Nunca usan zapatillas para eventos formales.",
+      "optionsLang": "en",
+      "eng": "They never wear trainers to formal events.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc08",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "What ___ at the moment?",
+      "options": [
+        "are you reading",
+        "do you read",
+        "you read"
+      ],
+      "correctAnswer": "are you reading",
+      "emoji": "⚖️",
+      "spa": "¿Qué estás leyendo en este momento?",
+      "optionsLang": "en",
+      "eng": "What are you reading at the moment?",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc09",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "He ___ his teeth twice a day.",
+      "options": [
+        "brushes",
+        "is brushing",
+        "brush"
+      ],
+      "correctAnswer": "brushes",
+      "emoji": "⚖️",
+      "spa": "Él se cepilla los dientes dos veces al día.",
+      "optionsLang": "en",
+      "eng": "He brushes his teeth twice a day.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_svc10",
+      "category": "Present Simple vs Continuous",
+      "type": "quiz",
+      "skill": "Grammar",
+      "question": "Quiet, please! The teacher ___.",
+      "options": [
+        "is talking",
+        "talks",
+        "talk"
+      ],
+      "correctAnswer": "is talking",
+      "emoji": "⚖️",
+      "spa": "¡Silencio, por favor! La profesora está hablando.",
+      "optionsLang": "en",
+      "eng": "Quiet, please! The teacher is talking.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sdg01",
+      "category": "SDG - Sustainable Fashion",
+      "type": "quiz",
+      "skill": "Reading",
+      "question": "¿Cuánta agua se necesita para fabricar una sola remera de algodón?",
+      "options": [
+        "Unos 2.700 litros",
+        "10 litros",
+        "100 litros"
+      ],
+      "correctAnswer": "Unos 2.700 litros",
+      "emoji": "💧",
+      "spa": "Unos 2.700 litros de agua.",
+      "optionsLang": "es",
+      "eng": "About 2,700 litres",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sdg02",
+      "category": "SDG - Sustainable Fashion",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Buying ___ clothes saves money and protects the planet.",
+      "options": [
+        "second-hand",
+        "new plastic",
+        "expensive"
+      ],
+      "correctAnswer": "second-hand",
+      "emoji": "♻️",
+      "spa": "Comprar ropa de segunda mano ahorra dinero y protege el planeta.",
+      "optionsLang": "es",
+      "eng": "Buying second-hand clothes saves money.",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sdg03",
+      "category": "SDG - Sustainable Fashion",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "¿Qué significa 'swap clothes'?",
+      "options": [
+        "Intercambiar ropa",
+        "Tirar la ropa",
+        "Comprar ropa de lujo"
+      ],
+      "correctAnswer": "Intercambiar ropa",
+      "emoji": "🔄",
+      "spa": "Intercambiar ropa.",
+      "optionsLang": "es",
+      "eng": "swap clothes",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sdg04",
+      "category": "SDG - Sustainable Fashion",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "Fast fashion creates a lot of ___.",
+      "options": [
+        "waste and pollution",
+        "clean rivers",
+        "free shoes"
+      ],
+      "correctAnswer": "waste and pollution",
+      "emoji": "🏭",
+      "spa": "La moda rápida genera muchos residuos y contaminación.",
+      "optionsLang": "es",
+      "eng": "waste and pollution",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    },
+    {
+      "id": "u6_sdg05",
+      "category": "SDG - Sustainable Fashion",
+      "type": "quiz",
+      "skill": "Vocabulary",
+      "question": "If your jumper has a small hole, you can ___ it.",
+      "options": [
+        "repair",
+        "destroy",
+        "burn"
+      ],
+      "correctAnswer": "repair",
+      "emoji": "🪡",
+      "spa": "Si tu suéter tiene un agujerito, puedes repararlo.",
+      "optionsLang": "es",
+      "eng": "repair",
+      "year": "2026",
+      "source": "I Succeed in English 2 Studentsbook and Workbook"
+    }
+  ],
+  "READING_COMPREHENSION": [
+    {
+      "category": "School Uniforms Around the World",
+      "readingText": "In the UK, most secondary school students wear a uniform every day. A typical uniform consists of a white shirt, a striped tie, a dark jumper, and grey trousers or a skirt. In Australia, students also wear wide hats to protect their skin from the strong sun. In many other countries, like Spain or the United States, students in state schools do not wear a uniform. They usually wear comfortable everyday clothes like T-shirts, hoodies, and jeans. Many students like uniforms because they don't have to decide what to wear every morning.",
+      "emoji": "🏫",
+      "questions": [
+        {
+          "q": "What do most British secondary students wear?",
+          "a": "A school uniform",
+          "options": [
+            "A school uniform",
+            "Sports clothes only",
+            "Any casual clothes"
+          ]
+        },
+        {
+          "q": "Why do Australian students wear wide hats?",
+          "a": "To protect from the sun",
+          "options": [
+            "To protect from the sun",
+            "Because it is very cold",
+            "To play cricket"
+          ]
+        },
+        {
+          "q": "Do students in state schools in Spain usually wear a uniform?",
+          "a": "No, they don't.",
+          "options": [
+            "Yes, they do.",
+            "No, they don't."
+          ]
+        },
+        {
+          "q": "What is one reason students like uniforms?",
+          "a": "They don't have to choose clothes each morning",
+          "options": [
+            "They don't have to choose clothes each morning",
+            "Uniforms are made of gold",
+            "Uniforms are always free"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "What Are They Doing Right Now?",
+      "readingText": "It is ten past eleven on a sunny Tuesday morning at Greenhill School. Right now, Class 2B is having a break in the school courtyard. Marco and Diego are playing football near the goalposts. Sophie is sitting on a wooden bench and reading a comic book. Mr Anderson, the history teacher, is drinking coffee in the staffroom. Some students are standing in line at the canteen because they are buying fresh sandwiches and apples. Nobody is sleeping!",
+      "emoji": "☀️",
+      "questions": [
+        {
+          "q": "What is Class 2B doing right now?",
+          "a": "Having a break in the courtyard",
+          "options": [
+            "Having a break in the courtyard",
+            "Writing a math test",
+            "Running a marathon"
+          ]
+        },
+        {
+          "q": "What are Marco and Diego doing?",
+          "a": "Playing football",
+          "options": [
+            "Playing football",
+            "Drinking tea",
+            "Singing songs"
+          ]
+        },
+        {
+          "q": "Where is Sophie sitting?",
+          "a": "On a wooden bench",
+          "options": [
+            "On a wooden bench",
+            "In the staffroom",
+            "In the goalposts"
+          ]
+        },
+        {
+          "q": "What is Mr Anderson doing?",
+          "a": "Drinking coffee in the staffroom",
+          "options": [
+            "Drinking coffee in the staffroom",
+            "Playing football",
+            "Buying a comic"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "SDG - Give Your Clothes a Second Life",
+      "readingText": "Did you know that producing one single cotton T-shirt takes about 2,700 litres of water? Fast fashion creates millions of tonnes of waste each year when people throw old clothes in the rubbish bin. Today, our school eco-club is organising a clothes swap event. Students bring clean clothes that they no longer wear and trade them for other clothes. If clothes have holes, members learn how to sew and repair them. Small actions like this protect rivers, reduce pollution, and help families save money.",
+      "emoji": "♻️",
+      "questions": [
+        {
+          "q": "How much water does one cotton T-shirt take to produce?",
+          "a": "About 2,700 litres",
+          "options": [
+            "About 2,700 litres",
+            "Ten litres",
+            "One hundred litres"
+          ]
+        },
+        {
+          "q": "What is the school eco-club organising?",
+          "a": "A clothes swap event",
+          "options": [
+            "A clothes swap event",
+            "A football match",
+            "A pizza party"
+          ]
+        },
+        {
+          "q": "What do students do with clothes that have holes?",
+          "a": "They learn to sew and repair them",
+          "options": [
+            "They learn to sew and repair them",
+            "They throw them in the river",
+            "They burn them"
+          ]
+        },
+        {
+          "q": "How does swapping clothes help?",
+          "a": "It reduces pollution and saves money",
+          "options": [
+            "It reduces pollution and saves money",
+            "It wastes more water",
+            "It creates more rubbish"
+          ]
+        }
+      ]
+    }
+  ],
+  "SENTENCES": [
+    {
+      "eng": "I am wearing a blue T-shirt today.",
+      "spa": "Estoy usando una remera azul hoy.",
+      "category": "Present Continuous",
+      "emoji": "👕"
+    },
+    {
+      "eng": "She is wearing comfortable trainers.",
+      "spa": "Ella está usando zapatillas cómodas.",
+      "category": "Present Continuous",
+      "emoji": "👟"
+    },
+    {
+      "eng": "They are wearing their school uniforms.",
+      "spa": "Ellos están usando sus uniformes escolares.",
+      "category": "Present Continuous",
+      "emoji": "🏫"
+    },
+    {
+      "eng": "He is putting on his warm jacket.",
+      "spa": "Él se está poniendo su campera abrigada.",
+      "category": "Present Continuous",
+      "emoji": "🧥"
+    },
+    {
+      "eng": "We are not wearing coats because it is hot.",
+      "spa": "No estamos usando abrigos porque hace calor.",
+      "category": "Present Continuous",
+      "emoji": "☀️"
+    },
+    {
+      "eng": "The students are copying notes from the board.",
+      "spa": "Los alumnos están copiando apuntes del pizarrón.",
+      "category": "Present Continuous",
+      "emoji": "✍️"
+    },
+    {
+      "eng": "The teacher is explaining the grammar rule.",
+      "spa": "La profesora está explicando la regla de gramática.",
+      "category": "Present Continuous",
+      "emoji": "👩‍🏫"
+    },
+    {
+      "eng": "Are you listening to the English audio?",
+      "spa": "¿Estás escuchando el audio de inglés?",
+      "category": "Present Continuous",
+      "emoji": "🎧"
+    },
+    {
+      "eng": "Yes, I am listening carefully.",
+      "spa": "Sí, estoy escuchando atentamente.",
+      "category": "Present Continuous",
+      "emoji": "✅"
+    },
+    {
+      "eng": "What are you doing right now?",
+      "spa": "¿Qué estás haciendo ahora mismo?",
+      "category": "Present Continuous",
+      "emoji": "❓"
+    },
+    {
+      "eng": "I usually wear jeans, but today I am wearing trousers.",
+      "spa": "Normalmente uso jeans, pero hoy estoy usando pantalones de vestir.",
+      "category": "Present Simple vs Continuous",
+      "emoji": "👖"
+    },
+    {
+      "eng": "She walks to school every day, but today she is taking the bus.",
+      "spa": "Ella camina a la escuela todos los días, pero hoy se toma el colectivo.",
+      "category": "Present Simple vs Continuous",
+      "emoji": "🚌"
+    },
+    {
+      "eng": "We always recycle old clothes to protect the planet.",
+      "spa": "Siempre reciclamos ropa vieja para proteger el planeta.",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "🌍"
+    },
+    {
+      "eng": "Buying second-hand clothes saves water and money.",
+      "spa": "Comprar ropa de segunda mano ahorra agua y dinero.",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "💧"
+    }
+  ],
+  "VOCABULARY": [
+    {
+      "eng": "Belt",
+      "spa": "Cinturón",
+      "category": "Clothes and Accessories",
+      "emoji": "🥋"
+    },
+    {
+      "eng": "Boots",
+      "spa": "Botas",
+      "category": "Clothes and Accessories",
+      "emoji": "🥾"
+    },
+    {
+      "eng": "Cap",
+      "spa": "Gorra",
+      "category": "Clothes and Accessories",
+      "emoji": "🧢"
+    },
+    {
+      "eng": "Coat",
+      "spa": "Abrigo",
+      "category": "Clothes and Accessories",
+      "emoji": "🧥"
+    },
+    {
+      "eng": "Dress",
+      "spa": "Vestido",
+      "category": "Clothes and Accessories",
+      "emoji": "👗"
+    },
+    {
+      "eng": "Hoodie",
+      "spa": "Buzo con capucha",
+      "category": "Clothes and Accessories",
+      "emoji": "🧥"
+    },
+    {
+      "eng": "Jacket",
+      "spa": "Campera / Chaqueta",
+      "category": "Clothes and Accessories",
+      "emoji": "🧥"
+    },
+    {
+      "eng": "Jeans",
+      "spa": "Jeans / Vaqueros",
+      "category": "Clothes and Accessories",
+      "emoji": "👖"
+    },
+    {
+      "eng": "Jumper",
+      "spa": "Suéter / Jersey",
+      "category": "Clothes and Accessories",
+      "emoji": "🧶"
+    },
+    {
+      "eng": "Scarf",
+      "spa": "Bufanda",
+      "category": "Clothes and Accessories",
+      "emoji": "🧣"
+    },
+    {
+      "eng": "Shirt",
+      "spa": "Camisa",
+      "category": "Clothes and Accessories",
+      "emoji": "👔"
+    },
+    {
+      "eng": "Shoes",
+      "spa": "Zapatos",
+      "category": "Clothes and Accessories",
+      "emoji": "👞"
+    },
+    {
+      "eng": "Skirt",
+      "spa": "Falda / Pollera",
+      "category": "Clothes and Accessories",
+      "emoji": "👗"
+    },
+    {
+      "eng": "Socks",
+      "spa": "Medias / Calcetines",
+      "category": "Clothes and Accessories",
+      "emoji": "🧦"
+    },
+    {
+      "eng": "Sunglasses",
+      "spa": "Anteojos de sol",
+      "category": "Clothes and Accessories",
+      "emoji": "🕶️"
+    },
+    {
+      "eng": "Sweatshirt",
+      "spa": "Buzo deportivo",
+      "category": "Clothes and Accessories",
+      "emoji": "👕"
+    },
+    {
+      "eng": "Tie",
+      "spa": "Corbata",
+      "category": "Clothes and Accessories",
+      "emoji": "👔"
+    },
+    {
+      "eng": "Trainers",
+      "spa": "Zapatillas deportivas",
+      "category": "Clothes and Accessories",
+      "emoji": "👟"
+    },
+    {
+      "eng": "Trousers",
+      "spa": "Pantalones",
+      "category": "Clothes and Accessories",
+      "emoji": "👖"
+    },
+    {
+      "eng": "T-shirt",
+      "spa": "Remera / Camiseta",
+      "category": "Clothes and Accessories",
+      "emoji": "👕"
+    },
+    {
+      "eng": "Uniform",
+      "spa": "Uniforme",
+      "category": "Clothes and Accessories",
+      "emoji": "🏫"
+    },
+    {
+      "eng": "Clean the board",
+      "spa": "Limpiar el pizarrón",
+      "category": "School Chores and Activities",
+      "emoji": "🧹"
+    },
+    {
+      "eng": "Copy the notes",
+      "spa": "Copiar los apuntes",
+      "category": "School Chores and Activities",
+      "emoji": "✍️"
+    },
+    {
+      "eng": "Do homework",
+      "spa": "Hacer la tarea",
+      "category": "School Chores and Activities",
+      "emoji": "📚"
+    },
+    {
+      "eng": "Pack the schoolbag",
+      "spa": "Armar la mochila",
+      "category": "School Chores and Activities",
+      "emoji": "🎒"
+    },
+    {
+      "eng": "Read a textbook",
+      "spa": "Leer un libro de texto",
+      "category": "School Chores and Activities",
+      "emoji": "📖"
+    },
+    {
+      "eng": "Sit at the desk",
+      "spa": "Sentarse en el banco",
+      "category": "School Chores and Activities",
+      "emoji": "🪑"
+    },
+    {
+      "eng": "Stand up",
+      "spa": "Ponerse de pie",
+      "category": "School Chores and Activities",
+      "emoji": "🧍"
+    },
+    {
+      "eng": "Tidy the classroom",
+      "spa": "Ordenar el aula",
+      "category": "School Chores and Activities",
+      "emoji": "📦"
+    },
+    {
+      "eng": "Wear a uniform",
+      "spa": "Llevar uniforme",
+      "category": "School Chores and Activities",
+      "emoji": "👔"
+    },
+    {
+      "eng": "Cotton",
+      "spa": "Algodón",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "🌱"
+    },
+    {
+      "eng": "Fast fashion",
+      "spa": "Moda rápida / desechable",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "🏭"
+    },
+    {
+      "eng": "Recycle clothes",
+      "spa": "Reciclar ropa",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "♻️"
+    },
+    {
+      "eng": "Repair with needle and thread",
+      "spa": "Reparar con aguja e hilo",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "🪡"
+    },
+    {
+      "eng": "Second-hand shop",
+      "spa": "Tienda de segunda mano",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "🏪"
+    },
+    {
+      "eng": "Swap clothes",
+      "spa": "Intercambiar ropa",
+      "category": "SDG - Sustainable Fashion",
+      "emoji": "🔄"
+    }
+  ]
+}

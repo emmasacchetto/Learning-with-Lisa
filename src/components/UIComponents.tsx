@@ -28,7 +28,10 @@ export function SkillBtn({ onClick, icon, title, color, isCompleted, inProgressD
     teal: "bg-gradient-to-r from-teal-400 to-teal-500 text-white border-teal-600",
     indigo: "bg-gradient-to-r from-indigo-500 to-indigo-600 text-white border-indigo-700",
     rose: "bg-gradient-to-r from-rose-500 to-pink-500 text-white border-rose-600",
-    cyan: "bg-gradient-to-r from-cyan-500 to-teal-500 text-white border-cyan-600"
+    cyan: "bg-gradient-to-r from-cyan-500 to-teal-500 text-white border-cyan-600",
+    violet: "bg-gradient-to-r from-violet-500 to-purple-600 text-white border-violet-700",
+    emerald: "bg-gradient-to-r from-emerald-500 to-teal-600 text-white border-emerald-700",
+    fuchsia: "bg-gradient-to-r from-fuchsia-500 to-pink-600 text-white border-fuchsia-700"
   };
   return (
     <button onClick={onClick} title={tooltip} className={`p-5 rounded-2xl border-2 border-b-4 font-bold text-lg shadow-md flex items-center justify-between transition-transform hover:scale-[1.02] active:scale-95 active:translate-y-1 active:border-b-2 ${colorMap[color]}`}>

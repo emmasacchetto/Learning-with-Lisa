@@ -1,3 +1,4 @@
+import { UNITS_DATA } from './units/index';
 import { 
   VOCAB_RAW_EXPANDED, 
   MASTER_DATABASE_EXPANDED, 
@@ -142,17 +143,17 @@ export const MASTER_DATABASE = [
   "The elephant is big.|El elefante es grande.|Animals & Abilities|🐘", "The elephant can walk.|El elefante puede caminar.|Animals & Abilities|🐘", "The elephant can not jump.|El elefante no puede saltar.|Animals & Abilities|🐘", "The lion can run.|El leon puede correr.|Animals & Abilities|🦁", "The lion can not fly.|El leon no puede volar.|Animals & Abilities|🦁", "The rhino can walk.|El rinoceronte puede caminar.|Animals & Abilities|🦏", "The hippo can swim.|El hipopotamo puede nadar.|Animals & Abilities|🦛", "The leopard can run.|El leopardo puede correr.|Animals & Abilities|🐆", "The monkey can climb.|El mono puede trepar.|Animals & Abilities|🐒", "The monkey can jump.|El mono puede saltar.|Animals & Abilities|🐒", "The tiger can jump.|El tigre puede saltar.|Animals & Abilities|🐅", "The panda can climb.|El panda puede trepar.|Animals & Abilities|🐼", "A snake can not walk.|Una serpiente no puede caminar.|Animals & Abilities|🐍", "The shark can swim.|El tiburon puede nadar.|Animals & Abilities|🦈", "The shark can not walk.|El tiburon no puede caminar.|Animals & Abilities|🦈", "The octopus can swim.|El pulpo puede nadar.|Animals & Abilities|🐙", "The crocodile can swim.|El cocodrilo puede nadar.|Animals & Abilities|🐊", "The rabbit can jump.|El conejo puede saltar.|Animals & Abilities|🐇", "The rabbit can run.|El conejo puede correr.|Animals & Abilities|🐇", "The sheep can walk.|La oveja puede caminar.|Animals & Abilities|🐑", "The bird can fly.|El pajaro puede volar.|Animals & Abilities|🦅", "The bird can not swim.|El pajaro no puede nadar.|Animals & Abilities|❌", "The dolphin can swim.|El delfin puede nadar.|Animals & Abilities|🐬",
   "They are playing football.|Ellos estan jugando al futbol.|Present Continuous|⚽", "They are playing.|Ellos estan jugando.|Present Continuous|🕹️", "They are jumping.|Ellos estan saltando.|Present Continuous|⬆️", "He is climbing.|El esta trepando.|Present Continuous|🧗", "He is running.|El esta corriendo.|Present Continuous|🏃", "He is drinking.|El esta bebiendo.|Present Continuous|🥤", "He is singing.|El esta cantando.|Present Continuous|🎤", "She is reading a book.|Ella esta leyendo un libro.|Present Continuous|📖", "Tom is jumping.|Tom esta saltando.|Present Continuous|👦", "My mum is making a cake for me.|Mi mama esta haciendo una torta para mi.|Present Continuous|🎂", "Martin is playing the guitar.|Martin esta tocando la guitarra.|Present Continuous|🎸", "The chef is cooking.|El chef esta cocinando.|Present Continuous|👨‍🍳", "They are riding a bike in the garden.|Ellos estan andando en bicicleta en el jardin.|Present Continuous|🚴", "The bird is flying.|El pajaro esta volando.|Present Continuous|🦅", "I am not eating a kiwi.|Yo no estoy comiendo un kiwi.|Present Continuous|🥝", "I am drawing a picture.|Yo estoy dibujando un cuadro.|Present Continuous|🖍️", "They are going to school.|Ellos estan yendo a la escuela.|Present Continuous|🏫", "She is watching TV.|Ella esta mirando la tele.|Present Continuous|📺", "I am listening to music.|Yo estoy escuchando musica.|Present Continuous|🎧", "They are dancing.|Ellas estan bailando.|Present Continuous|💃", "The baby is sleeping.|El bebe esta durmiendo.|Present Continuous|😴", "He is swimming in the pool.|El esta nadando en la pileta.|Present Continuous|🏊", "She is writing a letter.|Ella esta escribiendo una carta.|Present Continuous|✉️", "The dog is walking.|El perro esta caminando.|Present Continuous|🐕",
   "Today is Monday.|Hoy es lunes.|Time & Weather|📅", "Tomorrow is Tuesday.|Mañana es martes.|Time & Weather|📅", "It is sunny and hot.|Esta soleado y caluroso.|Time & Weather|☀️", "It is raining and cold.|Esta lloviendo y frio.|Time & Weather|🌧️", "It is cloudy.|Esta nublado.|Time & Weather|☁️", "It is windy.|Esta ventoso.|Time & Weather|💨", "It is warm.|Esta calido.|Time & Weather|😊", "What is the weather like?|¿Como esta el clima?|Time & Weather|🌤️"
-].map(item => { const [eng, spa, cat, emoji] = item.split('|'); return { eng, spa, cat, emoji }; });
+].map(item => { const [eng, spa, category, emoji] = item.split('|'); return { eng, spa, category: category, emoji, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" }; });
 
-MASTER_DATABASE.push(...MASTER_DATABASE_EXPANDED);
+MASTER_DATABASE.push(...MASTER_DATABASE_EXPANDED.map(item => ({ ...item, source: "I Succeed in English 2 Studentsbook and Workbook", unit: "Unid. 3: Habits", year: "2026" })));
 
 const mappedMonstersMaster = MONSTERS_MASTER_DB_RAW.map(item => {
-  const [eng, spa, cat, emoji] = item.split('|');
-  return { eng, spa, cat, emoji };
+  const [eng, spa, category, emoji] = item.split('|');
+  return { eng, spa, category: category, emoji, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" };
 });
 const mappedHouseMaster = HOUSE_COUNTRIES_MASTER_DATABASE_RAW.map(item => {
-  const [eng, spa, cat, emoji] = item.split('|');
-  return { eng, spa, cat, emoji };
+  const [eng, spa, category, emoji] = item.split('|');
+  return { eng, spa, category: category, emoji, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" };
 });
 MASTER_DATABASE.push(...mappedMonstersMaster, ...mappedHouseMaster);
 
@@ -218,8 +219,8 @@ export const MONSTERS_INC_BOOK_RAW = [
 ];
 
 const mappedMonstersBook = MONSTERS_INC_BOOK_RAW.map((item, index) => {
-  const [eng, spa, subcat, emoji] = item.split('|');
-  return { eng, spa, cat: "Monster Inc - Book", emoji, sentenceIndex: index };
+  const [eng, spa, subcategory, emoji] = item.split('|');
+  return { eng, spa, category: "Monster Inc - Book", emoji, sentenceIndex: index, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" };
 });
 
 MASTER_DATABASE.push(...mappedMonstersBook);
@@ -263,21 +264,25 @@ export const NEW_VOCAB_RAW = [
   "I|Yo|👤", "You|Tú|👉", "He|Él|👦", "She|Ella|👧", "It|Eso|🐶", "We|Nosotros|👥", "They|Ellos|👨‍👩‍👧‍👦", "Am|Estoy|✨", "Is|Está|✨", "Are|Están|✨", "I'm|Yo soy|👤", "He's|Él es|👦", "She's|Ella es|👧", "It's|Eso es|🐶", "They're|Ellos son|👥", "Can't|No poder|❌", "What|Qué|❓", "Who|Quién|❓", "Where|Dónde|❓", "When|Cuándo|❓", "How|Cómo|❓", "Hello|Hola|👋", "Fine|Bien|👍", "Favourite|Favorito|⭐", "Colour|Color|🎨", "Blue|Azul|🔵", "Food|Comida|🍔", "Sport|Deporte|⚽", "Gymnastics|Gimnasia|🤸‍♀️", "Animal|Animal|🐶", "Friend|Amiga|🤝", "Name|Nombre|📛", "Surname|Apellido|📝", "Birthday|Cumpleaños|🎂", "Years|Años|📅", "Old|Edad|👴", "Football|Fútbol|⚽", "Book|Libro|📖", "Cake|Torta|🎂", "Guitar|Guitarra|🎸", "Chef|Cocinero|👨‍🍳", "Bike|Bicicleta|🚲", "Garden|Jardín|🏡", "Picture|Cuadro|🖼️", "School|Escuela|🏫", "TV|Televisión|📺", "Music|Música|🎵", "Letter|Carta|✉️", "Dog|Perro|🐕", "Pool|Pileta|🏊", "Water|Agua|💧", "Juice|Jugo|🧃", "Orange|Naranja|🍊", "Apple|Manzana|🍎", "Hamburger|Hamburguesa|🍔", "Kiwi|Kiwi|🥝", "Small|Pequeño|🤏", "Big|Grande|🐘", "Long|Largo|📏", "Can|Poder|✅", "Cannot|No poder|❌", "Have|Tener|🤲", "Has|Tiene|🤲", "Got|Tener|🤲", "Today|Hoy|📅", "Tomorrow|Mañana|📅", "Like|Gustar|👍", "The|El|🔤", "A|Un|🔤", "An|Un|🔤", "In|En|📦", "To|A|➡️", "For|Para|🎁", "And|Y|➕", "Not|No|🚫", "Me|Mí|🙋‍♀️"
 ];
 
-VOCAB_RAW.push(...VOCAB_RAW_EXPANDED);
+
 VOCAB_RAW.push(...MONSTERS_VOCAB_RAW);
 VOCAB_RAW.push(...HOUSE_COUNTRIES_VOCAB_RAW);
 
 export const VOCABULARY_DATABASE = [
+  ...VOCAB_RAW_EXPANDED.map(item => {
+    const [eng, spa, category, emoji] = item.split('|');
+    return { eng, spa, category: category || "Vocabulary", emoji, source: "I Succeed in English 2 Studentsbook and Workbook", unit: "Unid. 3: Habits", year: "2026" };
+  }),
   ...VOCAB_RAW.map(item => {
-    const [eng, spa, cat, emoji] = item.split('|');
-    return { eng, spa, cat: cat || "Vocabulary", emoji };
+    const [eng, spa, category, emoji] = item.split('|');
+    return { eng, spa, category: category || "Vocabulary", emoji, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" };
   }),
   ...NEW_VOCAB_RAW.map(item => {
     const [eng, spa, emoji] = item.split('|');
     let cat = "Vocabulario Aislado";
     if (eng.match(/^(One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty)$/)) cat = "Numbers (1-20)";
     else if (eng.match(/^(Twenty-|Thirty|Forty|Fifty)/)) cat = "Numbers (21-50)";
-    return { eng, spa, cat, emoji };
+    return { eng, spa, category: cat, emoji };
   })
 ];
 
@@ -311,21 +316,21 @@ export const GRAMMAR_DATABASE = [
   "I have got|Yo tengo|Estructuras Gramaticales|🤲",
   "Can|Poder|Estructuras Gramaticales|✅",
   "Can not|No poder|Estructuras Gramaticales|❌"
-].map(item => { const [eng, spa, cat, emoji] = item.split('|'); return { eng, spa, cat, emoji }; });
+].map(item => { const [eng, spa, category, emoji] = item.split('|'); return { eng, spa, category: category, emoji, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" }; });
 
-GRAMMAR_DATABASE.push(...GRAMMAR_DATABASE_EXPANDED);
+GRAMMAR_DATABASE.push(...GRAMMAR_DATABASE_EXPANDED.map(g => ({ ...g, source: (g as any).source || "I Succeed in English 2 Studentsbook and Workbook", unit: (g as any).unit || "Unid. 3: Habits", year: (g as any).year || "2026" })));
 
 const mappedMonstersGrammar = MONSTERS_GRAMMAR_DB_RAW.map(item => {
-  const [eng, spa, cat, emoji] = item.split('|');
-  return { eng, spa, cat, emoji };
+  const [eng, spa, category, emoji] = item.split('|');
+  return { eng, spa, category: category, emoji, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" };
 });
 const mappedHouseGrammar = HOUSE_COUNTRIES_GRAMMAR_DB_RAW.map(item => {
-  const [eng, spa, cat, emoji] = item.split('|');
-  return { eng, spa, cat, emoji };
+  const [eng, spa, category, emoji] = item.split('|');
+  return { eng, spa, category: category, emoji, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" };
 });
 GRAMMAR_DATABASE.push(...mappedMonstersGrammar, ...mappedHouseGrammar);
 
-export const GRAMMAR_QUIZZES = [
+const BASE_GRAMMAR_QUIZZES = [
   ...[
     { id: 'iq1', category: 'Countries & Nationalities', type: 'quiz', skill: 'Reading', question: '¿Cómo se dice "argentino"?', options: ['Argentinian', 'Argentina', 'Brazilian'], correctAnswer: 'Argentinian', emoji: '🇦🇷', spa: 'Argentino', optionsLang: 'en', eng: 'Argentinian' },
     { id: 'iq2', category: 'Verb To Be', type: 'quiz', skill: 'Grammar', question: 'Completa: She ___ happy.', options: ['is', 'are', 'am'], correctAnswer: 'is', emoji: '😊', spa: 'Ella está feliz', optionsLang: 'en', eng: 'She is happy' },
@@ -347,12 +352,13 @@ export const GRAMMAR_QUIZZES = [
     { id: 'g4', category: 'Estructuras Gramaticales', type: 'quiz', skill: 'Reading', question: 'Para decir que NO puedo hacer algo (Ej: volar), uso:', options: ['Can not / Can\'t', 'Am not', 'Have not'], correctAnswer: 'Can not / Can\'t', emoji: "🛑", spa: "No poder", optionsLang: 'es', eng: 'Cannot' }
   ]
 ];
+export const GRAMMAR_QUIZZES = BASE_GRAMMAR_QUIZZES.map(q => ({...q, source: "Indefinido", unit: "Unidad Indefinida", year: "2026"}));
 
-GRAMMAR_QUIZZES.push(...GRAMMAR_QUIZZES_EXPANDED);
-GRAMMAR_QUIZZES.push(...MONSTERS_GRAMMAR_QUIZZES);
-GRAMMAR_QUIZZES.push(...HOUSE_COUNTRIES_GRAMMAR_QUIZZES);
+GRAMMAR_QUIZZES.push(...GRAMMAR_QUIZZES_EXPANDED.map(q => ({ ...q, source: "I Succeed in English 2 Studentsbook and Workbook", unit: "Unid. 3: Habits", year: "2026" })));
+GRAMMAR_QUIZZES.push(...MONSTERS_GRAMMAR_QUIZZES.map(q => ({ ...q, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" })));
+GRAMMAR_QUIZZES.push(...HOUSE_COUNTRIES_GRAMMAR_QUIZZES.map(q => ({ ...q, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" })));
 
-export const READING_COMPREHENSION_DATA = [
+const BASE_READING_COMPREHENSION_DATA = [
   {
     category: "Countries & Nationalities",
     readingText: "Tom and Peter are friends and they are from England. Tom is 25 years old and Peter is 23 years old. They are musicians.",
@@ -449,10 +455,11 @@ export const READING_COMPREHENSION_DATA = [
     ]
   }
 ];
+export const READING_COMPREHENSION_DATA = BASE_READING_COMPREHENSION_DATA.map(r => ({...r, source: "Indefinido", unit: "Unidad Indefinida", year: "2026"}));
 
-READING_COMPREHENSION_DATA.push(...READING_COMPREHENSION_DATA_EXPANDED);
-READING_COMPREHENSION_DATA.push(...MONSTERS_READING_COMPREHENSION_DATA);
-READING_COMPREHENSION_DATA.push(...HOUSE_COUNTRIES_READING_COMPREHENSION_DATA);
+READING_COMPREHENSION_DATA.push(...READING_COMPREHENSION_DATA_EXPANDED.map(r => ({ ...r, source: "I Succeed in English 2 Studentsbook and Workbook", unit: "Unid. 3: Habits", year: "2026" })));
+READING_COMPREHENSION_DATA.push(...MONSTERS_READING_COMPREHENSION_DATA.map(r => ({ ...r, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" })));
+READING_COMPREHENSION_DATA.push(...HOUSE_COUNTRIES_READING_COMPREHENSION_DATA.map(r => ({ ...r, source: "Indefinido", unit: "Unidad Indefinida", year: "2026" })));
 
 export const VAR_MAP: Record<string, {e: string, s: string}[]> = {
   name: [{e:"Lisa", s:"Lisa"}, {e:"Tom", s:"Tom"}, {e:"Lucy", s:"Lucy"}, {e:"Ben", s:"Ben"}, {e:"Emma", s:"Emma"}],
@@ -489,9 +496,9 @@ export const DYNAMIC_TEMPLATES = [
   { category: "Days & Time", eng: "Today is {day}.", spa: "Hoy es {day}.", vars: ["day"], emoji: "📅" }
 ];
 
-export const DIALOGUE_PATTERNS = [
+const BASE_DIALOGUE_PATTERNS = [
   {
-    id: "dyn_intro", topic: "Introductions", vars: ["name", "name2"],
+    id: "dyn_intro", category: "Introductions", vars: ["name", "name2"],
     lines: [
       { speaker: "A", eng: "Hello! My name is {name}.", spa: "¡Hola! Mi nombre es {name}.", emoji: "👋" },
       { speaker: "B", eng: "Hi! I am {name2}.", spa: "¡Hola! Yo soy {name2}.", emoji: "😊" },
@@ -499,7 +506,7 @@ export const DIALOGUE_PATTERNS = [
     ]
   },
   {
-    id: "dyn_country", topic: "Countries & Nationalities", vars: ["country", "nationality"],
+    id: "dyn_country", category: "Countries & Nationalities", vars: ["country", "nationality"],
     lines: [
       { speaker: "A", eng: "Where are you from?", spa: "¿De dónde eres?", emoji: "🌎" },
       { speaker: "B", eng: "I am from {country}.", spa: "Soy de {country}.", emoji: "✈️" },
@@ -508,21 +515,21 @@ export const DIALOGUE_PATTERNS = [
     ]
   },
   {
-    id: "dyn_hobby", topic: "Hobbies", vars: ["hobby"],
+    id: "dyn_hobby", category: "Hobbies", vars: ["hobby"],
     lines: [
       { speaker: "A", eng: "What is your favourite hobby?", spa: "¿Cuál es tu pasatiempo favorito?", emoji: "🎯" },
       { speaker: "B", eng: "I like {hobby}.", spa: "Me gusta {hobby}.", emoji: "⭐" }
     ]
   },
   {
-    id: "dyn_weather", topic: "Weather", vars: ["weather"],
+    id: "dyn_weather", category: "Weather", vars: ["weather"],
     lines: [
       { speaker: "A", eng: "What is the weather like today?", spa: "¿Cómo está el clima hoy?", emoji: "☁️" },
       { speaker: "B", eng: "It is {weather}.", spa: "Está {weather}.", emoji: "🌤️" }
     ]
   },
   {
-    id: "manual_d1", topic: "Basic Chat", vars: [],
+    id: "manual_d1", category: "Basic Chat", vars: [],
     lines: [
       { speaker: "A", eng: "Hello!", spa: "¡Hola!", emoji: "👋" },
       { speaker: "B", eng: "Hi!", spa: "¡Hola!", emoji: "💬" },
@@ -533,7 +540,7 @@ export const DIALOGUE_PATTERNS = [
     ]
   },
   {
-    id: "manual_d2", topic: "Brazil Origin", vars: [],
+    id: "manual_d2", category: "Brazil Origin", vars: [],
     lines: [
       { speaker: "A", eng: "Where are you from?", spa: "¿De dónde eres?", emoji: "🌍" },
       { speaker: "B", eng: "I am from Brazil.", spa: "Soy de Brasil.", emoji: "🇧🇷" },
@@ -542,7 +549,7 @@ export const DIALOGUE_PATTERNS = [
     ]
   },
   {
-    id: "manual_d3", topic: "Tom's Nationality", vars: [],
+    id: "manual_d3", category: "Tom's Nationality", vars: [],
     lines: [
       { speaker: "A", eng: "Is Tom Mexican?", spa: "¿Tom es mexicano?", emoji: "❓" },
       { speaker: "B", eng: "No, he isn't.", spa: "No, no lo es.", emoji: "❌" },
@@ -551,7 +558,7 @@ export const DIALOGUE_PATTERNS = [
     ]
   },
   {
-    id: "manual_d4", topic: "Where are they from?", vars: [],
+    id: "manual_d4", category: "Where are they from?", vars: [],
     lines: [
       { speaker: "A", eng: "Are they from Spain?", spa: "¿Ellos son de España?", emoji: "❓" },
       { speaker: "B", eng: "No, they aren't.", spa: "No, no lo son.", emoji: "❌" },
@@ -560,7 +567,7 @@ export const DIALOGUE_PATTERNS = [
     ]
   },
   {
-    id: "manual_d5", topic: "Emma's Nationality", vars: [],
+    id: "manual_d5", category: "Emma's Nationality", vars: [],
     lines: [
       { speaker: "A", eng: "Is Emma Russian?", spa: "¿Emma es rusa?", emoji: "❓" },
       { speaker: "B", eng: "No, she isn't.", spa: "No, no lo es.", emoji: "❌" },
@@ -569,8 +576,9 @@ export const DIALOGUE_PATTERNS = [
     ]
   }
 ];
+export const DIALOGUE_PATTERNS = BASE_DIALOGUE_PATTERNS.map(d => ({...d, source: "Indefinido", unit: "Unidad Indefinida", year: "2026"}));
 
-DIALOGUE_PATTERNS.push(...DIALOGUE_PATTERNS_EXPANDED);
+DIALOGUE_PATTERNS.push(...DIALOGUE_PATTERNS_EXPANDED.map(d => ({ ...d, source: "I Succeed in English 2 Studentsbook and Workbook", unit: "Unid. 3: Habits", year: "2026" })));
 
 export const KEYBOARD_HIERARCHY = ['bubbles', 'virtual_word', 'qwerty_word', 'virtual', 'qwerty', 'manual'];
 
@@ -608,7 +616,7 @@ DYNAMIC_TEMPLATES.forEach((tmpl) => {
           engStr = engStr.replace(`{${v}}`, pair.e);
           spaStr = spaStr.replace(`{${v}}`, pair.s);
        });
-       GENERATED_DATA.push({ eng: engStr, spa: spaStr, cat: tmpl.category, emoji: tmpl.emoji || "✨" });
+       GENERATED_DATA.push({ eng: engStr, spa: spaStr, category: tmpl.category, emoji: tmpl.emoji || "✨" });
    });
 });
 
@@ -621,16 +629,16 @@ DIALOGUE_PATTERNS.forEach((pattern) => {
            let spaStr = line.spa;
            if (pattern.vars) {
              pattern.vars.forEach(v => {
-                const pair = VAR_MAP[v] ? VAR_MAP[v][variantIdx % VAR_MAP[v].length] : {e: v, s: v};
-                engStr = engStr.replace(`{${v}}`, pair.e);
-                spaStr = spaStr.replace(`{${v}}`, pair.s);
+                 const pair = VAR_MAP[v] ? VAR_MAP[v][variantIdx % VAR_MAP[v].length] : {e: v, s: v};
+                 engStr = engStr.replace(`{${v}}`, pair.e);
+                 spaStr = spaStr.replace(`{${v}}`, pair.s);
              });
            }
            return { speaker: line.speaker, eng: engStr, spa: spaStr, emoji: line.emoji || '💬' };
        });
        DIALOGUES_RAW.push({
            id: `${pattern.id}_v${variantIdx}`,
-           topic: pattern.topic,
+           category: pattern.category,
            dialogue: expandedLines
        });
     });
@@ -648,7 +656,7 @@ STORY_PROGRESSION_DATA_RAW.forEach((chap, cIdx) => {
     });
     DIALOGUES_RAW.push({
         id: `story_monsters_c${cIdx}`,
-        topic: `Monsters, Inc. - ${chap.chapter}`,
+        category: `Monsters, Inc. - ${chap.chapter}`,
         dialogue: formattedLines
     });
 });
@@ -665,48 +673,312 @@ NARRATIVE_PROGRESSION_DATA_RAW.forEach((story, sIdx) => {
     });
     DIALOGUES_RAW.push({
         id: `story_narrative_s${sIdx}`,
-        topic: `Story - ${story.storyTitle}`,
+        category: `Story - ${story.storyTitle}`,
         dialogue: formattedLines
     });
 });
 
-const uniqueStrings = new Set<string>();
 export const ALL_DATA: any[] = [];
-[...MASTER_DATABASE, ...VOCABULARY_DATABASE, ...GRAMMAR_DATABASE, ...GENERATED_DATA].forEach(item => {
-   const uniqueKey = `${item.cat.toLowerCase()}|||${item.eng.toLowerCase()}`;
-   if (!uniqueStrings.has(uniqueKey)) {
-       uniqueStrings.add(uniqueKey);
-       ALL_DATA.push(item);
-   }
-});
+export const EXERCISES_DB: any[] = [];
 
-export const EXERCISES_DB: any[] = [...GRAMMAR_QUIZZES];
+export function rebuildDatabase(
+  customSentences?: any[],
+  customVocabulary?: any[],
+  customQuizzes?: any[],
+  customDialogues?: any[],
+  customReadingComprehension?: any[]
+) {
+  // Clear lists
+  ALL_DATA.length = 0;
+  EXERCISES_DB.length = 0;
 
-// Cargar Ejercicios de Comprensión Lectora (Reading Comprehension)
-READING_COMPREHENSION_DATA.forEach((block, bIdx) => {
-  block.questions.forEach((qObj, qIdx) => {
-    EXERCISES_DB.push({
-      id: `readcomp_${bIdx}_${qIdx}`,
-      baseId: `readcomp_${bIdx}`, // agrupar las preguntas del mismo texto
-      category: block.category,
-      type: 'reading',
-      skill: 'Reading',
-      question: qObj.q,
-      readingText: block.readingText,
-      options: [...qObj.options].sort(() => Math.random() - 0.5),
-      correctAnswer: qObj.a,
-      emoji: block.emoji,
-      spa: qObj.a,
-      eng: qObj.q,
-      optionsLang: 'en'
+  // 1. Build deduplication sets from UNITS_DATA
+  const unitEngSet = new Set<string>();
+  const unitQuizSet = new Set<string>();
+
+  UNITS_DATA.forEach(u => {
+    u.SENTENCES?.forEach(s => s.eng && unitEngSet.add(s.eng.trim().toLowerCase()));
+    u.VOCABULARY?.forEach(v => v.eng && unitEngSet.add(v.eng.trim().toLowerCase()));
+    u.GRAMMAR_QUIZZES?.forEach(q => {
+      if (q.question) unitQuizSet.add(q.question.trim().toLowerCase());
+      if (q.eng) unitEngSet.add(q.eng.trim().toLowerCase());
+    });
+    u.DIALOGUES?.forEach(d => {
+      (d.lines || d.dialogue || []).forEach((l: any) => l.eng && unitEngSet.add(l.eng.trim().toLowerCase()));
     });
   });
-});
+
+  // 2. Add content from UNITS_DATA ("I Succeed in English 2 Studentsbook and Workbook")
+  UNITS_DATA.forEach(u => {
+    const uYear = u.year || '2026';
+    const uSource = u.source || 'I Succeed in English 2 Studentsbook and Workbook';
+    const uUnit = u.unit;
+
+    // Sentences
+    u.SENTENCES?.forEach(s => {
+      ALL_DATA.push({
+        ...s,
+        year: uYear,
+        source: uSource,
+        unit: uUnit
+      });
+    });
+
+    // Vocabulary
+    u.VOCABULARY?.forEach(v => {
+      ALL_DATA.push({
+        ...v,
+        year: uYear,
+        source: uSource,
+        unit: uUnit
+      });
+    });
+
+    // Grammar Quizzes
+    u.GRAMMAR_QUIZZES?.forEach(q => {
+      EXERCISES_DB.push({
+        ...q,
+        year: uYear,
+        source: uSource,
+        unit: uUnit
+      });
+      if (q.eng && q.spa) {
+        ALL_DATA.push({
+          category: q.category,
+          eng: q.eng,
+          spa: q.spa,
+          emoji: q.emoji || '❓',
+          year: uYear,
+          source: uSource,
+          unit: uUnit
+        });
+      }
+    });
+
+    // Reading Comprehension
+    u.READING_COMPREHENSION?.forEach((block, bIdx) => {
+      block.questions.forEach((qObj: any, qIdx: number) => {
+        EXERCISES_DB.push({
+          id: `readcomp_u_${uUnit.replace(/[^a-zA-Z0-9]/g, '_')}_${bIdx}_${qIdx}`,
+          baseId: `readcomp_u_${uUnit.replace(/[^a-zA-Z0-9]/g, '_')}_${bIdx}`,
+          category: block.category,
+          type: 'reading',
+          skill: 'Reading',
+          question: qObj.q,
+          readingText: block.readingText,
+          options: [...qObj.options].sort(() => Math.random() - 0.5),
+          correctAnswer: qObj.a,
+          emoji: block.emoji || '📖',
+          spa: qObj.a,
+          eng: qObj.q,
+          optionsLang: 'en',
+          year: uYear,
+          source: uSource,
+          unit: uUnit
+        });
+      });
+    });
+
+    // Dialogues
+    u.DIALOGUES?.forEach(d => {
+      const lines = d.lines || d.dialogue || [];
+      EXERCISES_DB.push({
+        id: `dchat_${d.id}`,
+        category: d.category || 'Dialogues',
+        type: 'dialogue_chat',
+        skill: 'Conversation',
+        dialogue: lines,
+        emoji: lines[0]?.emoji || '💬',
+        eng: lines.map((l: any) => l.eng).join(' '),
+        spa: lines.map((l: any) => l.spa).join(' '),
+        year: uYear,
+        source: uSource,
+        unit: uUnit
+      });
+      EXERCISES_DB.push({
+        id: `dspeak_${d.id}`,
+        category: d.category || 'Dialogues',
+        type: 'dialogue_speak',
+        skill: 'Conversation',
+        dialogue: lines,
+        emoji: '🗣️',
+        eng: lines.map((l: any) => l.eng).join(' '),
+        spa: lines.map((l: any) => l.spa).join(' '),
+        year: uYear,
+        source: uSource,
+        unit: uUnit
+      });
+
+      lines.forEach((line: any, lineIdx: number) => {
+        ALL_DATA.push({
+          category: d.category || 'Dialogues',
+          eng: line.eng,
+          spa: line.spa,
+          emoji: line.emoji || '💬',
+          dialogueId: d.id,
+          lineIdx,
+          year: uYear,
+          source: uSource,
+          unit: uUnit
+        });
+      });
+    });
+  });
+
+  // 3. Process baseline quizzes (deduplicating items found in UNITS_DATA)
+  const quizzesSource = customQuizzes || GRAMMAR_QUIZZES;
+  quizzesSource.forEach(q => {
+    const isIndef = !q.source || q.source === 'Indefinido';
+    if (isIndef) {
+      if (unitQuizSet.has((q.question || '').trim().toLowerCase()) || (q.eng && unitEngSet.has(q.eng.trim().toLowerCase()))) {
+        // Exclude duplicate from Fuente Indefinida
+        return;
+      }
+    }
+    const qYear = q.year || '2026';
+    const qSource = isIndef ? 'Indefinido' : q.source;
+    const qUnit = isIndef ? 'Unidad Indefinida' : (q.unit || 'Unidad Indefinida');
+
+    EXERCISES_DB.push({ ...q, year: qYear, source: qSource, unit: qUnit });
+    if (q.eng && q.spa) {
+      ALL_DATA.push({
+        category: q.category,
+        eng: q.eng,
+        spa: q.spa,
+        emoji: q.emoji || '❓',
+        year: qYear,
+        source: qSource,
+        unit: qUnit
+      });
+    }
+  });
+
+  // 4. Process baseline reading comprehension
+  const readingSource = customReadingComprehension || READING_COMPREHENSION_DATA;
+  readingSource.forEach((block, bIdx) => {
+    const isIndef = !block.source || block.source === 'Indefinido';
+    const rYear = block.year || '2026';
+    const rSource = isIndef ? 'Indefinido' : block.source;
+    const rUnit = isIndef ? 'Unidad Indefinida' : (block.unit || 'Unidad Indefinida');
+
+    block.questions.forEach((qObj: any, qIdx: number) => {
+      EXERCISES_DB.push({
+        id: `readcomp_${bIdx}_${qIdx}`,
+        baseId: `readcomp_${bIdx}`,
+        category: block.category,
+        type: 'reading',
+        skill: 'Reading',
+        question: qObj.q,
+        readingText: block.readingText,
+        options: [...qObj.options].sort(() => Math.random() - 0.5),
+        correctAnswer: qObj.a,
+        emoji: block.emoji,
+        spa: qObj.a,
+        eng: qObj.q,
+        optionsLang: 'en',
+        year: rYear,
+        source: rSource,
+        unit: rUnit
+      });
+    });
+  });
+
+  // 5. Process baseline sentences, vocabulary, grammar database (deduplicating items found in UNITS_DATA)
+  const sentencesSource = customSentences || MASTER_DATABASE;
+  const vocabSource = customVocabulary || VOCABULARY_DATABASE;
+
+  const uniqueStrings = new Set();
+  ALL_DATA.forEach(item => {
+    const catStr = item.category || '';
+    const engStr = item.eng || '';
+    uniqueStrings.add(`${catStr.toLowerCase()}|||${engStr.toLowerCase()}`);
+  });
+
+  [...sentencesSource, ...vocabSource, ...GRAMMAR_DATABASE, ...GENERATED_DATA].forEach(item => {
+    const isIndef = !item.source || item.source === 'Indefinido';
+    if (isIndef && item.eng && unitEngSet.has(item.eng.trim().toLowerCase())) {
+      // Exclude duplicate from Fuente Indefinida
+      return;
+    }
+    const catStr = item.category || '';
+    const engStr = item.eng || '';
+    const uniqueKey = `${catStr.toLowerCase()}|||${engStr.toLowerCase()}`;
+    if (!uniqueStrings.has(uniqueKey)) {
+      uniqueStrings.add(uniqueKey);
+      ALL_DATA.push({
+        ...item,
+        year: item.year || '2026',
+        source: isIndef ? 'Indefinido' : item.source,
+        unit: isIndef ? 'Unidad Indefinida' : (item.unit || 'Unidad Indefinida')
+      });
+    }
+  });
+
+  // 6. Process baseline dialogues
+  const dialoguesSource = customDialogues || DIALOGUES_RAW;
+  const getTopicCategory = (category: string): string | null => {
+    const t = category.toLowerCase();
+    if (t.includes('introductions') || t.includes('basic chat') || t.includes('presentarse') || t.includes('name')) return 'Introductions';
+    if (t.includes('countries') || t.includes('nationalities') || t.includes('brazil') || t.includes("tom's") || t.includes('origin') || t.includes('where are you from') || t.includes('nationality')) return 'Countries & Nationalities';
+    if (t.includes('hobbies') || t.includes('hobby')) return 'Hobbies';
+    if (t.includes('weather') || t.includes('clima')) return 'Weather';
+    if (t.includes('location') || t.includes('place') || t.includes('centre') || t.includes('activity')) return 'Places';
+    if (t.includes('personal') || t.includes('info')) return 'Personal Info';
+    if (t.includes('monsters') || t.includes('story')) return 'Monster Inc - Book';
+    return null;
+  };
+
+  dialoguesSource.forEach((d) => {
+    const isIndef = !d.source || d.source === 'Indefinido';
+    const dYear = d.year || '2026';
+    const dSource = isIndef ? 'Indefinido' : d.source;
+    const dUnit = isIndef ? 'Unidad Indefinida' : (d.unit || 'Unidad Indefinida');
+    const mappedCat = getTopicCategory(d.category);
+
+    d.dialogue.forEach((line: any, lineIdx: number) => {
+      if (isIndef && line.eng && unitEngSet.has(line.eng.trim().toLowerCase())) {
+        return;
+      }
+      const dialoguesKey = `dialogues|||${line.eng.toLowerCase()}`;
+      if (!uniqueStrings.has(dialoguesKey)) {
+        uniqueStrings.add(dialoguesKey);
+        ALL_DATA.push({
+          category: 'Dialogues',
+          eng: line.eng,
+          spa: line.spa,
+          emoji: line.emoji || '💬',
+          dialogueId: d.id,
+          lineIdx,
+          year: dYear,
+          source: dSource,
+          unit: dUnit
+        });
+      }
+
+      if (mappedCat && mappedCat !== 'Dialogues') {
+        const themeKey = `${mappedCat.toLowerCase()}|||${line.eng.toLowerCase()}`;
+        if (!uniqueStrings.has(themeKey)) {
+          uniqueStrings.add(themeKey);
+          ALL_DATA.push({
+            category: mappedCat,
+            eng: line.eng,
+            spa: line.spa,
+            emoji: line.emoji || '💬',
+            dialogueId: d.id,
+            lineIdx,
+            year: dYear,
+            source: dSource,
+            unit: dUnit
+          });
+        }
+      }
+    });
+  });
 
 // Cargar Ejercicios Multimodales (Escritura, Escucha, Habla, etc.)
 ALL_DATA.forEach((item, index) => {
-  if (item.cat === 'Monster Inc - Book') {
-    const pool = ALL_DATA.filter(d => d.cat === 'Monster Inc - Book');
+  if (item.category === 'Monster Inc - Book') {
+    const pool = ALL_DATA.filter(d => d.category === 'Monster Inc - Book');
     const sentenceIndex = item.sentenceIndex ?? index;
 
     let wordsArray = item.eng.split(' ');
@@ -715,8 +987,8 @@ ALL_DATA.forEach((item, index) => {
 
     // --- 1. Tarjetas / Flashcards (skillIndex = 0) ---
     EXERCISES_DB.push({
-      id: `flashcard_monsterincbook_${sentenceIndex}`,
-      category: item.cat,
+      id: `flashcard_monsterincbook_base_${sentenceIndex}`,
+      category: item.category,
       type: 'flashcard',
       skill: 'Flashcards',
       question: `¿Cómo se dice en inglés?`,
@@ -733,7 +1005,7 @@ ALL_DATA.forEach((item, index) => {
     // --- 2. Speaking / Hablar (skillIndex = 1) ---
     EXERCISES_DB.push({
       id: `speak_monsterincbook_${sentenceIndex}`,
-      category: item.cat,
+      category: item.category,
       type: 'speak',
       skill: 'Speaking',
       question: `Lee en voz alta:`,
@@ -753,7 +1025,7 @@ ALL_DATA.forEach((item, index) => {
     let readOptions = [item.spa, ...wrongSpaOptions].sort(() => 0.5 - Math.random());
     EXERCISES_DB.push({
       id: `quiz_read_monsterincbook_${sentenceIndex}`,
-      category: item.cat,
+      category: item.category,
       type: 'quiz',
       skill: 'Reading',
       question: `¿Qué significa: "${item.eng}"?`,
@@ -772,7 +1044,7 @@ ALL_DATA.forEach((item, index) => {
       EXERCISES_DB.push({ 
           id: `build_monsterincbook_${sentenceIndex}_${kbMode}`, 
           baseId: `build_monsterincbook_${sentenceIndex}`,
-          category: item.cat,
+          category: item.category,
           type: 'build_sentence',
           skill: 'Writing', 
           question: isSingleWord ? `Escribe la palabra: ${item.spa}` : `Arma la frase: ${item.spa}`, 
@@ -794,7 +1066,7 @@ ALL_DATA.forEach((item, index) => {
       EXERCISES_DB.push({ 
           id: `listen_monsterincbook_${sentenceIndex}_${kbMode}`, 
           baseId: `listen_monsterincbook_${sentenceIndex}`,
-          category: item.cat,
+          category: item.category,
           type: 'listen_and_write',
           skill: 'Listening', 
           question: `Escucha y escribe:`,
@@ -820,7 +1092,7 @@ ALL_DATA.forEach((item, index) => {
     let transOptions = [item.eng, ...wrongEngOptions].sort(() => 0.5 - Math.random());
     EXERCISES_DB.push({
       id: `trans_monsterincbook_${sentenceIndex}`,
-      category: item.cat,
+      category: item.category,
       type: 'quiz',
       skill: 'Translate',
       question: `¿Cómo se dice en inglés?: "${item.spa}"`,
@@ -834,15 +1106,103 @@ ALL_DATA.forEach((item, index) => {
       skillIndex: 5
     });
 
+    // --- 7. Dictation / Dictado (skillIndex = 6) ---
+    EXERCISES_DB.push({
+      id: `dictation_monsterincbook_${sentenceIndex}`,
+      category: item.category,
+      type: 'dictation',
+      skill: 'Dictation',
+      question: `Escucha a la profesora y escribe la frase:`,
+      textToSpeak: item.eng,
+      correctAnswer: item.eng,
+      emoji: item.emoji,
+      spa: item.spa,
+      eng: item.eng,
+      words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5),
+      isSingleWord,
+      sentenceIndex,
+      skillIndex: 6
+    });
+
+    // --- 8. Tarjetas / Flashcards (skillIndex = 7) ---
+    EXERCISES_DB.push({
+      id: `flashcard_monsterincbook_${sentenceIndex}`,
+      category: item.category,
+      type: 'flashcard',
+      skill: 'Flashcards',
+      question: `¿Cómo se dice en inglés?`,
+      correctAnswer: item.eng,
+      emoji: item.emoji,
+      spa: item.spa,
+      eng: item.eng,
+      words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5),
+      isSingleWord,
+      sentenceIndex,
+      skillIndex: 7
+    });
+
+    // --- 9. Imagen / Visual Context (skillIndex = 8) ---
+    EXERCISES_DB.push({
+      id: `vis_speak_monsterincbook_${sentenceIndex}`,
+      category: item.category,
+      type: 'speak',
+      skill: 'Visual',
+      question: `Describe la imagen (Habla):`,
+      textToRead: item.eng,
+      emoji: item.emoji,
+      spa: item.spa,
+      eng: item.eng,
+      isVisual: true,
+      sentenceIndex,
+      skillIndex: 8
+    });
+    EXERCISES_DB.push({
+      id: `vis_listen_monsterincbook_${sentenceIndex}`,
+      category: item.category,
+      type: 'listen_and_write',
+      skill: 'Visual',
+      question: `Reconoce y escribe:`,
+      textToSpeak: item.eng,
+      correctAnswer: item.eng,
+      emoji: item.emoji,
+      spa: item.spa,
+      eng: item.eng,
+      isVisual: true,
+      words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5),
+      isSingleWord,
+      targetKeyboardMode: 'virtual_word',
+      sentenceIndex,
+      skillIndex: 8
+    });
+    EXERCISES_DB.push({
+      id: `vis_quiz_monsterincbook_${sentenceIndex}`,
+      category: item.category,
+      type: 'quiz',
+      skill: 'Visual',
+      question: `¿Qué representa la imagen?`,
+      options: transOptions,
+      correctAnswer: item.eng,
+      emoji: item.emoji,
+      spa: item.spa,
+      eng: item.eng,
+      optionsLang: 'en',
+      isVisual: true,
+      sentenceIndex,
+      skillIndex: 8
+    });
+
     return;
   }
 
-  const isNumber = item.cat.includes('Number');
-  const pool = isNumber ? ALL_DATA.filter(d => d.cat.includes('Number')) : ALL_DATA;
+  const isNumber = item.category.includes('Number');
+  const pool = isNumber ? ALL_DATA.filter(d => d.category.includes('Number')) : ALL_DATA;
 
-  EXERCISES_DB.push({ id: `speak_${index}`, category: item.cat, type: 'speak', skill: 'Speaking', question: `Lee en voz alta:`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng });
-  EXERCISES_DB.push({ id: `listen_repeat_${index}`, category: item.cat, type: 'speak', skill: 'Speaking', question: `Escucha y repite (Listen & Repeat):`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, autoPlayTTS: true });
-  EXERCISES_DB.push({ id: `speak_trans_${index}`, category: item.cat, type: 'speak', skill: 'Speaking', question: `Traduce al inglés (Hablando):`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, isOralTranslation: true });
+  // Spacing custom attributes for dialog lines or normal items
+  const exProps = { year: item.year || '2026', source: item.source || 'Indefinido', unit: item.unit || (item.source === 'Indefinido' ? 'Unidad Indefinida' : 'Unidad Indefinida'), ...(item.dialogueId ? { dialogueId: item.dialogueId, lineIdx: item.lineIdx } : {}) };
+
+  EXERCISES_DB.push({ id: `speak_${index}`, category: item.category, type: 'speak', skill: 'Speaking', question: `Lee en voz alta:`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, ...exProps });
+  EXERCISES_DB.push({ id: `listen_repeat_${index}`, category: item.category, type: 'speak', skill: 'Speaking', question: `Escucha y repite (Listen & Repeat):`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, autoPlayTTS: true, ...exProps });
+  EXERCISES_DB.push({ id: `speak_trans_${index}`, category: item.category, type: 'speak', skill: 'Speaking', question: `Traduce al inglés (Hablando):`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, isOralTranslation: true, ...exProps });
   
   let wordsArray = item.eng.split(' ');
   let isSingleWord = wordsArray.length === 1;
@@ -852,94 +1212,151 @@ ALL_DATA.forEach((item, index) => {
       EXERCISES_DB.push({ 
           id: `listen_${index}_${kbMode}`, 
           baseId: `listen_${index}`,
-          category: item.cat, type: 'listen_and_write', skill: 'Listening', 
+          category: item.category, type: 'listen_and_write', skill: 'Listening', 
           question: `Escucha y escribe:`, textToSpeak: item.eng, correctAnswer: item.eng, 
           emoji: item.emoji, spa: item.spa, eng: item.eng, 
           words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5), 
           isSingleWord,
           targetKeyboardMode: kbMode,
-          kbLevel: kbIndex
+          kbLevel: kbIndex,
+          ...exProps
       });
       EXERCISES_DB.push({ 
           id: `build_${index}_${kbMode}`, 
           baseId: `build_${index}`,
-          category: item.cat, type: 'build_sentence', skill: 'Writing', 
+          category: item.category, type: 'build_sentence', skill: 'Writing', 
           question: isSingleWord ? `Escribe la palabra: ${item.spa}` : `Arma la frase: ${item.spa}`, 
           words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5), 
           correctSentence: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, 
           isSingleWord,
           targetKeyboardMode: kbMode,
-          kbLevel: kbIndex
+          kbLevel: kbIndex,
+          ...exProps
       });
   });
 
   let wrongSpaOptions = pool.filter(other => other.spa !== item.spa).sort(() => 0.5 - Math.random()).slice(0, 3).map(other => other.spa);
   let readOptions = [item.spa, ...wrongSpaOptions].sort(() => 0.5 - Math.random());
-  EXERCISES_DB.push({ id: `quiz_read_${index}`, category: item.cat, type: 'quiz', skill: 'Reading', question: `¿Qué significa: "${item.eng}"?`, options: readOptions, correctAnswer: item.spa, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'es' });
+  EXERCISES_DB.push({ id: `quiz_read_${index}`, category: item.category, type: 'quiz', skill: 'Reading', question: `¿Qué significa: "${item.eng}"?`, options: readOptions, correctAnswer: item.spa, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'es', ...exProps });
 
   let wrongEngOptions = pool.filter(other => other.eng !== item.eng).sort(() => 0.5 - Math.random()).slice(0, 3).map(other => other.eng);
   let transOptions = [item.eng, ...wrongEngOptions].sort(() => 0.5 - Math.random());
-  EXERCISES_DB.push({ id: `trans_${index}`, category: item.cat, type: 'quiz', skill: 'Translate', question: `¿Cómo se dice en inglés?: "${item.spa}"`, options: transOptions, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'en' });
-  EXERCISES_DB.push({ id: `flashcard_${index}`, category: item.cat, type: 'flashcard', skill: 'Flashcards', question: `¿Cómo se dice en inglés?`, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5), isSingleWord });
+  EXERCISES_DB.push({ id: `trans_${index}`, category: item.category, type: 'quiz', skill: 'Translate', question: `¿Cómo se dice en inglés?: "${item.spa}"`, options: transOptions, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'en', ...exProps });
+  EXERCISES_DB.push({ id: `flashcard_${index}`, category: item.category, type: 'flashcard', skill: 'Flashcards', question: `¿Cómo se dice en inglés?`, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5), isSingleWord, ...exProps });
 
-  // Speed Speaking
+  // Speed Speaking merged into Speaking
   if (isSingleWord || wordsArray.length < 6) {
-      EXERCISES_DB.push({ id: `speedspeak_${index}`, category: item.cat, type: 'speed_speak', skill: 'Speed Speaking', question: `¡Ráfaga! Lee rápido:`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng });
+      EXERCISES_DB.push({ id: `speedspeak_${index}`, category: item.category, type: 'speak', skill: 'Speaking', question: `¡Ráfaga! Lee rápido:`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, ...exProps });
   }
 
+  // Dictado / Dictation
+  EXERCISES_DB.push({
+      id: `dictation_${index}`,
+      category: item.category,
+      type: 'dictation',
+      skill: 'Dictation',
+      question: `Escucha a la profesora y escribe la frase:`,
+      textToSpeak: item.eng,
+      correctAnswer: item.eng,
+      emoji: item.emoji,
+      spa: item.spa,
+      eng: item.eng,
+      words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5),
+      isSingleWord,
+      ...exProps
+  });
+
   // Visual Context
-  EXERCISES_DB.push({ id: `vis_speak_${index}`, category: item.cat, type: 'speak', skill: 'Visual', question: `Describe la imagen (Habla):`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, isVisual: true });
-  EXERCISES_DB.push({ id: `vis_listen_${index}`, category: item.cat, type: 'listen_and_write', skill: 'Visual', question: `Reconoce y escribe:`, textToSpeak: item.eng, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, isVisual: true, words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5), isSingleWord, targetKeyboardMode: 'virtual_word' });
-  EXERCISES_DB.push({ id: `vis_quiz_${index}`, category: item.cat, type: 'quiz', skill: 'Visual', question: `¿Qué representa la imagen?`, options: transOptions, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'en', isVisual: true });
+  EXERCISES_DB.push({ id: `vis_speak_${index}`, category: item.category, type: 'speak', skill: 'Visual', question: `Describe la imagen (Habla):`, textToRead: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, isVisual: true, ...exProps });
+  EXERCISES_DB.push({ id: `vis_listen_${index}`, category: item.category, type: 'listen_and_write', skill: 'Visual', question: `Reconoce y escribe:`, textToSpeak: item.eng, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, isVisual: true, words: (isSingleWord ? lettersArray : wordsArray).sort(() => Math.random() - 0.5), isSingleWord, targetKeyboardMode: 'virtual_word', ...exProps });
+  EXERCISES_DB.push({ id: `vis_quiz_${index}`, category: item.category, type: 'quiz', skill: 'Visual', question: `¿Qué representa la imagen?`, options: transOptions, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'en', isVisual: true, ...exProps });
 
   // Similar Choice
-  // Generar opciones confusas (misma longitud o empiezan con la misma letra)
   let similarPool = pool.filter(other => other.eng !== item.eng && (other.eng.length === item.eng.length || other.eng.charAt(0) === item.eng.charAt(0))).sort(() => 0.5 - Math.random());
   if (similarPool.length < 3) similarPool = pool.filter(other => other.eng !== item.eng).sort(() => 0.5 - Math.random()); // fallback
   let confuseOptions = [item.eng, ...similarPool.slice(0, 3).map(other => other.eng)].sort(() => 0.5 - Math.random());
-  EXERCISES_DB.push({ id: `sim_choice_${index}`, category: item.cat, type: 'quiz', skill: 'Similar', question: `Encuentra la correcta (Cuidado, son similares):`, options: confuseOptions, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'en' });
+  EXERCISES_DB.push({ id: `sim_choice_${index}`, category: item.category, type: 'quiz', skill: 'Similar', question: `Encuentra la correcta (Cuidado, son similares):`, options: confuseOptions, correctAnswer: item.eng, emoji: item.emoji, spa: item.spa, eng: item.eng, optionsLang: 'en', ...exProps });
 });
 
 // Generar ejercicios de Match por categoría
 const catMap: Record<string, any[]> = {};
 ALL_DATA.forEach(item => {
-    if (item.cat === 'Monster Inc - Book') return;
-    if (!catMap[item.cat]) catMap[item.cat] = [];
-    catMap[item.cat].push(item);
+    // Included Monster Inc - Book so that it also gets Match exercises
+    if (!catMap[item.category]) catMap[item.category] = [];
+    catMap[item.category].push(item);
 });
-Object.keys(catMap).forEach((cat, catIdx) => {
-    const items = catMap[cat];
+Object.keys(catMap).forEach((category, catIdx) => {
+    const items = catMap[category];
     for (let i = 0; i < items.length || (items.length > 0 && i === 0); i += 4) {
         let chunk = items.slice(i, i + 4);
         if (chunk.length < 3 && items.length > 0) {
-            const fillers = ALL_DATA.filter(other => other.cat !== cat).sort(() => Math.random() - 0.5);
+            const fillers = ALL_DATA.filter(other => other.category !== category).sort(() => Math.random() - 0.5);
             chunk = [...chunk, ...fillers.slice(0, 4 - chunk.length)];
         }
         if (chunk.length < 3) continue;
         const pairs = chunk.map(c => ({ eng: c.eng, spa: c.spa, id: c.eng }));
         EXERCISES_DB.push({
             id: `match_${catIdx}_${i}`,
-            category: cat,
+            category: category,
             type: 'match',
             skill: 'Match',
             question: 'Une correctamente:',
             pairs: pairs,
-            emoji: chunk[0]?.emoji || '🔮'
+            emoji: chunk[0]?.emoji || '🔮',
+            year: chunk[0]?.year || '2026',
+            source: chunk[0]?.source || 'Indefinido',
+            unit: chunk[0]?.unit || (chunk[0]?.source === 'Indefinido' ? 'Unidad Indefinida' : 'Unidad Indefinida')
         });
     }
 });
 
-// Cargar Ejercicios de Diálogos (Chats y Speaking)
-DIALOGUES_RAW.forEach((d) => {
-  ALL_DATA.push({ cat: 'Dialogues', eng: d.topic, spa: "Conversación en inglés", emoji: '💬' });
+// Cargar Ejercicios de Diálogos (Chats y Speaking unified containers)
+dialoguesSource.forEach((d) => {
   EXERCISES_DB.push({
-    id: `dchat_${d.id}`, category: 'Dialogues', type: 'dialogue_chat', skill: 'Conversation',
-    dialogue: d.dialogue, topic: d.topic, emoji: d.dialogue[0].emoji || '💬',
-    eng: d.dialogue.map((l: any) => l.eng).join(' '), spa: d.dialogue.map((l: any) => l.spa).join(' ')
+    id: `dchat_${d.id}`, category: d.category || 'Dialogues', type: 'dialogue_chat', skill: 'Conversation', dialogue: d.dialogue, emoji: d.dialogue[0]?.emoji || '💬',
+    eng: d.dialogue.map((l: any) => l.eng).join(' '), spa: d.dialogue.map((l: any) => l.spa).join(' '),
+    year: d.year || '2026', source: d.source || 'Indefinido', unit: d.unit || (d.source === 'Indefinido' ? 'Unidad Indefinida' : 'Unidad Indefinida')
   });
   EXERCISES_DB.push({
-    id: `dspeak_${d.id}`, category: 'Dialogues', type: 'dialogue_speak', skill: 'Conversation',
-    dialogue: d.dialogue, topic: d.topic, emoji: '🗣️',
-    eng: d.dialogue.map((l: any) => l.eng).join(' '), spa: d.dialogue.map((l: any) => l.spa).join(' ')
+    id: `dspeak_${d.id}`, category: d.category || 'Dialogues', type: 'dialogue_speak', skill: 'Conversation', dialogue: d.dialogue, emoji: '🗣️',
+    eng: d.dialogue.map((l: any) => l.eng).join(' '), spa: d.dialogue.map((l: any) => l.spa).join(' '),
+    year: d.year || '2026', source: d.source || 'Indefinido', unit: d.unit || (d.source === 'Indefinido' ? 'Unidad Indefinida' : 'Unidad Indefinida')
   });
 });
+
+
+// Asignar propiedades a todos para alinearlas
+let adCounter = 0;
+ALL_DATA.forEach(item => {
+  if (!item.id) { item.id = 'ad_' + adCounter++; }
+  if (!item.eng) item.eng = '';
+  if (!item.spa) item.spa = '';
+  if (!item.category) item.category = 'General';
+  if (!item.emoji) item.emoji = '✨';
+  if (!item.year) item.year = '2026';
+  if (!item.source) item.source = 'Indefinido';
+  if (!item.unit) item.unit = item.source === 'Indefinido' ? 'Unidad Indefinida' : 'Unidad Indefinida';
+  if (!item.type) item.type = 'Data';
+  if (!item.skill) item.skill = 'Vocabulary';
+});
+
+let exCounter = 0;
+EXERCISES_DB.forEach(ex => {
+  if (!ex.id) { ex.id = 'ex_' + exCounter++; }
+  if (!ex.eng) ex.eng = '';
+  if (!ex.spa) ex.spa = '';
+  if (!ex.category) ex.category = 'General';
+  if (!ex.emoji) ex.emoji = '✨';
+  if (!ex.year) ex.year = '2026';
+  if (!ex.source) ex.source = 'Indefinido';
+  if (!ex.unit) ex.unit = ex.source === 'Indefinido' ? 'Unidad Indefinida' : 'Unidad Indefinida';
+  if (!ex.type) ex.type = 'Exercise';
+  if (!ex.skill) ex.skill = 'Practice';
+});
+
+
+}
+
+// Initial database load
+rebuildDatabase();
+

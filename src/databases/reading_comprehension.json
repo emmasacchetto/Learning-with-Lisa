@@ -1,0 +1,148 @@
+[
+  {
+    "category": "Monsters - Before You Read",
+    "readingText": "Monstropolis is a city of monsters. The monsters work at Monsters, Inc. Sulley is a big, blue, furry monster. Mike is short and green with one big eye. Mr. Waternoose is a big, gray monster. He has five small eyes on his face.",
+    "emoji": "👁️",
+    "questions": [
+      {
+        "q": "What color is Sulley?",
+        "a": "Blue",
+        "options": [
+          "Blue",
+          "Green",
+          "Gray"
+        ]
+      },
+      {
+        "q": "How many eyes does Mr. Waternoose have?",
+        "a": "Five",
+        "options": [
+          "One",
+          "Five",
+          "Two"
+        ]
+      },
+      {
+        "q": "Is Mike tall and blue?",
+        "a": "No, he isn't.",
+        "options": [
+          "Yes, he is.",
+          "No, he isn't."
+        ]
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "category": "Monsters - After You Read",
+    "readingText": "Every night the monsters scare children. But the monsters are scared of the children. One day Sulley meets Boo. Sulley and Mike want to help her. But Mr. Waternoose and Randall take Boo. At the end, there is a new Monsters, Inc. The monsters are funny and laughs make power.",
+    "emoji": "🎬",
+    "questions": [
+      {
+        "q": "Is Randall a nice monster?",
+        "a": "No, he isn't.",
+        "options": [
+          "Yes, he is.",
+          "No, he isn't."
+        ]
+      },
+      {
+        "q": "What makes power at the new Monsters, Inc.?",
+        "a": "Laughs",
+        "options": [
+          "Screams",
+          "Laughs",
+          "Roars"
+        ]
+      },
+      {
+        "q": "Are the monsters scared of the children?",
+        "a": "Yes, they are.",
+        "options": [
+          "Yes, they are.",
+          "No, they aren't."
+        ]
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "category": "Scotland & UK",
+    "readingText": "Scotland is part of the United Kingdom with England, Wales and Northern Ireland. The population of Scotland is 5.5 million people. Edinburgh is the capital city of Scotland, but it's a small city. Glasgow is a very big city famous for its football teams. There are three official languages - English, Scots and Scottish Gaelic.",
+    "emoji": "🏴",
+    "questions": [
+      {
+        "q": "Is Scotland part of the United Kingdom?",
+        "a": "Yes, it is.",
+        "options": [
+          "Yes, it is.",
+          "No, it isn't."
+        ]
+      },
+      {
+        "q": "What is the capital city of Scotland?",
+        "a": "Edinburgh",
+        "options": [
+          "Edinburgh",
+          "Glasgow",
+          "London"
+        ]
+      },
+      {
+        "q": "Is Glasgow a small city?",
+        "a": "No, it isn't.",
+        "options": [
+          "Yes, it is.",
+          "No, it isn't."
+        ]
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  },
+  {
+    "category": "Lennon's Childhood Home",
+    "readingText": "251 Menlove Avenue in Liverpool is a very famous house. It is the childhood home of John Lennon. Downstairs, there is a living room and a kitchen. In the kitchen, there's a small cooker and a sink, but there isn't a fridge. There are two bedrooms upstairs. There isn't a toilet in the house, but there's an outdoor toilet in the garden!",
+    "emoji": "🎸",
+    "questions": [
+      {
+        "q": "Where is John Lennon's childhood home?",
+        "a": "In Liverpool",
+        "options": [
+          "In London",
+          "In Liverpool",
+          "In Edinburgh"
+        ]
+      },
+      {
+        "q": "Is there a fridge in the kitchen?",
+        "a": "No, there isn't.",
+        "options": [
+          "Yes, there is.",
+          "No, there isn't."
+        ]
+      },
+      {
+        "q": "Are there any bedrooms downstairs?",
+        "a": "No, there aren't.",
+        "options": [
+          "Yes, there are.",
+          "No, there aren't."
+        ]
+      },
+      {
+        "q": "Where is the toilet?",
+        "a": "In the garden",
+        "options": [
+          "Upstairs",
+          "Downstairs",
+          "In the garden"
+        ]
+      }
+    ],
+    "source": "Indefinido",
+    "unit": "Unidad Indefinida"
+  }
+]

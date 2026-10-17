@@ -16,7 +16,7 @@ export const addDiagLog = (msg: string) => {
   }
 };
 
-export const getEnglishVoice = (voices: SpeechSynthesisVoice[], selectedVoiceURI: string | null) => {
+export const getEnglishVoice = (voices: SpeechSynthesisVoice[], selectedVoiceURI: string | null, gender?: 'male' | 'female' | 'neutral') => {
   const synth = typeof window !== 'undefined' ? window.speechSynthesis : null;
   let vList = voices && voices.length > 0 ? voices : (synth ? synth.getVoices() : []);
   if (!vList || vList.length === 0) {
@@ -28,6 +28,25 @@ export const getEnglishVoice = (voices: SpeechSynthesisVoice[], selectedVoiceURI
     const lang = (v.lang || '').toLowerCase().replace('_', '-');
     return lang.startsWith('en-') || lang === 'en';
   });
+
+  const femaleNames = ['zira', 'hazel', 'samantha', 'victoria', 'karen', 'moira', 'tessa', 'fiona', 'veena', 'alice', 'amie', 'google us english female', 'female', 'girl', 'woman'];
+  const maleNames = ['david', 'mark', 'arthur', 'brian', 'daniel', 'alex', 'fred', 'oliver', 'rishi', 'google us english male', 'male', 'boy', 'man', 'guy'];
+
+  if (gender) {
+    const isTargetGender = (name: string) => {
+       const n = name.toLowerCase();
+       if (gender === 'female') return femaleNames.some(f => n.includes(f));
+       if (gender === 'male') return maleNames.some(m => n.includes(m));
+       return true;
+    };
+    
+    // Sort enVoices so that voices matching the target gender are at the front
+    enVoices.sort((a, b) => {
+        const aMatch = isTargetGender(a.name) ? 1 : 0;
+        const bMatch = isTargetGender(b.name) ? 1 : 0;
+        return bMatch - aMatch;
+    });
+  }
 
   addDiagLog(`getEnglishVoice: Se encontraron ${enVoices.length} voces de inglés de un total de ${vList.length}.`);
 
@@ -42,7 +61,6 @@ export const getEnglishVoice = (voices: SpeechSynthesisVoice[], selectedVoiceURI
   );
 
   const isIframe = typeof window !== 'undefined' && window.self !== window.top;
-  addDiagLog(`getEnglishVoice: Análisis de voces -> Locales (offline): ${localEn.length}, Remotas (online): ${remoteEn.length}. Running in iframe: ${isIframe}`);
 
   let prioritizedEn = enVoices;
   let usingLocalMode = false;
@@ -50,37 +68,41 @@ export const getEnglishVoice = (voices: SpeechSynthesisVoice[], selectedVoiceURI
   if (localEn.length > 0) {
     prioritizedEn = localEn;
     usingLocalMode = true;
-    addDiagLog("getEnglishVoice: Priorizando voces locales (offline) para máxima confiabilidad en iframe/sandbox.");
   }
 
   if (selectedVoiceURI) {
     let v = prioritizedEn.find(v => v.voiceURI === selectedVoiceURI);
     if (v) {
-      addDiagLog(`getEnglishVoice: Seleccionada por URI guardada (rango Priorizado): ${v.name} (${v.lang})`);
+      // If we requested a specific gender, and the saved URI doesn't match it well, we MIGHT want to ignore the URI, but let's respect URI over gender
       return v;
     } else {
-      // If voice is saved but is not in prioritized range due to forced local preference
-      if (usingLocalMode && localEn.length > 0) {
-        addDiagLog(`getEnglishVoice Advertencia: La voz guardada "${selectedVoiceURI}" es remota/Google. Redirigiendo a voz Local offline segura para evitar audio mudo.`);
-      } else {
-        v = enVoices.find(v => v.voiceURI === selectedVoiceURI);
-        if (v) {
-          addDiagLog(`getEnglishVoice: Seleccionada por URI guardada (rango Fallback): ${v.name}`);
-          return v;
-        }
-      }
+      v = enVoices.find(v => v.voiceURI === selectedVoiceURI);
+      if (v) return v;
     }
   }
   
+  // If we have a gender preference, the list is already sorted to have those matches first.
+  // We can just try to pick the first one from prioritizedEn that matches the gender, or fallback to Apple/Microsoft specific ones.
+  if (gender) {
+     const isTargetGender = (name: string) => {
+        const n = name.toLowerCase();
+        if (gender === 'female') return femaleNames.some(f => n.includes(f));
+        if (gender === 'male') return maleNames.some(m => n.includes(m));
+        return true;
+     };
+     const genderMatch = prioritizedEn.find(v => isTargetGender(v.name));
+     if (genderMatch) return genderMatch;
+     const fallbackGenderMatch = enVoices.find(v => isTargetGender(v.name));
+     if (fallbackGenderMatch) return fallbackGenderMatch;
+  }
+
   const samEn = prioritizedEn.find(v => v.name.toLowerCase().includes('samantha') || v.name.toLowerCase().includes('alex') || v.name.toLowerCase().includes('daniel'));
   if (samEn) {
-    addDiagLog(`getEnglishVoice: Seleccionada local de Apple/iOS: ${samEn.name}`);
     return samEn;
   }
 
   const msEn = prioritizedEn.find(v => v.name.toLowerCase().includes('zira') || v.name.toLowerCase().includes('david') || v.name.toLowerCase().includes('hazel'));
   if (msEn) {
-    addDiagLog(`getEnglishVoice: Seleccionada local de Windows/Microsoft: ${msEn.name}`);
     return msEn;
   }
 
@@ -89,19 +111,15 @@ export const getEnglishVoice = (voices: SpeechSynthesisVoice[], selectedVoiceURI
     return l === 'en-us';
   });
   if (enUsLocal) {
-    addDiagLog(`getEnglishVoice: Seleccionada local US genérica: ${enUsLocal.name}`);
     return enUsLocal;
   }
 
   if (prioritizedEn.length > 0) {
-    const chosen = prioritizedEn[0];
-    addDiagLog(`getEnglishVoice: Seleccionada primera de lista priorizada: ${chosen.name} (${chosen.lang})`);
-    return chosen;
+    return prioritizedEn[0];
   }
 
   const googleEn = enVoices.find(v => v.name.toLowerCase().includes('google us english'));
   if (googleEn) {
-    addDiagLog(`getEnglishVoice: Fallback a voz remota Google US English: ${googleEn.name}`);
     return googleEn;
   }
   
@@ -110,15 +128,8 @@ export const getEnglishVoice = (voices: SpeechSynthesisVoice[], selectedVoiceURI
     return l === 'en-us' || l === 'en-gb';
   });
   
-  const chosen = nativeEn || enVoices[0] || null;
-  if (chosen) {
-    addDiagLog(`getEnglishVoice: Fallback final de lista general seleccionada: ${chosen.name} (${chosen.lang})`);
-  } else {
-    addDiagLog(`getEnglishVoice: No se pudo emparejar ninguna voz de inglés.`);
-  }
-  return chosen;
+  return nativeEn || enVoices[0] || null;
 };
-
 export const getSpanishVoice = (voices: SpeechSynthesisVoice[]) => {
   const synth = typeof window !== 'undefined' ? window.speechSynthesis : null;
   let vList = voices && voices.length > 0 ? voices : (synth ? synth.getVoices() : []);
@@ -247,21 +258,18 @@ const speakUtterance = (req: TTSRequest): Promise<void> => {
         (window as any)._tts_keepalive_interval = null;
       }
       (window as any)._tts_keepalive = null;
-      addDiagLog(`speakUtterance: Terminado (${evtName}) para: "${req.text.substring(0, 20)}...". ${extraLog}`);
       resolve();
       req.resolve();
     };
 
     try {
       const freshVoices = synth.getVoices();
-      addDiagLog(`speakUtterance: GetVoices() reportó ${freshVoices.length} voces disponibles.`);
       
       const utt = new SpeechSynthesisUtterance(req.text);
 
       let finalLang = req.lang;
       if (req.lang === 'auto') {
         finalLang = detectLanguage(req.text);
-        addDiagLog(`speakUtterance: Idioma 'auto' resuelto a: ${finalLang}`);
       }
 
       let voice = null;
@@ -274,20 +282,14 @@ const speakUtterance = (req: TTSRequest): Promise<void> => {
       if (voice) {
         utt.voice = voice;
         utt.lang = voice.lang;
-        addDiagLog(`speakUtterance: Configurada voz: "${voice.name}" | IDIdioma: ${voice.lang}`);
       } else {
         utt.lang = finalLang === 'en' ? 'en-US' : 'es-ES';
-        addDiagLog(`speakUtterance Advertencia: Usando lang fallback: ${utt.lang}`);
       }
 
       utt.rate = req.rate;
       if (req.onBoundary) {
         utt.onboundary = req.onBoundary;
       }
-
-      utt.onstart = () => {
-        addDiagLog(`speakUtterance Event: Habla INICIADA con éxito para "${req.text.substring(0, 30)}..."`);
-      };
 
       utt.onend = () => {
         complete('onend');
@@ -299,21 +301,17 @@ const speakUtterance = (req: TTSRequest): Promise<void> => {
 
       (window as any)._tts_keepalive = utt;
 
-      // Calculate reasonable timeout to catch stuck speech
       const durationSeconds = Math.max(5, req.text.length * 0.12);
       fallbackTimeout = setTimeout(() => {
-        addDiagLog(`speakUtterance: Alerta, timeout de seguridad de ${durationSeconds.toFixed(1)}s alcanzado. Forzando resolución.`);
         complete('timeout');
       }, durationSeconds * 1000);
 
       if (synth.paused) {
-        addDiagLog("speakUtterance: El sintetizador estaba pausado globalmente, reactivando con resume().");
         synth.resume();
       }
 
       synth.speak(utt);
 
-      // Webkit keepalive resume workaround - self cleaning interval
       const kInterval = setInterval(() => {
         if (synth.speaking) {
           synth.resume();
@@ -327,7 +325,6 @@ const speakUtterance = (req: TTSRequest): Promise<void> => {
       (window as any)._tts_keepalive_interval = kInterval;
 
     } catch (e: any) {
-      addDiagLog(`speakUtterance Error Crítico al reproducir: ${e?.message || e}`);
       complete('catch');
     }
   });
@@ -342,10 +339,8 @@ const processTTSQueue = async () => {
     try {
       await speakUtterance(current);
     } catch (e) {
-      addDiagLog(`processTTSQueue loop error: ${e}`);
     }
     
-    // Safety check: only shift if the queue hasn't been completely cleared or mutated
     if (ttsQueue.length > 0 && ttsQueue[0] === current) {
       ttsQueue.shift();
     } else {
@@ -356,32 +351,44 @@ const processTTSQueue = async () => {
   isProcessingTTS = false;
 };
 
-export const playTTS = (text: string, lang = 'auto', selectedVoiceURI: string | null = null, rate = 0.9, cancelPrevious = true, onBoundary: any = null) => {
+
+const inferGender = (text: string): 'male' | 'female' | 'neutral' => {
+  if (!text) return 'neutral';
+  const t = text.toLowerCase();
+  
+  // Female indicators
+  if (t.includes('she is') || t.includes('she\'s') || t.includes('her ') || t.match(/\b(lisa|anna|samantha|maria|lucy|adela|tilly|agnes|emma)\b/)) {
+     return 'female';
+  }
+  
+  // Male indicators
+  if (t.includes('he is') || t.includes('he\'s') || t.includes('his ') || t.match(/\b(tom|martin|raul|jeremy|david|mark|john)\b/)) {
+     return 'male';
+  }
+  
+  return 'neutral';
+};
+export const playTTS = (text: string, lang = 'auto', selectedVoiceURI: string | null = null, rate = 0.9, cancelPrevious = true, onBoundary: any = null, gender?: 'male' | 'female' | 'neutral') => {
   return new Promise<void>((resolve) => {
     if (!text) { 
       resolve(); 
       return; 
     }
-    
-    addDiagLog(`playTTS: Solicitud de reproducción de texto: "${text.substring(0, 40)}${text.length > 40 ? '...' : ''}" | cancelPrevious: ${cancelPrevious}`);
 
     const synth = typeof window !== 'undefined' ? window.speechSynthesis : null;
     if (!synth) {
-      addDiagLog("playTTS Error: window.speechSynthesis NO es soportado.");
       resolve();
       return;
     }
 
     if (cancelPrevious) {
       ttsQueue = [];
-      isProcessingTTS = false; // Reset processing flag so we don't lock up if the previous speech gets stuck
+      isProcessingTTS = false;
       try {
         if (synth.speaking || synth.pending) {
-          addDiagLog("playTTS: Cancelando reproducción activa anterior/actual por 'cancelPrevious=true'...");
           synth.cancel();
         }
       } catch (err: any) {
-        addDiagLog(`playTTS: Error al cancelar reproducción anterior: ${err}`);
       }
     }
 
@@ -396,15 +403,13 @@ export const playTTS = (text: string, lang = 'auto', selectedVoiceURI: string | 
 
     ttsQueue.push(req);
 
-    // Let any async cancel settle, then run the queue.
-    // If we cancelled, wait 100ms so the browser registers the cancel.
     setTimeout(() => {
       processTTSQueue();
     }, cancelPrevious ? 100 : 10);
   });
 };
 
-export const translateWord = (word: string) => {
+export const translateWord = (word: string) => { if (!word) return null;
   const clean = word.toLowerCase().replace(/[.,!¿?¡:;"'()]/g, '');
   let match = VOCABULARY_DATABASE.find((v: any) => v.eng.toLowerCase() === clean);
   if (match) return { sourceLang: 'en', eng: match.eng, spa: match.spa };
